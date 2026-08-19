@@ -1,59 +1,52 @@
 const fs = require('fs');
 const path = require('path');
 
-const QUESTIONS_PATH = path.join(__dirname, '..', 'src', 'data', 'questions.json');
 const FLASH_PATH = path.join(__dirname, '..', 'data', 'flashcards.json');
 
 function loadJson(p) {
   try {
-    const raw = fs.readFileSync(p, 'utf8');
-    return JSON.parse(raw);
+    return JSON.parse(fs.readFileSync(p, 'utf8'));
   } catch (err) {
-    return null;
+    console.error('Could not read', p, err.message);
+    process.exit(2);
   }
-}
-
-function saveJson(p, data) {
-  fs.writeFileSync(p, JSON.stringify(data, null, 2) + '\n', 'utf8');
-}
-
-function questionToFlashcard(q) {
-  const optionsText = q.options.map(o => `${o.key}: ${o.text}`).join(' | ');
-  const front = q.question_text.replace(/\s+/g, ' ').trim();
-  const back = `${q.explanation}\n\nOptions: ${optionsText}`;
-
-  return {
-    id: `fc-${q.id}`,
-    course: q.course,
-    topic: q.topic,
-    front,
-    back,
-    tags: q.tags || [],
-  };
 }
 
 function main() {
-  const questions = loadJson(QUESTIONS_PATH);
-  if (!questions) {
-    console.error('Could not read questions.json');
-    process.exit(2);
+  const cards = loadJson(FLASH_PATH);
+  if (!Array.isArray(cards)) {
+    console.error('flashcards.json is not an array');
+    process.exit(1);
   }
 
-  const existing = loadJson(FLASH_PATH) || [];
-  const existingIds = new Set(existing.map(f => f.id));
+  const errors = [];
+  const seen = new Set();
 
-  const generated = [];
-  for (const q of questions) {
-    const fc = questionToFlashcard(q);
-    if (!existingIds.has(fc.id)) {
-      generated.push(fc);
+  for (const card of cards) {
+    if (!card.id) errors.push('missing id');
+    if (seen.has(card.id)) errors.push(`duplicate id: ${card.id}`);
+    seen.add(card.id);
+
+    if (!card.course) errors.push(`${card.id}: missing course`);
+    if (!card.topic) errors.push(`${card.id}: missing topic`);
+    if (!card.front || typeof card.front !== 'string') {
+      errors.push(`${card.id}: missing front`);
+    }
+    if (!card.back || typeof card.back !== 'string') {
+      errors.push(`${card.id}: missing back`);
+    }
+    if (card.back && /Options: A:/.test(card.back)) {
+      errors.push(`${card.id}: back contains option list - this is a question card, not a flashcard`);
     }
   }
 
-  const merged = existing.concat(generated);
-  saveJson(FLASH_PATH, merged);
+  if (errors.length > 0) {
+    console.error('flashcards.json has issues:');
+    for (const e of errors) console.error('  - ' + e);
+    process.exit(1);
+  }
 
-  console.log(`Generated ${generated.length} new flashcards. Total now: ${merged.length}`);
+  console.log(`flashcards.json OK (${cards.length} curated card${cards.length === 1 ? '' : 's'}).`);
 }
 
 if (require.main === module) main();

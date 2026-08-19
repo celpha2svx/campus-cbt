@@ -1,10 +1,14 @@
 import { Suspense } from "react";
-import StudySession from "./StudySession";
+import StudyQuestionView from "./StudyQuestionView";
 
-export default function StudyPage() {
+export default function StudyQuestionPage({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
   return (
     <Suspense fallback={<Loading />}>
-      <StudySession />
+      <StudyQuestionView params={params} />
     </Suspense>
   );
 }
@@ -13,7 +17,7 @@ function Loading() {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <p className="font-mono text-xs text-ink-soft uppercase tracking-wide">
-        Loading questions…
+        Loading question...
       </p>
     </div>
   );

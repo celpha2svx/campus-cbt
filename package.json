@@ -9,7 +9,9 @@
     "lint": "eslint",
     "typecheck": "tsc --noEmit",
     "check:data": "node scripts/check_data.js",
-    "verify": "npm run lint && npm run typecheck && npm run check:data && npm run build",
+    "check:flashcards": "node scripts/generate_flashcards_from_questions.js",
+    "generate:revisions": "node scripts/generate_revision_cards.js",
+    "verify": "npm run lint && npm run typecheck && npm run check:data && npm run check:flashcards && npm run build",
     "generate:flashcards": "node scripts/generate_flashcards_from_questions.js",
     "generate:revisions": "node scripts/generate_revision_cards.js"
   },

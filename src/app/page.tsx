@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, BookMarked, BrainCircuit, ClipboardList, Layers } from "lucide-react";
+import { ArrowRight, BookMarked, ClipboardList, Play } from "lucide-react";
 import { getCourseSummaries } from "@/lib/courses";
 
 export default function HomePage() {
@@ -8,45 +8,37 @@ export default function HomePage() {
   const totalQuestions = liveCourses.reduce((sum, c) => sum + c.verifiedCount, 0);
 
   return (
-    <main className="min-h-screen">
+    <main className="min-h-screen flex flex-col">
       <header className="border-b border-line">
         <div className="max-w-xl mx-auto px-5 py-4 flex items-center justify-between">
           <span className="font-mono text-xs font-bold tracking-widest uppercase">
             Campus<span className="text-gold">.</span>CBT
           </span>
-          <span className="font-mono text-[10px] text-ink-soft uppercase tracking-wide">
-            Practice. Improve. Excel.
+          <span className="font-mono text-[10px] text-gold uppercase tracking-widest font-semibold">
+            CBT Prep Made Easy
           </span>
         </div>
       </header>
 
       <section className="max-w-xl mx-auto px-5 pt-12 pb-10">
-        <p className="font-mono text-xs text-gold font-semibold tracking-widest uppercase mb-3">
-          Past questions. Real explanations.
-        </p>
-        <h1 className="font-serif text-3xl sm:text-4xl font-medium leading-tight mb-4">
-          Practice the questions you&apos;ll actually sit.
+        <h1 className="font-serif text-3xl sm:text-4xl font-medium leading-tight mb-3">
+          Practice smart. Pass easily.
         </h1>
         <p className="text-ink-soft leading-relaxed mb-8">
-          Pick a course. Study the material, drill past questions, then come back to the
-          ones you missed. Everything you do stays on this device.
+          Pick a course, drill real past questions, and focus on the ones you
+          miss.
         </p>
 
-        <div className="grid grid-cols-3 gap-3 mb-10">
+        <div className="grid grid-cols-2 gap-3 mb-10">
           <SummaryStat
-            icon={<Layers size={16} />}
+            icon={<Play size={16} />}
             value={liveCourses.length}
-            label="Live courses"
+            label={pluralize(liveCourses.length, "Live course", "Live courses")}
           />
           <SummaryStat
             icon={<ClipboardList size={16} />}
             value={totalQuestions}
-            label="Verified questions"
-          />
-          <SummaryStat
-            icon={<BrainCircuit size={16} />}
-            value={liveCourses.length * 2}
-            label="Modes per course"
+            label={pluralize(totalQuestions, "Verified question", "Verified questions")}
           />
         </div>
 
@@ -74,7 +66,9 @@ export default function HomePage() {
               </div>
 
               <div className="px-4 pt-4 pb-4">
-                <h3 className="font-serif text-lg font-medium mb-1">{course.fullName}</h3>
+                <h3 className="font-serif text-lg font-medium mb-1">
+                  {course.fullName}
+                </h3>
                 <p className="text-sm text-ink-soft leading-relaxed mb-4">
                   {course.description}
                 </p>
@@ -92,20 +86,6 @@ export default function HomePage() {
                       className="text-center font-mono text-xs font-semibold uppercase tracking-wide border border-ink text-ink py-2.5 rounded-sm hover:bg-paper-alt transition-colors"
                     >
                       Practice Mode
-                    </Link>
-                    <Link
-                      href={`/topics?course=${course.id}`}
-                      className="inline-flex items-center justify-center gap-1.5 font-mono text-xs font-semibold uppercase tracking-wide border border-line text-ink py-2.5 rounded-sm hover:border-ink-soft transition-colors"
-                    >
-                      <Layers size={13} />
-                      Topics
-                    </Link>
-                    <Link
-                      href={`/flashcards?course=${course.id}`}
-                      className="inline-flex items-center justify-center gap-1.5 font-mono text-xs font-semibold uppercase tracking-wide border border-line text-ink py-2.5 rounded-sm hover:border-ink-soft transition-colors"
-                    >
-                      <BrainCircuit size={13} />
-                      Flashcards
                     </Link>
                     <Link
                       href={`/review?course=${course.id}`}
@@ -130,10 +110,30 @@ export default function HomePage() {
         </div>
       </section>
 
-      <footer className="max-w-xl mx-auto px-5 pb-10">
-        <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft">
-          Progress is stored locally on this device. No account required.
-        </p>
+      <footer className="max-w-xl mx-auto px-5 pb-10 mt-auto">
+        <p className="font-serif text-sm text-ink mb-3">The Luminaries class.</p>
+        <div className="border-t border-line pt-4">
+          <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft mb-1">
+            Correction or feedback
+          </p>
+          <p className="text-sm text-ink">
+            WhatsApp:{" "}
+            <a
+              href="https://wa.me/2348072517875"
+              className="underline underline-offset-2"
+            >
+              08072517875
+            </a>
+            <span className="mx-2 text-line">·</span>
+            Email:{" "}
+            <a
+              href="mailto:afeezademuyiwa40@gmail.com"
+              className="underline underline-offset-2"
+            >
+              afeezademuyiwa40@gmail.com
+            </a>
+          </p>
+        </div>
       </footer>
     </main>
   );
@@ -157,4 +157,8 @@ function SummaryStat({
       </p>
     </div>
   );
+}
+
+function pluralize(count: number, singular: string, plural: string) {
+  return count === 1 ? singular : plural;
 }

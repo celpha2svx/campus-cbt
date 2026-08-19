@@ -55,6 +55,7 @@ export function PracticeSession() {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const [remainingSeconds, setRemainingSeconds] = useState(durationMinutes * 60);
   const [sessionRecorded, setSessionRecorded] = useState(false);
+  const [showReview, setShowReview] = useState(false);
   const progress = useProgressMap();
 
   const current = questions[index];
@@ -314,34 +315,36 @@ export function PracticeSession() {
               <RotateCcw size={15} />
               New setup
             </button>
-            <a
-              href="#answer-review"
+            <button
+              onClick={() => setShowReview((s) => !s)}
               className="flex-1 inline-flex items-center justify-center gap-2 bg-ink text-paper py-2.5 rounded-sm font-mono text-xs font-semibold uppercase tracking-wide hover:bg-ink-soft transition-colors"
             >
               <ListChecks size={15} />
-              Review
-            </a>
+              {showReview ? "Hide review" : "Review answers"}
+            </button>
           </div>
 
-          <div id="answer-review" className="mt-8 space-y-5">
-            {questions.map((question, questionIndex) => (
-              <QuestionCard
-                key={question.id}
-                question={question}
-                questionNumber={questionIndex + 1}
-                totalQuestions={questions.length}
-                selectedKey={answers[question.id] || null}
-                revealed={true}
-                onSelect={() => undefined}
-                bookmarked={Boolean(progress[question.id]?.bookmarked)}
-                needsReview={Boolean(progress[question.id]?.needs_review)}
-                onToggleBookmark={() => toggleBookmark(question.id)}
-                onToggleReview={() =>
-                  setNeedsReview(question.id, !progress[question.id]?.needs_review)
-                }
-              />
-            ))}
-          </div>
+          {showReview && (
+            <div className="mt-8 space-y-5">
+              {questions.map((question, questionIndex) => (
+                <QuestionCard
+                  key={question.id}
+                  question={question}
+                  questionNumber={questionIndex + 1}
+                  totalQuestions={questions.length}
+                  selectedKey={answers[question.id] || null}
+                  revealed={true}
+                  onSelect={() => undefined}
+                  bookmarked={Boolean(progress[question.id]?.bookmarked)}
+                  needsReview={Boolean(progress[question.id]?.needs_review)}
+                  onToggleBookmark={() => toggleBookmark(question.id)}
+                  onToggleReview={() =>
+                    setNeedsReview(question.id, !progress[question.id]?.needs_review)
+                  }
+                />
+              ))}
+            </div>
+          )}
         </section>
       </main>
     );

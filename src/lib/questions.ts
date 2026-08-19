@@ -63,3 +63,7 @@ export function getSubTopics(topic: string): string[] {
     new Set(allQuestions.filter((q) => q.topic === topic).map((q) => q.sub_topic))
   );
 }
+
+export function getQuestionById(id: string): Question | undefined {
+  return allQuestions.find((q) => q.id === id);
+}
