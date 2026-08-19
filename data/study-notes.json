@@ -1,34 +1,295 @@
 [
   {
-    "id": "sn-soc202-intro-1",
+    "id": "sn-soc202-csr-variable",
     "course": "SOC202",
-    "topic": "Introduction",
-    "title": "What is Sociology?",
-    "content": "Sociology is the study of society, social relationships, and social institutions. It examines patterns of social behavior and the forces that shape them.",
-    "tags": ["definition", "overview"]
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Variable (Independent, Dependent, Intervening)",
+    "title": "Variable",
+    "content": "A dimension along which an object, individual or group may be categorized, such as income, height or weight.\n\n- Independent Variable: the causal factor in a cause-and-effect relationship. Sometimes treated as the constant for the problem at hand.\n- Dependent Variable: the effect; determined by other variables. In sociology usually a form of human action (attitude or behaviour).\n- Intervening Variable: a test factor introduced to see whether it produces the dependent variable through its interaction with the independent factor. Not directly seen or controlled.",
+    "tags": ["concepts", "variables"]
   },
   {
-    "id": "sn-soc202-welfare-1",
+    "id": "sn-soc202-csr-case-study",
     "course": "SOC202",
-    "topic": "Social Problems and Welfare",
-    "title": "Social Welfare (summary)",
-    "content": "Welfare refers to the general state of health, well-being and happiness in a society. Approaches include universal, means-tested, and solidaristic welfare systems.",
-    "tags": ["social-welfare", "summary"]
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Case Study",
+    "title": "Case Study",
+    "content": "The study of a single instance of a phenomenon — for its own sake (e.g. a particular person or strike). A research design that takes as its subject a single case or a few selected examples of a social entity — communities, social groups, employers, events, life-histories, families, work teams, roles or relationships — and uses a variety of methods to study them.",
+    "tags": ["concepts", "case-study"]
   },
   {
-    "id": "sn-soc202-methods-1",
+    "id": "sn-soc202-csr-respondent",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Respondent",
+    "title": "Respondent",
+    "content": "A research subject — the person from whom the researcher wants to elicit information. A respondent answers a questionnaire or a request for information of some kind.",
+    "tags": ["concepts", "respondent"]
+  },
+  {
+    "id": "sn-soc202-csr-questionnaire",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Questionnaire",
+    "title": "Questionnaire",
+    "content": "A form containing questions administered to a number of people mainly to obtain information and record opinions.\n\nSociologists use questionnaires to:\n(a) examine the general characteristics of a population (age, sex, occupation, income, etc.)\n(b) examine attitudes\n(c) establish the relationship between two variables (e.g. religion and family size)\n(d) test theories.",
+    "tags": ["concepts", "questionnaire"]
+  },
+  {
+    "id": "sn-soc202-csr-interview",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Interview",
+    "title": "Interview",
+    "content": "A method of collecting social data at the individual level. This face-to-face method ensures a higher response rate than postal questionnaires, but can introduce interviewer bias — different interviewers affect the quality, validity and reliability of the data collected.",
+    "tags": ["concepts", "interview"]
+  },
+  {
+    "id": "sn-soc202-csr-survey",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Survey",
+    "title": "Survey",
+    "content": "A method of sociological research involving the administration of questionnaires to a population being studied.",
+    "tags": ["concepts", "survey"]
+  },
+  {
+    "id": "sn-soc202-csr-sampling",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Sampling",
+    "title": "Sampling",
+    "content": "Taking a proportion of individuals or cases from a larger population, studied as representative of that population as a whole. A method for collecting information and drawing inferences about a larger population from the analysis of only a part of it.",
+    "tags": ["concepts", "sampling"]
+  },
+  {
+    "id": "sn-soc202-csr-reliability-validity",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Reliability & Validity",
+    "title": "Reliability & Validity",
+    "content": "Reliability: the dependability of data collected, or of the test or measurement used to collect it. A reliable measure gives the same results if the same individuals are measured on more than one occasion.\n\nValidity: the extent to which a measure, indicator, or method of data collection possesses the quality of being sound or true as far as can be judged.",
+    "tags": ["concepts", "reliability", "validity"]
+  },
+  {
+    "id": "sn-soc202-csr-hypothesis",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Hypothesis",
+    "title": "Hypothesis",
+    "content": "An idea, or a guess, about a given state of affairs, put forward as a basis of empirical testing.",
+    "tags": ["concepts", "hypothesis"]
+  },
+  {
+    "id": "sn-soc202-csr-triangulation",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Triangulation",
+    "title": "Triangulation",
+    "content": "The use of multiple research methods as a way of producing more reliable empirical data than is available from any single method used in isolation.",
+    "tags": ["concepts", "triangulation"]
+  },
+  {
+    "id": "sn-soc202-csr-research-design",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Research Design",
+    "title": "Research Design",
+    "content": "The explicit procedures used in collecting empirical data. A strategic plan for a research project or programme — setting out the broad outline and key features of the work, including the methods of data collection and analysis, and showing how the strategy addresses the specific aims and objectives of the study, and whether the issues are theoretical or policy-oriented.",
+    "tags": ["concepts", "research-design"]
+  },
+  {
+    "id": "sn-soc202-csr-objectivity-subjectivity",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Objectivity vs Subjectivity",
+    "title": "Objectivity vs Subjectivity",
+    "content": "Objectivity: accounts of the external world held to represent the world as it exists independently of our conceptions. Knowledge claimed to meet criteria of validity and reliability, and held to be free from bias.\n\nSubjectivity: the perspective of the person (subject); lack of objectivity. Often used pejoratively within positivist sociology to derogate biased observation or methodology.",
+    "tags": ["concepts", "objectivity", "subjectivity"]
+  },
+  {
+    "id": "sn-soc202-csr-qualitative-quantitative",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Qualitative vs Quantitative data/techniques",
+    "title": "Qualitative vs Quantitative data",
+    "content": "Qualitative data: not in numerical form. Descriptive accounts of observations, interviews, or written material.\n\nQuantitative data: in numerical form. Obtained through enumeration and measurement. Data may be collected directly in quantitative form, or data originally in qualitative form may be quantified.",
+    "tags": ["concepts", "qualitative", "quantitative"]
+  },
+  {
+    "id": "sn-soc202-csr-other-key",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Other key concepts (Coding, Content Analysis, Response Rate, etc.)",
+    "title": "Other key concepts",
+    "content": "Correlation: the association between two variables such that when one changes in magnitude the other does also. Positive (both rise together) or negative (inverse).\n\nEmpiricism: an orientation to research emphasizing collection of facts and observations at the expense of conceptual reflection.\n\nTabulation: arrangement of information in lists and columns.\n\nPercentages: a fraction expressed as a particular number of hundredths.\n\nResearch: a systematized effort to acquire new knowledge.\n\nSocial Research: a systematic method of exploring, analyzing and conceptualizing social life to extend, correct, or verify knowledge.\n\nScience: the application of systematic methods of research and careful logical analysis to the study of objects, events or people.\n\nResearch Ethics: application of moral rules and professional codes of conduct to the collection, analysis, reporting, and publication of information about research subjects.\n\nResponse Rate: the percentage of an eligible random sample that agrees to participate in an interview survey.\n\nReplication: repetition of the same basic study or experiment to check its accuracy or to estimate experimental error.\n\nSample: a part of a population observed for the purpose of making scientific statements about the population.\n\nCoding: a research procedure in which the data collected are prepared for counting and tabulation by classification and codification.\n\nContent Analysis: a research technique used to describe and analyze objectively, systematically and quantitatively the content of written, spoken or pictorial communications.\n\nData: information collected from observation or measurement from which generalizations or conclusions are developed.\n\nQuantification: the process of transforming natural and social dynamics into number systems.\n\nAnalysis: a stage in the scientific method in which the data collected are systematically assessed to determine what has been discovered.",
+    "tags": ["concepts", "definitions"]
+  },
+
+  {
+    "id": "sn-soc202-mrt-positivism",
     "course": "SOC202",
     "topic": "Methods and Research Techniques",
-    "title": "Positivism vs Interpretivism",
-    "content": "Positivism argues sociology should use methods like the natural sciences. Interpretivism (Verstehen) emphasizes understanding social action from the actor's perspective.",
-    "tags": ["research-methods", "positivism", "interpretivism"]
+    "sub_topic": "Positivism / Scientific Method",
+    "title": "Positivism / Scientific Method",
+    "content": "Popularly associated with Auguste Comte. The dominant orientation in sociological analysis today.\n\nIt treats social phenomena as a reality existing independently of how the observer acquires information about them. Researchers use procedures of the natural sciences to collect and analyze data, phrasing analysis in terms of variables and using statistics to establish relationships and express findings in causal explanations.\n\nReality is constituted of phenomena causally linked to one another; what's 'real' is demonstrated by empirical evidence. The method has three stages:\n(i) discovery\n(ii) validation\n(iii) explanation.",
+    "tags": ["methods", "positivism"]
   },
   {
-    "id": "sn-soc202-theory-1",
+    "id": "sn-soc202-mrt-interpretive",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Interpretive / Humanistic Method (Verstehen)",
+    "title": "Interpretive / Humanistic Method (Verstehen)",
+    "content": "Relies on subjective analysis — intuition, speculation, impression, insight and common sense. The observer directly understands phenomena as wholes and interprets to bring out their wider and deeper significance.\n\nAccording to Max Weber, sociology should develop the method of 'interpretative understanding' — Verstehen — for studying human behaviour. The humanistic orientation chiefly describes, usually in highly subjective terms, behavioural phenomena.",
+    "tags": ["methods", "interpretive", "verstehen", "weber"]
+  },
+  {
+    "id": "sn-soc202-mrt-social-survey",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Social Survey",
+    "title": "Social Survey",
+    "content": "A systematic collection of facts about people living in a specific geographic, cultural, or administrative area. Social survey observes a sample of social particulars from which generalizations about the entire universe of particulars can be made.\n\nIn surveys, carefully selected people answer the same questions so the replies of different categories of respondent can be examined for differences. Survey research and opinion polling measure behaviour in terms of attitudes, values, opinions, beliefs and customary practices. Survey research is either cross-sectional or longitudinal. Principal tools: interview and questionnaire.",
+    "tags": ["methods", "survey"]
+  },
+  {
+    "id": "sn-soc202-mrt-observation",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation (Participant & Non-participant)",
+    "title": "Observation",
+    "content": "The most primitive and most sophisticated research technique. Fundamentally the use of one's senses — seeing, feeling, tasting, touching, smelling — to record information.\n\nTwo major categories:\n- Simple observation: casual and informal; no standardization of techniques, no control over variables.\n- Systematic observation: formal and precise; controls on both observer and phenomenon, often using instruments.\n\nTwo role-based types:\n- Participant observation: the observer plays an active role in the behaviour being studied; expected to give greater depth from personal experience in the natural setting.\n- Non-participant observation: the observer takes a totally passive and non-involved part.",
+    "tags": ["methods", "observation"]
+  },
+  {
+    "id": "sn-soc202-mrt-experimentation",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Experimentation",
+    "title": "Experimentation",
+    "content": "Provides a reliable way of studying the relationship between two variables under carefully controlled conditions.\n\nThe experiment manipulates social phenomena or situations to measure their effect in selected respects. Three principal variables:\n1. Dependent variable\n2. Independent variable\n3. Intervening variable\n\nTwo types:\n- Field research: conducted in the true context of the behaviour under study.\n- Laboratory research: conducted in somewhat artificial confines of a laboratory.",
+    "tags": ["methods", "experimentation"]
+  },
+  {
+    "id": "sn-soc202-mrt-other-methods",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other methods (Content Analysis, Historical Research, Fieldwork, Focus Group, etc.)",
+    "title": "Other methods",
+    "content": "Hypothetico-deductive method: theories from existing perspectives (Marxism, functionalism, conflict, consensus) generate hypotheses tested against evidence.\n\nEthnography: a descriptive method — observation and recording of history, geography, social organization, economy, political system, culture and religion. Simple but can lead to ethnocentrism.\n\nFocus Group: selected groups participate in focused discussion on a research issue.\n\nFieldwork: research carried out in the field rather than the lab or library; investigation of real-life situations through observation and informal/unstructured interviewing.\n\nHistorical Research: a research design in which information about the past is gathered systematically.\n\nExisting material / Secondary Analysis: includes statistical records, historical sources, and contemporary records and personal documents.\n\nInterviewing: relies on the subject's verbal report. A structured interview has fixed wording and order; an unstructured interview is freer and discursive.",
+    "tags": ["methods", "secondary"]
+  },
+
+  {
+    "id": "sn-soc202-mtp-method-theory",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Relationship between method and theory",
+    "title": "Method and theory",
+    "content": "Methodology (Bogdan & Taylor, 1975) refers to the principles and procedures by which we approach problems and seek answers; in the social sciences, how one conducts research.\n\nTwo theoretical perspectives have dominated sociology:\n- Positivism: seeks the facts or causes of social phenomena with little regard for the subjective states of individuals. According to Durkheim, the sociologist should consider 'social facts' as 'things' exercising external coercive influence on human behaviour. Methods: experimentation, observation, social surveys, inventories, demographic analysis — producing quantitative data.\n- Phenomenology (Interpretive tradition): concerned with understanding human behaviour from the actor's own frame of reference. Methods: participant observation, open-ended interviewing, personal documents.\n\nMethodological perspectives are strongly related to theoretical perspectives. Observation/experimentation suit positivism; personal interviews, participant observation, and survey questionnaires suit the interpretive camp.",
+    "tags": ["methodology", "theory"]
+  },
+  {
+    "id": "sn-soc202-mtp-analytical-divisions",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Major Analytical Divisions in Sociology",
+    "title": "Major Analytical Divisions in Sociology",
+    "content": "Sociology is divided for analytical and theoretical purposes into micro and macro dimensions.\n\nMicro-sociology: concerned with elementary forms and processes of social behaviour — informal interpersonal behaviour in face-to-face contexts and small groups. A focus on smaller social units: individuals and their experiences within groups, organizations, cultures and societies. Methods most applied: the experiment and participant observation.\n\nMacro-sociology (systematic sociology): studies society as a whole — broad-scale analysis of formal, structured processes typical of complex organizations: bureaucracies, institutions, communities, culture, social movements, social change. Methods most applied: historical-comparative method and the interview and questionnaire.",
+    "tags": ["methodology", "micro", "macro"]
+  },
+
+  {
+    "id": "sn-soc202-st-functionalism",
     "course": "SOC202",
     "topic": "Sociological Theories",
-    "title": "Functionalism (key points)",
-    "content": "Functionalism focuses on social structures that maintain stability and cohesion; critics say it underplays conflict and social change.",
-    "tags": ["functionalism", "theory-summary"]
+    "sub_topic": "Functionalism",
+    "title": "Functionalism",
+    "content": "The dominant theoretical orientation in sociology today. Its basic assumption: order, regularity, and balance are the principal forces of social activity and should be the basic foci of investigation.\n\nSociety is conceived as a system — many inter-related parts or structures working interdependently, contributing to the total function of the social system. Stability, equilibrium and harmonious function are inherent; orderly, efficient function is maintained by shared values and beliefs (consensus).",
+    "tags": ["theory", "functionalism"]
+  },
+  {
+    "id": "sn-soc202-st-conflict",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Conflict Theory",
+    "title": "Conflict Theory",
+    "content": "Completely antithetical to structural-functionalism. Focuses on elements of change and revolution. Roots in the contributions of Karl Marx and Engels (1848) on the positive contributions of conflict as a unifying force.\n\nConflict orientation assumes the fundamental dynamics of human life are dissensus and competition rather than consensus and integration. Conflict is a continuing and inevitable dimension of social life; all societies are in constant change. Conflict theorists see continuous inevitable competition for scarce resources — power, wealth, prestige. Harmonious equilibrium is an illusion; social order is essentially a product of coercion and restraint, not consensus.\n\nMarxism is a form of conflict theory closely based on Marx's critique of the capitalist system and his premise of class conflict.",
+    "tags": ["theory", "conflict", "marx"]
+  },
+  {
+    "id": "sn-soc202-st-symbolic-interactionism",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Symbolic Interactionism",
+    "title": "Symbolic Interactionism",
+    "content": "A uniquely sociological/psycho-social perspective increasingly popular among sociologists today. A theory of human action and interaction that emphasizes the use of symbols and language and the way people use symbols to define themselves, others, and their social situations.\n\nFocuses on individuals as social actors rather than the system in which social actions occur. Seeks to explain the actual processes of human social behaviour and their meaning for participants rather than the structure and function of society. Central: Cooley's 'sympathetic introspection' — emphatic understanding of one's behaviour. As Thomas (1928) put it: 'If men define situations as real, they are real in their consequences'.\n\nEthnomethodology: the study of the methods people in society use to make sense of what is going on around them.",
+    "tags": ["theory", "symbolic-interactionism"]
+  },
+  {
+    "id": "sn-soc202-st-social-exchange",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Social Exchange Theory",
+    "title": "Social Exchange Theory",
+    "content": "Focuses on elementary forms of social behaviour — the goals and motives of participants in social interaction. Building on the psychological principles of stimulus and response, exchange theorists argue that people are likely to perform behaviour that has been rewarding in the past and not likely to perform behaviour that has been painful or costly.\n\nPeople are depicted as rational creatures in a give-and-take process of rewards and costs. A key concept is reciprocity — the 'give-and-take' phenomenon alleged to be the basic dimension of social behaviour. Chief protagonists: Lévi-Strauss (collectivistic tradition, French sociology) and George Homans (individualistic tradition, British and American sociology).",
+    "tags": ["theory", "exchange"]
+  },
+  {
+    "id": "sn-soc202-st-action-theory",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Action Theory",
+    "title": "Action Theory",
+    "content": "A sociological theory oriented to the study of morally complex forms of social interaction. Unlike other perspectives, action theory is not oriented toward individuals so much as toward the effect of the meaning context in which people or their actions exist.\n\nAction theorists seek to determine how individuals experience, perceive, understand, and interpret the 'meaning context'. Weber urged sociologists to use the research method of 'Verstehen' (understanding) to uncover the meaning context. Through Verstehen, action sociologists put themselves in the place of people in a particular historical context to understand the social forces that impelled them to act as they did.",
+    "tags": ["theory", "action", "verstehen"]
+  },
+
+  {
+    "id": "sn-soc202-spw-nature",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Nature of Social Problems",
+    "title": "Nature of Social Problems",
+    "content": "Social problems are not the same as sociological problems. The theoretical and scientific questions of sociology are not to be confused with social problems.\n\nA social problem is some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it — a set of conditions that the majority or a substantial minority disapprove as morally wrong (crime, population, mental illness, etc.). Such concerns belong to social engineering, concerned with the improvement and reconstruction of society. Before any problem can be regarded as a 'social problem', the larger percentage of the society must agree the issues are morally wrong or unacceptable.\n\nSociological problems concern the explanation of the nature and dynamics of social behaviour — not the development of strategy and techniques for control or change.",
+    "tags": ["welfare", "social-problems"]
+  },
+  {
+    "id": "sn-soc202-spw-welfare",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Social Welfare",
+    "title": "Social Welfare",
+    "content": "Welfare is the state of happiness, comfort, and freedom from want — a state of well-being. In a pure sociological sense, welfare is a 'community-action' approach to solving social problems.\n\nResearchers have come to realize that individual problems are not merely the product of inadequate interpersonal relationships within the family or organization, but outcomes of decisions and arrangements at the national level and part of national politics. 'Welfare' problems cannot be fully analyzed without relating them to the wider structure of society that produces them.\n\nAccording to Mills, the sociological imagination is the ability to appreciate that the 'troubles' that affect the individual are the outcome of much wider arrangements within which their life is lived out — personal troubles of milieu are connected with public issues of social structure; personal history (biography) is shaped by what is happening to society (history).",
+    "tags": ["welfare", "social-problems"]
+  },
+  {
+    "id": "sn-soc202-spw-specific-issues",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Specific issues that appear in past questions (ageism, prejudice, discrimination, minority groups, racism, poverty, etc.)",
+    "title": "Specific issues (ageism, prejudice, discrimination, minority groups, racism, poverty, etc.)",
+    "content": "These are recurring concepts in past questions on SOC202. They are social problems or conditions — patterns of behaviour or arrangements that the majority or a substantial minority disapprove as morally wrong, and which call for collective action.\n\nCommon ones to know:\n- Ageism: discrimination or prejudice based on a person's age, especially against older adults.\n- Prejudice: a pre-judgment or unsupported opinion usually involving negative stereotypes about a group.\n- Discrimination: unjust or prejudicial treatment of people on the grounds of group membership.\n- Minority groups: a group of people who, because of their physical or cultural characteristics, are singled out from the others in the society in which they live for differential and unequal treatment, and who therefore regard themselves as objects of collective discrimination.\n- Racism: prejudice, discrimination, or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.\n- Poverty: the state of not having enough material possessions or income for a person's basic needs.\n\nWhen revising this area, treat each term as a definition-style item: name → concise sociological meaning → example or distinguishing feature.",
+    "tags": ["welfare", "ageism", "prejudice", "discrimination", "racism", "poverty"]
+  },
+
+  {
+    "id": "sn-soc202-usc-uses",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Uses/Value of Sociology",
+    "title": "Uses and value of Sociology",
+    "content": "A concern with social problems and social reform was integral to sociology from its foundations. Early sociologists were anxious about the social changes around them and wanted to establish sociology as a comprehensive scientific discipline charged with discovering sociological laws of behaviour and constructing social policy based on them.\n\nThe first value is scientific value: replaces ethnocentrism with cultural relativism — the realization that customs, traditions, religions and cultures of others are not bad simply because they are different. Important where multi-ethnic and multinational states seek unity out of diversity. Mitchell (1967): sociology enables us to appreciate the variety in forms of social life.\n\nChinoy (1967): 'Sociology, both as tested theory and as a body of reliable facts, possesses a double value: it can add to man's understanding of himself and his society, and it can contribute to the solution of the problems he faces in achieving and maintaining the kind of society in which he hopes to live.'\n\nPedagogical: sociology is an educative discipline that satisfies the yearnings of curious people. Sociologists take a key role in specifying implications and consequences of alternative types of social policy. Many identify as applied sociologists — involved in everyday affairs of organizations, businesses and governments.",
+    "tags": ["uses", "value"]
+  },
+  {
+    "id": "sn-soc202-usc-careers",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Career paths for sociologists",
+    "title": "Career paths for sociologists",
+    "content": "Sociology is relevant to every facet of life; sociologists have unlimited career opportunities in a wide range of organizations and areas of human endeavour.\n\n- Teachers: in secondary and tertiary institutions.\n- Probation or Parole Officers: many young graduates are attracted to youth probation, using sociological understanding and personal guidance.\n- Personnel work: screening job applicants, preparing job descriptions, mediating inter-departmental matters.\n- Public Relations, Advertising, Mass Communications and Journalism: opportunities in these fields.\n- Law or Politics: sociology is a useful tool for people entering law or politics.\n- Civil service and ministries: administrators in public and private establishments — Welfare or Social Work, Health, Education, Public Complaints Commissions.\n- Consultants and researchers: research institutes such as NISER, government advisers, Marriage Counsellors.\n\nAccording to E.W. Steward and J.A. Glynn: 'You can do almost anything that, at a pre-professional level is concerned with the direction of and effective organization of people.'",
+    "tags": ["uses", "careers"]
   }
 ]

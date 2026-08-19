@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { ArrowRight, BookMarked, ClipboardList, Play } from "lucide-react";
 import { getCourseSummaries } from "@/lib/courses";
+import { SiteFooter } from "@/components/SiteFooter";
 
 export default function HomePage() {
   const courses = getCourseSummaries();
@@ -20,7 +21,7 @@ export default function HomePage() {
         </div>
       </header>
 
-      <section className="max-w-xl mx-auto px-5 pt-12 pb-10">
+      <section className="max-w-xl mx-auto px-5 pt-12 pb-10 w-full">
         <h1 className="font-serif text-3xl sm:text-4xl font-medium leading-tight mb-3">
           Practice smart. Pass easily.
         </h1>
@@ -38,7 +39,7 @@ export default function HomePage() {
           <SummaryStat
             icon={<ClipboardList size={16} />}
             value={totalQuestions}
-            label={pluralize(totalQuestions, "Verified question", "Verified questions")}
+            label={pluralize(totalQuestions, "Verified past question", "Verified past questions")}
           />
         </div>
 
@@ -110,31 +111,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <footer className="max-w-xl mx-auto px-5 pb-10 mt-auto">
-        <p className="font-serif text-sm text-ink mb-3">The Luminaries class.</p>
-        <div className="border-t border-line pt-4">
-          <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft mb-1">
-            Correction or feedback
-          </p>
-          <p className="text-sm text-ink">
-            WhatsApp:{" "}
-            <a
-              href="https://wa.me/2348072517875"
-              className="underline underline-offset-2"
-            >
-              08072517875
-            </a>
-            <span className="mx-2 text-line">·</span>
-            Email:{" "}
-            <a
-              href="mailto:afeezademuyiwa40@gmail.com"
-              className="underline underline-offset-2"
-            >
-              afeezademuyiwa40@gmail.com
-            </a>
-          </p>
-        </div>
-      </footer>
+      <SiteFooter />
     </main>
   );
 }
