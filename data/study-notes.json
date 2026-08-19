@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sn-soc202-intro-1",
+    "course": "SOC202",
+    "topic": "Introduction",
+    "title": "What is Sociology?",
+    "content": "Sociology is the study of society, social relationships, and social institutions. It examines patterns of social behavior and the forces that shape them.",
+    "tags": ["definition", "overview"]
+  },
+  {
+    "id": "sn-soc202-welfare-1",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "title": "Social Welfare (summary)",
+    "content": "Welfare refers to the general state of health, well-being and happiness in a society. Approaches include universal, means-tested, and solidaristic welfare systems.",
+    "tags": ["social-welfare", "summary"]
+  },
+  {
+    "id": "sn-soc202-methods-1",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "title": "Positivism vs Interpretivism",
+    "content": "Positivism argues sociology should use methods like the natural sciences. Interpretivism (Verstehen) emphasizes understanding social action from the actor's perspective.",
+    "tags": ["research-methods", "positivism", "interpretivism"]
+  },
+  {
+    "id": "sn-soc202-theory-1",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "title": "Functionalism (key points)",
+    "content": "Functionalism focuses on social structures that maintain stability and cohesion; critics say it underplays conflict and social change.",
+    "tags": ["functionalism", "theory-summary"]
+  }
+]

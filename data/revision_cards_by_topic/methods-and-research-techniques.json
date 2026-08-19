@@ -1,0 +1,539 @@
+[
+  {
+    "id": "rc-soc-202-005",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The school of thought that portends that research in sociology can use methods in the physical sciences is",
+    "back": "Positivism, popularly associated with Auguste Comte, is the scientific orientation that regards procedures used in social sciences as fundamentally of the same kind as those used by natural scientists.",
+    "tags": [
+      "positivism",
+      "scientific-method",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-011",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Interpretive understanding is associated with Karl Marx",
+    "back": "According to the course material on research methods, 'interpretive understanding', known as *Verstehen*, is a concept coined by Max Weber, not Karl Marx.",
+    "tags": [
+      "verstehen",
+      "weber",
+      "marx",
+      "interpretive"
+    ]
+  },
+  {
+    "id": "rc-soc-202-019",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Social research is a practical activity aimed at creating challenges and problems",
+    "back": "Social research is a systematic method of exploring, analyzing, and conceptualizing social life to extend knowledge or solve existing problems.",
+    "tags": [
+      "social-research",
+      "research-goals"
+    ]
+  },
+  {
+    "id": "rc-soc-202-025",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A research strategy is a collection of non-philosophical and non-theoretical commitments that may influence decisions ma...",
+    "back": "A research strategy indeed involves a broad approach to inquiry that includes various non-philosophical and non-theoretical commitments.",
+    "tags": [
+      "research-strategy",
+      "research-design",
+      "methodology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-030",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ coined the word ____, as an interpretative understanding of human behavior",
+    "back": "Max Weber coined the term 'Verstehen', which means interpretative understanding.",
+    "tags": [
+      "verstehen",
+      "weber",
+      "interpretive",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-033",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ seeks to establish knowledge of the social world by the study of people's own interpretations of the social world",
+    "back": "Interpretative sociology, heavily influenced by Max Weber, is defined by its focus on understanding the social world through the subjective meanings and interpretations that people attach to their actions.",
+    "tags": [
+      "interpretive-sociology",
+      "verstehen",
+      "weber"
+    ]
+  },
+  {
+    "id": "rc-soc-202-036",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "In Durkheim's classic study Suicide, he aimed to establish sociology as a discipline that deals with",
+    "back": "Durkheim argued that sociologists should consider 'social facts' or social phenomena as 'things' that exercise an external coercive influence on human behavior.",
+    "tags": [
+      "durkheim",
+      "social-facts",
+      "positivism",
+      "suicide"
+    ]
+  },
+  {
+    "id": "rc-soc-202-037",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is a method of sociological research involving the administration of questionnaires to a population being studied",
+    "back": "A survey is specifically defined as a method of sociological research that involves administering questionnaires to a population being studied.",
+    "tags": [
+      "survey",
+      "research-methods",
+      "questionnaire"
+    ]
+  },
+  {
+    "id": "rc-soc-202-040",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Quantitative Research Strategies is described as a",
+    "back": "Quantitative research focuses on measuring variables and establishing statistical relationships between them.",
+    "tags": [
+      "quantitative-research",
+      "research-strategy",
+      "variables"
+    ]
+  },
+  {
+    "id": "rc-soc-202-041",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is the use of multiple method as a way of producing more reliable empirical data than is available from any single...",
+    "back": "Triangulation is defined as using multiple research methods (e.",
+    "tags": [
+      "triangulation",
+      "research-methods",
+      "data-reliability"
+    ]
+  },
+  {
+    "id": "rc-soc-202-042",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is popularly associated with Positivism",
+    "back": "Auguste Comte is the founder of Positivism.",
+    "tags": [
+      "positivism",
+      "comte",
+      "scientific-method",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "rc-soc-202-043",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Qualitative research strategies are ____ and informed by the ____ tradition in social theory",
+    "back": "Qualitative research is rooted in the interpretive tradition and focuses on understanding subjective meanings.",
+    "tags": [
+      "qualitative-research",
+      "interpretivism",
+      "theory-tradition"
+    ]
+  },
+  {
+    "id": "rc-soc-202-044",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Sociologists conduct research in all of these places except",
+    "back": "Sociologists are not confined to one specific setting.",
+    "tags": [
+      "research-settings",
+      "fieldwork",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-045",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Pick the odd one out of the following terms",
+    "back": "Experiments, Observation, and Historical data are all specific types of research methods or data sources.",
+    "tags": [
+      "research-methods",
+      "odd-one-out"
+    ]
+  },
+  {
+    "id": "rc-soc-202-048",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The distinction between the strategies in social research are",
+    "back": "The distinction between social research strategies (such as quantitative vs qualitative research) fundamentally lies in their different methodologies.",
+    "tags": [
+      "research-strategy",
+      "methodology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-049",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Which is true of Positivism",
+    "back": "Positivism is founded on the philosophical assumption that reality consists of phenomena that are causally linked to one another.",
+    "tags": [
+      "positivism",
+      "causality",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-050",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Interpretive Method relies on none of the following except",
+    "back": "The interpretive method relies primarily on subjective analysis, including intuitive understanding, empathy, and insight.",
+    "tags": [
+      "interpretive-method",
+      "intuition",
+      "subjective-analysis"
+    ]
+  },
+  {
+    "id": "rc-soc-202-052",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Suicide rates of a community are considered as 'things' external to the people in a quantitative approach",
+    "back": "Emile Durkheim treated suicide rates as 'social facts'—objective realities that exist external to individuals.",
+    "tags": [
+      "durkheim",
+      "social-facts",
+      "positivism",
+      "suicide"
+    ]
+  },
+  {
+    "id": "rc-soc-202-053",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Putting yourself in others' shoe in sociology is",
+    "back": "Max Weber's concept of 'Verstehen' translates to interpretative understanding or empathetic understanding.",
+    "tags": [
+      "verstehen",
+      "weber",
+      "interpretive",
+      "empathy"
+    ]
+  },
+  {
+    "id": "rc-soc-202-055",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is used most frequently to collect information from large samples of individuals",
+    "back": "Surveys are specifically designed to collect standardized data from large, representative samples of individuals.",
+    "tags": [
+      "survey",
+      "large-samples",
+      "data-collection"
+    ]
+  },
+  {
+    "id": "rc-soc-202-056",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The following is a type of research strategy",
+    "back": "The course material distinguishes between two major research strategies: Quantitative and Qualitative.",
+    "tags": [
+      "research-strategy",
+      "qualitative-research"
+    ]
+  },
+  {
+    "id": "rc-soc-202-057",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ for interpretivists and ____ for positivists",
+    "back": "Interpretivists believe that social reality is socially constructed by human actors (social constructivism).",
+    "tags": [
+      "epistemology",
+      "interpretivism",
+      "positivism",
+      "constructivism",
+      "objectivism"
+    ]
+  },
+  {
+    "id": "rc-soc-202-058",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "These strategies record and analyse talk and actions, or analyse text that someone has written",
+    "back": "Qualitative research strategies are uniquely designed to record and analyze talk, actions, and written text.",
+    "tags": [
+      "qualitative-research",
+      "text-analysis",
+      "talk-analysis"
+    ]
+  },
+  {
+    "id": "rc-soc-202-059",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Pick the correct term among the followings",
+    "back": "Macro-sociology, also known as systematic sociology, studies society as a whole and focuses on broad-scale social structures, institutions, and social change.",
+    "tags": [
+      "macro-sociology",
+      "theories",
+      "terminology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-060",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ concerns the theory of knowledge and is the study of how we can come to accept that a research finding is 'true'",
+    "back": "Epistemology is the branch of philosophy concerned with the theory of knowledge.",
+    "tags": [
+      "epistemology",
+      "philosophy-of-science",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "rc-soc-202-061",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Those who practice quantitative social research are called",
+    "back": "Positivists are proponents of the scientific method in sociology, believing that social reality can be measured objectively through empirical observation.",
+    "tags": [
+      "positivism",
+      "quantitative-research",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "rc-soc-202-062",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ refers to the nature of the social world",
+    "back": "Ontology is the philosophical study of the nature of being, existence, or reality.",
+    "tags": [
+      "ontology",
+      "social-reality",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "rc-soc-202-065",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Quantitative social research is most often associated with",
+    "back": "While quantitative research can use observation, it is most frequently associated with social surveys.",
+    "tags": [
+      "quantitative-research",
+      "social-surveys",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-066",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Social research is a social product shaped by the context in which it is produced",
+    "back": "Social research is not conducted in a vacuum.",
+    "tags": [
+      "research-context",
+      "social-product",
+      "sociology-of-knowledge"
+    ]
+  },
+  {
+    "id": "rc-soc-202-067",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The conduct of research involves compromises with circumstances in which it is conducted",
+    "back": "Real-world research often requires compromises due to practical constraints such as budget limitations, time restrictions, access to participants, or ethical considerations.",
+    "tags": [
+      "research-conduct",
+      "compromises",
+      "practical-constraints"
+    ]
+  },
+  {
+    "id": "rc-soc-202-068",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Does all research complies in every way possible with the prescribed ways of conducting research?",
+    "back": "While researchers aspire to follow methodological standards, it is often impossible to adhere strictly to all prescribed ways due to the complexities of the social world.",
+    "tags": [
+      "research-compliance",
+      "methodology",
+      "constraints"
+    ]
+  },
+  {
+    "id": "rc-soc-202-069",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Mixed methods research integrates quantitative and qualitative research",
+    "back": "Mixed methods research is defined by the integration of both quantitative (numerical) and qualitative (descriptive) research methods into a single study.",
+    "tags": [
+      "mixed-methods",
+      "quantitative",
+      "qualitative"
+    ]
+  },
+  {
+    "id": "rc-soc-202-088",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Before a sociologist gathers the data, he or she must:",
+    "back": "Before collecting data, a sociologist must thoroughly review existing literature, formulate a clear hypothesis, and establish a research design.",
+    "tags": [
+      "research-process",
+      "hypothesis",
+      "research-design"
+    ]
+  },
+  {
+    "id": "rc-soc-202-089",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Observation research is a method that sociologists select when they are seeking:",
+    "back": "Observation (especially participant observation) is a qualitative method used to collect rich, in-depth, and detailed information.",
+    "tags": [
+      "observation",
+      "qualitative-research",
+      "in-depth-data"
+    ]
+  },
+  {
+    "id": "rc-soc-202-091",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "What was the major source of the data used by W. I. Thomas for his work titled: The Polish Peasant?",
+    "back": "W.",
+    "tags": [
+      "primary-data",
+      "thomas",
+      "polish-peasant",
+      "data-sources"
+    ]
+  },
+  {
+    "id": "rc-soc-202-145",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Using data banks produced by other researchers is referred to as:",
+    "back": "Secondary analysis refers to the use of data banks and data sets originally produced/collected by other researchers, rather than collecting new (primary) data.",
+    "tags": [
+      "secondary-analysis",
+      "data-sources",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-164",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "……... is a systematic, direct, definite and deliberate examination of the spontaneous occurrences at the time of their o...",
+    "back": "Observation is defined (Rao, 2006) as a systematic, direct, definite, and deliberate examination of spontaneous occurrences at the time they occur.",
+    "tags": [
+      "observation",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-177",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A research method in which selected groups participate in a focused discussion on a research issue is called:",
+    "back": "A focus group is a qualitative research method in which selected participants engage in a guided, focused discussion on a specific research issue.",
+    "tags": [
+      "focus-group",
+      "qualitative-research"
+    ]
+  },
+  {
+    "id": "rc-soc-202-178",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Research in which elements and conditions of a social setting are controlled by the researcher, but in a more natural se...",
+    "back": "A field experiment involves the researcher controlling elements and conditions of a social setting, but conducted in a more natural environment than the artificial confines of a laboratory.",
+    "tags": [
+      "field-experiment",
+      "experimentation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-179",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A way of gaining insight into human action by understanding the socio-cultural setting in which it occurs, focusing on h...",
+    "back": "The Verstehen method, associated with Max Weber, is a way of gaining insight into human action by understanding how actors themselves interpret the socio-cultural setting in which their action occurs.",
+    "tags": [
+      "verstehen",
+      "weber",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-180",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A method of sociological research in which events of a particular time and place are studied and compared with similar e...",
+    "back": "The Historical-Comparative method studies and compares events of a particular time and place with similar events in another time and place, to reveal basic social features shared or contrasted across societies.",
+    "tags": [
+      "historical-comparative-method",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-181",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A method in which theories are taken from existing schools of thought (e.g. Marxism, Functionalism) and hypotheses deriv...",
+    "back": "The Hypothetico-deductive method derives testable hypotheses from existing theoretical schools (like Marxism or Functionalism) and tests them against evidence collected in the field or library, either verifying or refuting the hypothesis.",
+    "tags": [
+      "hypothetico-deductive-method",
+      "theory-testing"
+    ]
+  },
+  {
+    "id": "rc-soc-202-182",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A key disadvantage of the ethnographic method is that:",
+    "back": "A major disadvantage of ethnography is that the investigator, often being a member of the society studied, may idealize their own culture and suppress unflattering information, leading to a form of ethnocentrism.",
+    "tags": [
+      "ethnography",
+      "limitations"
+    ]
+  },
+  {
+    "id": "rc-soc-202-183",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Data that are obtained through enumeration and measurement, and can be expressed in numerical form, are known as:",
+    "back": "Quantitative data are data in numerical form, obtained through enumeration and measurement, as opposed to qualitative data which are descriptive accounts of observations or interviews.",
+    "tags": [
+      "quantitative-data",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-184",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Firsthand information collected directly by an investigator from fieldwork, survey research, or observation is known as:",
+    "back": "Primary data refers to firsthand information collected directly by an investigator through fieldwork, survey research, observation, or opinion polls.",
+    "tags": [
+      "primary-data",
+      "data-sources"
+    ]
+  }
+]

@@ -1,0 +1,684 @@
+[
+  {
+    "id": "rc-soc-202-001",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ is the general state of health, well-being and happiness of individuals or a society",
+    "back": "Welfare is defined as the state of happiness, comfort, and freedom from want.",
+    "tags": [
+      "social-welfare",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-002",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Welfare based on the principle of solidarity emphasizes that welfare is provided for the population as a whole, in the s...",
+    "back": "Welfare based on the principle of solidarity asserts that welfare is provided for the entire population akin to public services, which is a true statement as per the course material.",
+    "tags": [
+      "social-welfare",
+      "solidarity"
+    ]
+  },
+  {
+    "id": "rc-soc-202-014",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Youth unemployment is a social problem in Nigeria",
+    "back": "Youth unemployment qualifies as a social problem in Nigeria because it is a set of conditions that a substantial majority of the society disapproves as morally wrong and harmful.",
+    "tags": [
+      "social-problems",
+      "nigeria",
+      "youth-unemployment"
+    ]
+  },
+  {
+    "id": "rc-soc-202-017",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Social problems are always inimical to society",
+    "back": "A social problem is defined as a set of conditions that the majority or a substantial minority disapprove as morally wrong and harmful to society.",
+    "tags": [
+      "social-problems",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-020",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The Almajiris of Northern Nigeria is an example of social problem",
+    "back": "The Almajiri phenomenon represents a set of social conditions (child poverty, lack of formal education, street begging) that are widely disapproved of as harmful and problematic in Nigerian society.",
+    "tags": [
+      "social-problems",
+      "almajiri",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "rc-soc-202-022",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "All these statements are correct except",
+    "back": "Social problems, by definition, affect a substantial minority or even the whole society, creating public friction or misery.",
+    "tags": [
+      "social-problems",
+      "general-knowledge"
+    ]
+  },
+  {
+    "id": "rc-soc-202-023",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "According to ____, Social problem is contextual and not universal",
+    "back": "Labelling Theory argues that deviance and social problems are not inherently problematic but are defined as such by societal reactions.",
+    "tags": [
+      "social-problems",
+      "labelling-theory"
+    ]
+  },
+  {
+    "id": "rc-soc-202-027",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following cannot be used to analyze social problem?",
+    "back": "Functionalism analyzes social problems by looking at dysfunctions in the social system, Conflict Theory analyzes them through the lens of inequality and resource struggle, and Symbolic Interactionism analyzes them by looking at how they are socially constructed and labeled.",
+    "tags": [
+      "social-problems",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "rc-soc-202-028",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "All of the following influence the definition of social problem except",
+    "back": "A social problem is defined by a condition that the *majority* or a *substantial minority* disapprove of as morally wrong, often requiring collective effort to solve.",
+    "tags": [
+      "social-problems",
+      "collective-action"
+    ]
+  },
+  {
+    "id": "rc-soc-202-029",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "To consider an issues a social problem, it must ____",
+    "back": "By definition in the course material, a social problem is \"some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it.",
+    "tags": [
+      "social-problems",
+      "collective-action"
+    ]
+  },
+  {
+    "id": "rc-soc-202-031",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Inability to collect individuals' Permanent Voter's Card in Nigeria is an example of ____",
+    "back": "According to C.",
+    "tags": [
+      "public-issue",
+      "mills",
+      "social-problems"
+    ]
+  },
+  {
+    "id": "rc-soc-202-032",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Political violence in Nigeria can be categorized as",
+    "back": "Political violence is a systemic phenomenon rooted in structural inequalities, competition for power, and the political economy of Nigeria.",
+    "tags": [
+      "public-issue",
+      "nigeria",
+      "political-violence"
+    ]
+  },
+  {
+    "id": "rc-soc-202-073",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ is an exaggerated, over-simplified images, maintained by people, of the characteristics of others outside their gro...",
+    "back": "A stereotype is defined as an exaggerated, over-simplified image held by people about the characteristics of those outside their group.",
+    "tags": [
+      "stereotype",
+      "prejudice",
+      "discrimination",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-074",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The following are racial group classification",
+    "back": "Mongoloid, Negroid, and Caucasoid are the traditional (and now largely discredited) biological classifications of racial groups.",
+    "tags": [
+      "race",
+      "classification",
+      "racial-groups"
+    ]
+  },
+  {
+    "id": "rc-soc-202-075",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of these statements is incorrect",
+    "back": "There is significant overlap in physical traits, including skin color, among different racial groups.",
+    "tags": [
+      "race",
+      "racism",
+      "incorrect-statement",
+      "skin-color"
+    ]
+  },
+  {
+    "id": "rc-soc-202-076",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ are likely reaction of minority group",
+    "back": "The course material identifies the likely reactions of minority groups to their minority status.",
+    "tags": [
+      "minority-groups",
+      "social-reactions",
+      "assimilation",
+      "aggression"
+    ]
+  },
+  {
+    "id": "rc-soc-202-077",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The term social processes refer to the repetitive forms of behaviour which are commonly found in",
+    "back": "Social processes refer to the repetitive forms of behavior that are commonly found in social life.",
+    "tags": [
+      "social-processes",
+      "interaction",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-078",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ are factors in ageism",
+    "back": "The factors in ageism include social visibility (older people becoming more visible as they age), stereotypes (negative, over-simplified images about the elderly), and rationalization (justifying discriminatory attitudes toward the aged).",
+    "tags": [
+      "ageism",
+      "stereotypes",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "rc-soc-202-079",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of these statements is correct?",
+    "back": "Minority status is defined by lack of power, not just group size.",
+    "tags": [
+      "minority-groups",
+      "discrimination",
+      "group-consciousness"
+    ]
+  },
+  {
+    "id": "rc-soc-202-081",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "If a member of a minority group becomes socially and culturally unified with the dominant group, that person is engaging...",
+    "back": "Assimilation is the process where a minority individual adopts the cultural norms, language, and behaviors of the dominant group, becoming socially and culturally unified with them.",
+    "tags": [
+      "assimilation",
+      "minority-groups",
+      "dominant-group",
+      "social-response"
+    ]
+  },
+  {
+    "id": "rc-soc-202-082",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How does an elderly person lose control over his or her life?",
+    "back": "Involuntary relocation (such as being forced into a nursing home or moved out of one's long-term residence) removes an elderly person's autonomy over their daily environment.",
+    "tags": [
+      "ageism",
+      "elderly",
+      "social-control",
+      "relocation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-092",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "\"You defy bleach oh you defy bleach. Yellow Fever...\" This Fela Anikulapo's song is ____",
+    "back": "Fela Kuti's song 'Yellow Fever' is a strong critique against skin bleaching and the colonial mentality that leads Black people to desire whiteness.",
+    "tags": [
+      "anti-racism",
+      "fela-kuti",
+      "yellow-fever",
+      "popular-culture"
+    ]
+  },
+  {
+    "id": "rc-soc-202-095",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Competition is always governed by norms",
+    "back": "Competition is a social process that does not occur in a vacuum; it is strictly regulated by social norms, laws, and rules.",
+    "tags": [
+      "competition",
+      "social-norms",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "rc-soc-202-096",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "A Social Welfare and a Social Problem are the same",
+    "back": "Social welfare refers to a positive state of well-being and happiness, while a social problem is a set of conditions disapproved of as morally wrong and harmful.",
+    "tags": [
+      "social-welfare",
+      "social-problems",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-106",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The highly formalised and specialised type of cooperation is known as ……………. cooperation.",
+    "back": "Formal cooperation refers to the highly formalised and specialised type of cooperation, typically governed by explicit rules and organisational structures, as opposed to primary (informal, face-to-face) cooperation.",
+    "tags": [
+      "cooperation",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "rc-soc-202-108",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How do people with physical challenges accommodate to the expectations or desires of the majority?",
+    "back": "Accommodation involves adjusting one's own behaviour to fit majority expectations rather than trying to change the majority or withdraw from it — for example, visually-impaired people using sighted phrases like 'I see' to fit conventional speech norms.",
+    "tags": [
+      "physical-challenges",
+      "accommodation",
+      "disability"
+    ]
+  },
+  {
+    "id": "rc-soc-202-110",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Health and medical-care costs of ageism are evidenced by:",
+    "back": "The health and medical-care costs of ageism include slower emergency response for older people, being viewed as undesirable patients, and service agencies unable to meet all their needs — all of these are documented costs.",
+    "tags": [
+      "ageism",
+      "health-costs"
+    ]
+  },
+  {
+    "id": "rc-soc-202-111",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "………is a set of beliefs asserting the superiority of the young over the old.",
+    "back": "Ageism is the set of beliefs and prejudicial attitudes asserting the superiority of one age group (typically the young) over another (the old).",
+    "tags": [
+      "ageism",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "rc-soc-202-113",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is incorrect?",
+    "back": "Religious inclination does influence population dynamics (e.",
+    "tags": [
+      "population",
+      "social-change"
+    ]
+  },
+  {
+    "id": "rc-soc-202-115",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "A category of people that is set apart by itself or others because of distinct cultural or national qualities is a/an ……...",
+    "back": "An ethnic group is defined as a category of people set apart from others because of distinct cultural or national qualities, distinguishing it from a racial group (based on physical traits).",
+    "tags": [
+      "ethnic-group",
+      "minority-groups"
+    ]
+  },
+  {
+    "id": "rc-soc-202-123",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "……………. are the fundamental ways in which men interact and establish relationships.",
+    "back": "Social processes (such as cooperation, competition, conflict, and accommodation) are the fundamental, recurring ways in which people interact and establish relationships with one another.",
+    "tags": [
+      "social-processes",
+      "interaction"
+    ]
+  },
+  {
+    "id": "rc-soc-202-124",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is not one of the steps in the development of ageism?",
+    "back": "The development of ageism typically involves distinct visibility of older people, negative (not positive) stereotypes, rationalization of disengagement, and the accommodations seniors make to their status.",
+    "tags": [
+      "ageism",
+      "stereotypes"
+    ]
+  },
+  {
+    "id": "rc-soc-202-125",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is true in regard to all minority groups?",
+    "back": "Minority status is defined not by numerical size but by limited access to power, opportunities, and rewards.",
+    "tags": [
+      "minority-groups",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "rc-soc-202-126",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Prejudice is to discrimination as:",
+    "back": "Prejudice is a negative attitude (a belief/feeling), while discrimination is the restrictive behaviour that can result from that attitude.",
+    "tags": [
+      "prejudice",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "rc-soc-202-127",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is an occupational barrier for people of with physical challenges?",
+    "back": "Architectural barriers, negative employer attitudes, and transportation barriers are all recognized occupational barriers faced by people with physical challenges.",
+    "tags": [
+      "physical-challenges",
+      "occupational-barriers"
+    ]
+  },
+  {
+    "id": "rc-soc-202-129",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Disengagement ….",
+    "back": "Disengagement theory suggests that the withdrawal of the elderly from social roles is less negative in its impact when it occurs gradually and is coupled with continuity (maintaining some familiar activities/relationships), rather than being a sudden or total break.",
+    "tags": [
+      "disengagement",
+      "ageism"
+    ]
+  },
+  {
+    "id": "rc-soc-202-130",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "When do the elderly seem to have the greatest political impact?",
+    "back": "The elderly have the greatest political impact when they mobilize collectively around a specific issue that directly affects them, concentrating their voting power and advocacy efforts.",
+    "tags": [
+      "ageism",
+      "political-impact"
+    ]
+  },
+  {
+    "id": "rc-soc-202-133",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Why are stereotypes useful to those who maintain them?",
+    "back": "Stereotypes are 'useful' to those who hold them because they help rationalize and justify the subordinate position of a downtrodden group, reinforcing existing social hierarchies rather than promoting understanding.",
+    "tags": [
+      "stereotype",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "rc-soc-202-134",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Competition could not cause a person to adopt new forms of behaviour in order to attain desired ends.",
+    "back": "Competition frequently drives people to adopt new behaviours, strategies, or innovations in order to gain an advantage and attain desired ends, so the statement is false.",
+    "tags": [
+      "competition",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "rc-soc-202-135",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is an example of institutional racism?",
+    "back": "Housing segregation, inferior schools in poor black districts, and discriminatory hiring requirements are all examples of institutional racism — racism embedded in the structures and practices of institutions rather than individual acts.",
+    "tags": [
+      "institutional-racism",
+      "racism"
+    ]
+  },
+  {
+    "id": "rc-soc-202-136",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "According to the colonial-labour principle, racial minorities serve white controller's interests and needs. According to...",
+    "back": "The colonial-labour principle explains racial minority exploitation in terms of serving the economic interests of a dominant group, making economic factors central to this explanation of prejudice and discrimination.",
+    "tags": [
+      "racism",
+      "colonial-labour-principle",
+      "economic-factors"
+    ]
+  },
+  {
+    "id": "rc-soc-202-137",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The use of offensive language, the pervasiveness of racial humor, and widespread stereotypes of ethnic minorities have t...",
+    "back": "Offensive language, racial humour, and stereotypes are transmitted and reinforced through social interaction and culture, making them social sources of prejudice and discrimination.",
+    "tags": [
+      "racism",
+      "prejudice",
+      "social-sources"
+    ]
+  },
+  {
+    "id": "rc-soc-202-138",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is not an effect of prejudice and discriminations?",
+    "back": "Prejudice and discrimination typically reduce, not increase, occupational opportunities for their targets.",
+    "tags": [
+      "prejudice",
+      "discrimination",
+      "effects"
+    ]
+  },
+  {
+    "id": "rc-soc-202-139",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "'Success ageing' contains which of the following characteristics?",
+    "back": "'Successful ageing' is characterized by personal well-being, the capacity for independent activity, and having a private safety net (financial/social support) — all of these combine to define successful ageing.",
+    "tags": [
+      "ageism",
+      "successful-ageing"
+    ]
+  },
+  {
+    "id": "rc-soc-202-140",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The dominant-group policy that seeks to eliminate separate ethnic interests and develop a common identity is:",
+    "back": "Assimilation is the dominant-group policy that seeks to eliminate separate ethnic interests and identities, absorbing minority groups into a single common (dominant) identity.",
+    "tags": [
+      "assimilation",
+      "minority-groups",
+      "dominant-group-policy"
+    ]
+  },
+  {
+    "id": "rc-soc-202-141",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is/are outcome of social alienation of the elderly in Nigeria?",
+    "back": "Social alienation of the elderly in Nigeria has been linked to victimization, criminality directed against them, and being viewed with suspicion, so all of these are outcomes.",
+    "tags": [
+      "ageism",
+      "nigeria",
+      "social-alienation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-142",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How does sexism appear in the behaviour patterns that women have traditionally learned?",
+    "back": "The question asks about learned behaviour patterns of women themselves (not external barriers or others' claims).",
+    "tags": [
+      "sexism",
+      "gender"
+    ]
+  },
+  {
+    "id": "rc-soc-202-143",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Slavery is an example of the dominant-group policy of:",
+    "back": "Slavery represents a dominant-group policy of continued subjugation — the ongoing, forcible domination and exploitation of a minority group rather than their elimination or absorption.",
+    "tags": [
+      "slavery",
+      "subjugation",
+      "minority-groups"
+    ]
+  },
+  {
+    "id": "rc-soc-202-144",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is a minority response to minority status?",
+    "back": "Avoidance, acceptance, and assimilation (along with aggression) are all recognized minority responses to minority status.",
+    "tags": [
+      "minority-groups",
+      "minority-response"
+    ]
+  },
+  {
+    "id": "rc-soc-202-146",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How is the 'second shift' one of the career costs of sexism?",
+    "back": "The 'second shift' concept refers to women bearing the dominant responsibility for housework and child care at home after completing a full day of paid employment, effectively working a second, unpaid 'shift'.",
+    "tags": [
+      "sexism",
+      "second-shift",
+      "gender"
+    ]
+  },
+  {
+    "id": "rc-soc-202-147",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "What is the intent of affirmative action on women?",
+    "back": "Affirmative action policies are intended to encourage organisations to actively hire and include women (and other underrepresented groups) of diverse backgrounds, correcting historical exclusion.",
+    "tags": [
+      "affirmative-action",
+      "sexism",
+      "gender"
+    ]
+  },
+  {
+    "id": "rc-soc-202-148",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "………..……… and ……………. are peculiar crimes Ayodele (2010) linked to old people in Nigeria.",
+    "back": "According to Ayodele (2010), the peculiar crimes linked to old people in Nigeria combine elements described in options B and C — paedophilia, human trafficking, receiving stolen goods, and suicide.",
+    "tags": [
+      "ageism",
+      "nigeria",
+      "crime"
+    ]
+  },
+  {
+    "id": "rc-soc-202-151",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Why has it been necessary to establish affirmative action?",
+    "back": "Affirmative action was established because institutional and individual racism historically interfered with equal-employment opportunities for minorities and women, necessitating corrective policy.",
+    "tags": [
+      "affirmative-action",
+      "racism"
+    ]
+  },
+  {
+    "id": "rc-soc-202-153",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The costs of homophobia include:",
+    "back": "Denial of identity, isolation, and violence are all recognized costs/consequences of homophobia experienced by its targets.",
+    "tags": [
+      "homophobia",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "rc-soc-202-154",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following are examples of the violent costs of sexism?",
+    "back": "Rape, sexual harassment, and battering are all examples of the violent costs of sexism.",
+    "tags": [
+      "sexism",
+      "violence",
+      "gender"
+    ]
+  },
+  {
+    "id": "rc-soc-202-155",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is a cost of ageism?",
+    "back": "A recognized cost of ageism is 'group-involvement cost' — the reduced opportunity for older people to participate in social groups and organisations due to age-based exclusion.",
+    "tags": [
+      "ageism",
+      "costs"
+    ]
+  },
+  {
+    "id": "rc-soc-202-156",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "People with physical challenges can expect which of the following psychological cost or effect?",
+    "back": "People with physical challenges can experience a sense of powerlessness, income loss, and victimization by violence — all recognized psychological/social costs of their status.",
+    "tags": [
+      "physical-challenges",
+      "psychological-costs"
+    ]
+  },
+  {
+    "id": "rc-soc-202-157",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following statements is/are correct?",
+    "back": "Old people in Nigeria do suffer governmental and non-governmental neglect.",
+    "tags": [
+      "ageism",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "rc-soc-202-162",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Pro-natal population policy involves the following, except",
+    "back": "Pro-natal policies aim to increase population growth (through immigration, marriage encouragement, reduced child mortality, and parental leave).",
+    "tags": [
+      "population-policy",
+      "pro-natal"
+    ]
+  }
+]

@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "fc-soc202-01",
+    "course": "SOC202",
+    "topic": "Introduction",
+    "front": "What is sociology?",
+    "back": "The systematic study of society, social relationships, and institutions.",
+    "tags": [
+      "definition"
+    ]
+  },
+  {
+    "id": "fc-soc202-02",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "What does 'welfare' refer to in sociology?",
+    "back": "The state of well-being, happiness and freedom from want in a population; often addressed via public policy and social programs.",
+    "tags": [
+      "social-welfare"
+    ]
+  },
+  {
+    "id": "fc-soc202-03",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Who coined the term 'Verstehen' associated with interpretive understanding?",
+    "back": "Max Weber.",
+    "tags": [
+      "research-methods",
+      "weber"
+    ]
+  },
+  {
+    "id": "fc-soc202-04",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Name one major criticism of Functionalism.",
+    "back": "It overemphasizes social stability and consensus while downplaying conflict and processes of social change.",
+    "tags": [
+      "functionalism",
+      "critique"
+    ]
+  },
+  {
+    "id": "fc-soc-202-001",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ is the general state of health, well-being and happiness of individuals or a society",
+    "back": "Welfare is defined as the state of happiness, comfort, and freedom from want. In a pure sociological sense, welfare is a 'community-action' approach to solving social problems, but fundamentally it refers to the general state of well-being and happiness.\n\nOptions: A: Social Welfare | B: Social Institution | C: Social Need | D: Social Organization",
+    "tags": [
+      "social-welfare",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-002",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Welfare based on the principle of solidarity emphasizes that welfare is provided for the population as a whole, in the same way as public services might be",
+    "back": "Welfare based on the principle of solidarity asserts that welfare is provided for the entire population akin to public services, which is a true statement as per the course material.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-welfare",
+      "solidarity"
+    ]
+  },
+  {
+    "id": "fc-soc-202-003",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "A sociological perspective that focuses on the ways in which a complex pattern of social structure and arrangements contribute to social order is",
+    "back": "The correct sociological perspective is Functionalism (or Structural-Functionalism), which is the dominant theory emphasizing social order, stability, and the interrelationship of social structures. As such, options A, B, and C are incorrect, making 'None of these' the right choice.\n\nOptions: A: Conflict Theory | B: Interactionism | C: Exchange Theory | D: None of these",
+    "tags": [
+      "sociological-theories",
+      "functionalism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-004",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "One of these statements is true about a theory",
+    "back": "A theory is defined as a set of logically interrelated concepts with empirical reference that purports to explain phenomena. Option C is the only choice that aligns with this precise academic definition.\n\nOptions: A: A set of ideas used to distribute, understand and explain range of social phenomena | B: A set of related ideas that enables one to fight for the truth in a social phenomena | C: A set of logically interrelated ideas with empirical reference that purports to explain social phenomena | D: A set of ideas that breaks down issues from the unknown to the known",
+    "tags": [
+      "theory",
+      "concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-005",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The school of thought that portends that research in sociology can use methods in the physical sciences is",
+    "back": "Positivism, popularly associated with Auguste Comte, is the scientific orientation that regards procedures used in social sciences as fundamentally of the same kind as those used by natural scientists.\n\nOptions: A: Scientism | B: Humanism | C: Positivism | D: Negativism",
+    "tags": [
+      "positivism",
+      "scientific-method",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-006",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following is not a pioneer of functionalism",
+    "back": "Ralf Dahrendorf is a prominent Conflict Theorist. Merton, Parsons, and Durkheim are all key figures associated with the development of Functionalism.\n\nOptions: A: Dahrendorf | B: Merton | C: Parsons | D: Durkheim",
+    "tags": [
+      "functionalism",
+      "sociologists",
+      "pioneers"
+    ]
+  },
+  {
+    "id": "fc-soc-202-007",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Subjectivity is synonymous with the scientific cleavage of sociology",
+    "back": "Subjectivity refers to the perspective of the person (subject) and a lack of objectivity. It is often used pejoratively within positivist sociology to derogate biased observation. Science and sociology, on the other hand, strive for objectivity—knowledge held to be free from bias. Therefore, subjectivity is the opposite of the scientific ideal, making the statement false.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "objectivity",
+      "subjectivity",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-008",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Social research is a technical subject and has a precise language",
+    "back": "Social research is indeed a technical subject requiring the use of precise terminology (such as 'variables', 'hypotheses', 'sampling', 'triangulation'). This precision is essential to ensure that findings are objective and replicable by other researchers.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-basics",
+      "technical-language"
+    ]
+  },
+  {
+    "id": "fc-soc-202-009",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "All but one are criticisms of the Functionalist perspective in Sociology",
+    "back": "Functionalism is heavily criticized for overemphasizing consensus, stability, and cohesion, while ignoring conflict and social change. However, explaining cohesion is actually the theory's core strength, not a criticism. Therefore, option D is the one that does *not* belong to the criticisms.\n\nOptions: A: It provides partial explanations of social life | B: Difficulty in dealing with history and process of social change | C: Exaggerates consensus, stability and disregards dissent and instability | D: Explains cohesion in society",
+    "tags": [
+      "functionalism",
+      "sociological-theories",
+      "criticisms"
+    ]
+  },
+  {
+    "id": "fc-soc-202-010",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "According to the Conflict Perspective in Sociology, the main source of conflict in human societies is",
+    "back": "Conflict theorists maintain that societies continuously experience an inevitable competition for scarce resources, especially power, wealth, and prestige. This scarcity is the fundamental source of conflict.\n\nOptions: A: Scarcity of resources | B: Equal access to resources | C: Consensus among members of society | D: Division among the proletariats",
+    "tags": [
+      "conflict-theory",
+      "resources",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-011",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Interpretive understanding is associated with Karl Marx",
+    "back": "According to the course material on research methods, 'interpretive understanding', known as *Verstehen*, is a concept coined by Max Weber, not Karl Marx. Marx is heavily associated with Conflict Theory and historical materialism, whereas Weber is the key figure for interpretive sociology.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "verstehen",
+      "weber",
+      "marx",
+      "interpretive"
+    ]
+  },
+  {
+    "id": "fc-soc-202-012",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Conflict theory is similar to functionalist theory",
+    "back": "Conflict theory and functionalist theory are completely antithetical. Functionalism emphasizes consensus, stability, and harmonious equilibrium, while Conflict theory focuses on dissensus, competition, social change, and the struggle for scarce resources. They are polar opposites in sociology.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "conflict-theory",
+      "functionalism",
+      "comparison"
+    ]
+  },
+  {
+    "id": "fc-soc-202-013",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a set of tools used by sociologists to explicate and predict social phenomena",
+    "back": "Social theory is defined as a set of logically interrelated ideas that enable one to explain and predict social phenomena. It assumes principles of causation and provides the tools for a systematic understanding of social life.\n\nOptions: A: Social Studies | B: Social Theory | C: Social Imagination | D: Social Barometer",
+    "tags": [
+      "social-theory",
+      "prediction",
+      "explanation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-014",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Youth unemployment is a social problem in Nigeria",
+    "back": "Youth unemployment qualifies as a social problem in Nigeria because it is a set of conditions that a substantial majority of the society disapproves as morally wrong and harmful. It causes public friction and private misery and calls for collective action to solve it.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-problems",
+      "nigeria",
+      "youth-unemployment"
+    ]
+  },
+  {
+    "id": "fc-soc-202-015",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Latent functions are also known as Manifest function",
+    "back": "Latent functions and Manifest functions are distinct concepts within Functionalism. Manifest functions are intended and recognized consequences of a social pattern, whereas latent functions are unintended and unrecognized consequences. They are not synonymous.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "functionalism",
+      "latent-functions",
+      "manifest-functions"
+    ]
+  },
+  {
+    "id": "fc-soc-202-016",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Interactionism theory is criticized to be too ideologically radical",
+    "back": "Symbolic Interactionism is actually criticized for being too micro-sociological, focusing on small-scale interactions rather than macroscale structures. The criticism of being 'too ideologically radical' is not a common critique; this label is often associated with certain strains of Conflict or Marxist theory.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "symbolic-interactionism",
+      "criticisms"
+    ]
+  },
+  {
+    "id": "fc-soc-202-017",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Social problems are always inimical to society",
+    "back": "A social problem is defined as a set of conditions that the majority or a substantial minority disapprove as morally wrong and harmful to society. Therefore, by definition, social problems are always seen as undesirable and 'inimical' to the well-being of society, requiring collective action to solve them.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-problems",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-018",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Sociologists and Anthropologists use similar theories",
+    "back": "Both Sociology and Anthropology are social sciences that examine human behavior and societies. They often draw from and utilize overlapping theoretical frameworks (such as Functionalism and Conflict theory) and methodological approaches, making the statement true.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "sociology",
+      "anthropology",
+      "interdisciplinary"
+    ]
+  },
+  {
+    "id": "fc-soc-202-019",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Social research is a practical activity aimed at creating challenges and problems",
+    "back": "Social research is a systematic method of exploring, analyzing, and conceptualizing social life to extend knowledge or solve existing problems. It aims to find answers and solutions, not to *create* challenges or problems. The statement is therefore false.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-research",
+      "research-goals"
+    ]
+  },
+  {
+    "id": "fc-soc-202-020",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The Almajiris of Northern Nigeria is an example of social problem",
+    "back": "The Almajiri phenomenon represents a set of social conditions (child poverty, lack of formal education, street begging) that are widely disapproved of as harmful and problematic in Nigerian society. Consequently, it is correctly classified as a social problem.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-problems",
+      "almajiri",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "fc-soc-202-021",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Who coined Symbolic Interactionism",
+    "back": "Herbert Blumer coined the term Symbolic Interactionism, building upon the foundational work of George Herbert Mead.\n\nOptions: A: Bluma | B: Blumer | C: Marx | D: Blumar",
+    "tags": [
+      "symbolic-interactionism",
+      "blumer",
+      "theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-022",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "All these statements are correct except",
+    "back": "Social problems, by definition, affect a substantial minority or even the whole society, creating public friction or misery. They are not restricted solely to the poor; they can manifest across all socioeconomic strata (e.g., pollution, crime, corruption). Thus, option D is the incorrect statement.\n\nOptions: A: Social grouping led to social problem | B: Social problem is made by man | C: Social problem may not affect everybody | D: Social problems affect only the poor in the society",
+    "tags": [
+      "social-problems",
+      "general-knowledge"
+    ]
+  },
+  {
+    "id": "fc-soc-202-023",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "According to ____, Social problem is contextual and not universal",
+    "back": "Labelling Theory argues that deviance and social problems are not inherently problematic but are defined as such by societal reactions. This makes social problems highly contextual and relative, depending on the specific cultural and historical context, rather than universal.\n\nOptions: A: Social pathological theory | B: Labelling Theory | C: Social chaos and uncertainty theory | D: None of the above",
+    "tags": [
+      "social-problems",
+      "labelling-theory"
+    ]
+  },
+  {
+    "id": "fc-soc-202-024",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "____ gave birth to the Interactionist School and ____ named it",
+    "back": "The Interactionist School was given birth to by the foundational work of Charles Horton Cooley and Georg Simmel. Later, Herbert Blumer coined the specific term \"Symbolic Interactionism\" to describe this perspective. Option B correctly identifies the founders.\n\nOptions: A: None of the above | B: Cooley and Simmel | C: Blumer and Mead | D: Blumer and Blumer",
+    "tags": [
+      "symbolic-interactionism",
+      "cooley",
+      "simmel",
+      "blumer"
+    ]
+  },
+  {
+    "id": "fc-soc-202-025",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A research strategy is a collection of non-philosophical and non-theoretical commitments that may influence decisions made about the research design",
+    "back": "A research strategy indeed involves a broad approach to inquiry that includes various non-philosophical and non-theoretical commitments. These commitments guide the researcher's decisions regarding the design, data collection, and analysis methods used in the study, as outlined in the course material.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-strategy",
+      "research-design",
+      "methodology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-026",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "____ helps us to understand our life and analyses our interactions",
+    "back": "Symbolic Interactionism is a micro-sociological theory that focuses on how individuals use symbols to create meaning and interpret their world. It directly analyzes face-to-face interactions, making it the perspective that best helps us understand our daily lives and interactions.\n\nOptions: A: Social Theory | B: Symbolic Interaction | C: Social Methods | D: Social Understanding",
+    "tags": [
+      "symbolic-interactionism",
+      "micro-sociology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-027",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following cannot be used to analyze social problem?",
+    "back": "Functionalism analyzes social problems by looking at dysfunctions in the social system, Conflict Theory analyzes them through the lens of inequality and resource struggle, and Symbolic Interactionism analyzes them by looking at how they are socially constructed and labeled. Therefore, all three can be used, making 'None' the correct choice.\n\nOptions: A: Symbolic Interactionism | B: Functionalism | C: Conflict Perspective | D: None",
+    "tags": [
+      "social-problems",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-028",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "All of the following influence the definition of social problem except",
+    "back": "A social problem is defined by a condition that the *majority* or a *substantial minority* disapprove of as morally wrong, often requiring collective effort to solve. While powerful individuals can influence agendas, the defining characteristic is widespread societal concern. Therefore, \"The few but powerful individuals\" is NOT a standard influence on its definition.\n\nOptions: A: The few but powerful individuals | B: The number of affected individuals | C: Collective effort | D: None",
+    "tags": [
+      "social-problems",
+      "collective-action"
+    ]
+  },
+  {
+    "id": "fc-soc-202-029",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "To consider an issues a social problem, it must ____",
+    "back": "By definition in the course material, a social problem is \"some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it.\" The necessity of collective effort is the defining feature that distinguishes it from a personal trouble.\n\nOptions: A: Require a collective effort to solve | B: Affect both Christians and Muslims | C: Affect the whole of 36 states of Nigeria including Abuja | D: None",
+    "tags": [
+      "social-problems",
+      "collective-action"
+    ]
+  },
+  {
+    "id": "fc-soc-202-030",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ coined the word ____, as an interpretative understanding of human behavior",
+    "back": "Max Weber coined the term 'Verstehen', which means interpretative understanding. He argued that sociology should develop this method for studying human behavior.\n\nOptions: A: Marx Weber and Conflict | B: Weber and Verstehen | C: Marx and Symbolism | D: None of the above",
+    "tags": [
+      "verstehen",
+      "weber",
+      "interpretive",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-031",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Inability to collect individuals' Permanent Voter's Card in Nigeria is an example of ____",
+    "back": "According to C. Wright Mills, a \"public issue\" is a problem affecting a large number of people, rooted in societal and structural flaws. The systemic failure of the PVC distribution system affects a substantial portion of the population, making it clearly a public issue rather than a personal trouble.\n\nOptions: A: Public Issue | B: Personal Trouble | C: Social Problem | D: All of the above",
+    "tags": [
+      "public-issue",
+      "mills",
+      "social-problems"
+    ]
+  },
+  {
+    "id": "fc-soc-202-032",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Political violence in Nigeria can be categorized as",
+    "back": "Political violence is a systemic phenomenon rooted in structural inequalities, competition for power, and the political economy of Nigeria. It affects a large segment of society and demands a collective solution, making it a textbook example of a \"public issue\" in the sociological sense.\n\nOptions: A: Social Problem | B: Personal Issue | C: Public Issue | D: None",
+    "tags": [
+      "public-issue",
+      "nigeria",
+      "political-violence"
+    ]
+  },
+  {
+    "id": "fc-soc-202-033",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ seeks to establish knowledge of the social world by the study of people's own interpretations of the social world",
+    "back": "Interpretative sociology, heavily influenced by Max Weber, is defined by its focus on understanding the social world through the subjective meanings and interpretations that people attach to their actions. It aligns closely with the humanistic method of inquiry.\n\nOptions: A: Interpretative Sociology | B: Qualitative social research | C: Functionalism | D: None of the above",
+    "tags": [
+      "interpretive-sociology",
+      "verstehen",
+      "weber"
+    ]
+  },
+  {
+    "id": "fc-soc-202-034",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following is not true of Symbolic Interactionism?",
+    "back": "Symbolic Interactionism emphasizes human agency, interpretation, and the creation of meaning through interaction. The idea that \"society imposes on the actor how to behave\" is a deterministic view, which is characteristic of functionalist or structuralist theories, not Symbolic Interactionism.\n\nOptions: A: To understand the basis for action actor's view is need to be understood | B: Society imposed on the actor how to behave | C: Man communicate only through shared meaning | D: Symbols and meaning systems make possible the group living",
+    "tags": [
+      "symbolic-interactionism",
+      "core-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-035",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a characteristic which can be measured and which may vary along a continuum",
+    "back": "A variable is defined as a dimension along which an object, individual, or group may be categorized (such as income, height, or education). It is a characteristic that can be measured and varies along a continuum, forming the foundation of empirical research.\n\nOptions: A: Variable | B: Social Change | C: Measurement | D: Sociology",
+    "tags": [
+      "variable",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-036",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "In Durkheim's classic study Suicide, he aimed to establish sociology as a discipline that deals with",
+    "back": "Durkheim argued that sociologists should consider 'social facts' or social phenomena as 'things' that exercise an external coercive influence on human behavior. His study on Suicide was aimed at demonstrating that suicide rates are social facts to be explained sociologically.\n\nOptions: A: Positivism | B: Social facts | C: Interpretivism | D: Social studies",
+    "tags": [
+      "durkheim",
+      "social-facts",
+      "positivism",
+      "suicide"
+    ]
+  },
+  {
+    "id": "fc-soc-202-037",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is a method of sociological research involving the administration of questionnaires to a population being studied",
+    "back": "A survey is specifically defined as a method of sociological research that involves administering questionnaires to a population being studied. It is a primary tool used to collect standardized data from a representative sample.\n\nOptions: A: Sample | B: Survey | C: Research | D: Variable",
+    "tags": [
+      "survey",
+      "research-methods",
+      "questionnaire"
+    ]
+  },
+  {
+    "id": "fc-soc-202-038",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Without systematic research there would have been very little progress.",
+    "back": "Systematic research provides objective, reliable, and replicable data that replaces common sense and speculation. It is a fundamental driver of both social and scientific progress. Without it, our understanding of the world would remain subjective and stagnant.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "systematic-research",
+      "scientific-method",
+      "progress"
+    ]
+  },
+  {
+    "id": "fc-soc-202-039",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is the extent to which a measure, indicator or method of data collection possesses the quality of being sound or true as far as can be judged",
+    "back": "Validity refers to the extent to which a measure or method accurately reflects what it is intended to measure. It ensures the data collected is sound and true. Reliability, in contrast, refers to consistency. Validity ensures we are measuring the correct thing.\n\nOptions: A: Reliability | B: Validity | C: Sampling | D: Analysis",
+    "tags": [
+      "validity",
+      "reliability",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-040",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Quantitative Research Strategies is described as a",
+    "back": "Quantitative research focuses on measuring variables and establishing statistical relationships between them. Because of this focus on variables and their interconnections, it is accurately described as a \"variable-centred research\" strategy, rather than simply being about numbers.\n\nOptions: A: Variable-centred research | B: Explanatory power research | C: Numbers research | D: None of the above",
+    "tags": [
+      "quantitative-research",
+      "research-strategy",
+      "variables"
+    ]
+  },
+  {
+    "id": "fc-soc-202-041",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is the use of multiple method as a way of producing more reliable empirical data than is available from any single method used in isolation",
+    "back": "Triangulation is defined as using multiple research methods (e.g., combining surveys with interviews) to cross-check and validate findings. This approach provides more reliable and comprehensive data than relying on a single method in isolation.\n\nOptions: A: Triangulation | B: Combination | C: Multivariate method | D: Harmonization",
+    "tags": [
+      "triangulation",
+      "research-methods",
+      "data-reliability"
+    ]
+  },
+  {
+    "id": "fc-soc-202-042",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is popularly associated with Positivism",
+    "back": "Auguste Comte is the founder of Positivism. He proposed that society could be studied using the same scientific methods as the natural sciences. While Durkheim later applied positivism famously in his study of suicide, Comte is historically credited as its originator.\n\nOptions: A: Emile Durkheim | B: Auguste Comte | C: Karl Marx | D: Talcott Parsons",
+    "tags": [
+      "positivism",
+      "comte",
+      "scientific-method",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "fc-soc-202-043",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Qualitative research strategies are ____ and informed by the ____ tradition in social theory",
+    "back": "Qualitative research is rooted in the interpretive tradition and focuses on understanding subjective meanings. Therefore, it is best described as \"Meaning-centred\" and informed by the \"interpretivist\" tradition, which seeks to understand social phenomena from the actor's perspective.\n\nOptions: A: Ethnographic-centred, conflict | B: Textual-centred, interpretivist | C: Demographic-centred, functionalist | D: Meaning-centred, interpretivist",
+    "tags": [
+      "qualitative-research",
+      "interpretivism",
+      "theory-tradition"
+    ]
+  },
+  {
+    "id": "fc-soc-202-044",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Sociologists conduct research in all of these places except",
+    "back": "Sociologists are not confined to one specific setting. They conduct experiments in laboratories, make observations of natural behaviour on streets and in markets, and examine historical documents. Since sociologists do conduct research in all these places, the correct answer is \"All of the above\".\n\nOptions: A: Laboratories | B: Streets | C: Markets | D: All of the above",
+    "tags": [
+      "research-settings",
+      "fieldwork",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-045",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Pick the odd one out of the following terms",
+    "back": "Experiments, Observation, and Historical data are all specific types of research methods or data sources. 'Data Collection', however, is the overarching process of gathering information, making it the methodological umbrella term rather than a specific technique—hence it is the odd one out.\n\nOptions: A: Experiments | B: Data Collection | C: Observation | D: Historical data",
+    "tags": [
+      "research-methods",
+      "odd-one-out"
+    ]
+  },
+  {
+    "id": "fc-soc-202-046",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Research methods are investigative techniques used within an academic discipline",
+    "back": "The course material explicitly defines research methods as the investigative techniques employed within an academic discipline. This includes tools like experiments, social surveys, and analyses of documents.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-methods",
+      "academic-discipline"
+    ]
+  },
+  {
+    "id": "fc-soc-202-047",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Each theoretical orientation begins with a different set of ____ and its ultimate value is its ____",
+    "back": "The course material clearly states that each theoretical orientation begins with a different set of assumptions, each has a different focus, and asks different questions. The ultimate value of any orientation is determined by its utility—how well it facilitates the explanation of human social behaviour.\n\nOptions: A: Ideas, Utility | B: Assumptions, Ideas | C: Orientations, Utility | D: Assumptions, Utility",
+    "tags": [
+      "theory",
+      "assumptions",
+      "utility"
+    ]
+  },
+  {
+    "id": "fc-soc-202-048",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The distinction between the strategies in social research are",
+    "back": "The distinction between social research strategies (such as quantitative vs qualitative research) fundamentally lies in their different methodologies. These methodologies are guided by distinct philosophical assumptions about how to conduct research and gather evidence.\n\nOptions: A: Vehicles used in learning | B: Paradigm shifts | C: Theoretical perspectives | D: Methodologies",
+    "tags": [
+      "research-strategy",
+      "methodology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-049",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Which is true of Positivism",
+    "back": "Positivism is founded on the philosophical assumption that reality consists of phenomena that are causally linked to one another. The goal of positivist science is to uncover these universal cause-and-effect relationships through empirical observation.\n\nOptions: A: Reality is constituted of phenomena which are causally linked to one another | B: Reality is constituted of phenomena which are uncausally linked to one another | C: Reality is constituted of phenomena which are ideally linked to one another | D: None of the above",
+    "tags": [
+      "positivism",
+      "causality",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-050",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Interpretive Method relies on none of the following except",
+    "back": "The interpretive method relies primarily on subjective analysis, including intuitive understanding, empathy, and insight. \"Intuition\" is the core process used to interpret social phenomena, whereas the other options (foresight, hindsight, visions) are not the primary tools of this sociological method.\n\nOptions: A: Intuition | B: Foresight | C: Hindsight | D: Visions",
+    "tags": [
+      "interpretive-method",
+      "intuition",
+      "subjective-analysis"
+    ]
+  },
+  {
+    "id": "fc-soc-202-051",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Data collection may take any form",
+    "back": "Data collection is a flexible process that adapts to the research design and objective. It can take many forms, including surveys, interviews, participant observation, experiments, and analysis of historical documents.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "data-collection",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-052",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Suicide rates of a community are considered as 'things' external to the people in a quantitative approach",
+    "back": "Emile Durkheim treated suicide rates as 'social facts'—objective realities that exist external to individuals. This represents a positivist/quantitative approach where social phenomena are treated as measurable 'things' that exercise a coercive power over individuals.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "durkheim",
+      "social-facts",
+      "positivism",
+      "suicide"
+    ]
+  },
+  {
+    "id": "fc-soc-202-053",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Putting yourself in others' shoe in sociology is",
+    "back": "Max Weber's concept of 'Verstehen' translates to interpretative understanding or empathetic understanding. It essentially means putting yourself in the actor's shoes to comprehend their subjective motives and meanings behind social actions.\n\nOptions: A: Conscientization | B: Manipulation | C: Verstehen | D: None",
+    "tags": [
+      "verstehen",
+      "weber",
+      "interpretive",
+      "empathy"
+    ]
+  },
+  {
+    "id": "fc-soc-202-054",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "To understand what social research is about you must clearly understand the followings except",
+    "back": "To understand social research, one must have a clear grasp of the strategy, the design, and the specific methods. Epistemology (the philosophical study of knowledge) is a deeper, more abstract foundation. While it underpins these concepts, it is not a practical, immediate component required to *understand the process*, making it the exception in this list.\n\nOptions: A: Research strategy | B: Research design | C: Research method | D: Epistemology",
+    "tags": [
+      "research-basics",
+      "epistemology",
+      "methodology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-055",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ is used most frequently to collect information from large samples of individuals",
+    "back": "Surveys are specifically designed to collect standardized data from large, representative samples of individuals. The administration of questionnaires or interviews allows researchers to gather quantifiable information efficiently from many respondents at once.\n\nOptions: A: Observation | B: Survey analysis | C: Media research | D: Photography",
+    "tags": [
+      "survey",
+      "large-samples",
+      "data-collection"
+    ]
+  },
+  {
+    "id": "fc-soc-202-056",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The following is a type of research strategy",
+    "back": "The course material distinguishes between two major research strategies: Quantitative and Qualitative. Therefore, the 'Qualitative research strategy' is a primary type of research strategy. While variable-centred is a descriptive term for the quantitative approach, the question asks for the specific type.\n\nOptions: A: Variable-centred research strategy | B: Qualitative research strategy | C: Quantitative research strategy | D: None of the above",
+    "tags": [
+      "research-strategy",
+      "qualitative-research"
+    ]
+  },
+  {
+    "id": "fc-soc-202-057",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ for interpretivists and ____ for positivists",
+    "back": "Interpretivists believe that social reality is socially constructed by human actors (social constructivism). Positivists, conversely, believe that social reality is objective and exists independently of human perception (social objectivism).\n\nOptions: A: Social analyses and Common sense | B: Social constructivism and Social objectivism | C: Social construct and Social object | D: None of the above",
+    "tags": [
+      "epistemology",
+      "interpretivism",
+      "positivism",
+      "constructivism",
+      "objectivism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-058",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "These strategies record and analyse talk and actions, or analyse text that someone has written",
+    "back": "Qualitative research strategies are uniquely designed to record and analyze talk, actions, and written text. They focus on capturing the subjective meanings and experiences of individuals, distinguishing them from the purely numerical focus of quantitative research.\n\nOptions: A: Ethnographic research strategies | B: Historical data research strategies | C: Qualitative research strategies | D: All of the above",
+    "tags": [
+      "qualitative-research",
+      "text-analysis",
+      "talk-analysis"
+    ]
+  },
+  {
+    "id": "fc-soc-202-059",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Pick the correct term among the followings",
+    "back": "Macro-sociology, also known as systematic sociology, studies society as a whole and focuses on broad-scale social structures, institutions, and social change. The correct spelling and hyphenation is \"Macro-Sociological Theories\".\n\nOptions: A: Macros- sociological theories | B: Mavro- Sociological theories | C: Macros- Sociological Theories | D: Macro- Sociological Theories",
+    "tags": [
+      "macro-sociology",
+      "theories",
+      "terminology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-060",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ concerns the theory of knowledge and is the study of how we can come to accept that a research finding is 'true'",
+    "back": "Epistemology is the branch of philosophy concerned with the theory of knowledge. In the context of research, it deals with how we can know what is true, and how we justify our research findings as valid knowledge.\n\nOptions: A: Ontology | B: Epistemology | C: Research Method | D: Qualitative research method",
+    "tags": [
+      "epistemology",
+      "philosophy-of-science",
+      "knowledge"
+    ]
+  },
+  {
+    "id": "fc-soc-202-061",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Those who practice quantitative social research are called",
+    "back": "Positivists are proponents of the scientific method in sociology, believing that social reality can be measured objectively through empirical observation. Quantitative social research is the primary tool used by positivists to uncover causal relationships.\n\nOptions: A: Interpretivist | B: Functionalist | C: Positivist | D: Scientist",
+    "tags": [
+      "positivism",
+      "quantitative-research",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "fc-soc-202-062",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "____ refers to the nature of the social world",
+    "back": "Ontology is the philosophical study of the nature of being, existence, or reality. In social research, ontological questions revolve around what the social world is actually made of and what exists (e.g., do social structures exist independently of individuals?).\n\nOptions: A: Ontology | B: Epistemology | C: Methodology | D: Sociology",
+    "tags": [
+      "ontology",
+      "social-reality",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "fc-soc-202-063",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ determines the actual or potential number of units to be included in the research",
+    "back": "In research methodology, the 'Scale' or size of the study determines the actual or potential number of units (e.g., people, events, documents) to be included. This is closely linked to sampling frames and the overall scope of the research project.\n\nOptions: A: Sociology | B: Anthropology | C: Scale | D: Analysis",
+    "tags": [
+      "scale",
+      "sampling",
+      "research-units"
+    ]
+  },
+  {
+    "id": "fc-soc-202-064",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "____ concept is associated with Social Exchange theory",
+    "back": "Reciprocity is the core concept of Social Exchange theory. It refers to the 'give-and-take' phenomenon where social interactions are driven by a mutual exchange of rewards and costs. For example, giving a gift with the expectation of a returned favor.\n\nOptions: A: Bribery | B: Reciprocity | C: Do-me-I-do-you | D: Press-down-shaken-together",
+    "tags": [
+      "social-exchange-theory",
+      "reciprocity",
+      "key-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-065",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Quantitative social research is most often associated with",
+    "back": "While quantitative research can use observation, it is most frequently associated with social surveys. Surveys use structured questionnaires and standardized interviews to collect numerical data from large samples, aligning perfectly with the positivist pursuit of measurement and statistical analysis.\n\nOptions: A: Social surveys | B: Observation | C: All of the above | D: None of the above",
+    "tags": [
+      "quantitative-research",
+      "social-surveys",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-066",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Social research is a social product shaped by the context in which it is produced",
+    "back": "Social research is not conducted in a vacuum. It is influenced by the prevailing social, political, historical, and cultural conditions of the society in which it is produced. Researchers are shaped by their own social contexts, which inevitably influences the questions asked and the interpretations made.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-context",
+      "social-product",
+      "sociology-of-knowledge"
+    ]
+  },
+  {
+    "id": "fc-soc-202-067",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "The conduct of research involves compromises with circumstances in which it is conducted",
+    "back": "Real-world research often requires compromises due to practical constraints such as budget limitations, time restrictions, access to participants, or ethical considerations. Researchers must adapt their ideal methods to the circumstances they encounter in the field.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-conduct",
+      "compromises",
+      "practical-constraints"
+    ]
+  },
+  {
+    "id": "fc-soc-202-068",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Does all research complies in every way possible with the prescribed ways of conducting research?",
+    "back": "While researchers aspire to follow methodological standards, it is often impossible to adhere strictly to all prescribed ways due to the complexities of the social world. Practical constraints, ethical dilemmas, and unexpected circumstances often force deviations from the ideal script.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "research-compliance",
+      "methodology",
+      "constraints"
+    ]
+  },
+  {
+    "id": "fc-soc-202-069",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Mixed methods research integrates quantitative and qualitative research",
+    "back": "Mixed methods research is defined by the integration of both quantitative (numerical) and qualitative (descriptive) research methods into a single study. This approach allows researchers to benefit from the strengths of both paradigms, producing more comprehensive and reliable data.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "mixed-methods",
+      "quantitative",
+      "qualitative"
+    ]
+  },
+  {
+    "id": "fc-soc-202-070",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following does not belong to this group",
+    "back": "Functionalism, Conflict Theory, and Marxism are all Macro-sociological theories that focus on large-scale social structures and systems. Symbolic Interactionism is a Micro-sociological theory concerned with individual interactions and the meanings people create, making it the odd one out.\n\nOptions: A: Functionalism Theory | B: Conflict Theory | C: Marxism Theory | D: Symbolic Interactionism Theory",
+    "tags": [
+      "sociological-theories",
+      "macro-sociology",
+      "micro-sociology",
+      "symbolic-interactionism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-071",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "____ postulates that a society is analogous to a biological organism",
+    "back": "Structural-functionalism (or Functionalism) draws a parallel between society and a biological organism. Just as an organism consists of interdependent organs working together for the survival of the whole, society consists of interdependent structures (institutions) that work together to maintain stability and social order.\n\nOptions: A: Organizationalism | B: Structural-functionalism | C: Modernization | D: Globalization",
+    "tags": [
+      "structural-functionalism",
+      "society-as-organism",
+      "organic-analogy"
+    ]
+  },
+  {
+    "id": "fc-soc-202-072",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following does not belong to this group",
+    "back": "Phenomenology and Social Exchange are prominent sociological theories. Methodology is the overarching study of research methods which encompasses these approaches. Ethnomedicine, however, is a distinct sub-field within medical anthropology, making it the odd one out in this grouping of core sociological concepts and theories.\n\nOptions: A: Ethnomedicine | B: Phenomenology | C: Methodology | D: Social Exchange",
+    "tags": [
+      "odd-one-out",
+      "ethnomedicine",
+      "theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-073",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ is an exaggerated, over-simplified images, maintained by people, of the characteristics of others outside their group",
+    "back": "A stereotype is defined as an exaggerated, over-simplified image held by people about the characteristics of those outside their group. It is a fixed mental picture, often negative, that does not account for individual differences.\n\nOptions: A: Prejudice | B: Ethnocentrism | C: Stereotype | D: Discrimination",
+    "tags": [
+      "stereotype",
+      "prejudice",
+      "discrimination",
+      "social-psychology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-074",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The following are racial group classification",
+    "back": "Mongoloid, Negroid, and Caucasoid are the traditional (and now largely discredited) biological classifications of racial groups. The course material lists these as the standard racial categories, so 'All of these' is correct.\n\nOptions: A: Mongoloid | B: Negroid | C: Caucasoid | D: All of these",
+    "tags": [
+      "race",
+      "classification",
+      "racial-groups"
+    ]
+  },
+  {
+    "id": "fc-soc-202-075",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of these statements is incorrect",
+    "back": "There is significant overlap in physical traits, including skin color, among different racial groups. The idea that racial groups have completely distinct, non-overlapping skin colors is scientifically false, making statement A incorrect. Racism itself has no scientific backing, as modern science confirms that race is a social construct.\n\nOptions: A: Mongoloid, Caucasoid, and Negroid have no over-lapping skin-colour | B: Racism has no scientific basis or backing | C: Racism has resulted in discrimination in sports, politics, etc | D: Individual racism is an action performed by one person whereas institutional racism is systemic",
+    "tags": [
+      "race",
+      "racism",
+      "incorrect-statement",
+      "skin-color"
+    ]
+  },
+  {
+    "id": "fc-soc-202-076",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ are likely reaction of minority group",
+    "back": "The course material identifies the likely reactions of minority groups to their minority status. These include avoidance (withdrawing from contact with the dominant group), acceptance (accepting the status and discrimination), assimilation (adopting the culture of the dominant group), and aggression (acting out or rioting).\n\nOptions: A: subjugation, colonization, assimilation, congregation | B: cultural pluralism, consolation, aggression | C: avoidance, acceptance, assimilation, aggression | D: population transfer, acceptance, avoidance, collusion",
+    "tags": [
+      "minority-groups",
+      "social-reactions",
+      "assimilation",
+      "aggression"
+    ]
+  },
+  {
+    "id": "fc-soc-202-077",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The term social processes refer to the repetitive forms of behaviour which are commonly found in",
+    "back": "Social processes refer to the repetitive forms of behavior that are commonly found in social life. While they occur in marital, political, and economic contexts, the term fundamentally describes the broader patterns of interaction that make up social life itself.\n\nOptions: A: marital life | B: political life | C: economic life | D: social life",
+    "tags": [
+      "social-processes",
+      "interaction",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-078",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "____ are factors in ageism",
+    "back": "The factors in ageism include social visibility (older people becoming more visible as they age), stereotypes (negative, over-simplified images about the elderly), and rationalization (justifying discriminatory attitudes toward the aged).\n\nOptions: A: social viability, stereotypes, rationalization | B: social veracity, stereotypes, recognition | C: social volatility, stereotypes, rationalization | D: social visibility, stereotypes, rationalization",
+    "tags": [
+      "ageism",
+      "stereotypes",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "fc-soc-202-079",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of these statements is correct?",
+    "back": "Minority status is defined by lack of power, not just group size. They are very conscious of unequal treatment, which ironically strengthens their in-group 'we-feeling'. Option C accurately reflects this sociological understanding of minority group dynamics.\n\nOptions: A: Minority status is always determined by group size | B: Members of minority are not aware or conscious of the unequal treatment they receive | C: We-feeling among members of a minority group is created and strengthened by their awareness of unequal treatment | D: None of the above",
+    "tags": [
+      "minority-groups",
+      "discrimination",
+      "group-consciousness"
+    ]
+  },
+  {
+    "id": "fc-soc-202-080",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Sociologists are interested in inter-group relations because of these reasons, except",
+    "back": "Sociologists study inter-group relations scientifically to understand societal structures and consequences, not to personally choose a group to belong to. This makes option D the outlier, as sociologists maintain objectivity and do not select groups based on their research.\n\nOptions: A: Every society consists of groups characterized by mutually-excluding members | B: Sociology is the science of group relations | C: It enables sociologists to compare and understand consequences of their relations | D: It enables sociologists to choose which group to belong to",
+    "tags": [
+      "inter-group-relations",
+      "sociology-of-groups",
+      "objective-research"
+    ]
+  },
+  {
+    "id": "fc-soc-202-081",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "If a member of a minority group becomes socially and culturally unified with the dominant group, that person is engaging in:",
+    "back": "Assimilation is the process where a minority individual adopts the cultural norms, language, and behaviors of the dominant group, becoming socially and culturally unified with them. It is one of the fundamental minority responses to their status.\n\nOptions: A: Avoidance | B: Acceptance | C: Assimilation | D: Aggression",
+    "tags": [
+      "assimilation",
+      "minority-groups",
+      "dominant-group",
+      "social-response"
+    ]
+  },
+  {
+    "id": "fc-soc-202-082",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How does an elderly person lose control over his or her life?",
+    "back": "Involuntary relocation (such as being forced into a nursing home or moved out of one's long-term residence) removes an elderly person's autonomy over their daily environment. This sudden loss of agency is a major way they lose control over their lives.\n\nOptions: A: through involuntary relocation | B: through early retirement | C: through the use of in-home care as an alternative to a nursing home | D: by continuing to work while receiving Social Security",
+    "tags": [
+      "ageism",
+      "elderly",
+      "social-control",
+      "relocation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-083",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a systematic effort to develop general principles about a particular subject matter based on actual observations and stated in a form that can be tested by a competent person",
+    "back": "Science is defined as the application of systematic methods of research to the study of objects or events, developing general principles based on observations that are testable. While sociology uses this approach, 'Science' as a concept exactly matches the given definition of systematic, testable inquiry.\n\nOptions: A: Theory | B: Science | C: Sociology | D: None of these",
+    "tags": [
+      "science",
+      "scientific-method",
+      "observation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-084",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "According to ____, the distinctive feature of social interaction among people is that human beings interpret each other's action",
+    "back": "Herbert Blumer coined the term Symbolic Interactionism and emphasized that human beings act toward things based on the meanings those things have for them. This distinctive feature includes interpreting each other's actions through shared symbols.\n\nOptions: A: Weber | B: Blumer | C: Rosenberg | D: Comte",
+    "tags": [
+      "symbolic-interactionism",
+      "blumer",
+      "interpretation",
+      "social-action"
+    ]
+  },
+  {
+    "id": "fc-soc-202-085",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "How do sociological theories differ from informal theories?",
+    "back": "Informal theories are often based on common sense, speculation, or uncritical personal observation. Sociological theories, in contrast, are systematically developed and continuously tested, scrutinized, and refined against empirical evidence.\n\nOptions: A: Informal theories have been previously verified | B: Sociological theories have no practical applications | C: Sociological theories are subjected to continuous scrutiny and testing | D: Informal theories offer systematic explanations of social life",
+    "tags": [
+      "theory",
+      "sociological-theory",
+      "empirical-testing"
+    ]
+  },
+  {
+    "id": "fc-soc-202-086",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The contention that the struggle for power and wealth in society should be the central concern of Sociology is consistent with ____ theory",
+    "back": "Conflict theory, rooted in the work of Karl Marx, argues that society is characterized by an endless struggle for scarce resources, particularly power and wealth. This is in direct contrast to Structural-functionalism which emphasizes consensus and stability.\n\nOptions: A: Structural-functionalism | B: Conflict | C: Symbolic-Interactionism | D: All of these",
+    "tags": [
+      "conflict-theory",
+      "power",
+      "wealth",
+      "struggle"
+    ]
+  },
+  {
+    "id": "fc-soc-202-087",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Sociologists who focus upon minute aspects of interaction that occur in small groups are likely to be:",
+    "back": "Symbolic Interactionism is a micro-sociological theory that focuses on the minute aspects of face-to-face interaction in small groups. It seeks to explain social behavior through the meanings individuals attach to their interactions.\n\nOptions: A: conflict theorists | B: structural-functionalism | C: Symbolic-Interactionism | D: None",
+    "tags": [
+      "micro-sociology",
+      "symbolic-interactionism",
+      "small-groups"
+    ]
+  },
+  {
+    "id": "fc-soc-202-088",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Before a sociologist gathers the data, he or she must:",
+    "back": "Before collecting data, a sociologist must thoroughly review existing literature, formulate a clear hypothesis, and establish a research design. These preparatory steps ensure the research is grounded in theory, focused, and methodologically sound.\n\nOptions: A: formulate hypothesis | B: pick research design | C: review literature | D: All of these",
+    "tags": [
+      "research-process",
+      "hypothesis",
+      "research-design"
+    ]
+  },
+  {
+    "id": "fc-soc-202-089",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Observation research is a method that sociologists select when they are seeking:",
+    "back": "Observation (especially participant observation) is a qualitative method used to collect rich, in-depth, and detailed information. Because it is intensive, it focuses on a small number of subjects, allowing the researcher to understand behavior in its natural context.\n\nOptions: A: generalization about a large number of people | B: causal relationships | C: rich, detailed information about a small number of subjects | D: the least time-consuming method",
+    "tags": [
+      "observation",
+      "qualitative-research",
+      "in-depth-data"
+    ]
+  },
+  {
+    "id": "fc-soc-202-090",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The ability to evaluate reality without using personal opinions and biases refers to social research ____",
+    "back": "Objectivity is the goal of scientific investigation, requiring researchers to evaluate reality free from personal opinions, emotions, and biases. It is the cornerstone of the scientific method in sociology.\n\nOptions: A: ethics | B: speculations | C: objectivity | D: verifiable evidence",
+    "tags": [
+      "objectivity",
+      "bias",
+      "scientific-method"
+    ]
+  },
+  {
+    "id": "fc-soc-202-091",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "What was the major source of the data used by W. I. Thomas for his work titled: The Polish Peasant?",
+    "back": "W.I. Thomas and Florian Znaniecki's famous sociological study 'The Polish Peasant in Europe and America' utilized personal documents such as letters and autobiographies. These are considered primary sources of data, as they are firsthand accounts of the subjects' lives.\n\nOptions: A: Primary | B: Secondary | C: Tertiary | D: All of these",
+    "tags": [
+      "primary-data",
+      "thomas",
+      "polish-peasant",
+      "data-sources"
+    ]
+  },
+  {
+    "id": "fc-soc-202-092",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "\"You defy bleach oh you defy bleach. Yellow Fever...\" This Fela Anikulapo's song is ____",
+    "back": "Fela Kuti's song 'Yellow Fever' is a strong critique against skin bleaching and the colonial mentality that leads Black people to desire whiteness. The song serves as a powerful anti-racist statement, rejecting the internalization of racial inferiority.\n\nOptions: A: Racist | B: Anti-racist | C: Prejudicial | D: None of these",
+    "tags": [
+      "anti-racism",
+      "fela-kuti",
+      "yellow-fever",
+      "popular-culture"
+    ]
+  },
+  {
+    "id": "fc-soc-202-093",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The success performance of a play in a theatre depends on actors, drummers, stage-managers, costumiers, technical team, directors, and others. This reasoning best resembles that of ____",
+    "back": "This reasoning emphasizes the interdependence of various specialized parts working together to create a successful whole. This mirrors the Functionalist perspective, which views society as a system of interdependent parts functioning together for stability and equilibrium.\n\nOptions: A: Conflict sociologists | B: Symbolic-interactionist | C: Dramaturgist | D: Functionalists",
+    "tags": [
+      "functionalism",
+      "organic-analogy",
+      "interdependence"
+    ]
+  },
+  {
+    "id": "fc-soc-202-094",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a system of social relationships",
+    "back": "Society is fundamentally defined as a system of social relationships that binds people together through shared institutions, norms, and interactions. While marriage, interaction, and friendship are components or forms of social relationships, the overarching system is Society.\n\nOptions: A: Marriage | B: Interaction | C: Society | D: Friendship",
+    "tags": [
+      "society",
+      "social-relationships",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-095",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Competition is always governed by norms",
+    "back": "Competition is a social process that does not occur in a vacuum; it is strictly regulated by social norms, laws, and rules. These norms define fair and unfair practices, ensuring that the competition does not escalate into destructive conflict.\n\nOptions: A: True | B: False | C: Undecided | D: None of these",
+    "tags": [
+      "competition",
+      "social-norms",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "fc-soc-202-096",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "A Social Welfare and a Social Problem are the same",
+    "back": "Social welfare refers to a positive state of well-being and happiness, while a social problem is a set of conditions disapproved of as morally wrong and harmful. They are distinct concepts, so the statement is false.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "social-welfare",
+      "social-problems",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-097",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Sociology is only interested in observing the activities of man in society",
+    "back": "Sociology goes beyond mere observation; it seeks to systematically explain, interpret, and predict social phenomena using theory and research methods, not just observe activities.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "sociology",
+      "nature-of-discipline"
+    ]
+  },
+  {
+    "id": "fc-soc-202-098",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Sociology and social work are one and the same discipline",
+    "back": "Sociology is an academic/scientific discipline concerned with explaining social phenomena, while social work is a practice-oriented profession concerned with helping individuals and communities. They are related but distinct.\n\nOptions: A: True | B: False | C: Ambiguous | D: Partially True",
+    "tags": [
+      "sociology",
+      "social-work",
+      "careers"
+    ]
+  },
+  {
+    "id": "fc-soc-202-099",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following is not Durkheim's contribution to Functionalism?",
+    "back": "Elementary Forms of Religious Life, The Rules of Sociological Method, and Suicide are all major works by Emile Durkheim that contributed to Functionalism. Since all three are genuinely his contributions, 'None' is correct.\n\nOptions: A: Elementary Forms of Religious Life | B: Rules of Sociological Methods | C: Suicide | D: None",
+    "tags": [
+      "durkheim",
+      "functionalism",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "fc-soc-202-100",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which sociological theory is considered to be the best in explaining social change in society?",
+    "back": "Conflict theory is traditionally regarded as best explaining social change, since it centers change, competition, and struggle for scarce resources as inevitable features of society. Functionalism, by contrast, is criticized for struggling to account for social change because of its emphasis on stability and equilibrium.\n\nOptions: A: structural-functionalism | B: symbolic-interactionism | C: conflict | D: All of these",
+    "tags": [
+      "conflict-theory",
+      "social-change",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-101",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "……………….. may be studied by the kind or mode of interaction they exhibit.",
+    "back": "Social relationships are studied and classified according to the kind or mode of interaction they exhibit (e.g. cooperative, competitive, conflictual), making this the correct term.\n\nOptions: A: Social Gathering | B: Social Relationship | C: Social people | D: All of these",
+    "tags": [
+      "social-relationship",
+      "interaction"
+    ]
+  },
+  {
+    "id": "fc-soc-202-102",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "…………….. interaction is a transaction between two individuals, groups or societies in which an event of give-and-take occurs.",
+    "back": "Exchange interaction is defined as a transaction involving give-and-take between two individuals, groups or societies, which is the foundation of Social Exchange Theory.\n\nOptions: A: Market | B: Dowry | C: Gift | D: Exchange",
+    "tags": [
+      "social-exchange-theory",
+      "interaction"
+    ]
+  },
+  {
+    "id": "fc-soc-202-103",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "A major contributor to the development and explanation of Symbolic Interactionism is …………",
+    "back": "Charles Horton Cooley, along with George Herbert Mead and Herbert Blumer, was a major contributor to the development of Symbolic Interactionism, notably through his concept of the 'looking-glass self'.\n\nOptions: A: Herbert Spencer | B: Howard Brown | C: Charles Cooley | D: Georg Simmel",
+    "tags": [
+      "symbolic-interactionism",
+      "cooley"
+    ]
+  },
+  {
+    "id": "fc-soc-202-104",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "One of these is not a theory in Sociology.",
+    "back": "Structural-Functionalism, Marxism, and Phenomenology are all recognized sociological theories. 'Symbolic-Rationalism' is not an established sociological theory (it is a distortion of 'Symbolic Interactionism').\n\nOptions: A: Symbolic-Rationalism | B: Structural-Functionalism | C: Marxism | D: Phenomenology",
+    "tags": [
+      "sociological-theories",
+      "odd-one-out"
+    ]
+  },
+  {
+    "id": "fc-soc-202-105",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The act of taking the role of the other, imagining how we look to another person is known as ……………",
+    "back": "Cooley's concept of the 'looking-glass self' describes the process of imagining how one appears to others, and shaping one's self-image based on that imagined perception.\n\nOptions: A: Role-taking | B: Self-comparison | C: Looking-glass-self | D: Looking-mirror-role",
+    "tags": [
+      "looking-glass-self",
+      "cooley",
+      "symbolic-interactionism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-106",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The highly formalised and specialised type of cooperation is known as ……………. cooperation.",
+    "back": "Formal cooperation refers to the highly formalised and specialised type of cooperation, typically governed by explicit rules and organisational structures, as opposed to primary (informal, face-to-face) cooperation.\n\nOptions: A: Formal | B: Indirect | C: Primary | D: None of these",
+    "tags": [
+      "cooperation",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "fc-soc-202-107",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "As a factor in social change, social movement develops because of:",
+    "back": "Social movements develop from a combination of factors including social strain, close interaction and communication among members, and shared status/grievances, making 'All of these' correct.\n\nOptions: A: strain | B: close-interaction and communication | C: shared status | D: All of these",
+    "tags": [
+      "social-change",
+      "social-movement"
+    ]
+  },
+  {
+    "id": "fc-soc-202-108",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How do people with physical challenges accommodate to the expectations or desires of the majority?",
+    "back": "Accommodation involves adjusting one's own behaviour to fit majority expectations rather than trying to change the majority or withdraw from it — for example, visually-impaired people using sighted phrases like 'I see' to fit conventional speech norms.\n\nOptions: A: They form political organization to alter societal expectations. | B: The might, for example, seek alternative health care to try to cure their physical challenges. | C: The visually-impaired learn to use phrases such as \"I see\" or \"It looks like.\" | D: The seek to establish alternative communities to reduce interactions with people without physical challenges",
+    "tags": [
+      "physical-challenges",
+      "accommodation",
+      "disability"
+    ]
+  },
+  {
+    "id": "fc-soc-202-109",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "………….states that human act towards people and things according to the meanings that give to those people or things.",
+    "back": "This is Blumer's basic premise of Symbolic Interactionism: human beings act toward people and things on the basis of the meanings those people/things have for them.\n\nOptions: A: Symbol | B: Sign | C: Meaning | D: Thought",
+    "tags": [
+      "symbolic-interactionism",
+      "blumer",
+      "meaning"
+    ]
+  },
+  {
+    "id": "fc-soc-202-110",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Health and medical-care costs of ageism are evidenced by:",
+    "back": "The health and medical-care costs of ageism include slower emergency response for older people, being viewed as undesirable patients, and service agencies unable to meet all their needs — all of these are documented costs.\n\nOptions: A: an inverse relationship between people's age and the speed of emergency treatment. | B: seniors who are undesirable from a treatment point of view. | C: service agencies that cannot address all of the seniors' needs. | D: all of the above.",
+    "tags": [
+      "ageism",
+      "health-costs"
+    ]
+  },
+  {
+    "id": "fc-soc-202-111",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "………is a set of beliefs asserting the superiority of the young over the old.",
+    "back": "Ageism is the set of beliefs and prejudicial attitudes asserting the superiority of one age group (typically the young) over another (the old).\n\nOptions: A: sexism | B: fundamentalism | C: ageism | D: ethnocentrism",
+    "tags": [
+      "ageism",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "fc-soc-202-112",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "……. theory states that the society functions so that each individual participant and its group struggle to maximize their benefits.",
+    "back": "Social Exchange theory holds that individuals and groups act to maximize rewards/benefits and minimize costs in their social interactions, consistent with this description.\n\nOptions: A: Functionalism | B: Conflict | C: Exchange | D: All of these",
+    "tags": [
+      "social-exchange-theory",
+      "reciprocity"
+    ]
+  },
+  {
+    "id": "fc-soc-202-113",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is incorrect?",
+    "back": "Religious inclination does influence population dynamics (e.g. attitudes to family planning, marriage, fertility), so it is incorrect to claim population is unaffected by religion — making D the incorrect statement.\n\nOptions: A: Population size has profound effect on a society. | B: Too small population will cause a society to cease to exist. | C: Too large population can lead to destructive social change. | D: The population of a society is not affected by prevailing religious inclination.",
+    "tags": [
+      "population",
+      "social-change"
+    ]
+  },
+  {
+    "id": "fc-soc-202-114",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Social change occurs as a result of cooperated interests rather than competing interest.",
+    "back": "Social change is typically driven by competing interests and struggles over scarce resources (as conflict theory emphasizes), not cooperated interests. The statement is false.\n\nOptions: A: True | B: False | C: Undecided | D: None of these",
+    "tags": [
+      "social-change",
+      "conflict-theory"
+    ]
+  },
+  {
+    "id": "fc-soc-202-115",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "A category of people that is set apart by itself or others because of distinct cultural or national qualities is a/an ……………...",
+    "back": "An ethnic group is defined as a category of people set apart from others because of distinct cultural or national qualities, distinguishing it from a racial group (based on physical traits).\n\nOptions: A: Racial Group | B: Ethnic Group | C: Minority Group | D: None of these",
+    "tags": [
+      "ethnic-group",
+      "minority-groups"
+    ]
+  },
+  {
+    "id": "fc-soc-202-116",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of the following is a source of social change?",
+    "back": "Cultural innovation, population change, and environmental change are all recognized sources of social change.\n\nOptions: A: Cultural innovation | B: Population | C: Environment | D: All of the above",
+    "tags": [
+      "social-change",
+      "sources"
+    ]
+  },
+  {
+    "id": "fc-soc-202-117",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "From a functionalist perspective, the basis of social order and the most social mode of interaction is ……………..",
+    "back": "Functionalism sees society as maintained through consensus, shared values, and interdependence — cooperation is therefore the basis of social order and the primary social mode of interaction from this perspective.\n\nOptions: A: Conflict | B: Mediation | C: Cooperation | D: Competition",
+    "tags": [
+      "functionalism",
+      "cooperation",
+      "social-order"
+    ]
+  },
+  {
+    "id": "fc-soc-202-118",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Discovery, invention and diffusion are all types of ……………",
+    "back": "Discovery, invention, and diffusion are all recognized as types/sources of cultural innovation, which drives social change.\n\nOptions: A: Social Movement | B: Violent Crowds | C: Cultural Innovation | D: Environmental Change",
+    "tags": [
+      "cultural-innovation",
+      "discovery",
+      "diffusion",
+      "invention"
+    ]
+  },
+  {
+    "id": "fc-soc-202-119",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Scarcity is not a condition of competition.",
+    "back": "Scarcity of resources is a fundamental condition that gives rise to competition; without scarcity there would be little basis for competitive struggle. The statement is false.\n\nOptions: A: True | B: False | C: Undecided | D: None of these",
+    "tags": [
+      "competition",
+      "scarcity"
+    ]
+  },
+  {
+    "id": "fc-soc-202-120",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "…………….. and …………….. are the two main traditions of social exchange.",
+    "back": "Social Exchange theory has two main traditions: the individualistic tradition (associated with George Homans) and the collectivistic tradition (associated with Levi-Strauss).\n\nOptions: A: Individualistic and Dyad | B: Individualistic and Group | C: Individualistic and Collectivistic | D: Individualistic and Society.",
+    "tags": [
+      "social-exchange-theory",
+      "homans",
+      "levi-strauss"
+    ]
+  },
+  {
+    "id": "fc-soc-202-121",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "According to resource-mobilization theory, the development of modern women's movement was encouraged by …………………",
+    "back": "Resource-mobilization theory emphasizes that social movements develop when an organisational structure exists that provides a context for aggrieved people (here, women) to discuss grievances and coordinate action.\n\nOptions: A: the creation of an organisation that provided a context for women to discuss grievances and decide on actions. | B: the rising expectations associated with actual advances. | C: economic shifts that encouraged dual-earners families, higher educational attainment, and delayed parenthood. | D: broadening the movement to address other civil-rights issues.",
+    "tags": [
+      "resource-mobilization",
+      "social-movement",
+      "gender"
+    ]
+  },
+  {
+    "id": "fc-soc-202-122",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "A ……….. embraces a set of interrelated definitions and relationship that organise our concepts of, and understanding of, the empirical world in a systematic way.",
+    "back": "A theory is defined as a set of interrelated concepts, definitions, and relationships that organise our understanding of the empirical world in a systematic way.\n\nOptions: A: Theory | B: Proposition | C: Communication | D: Language",
+    "tags": [
+      "theory",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-123",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "……………. are the fundamental ways in which men interact and establish relationships.",
+    "back": "Social processes (such as cooperation, competition, conflict, and accommodation) are the fundamental, recurring ways in which people interact and establish relationships with one another.\n\nOptions: A: Social Interaction | B: Social Processes | C: Social Relationships | D: None of these",
+    "tags": [
+      "social-processes",
+      "interaction"
+    ]
+  },
+  {
+    "id": "fc-soc-202-124",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is not one of the steps in the development of ageism?",
+    "back": "The development of ageism typically involves distinct visibility of older people, negative (not positive) stereotypes, rationalization of disengagement, and the accommodations seniors make to their status. Attributing positive qualities like 'more dependable' is not a step in the development of ageism, since ageism is fundamentally a negative prejudice.\n\nOptions: A: Distinct visibility of older people as different | B: positive qualities that the general population attribute to older people, such as being more dependable | C: The rationalization that older people enjoy being disengaged from the everyday world of the rest of the population. | D: accommodation that senior citizens attempt to make to their status, such as appearing graceful about retirement.",
+    "tags": [
+      "ageism",
+      "stereotypes"
+    ]
+  },
+  {
+    "id": "fc-soc-202-125",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is true in regard to all minority groups?",
+    "back": "Minority status is defined not by numerical size but by limited access to power, opportunities, and rewards. Minority groups can in fact be numerically larger than the dominant group (e.g. under apartheid), so C is the universally true statement.\n\nOptions: A: They always contain fewer people than the dominant group | B: They contain people who were born outside Nigeria | C: They suffer limited opportunities and rewards | D: All of the above",
+    "tags": [
+      "minority-groups",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "fc-soc-202-126",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Prejudice is to discrimination as:",
+    "back": "Prejudice is a negative attitude (a belief/feeling), while discrimination is the restrictive behaviour that can result from that attitude. The relationship is therefore: negative attitudes are to restrictive behaviour.\n\nOptions: A: attitudes of southerners are to attitudes of northerners | B: attitudes towards Yoruba are to attitudes towards Ibo or Hausa | C: negative attitudes are to restrictive behaviour. | D: negative behaviour is to positive behaviour.",
+    "tags": [
+      "prejudice",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "fc-soc-202-127",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is an occupational barrier for people of with physical challenges?",
+    "back": "Architectural barriers, negative employer attitudes, and transportation barriers are all recognized occupational barriers faced by people with physical challenges.\n\nOptions: A: architectural barriers | B: employers' attitudes | C: transportation barriers | D: all of the above",
+    "tags": [
+      "physical-challenges",
+      "occupational-barriers"
+    ]
+  },
+  {
+    "id": "fc-soc-202-128",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "All these are forms of conflict except",
+    "back": "War, feud, and litigation are all classically recognized forms of institutionalized or overt conflict in sociological literature, so none of them is an exception.\n\nOptions: A: War | B: Feud | C: Litigation | D: None of these",
+    "tags": [
+      "conflict",
+      "forms-of-conflict"
+    ]
+  },
+  {
+    "id": "fc-soc-202-129",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Disengagement ….",
+    "back": "Disengagement theory suggests that the withdrawal of the elderly from social roles is less negative in its impact when it occurs gradually and is coupled with continuity (maintaining some familiar activities/relationships), rather than being a sudden or total break.\n\nOptions: A: occurs only when elderly people relocate | B: involves married couples and not individuals | C: applies exclusively to the time period immediately after retirement. | D: is less negative in its impact if it is coupled with continuity.",
+    "tags": [
+      "disengagement",
+      "ageism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-130",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "When do the elderly seem to have the greatest political impact?",
+    "back": "The elderly have the greatest political impact when they mobilize collectively around a specific issue that directly affects them, concentrating their voting power and advocacy efforts.\n\nOptions: A: when they mobilize around a specific issue. | B: when they live in retirement communities | C: when they are able to incorporate younger members into their organization | D: when they belong to a political party",
+    "tags": [
+      "ageism",
+      "political-impact"
+    ]
+  },
+  {
+    "id": "fc-soc-202-131",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "All these are conflict theorists except.",
+    "back": "Georg Simmel, Karl Marx, and Lewis Coser are all recognized conflict theorists. Auguste Comte is the founder of Positivism and a Functionalist forerunner, not a conflict theorist.\n\nOptions: A: Georg Simmel | B: Karl Marx | C: Auguste Comte | D: Lewis Coser",
+    "tags": [
+      "conflict-theory",
+      "sociologists"
+    ]
+  },
+  {
+    "id": "fc-soc-202-132",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "All the following statements are correct about diffusion, except.",
+    "back": "Diffusion is actually a two-way (or multi-directional) process — cultures both borrow from and lend to one another. Claiming it 'is not a two-way process' is the incorrect statement.\n\nOptions: A: Within a receiving culture, diffusion involves modification and adaptation. | B: Some cultural elements diffuse more readily than the others. | C: Diffusion is not a two-way process. | D: Within a culture, some conditions may favour some cultural traits to diffuse and prevent others.",
+    "tags": [
+      "cultural-diffusion",
+      "social-change"
+    ]
+  },
+  {
+    "id": "fc-soc-202-133",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Why are stereotypes useful to those who maintain them?",
+    "back": "Stereotypes are 'useful' to those who hold them because they help rationalize and justify the subordinate position of a downtrodden group, reinforcing existing social hierarchies rather than promoting understanding.\n\nOptions: A: They facilitate understanding among diverse groups | B: They allow people to reduce both prejudice and discrimination. | C: They provide a basis for interactions between members of a racial or ethnic group. | D: They help confirm that a downtrodden group should remain in its lowly position.",
+    "tags": [
+      "stereotype",
+      "prejudice"
+    ]
+  },
+  {
+    "id": "fc-soc-202-134",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Competition could not cause a person to adopt new forms of behaviour in order to attain desired ends.",
+    "back": "Competition frequently drives people to adopt new behaviours, strategies, or innovations in order to gain an advantage and attain desired ends, so the statement is false.\n\nOptions: A: True | B: False | C: Undecided | D: None of these",
+    "tags": [
+      "competition",
+      "social-processes"
+    ]
+  },
+  {
+    "id": "fc-soc-202-135",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is an example of institutional racism?",
+    "back": "Housing segregation, inferior schools in poor black districts, and discriminatory hiring requirements are all examples of institutional racism — racism embedded in the structures and practices of institutions rather than individual acts.\n\nOptions: A: segregation in housing | B: inferior schools in poor, black school districts | C: job requirements in hiring that make it difficult for minorities to qualify | D: all of the above",
+    "tags": [
+      "institutional-racism",
+      "racism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-136",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "According to the colonial-labour principle, racial minorities serve white controller's interests and needs. According to this explanation, ………………… Factors play a key role in prejudice and discrimination.",
+    "back": "The colonial-labour principle explains racial minority exploitation in terms of serving the economic interests of a dominant group, making economic factors central to this explanation of prejudice and discrimination.\n\nOptions: A: psychological | B: interpersonal | C: economic | D: multicultural",
+    "tags": [
+      "racism",
+      "colonial-labour-principle",
+      "economic-factors"
+    ]
+  },
+  {
+    "id": "fc-soc-202-137",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The use of offensive language, the pervasiveness of racial humor, and widespread stereotypes of ethnic minorities have the effect of increasing the social distance between groups. These factors represent ……………. sources of prejudices and discrimination.",
+    "back": "Offensive language, racial humour, and stereotypes are transmitted and reinforced through social interaction and culture, making them social sources of prejudice and discrimination.\n\nOptions: A: psychological | B: social | C: economic | D: multicultural",
+    "tags": [
+      "racism",
+      "prejudice",
+      "social-sources"
+    ]
+  },
+  {
+    "id": "fc-soc-202-138",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is not an effect of prejudice and discriminations?",
+    "back": "Prejudice and discrimination typically reduce, not increase, occupational opportunities for their targets. Lower life satisfaction and educational deficiencies are documented effects, but increased occupational opportunities is not.\n\nOptions: A: lower life satisfaction | B: educational deficiencies | C: increased occupational opportunities | D: None of these",
+    "tags": [
+      "prejudice",
+      "discrimination",
+      "effects"
+    ]
+  },
+  {
+    "id": "fc-soc-202-139",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "'Success ageing' contains which of the following characteristics?",
+    "back": "'Successful ageing' is characterized by personal well-being, the capacity for independent activity, and having a private safety net (financial/social support) — all of these combine to define successful ageing.\n\nOptions: A: personal well-being | B: capacity for independent activity | C: a private safety net | D: all of the above",
+    "tags": [
+      "ageism",
+      "successful-ageing"
+    ]
+  },
+  {
+    "id": "fc-soc-202-140",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The dominant-group policy that seeks to eliminate separate ethnic interests and develop a common identity is:",
+    "back": "Assimilation is the dominant-group policy that seeks to eliminate separate ethnic interests and identities, absorbing minority groups into a single common (dominant) identity.\n\nOptions: A: cultural pluralism | B: population transfer | C: subjugation | D: assimilation",
+    "tags": [
+      "assimilation",
+      "minority-groups",
+      "dominant-group-policy"
+    ]
+  },
+  {
+    "id": "fc-soc-202-141",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is/are outcome of social alienation of the elderly in Nigeria?",
+    "back": "Social alienation of the elderly in Nigeria has been linked to victimization, criminality directed against them, and being viewed with suspicion, so all of these are outcomes.\n\nOptions: A: victimization | B: criminality | C: suspicion | D: all of these",
+    "tags": [
+      "ageism",
+      "nigeria",
+      "social-alienation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-142",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How does sexism appear in the behaviour patterns that women have traditionally learned?",
+    "back": "The question asks about learned behaviour patterns of women themselves (not external barriers or others' claims). Women restricting the demonstration of their own intelligence reflects internalized sexism shaping learned behaviour, distinct from options A-C which describe external treatment or beliefs about women.\n\nOptions: A: It appears in the sexual harassment that victimizes women. | B: It appears in the claim that women are less responsible and more unstable than men. | C: It appears in the occupational areas where women are confined to less-prestigious jobs. | D: It appears when women restrict demonstration of their intelligence.",
+    "tags": [
+      "sexism",
+      "gender"
+    ]
+  },
+  {
+    "id": "fc-soc-202-143",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Slavery is an example of the dominant-group policy of:",
+    "back": "Slavery represents a dominant-group policy of continued subjugation — the ongoing, forcible domination and exploitation of a minority group rather than their elimination or absorption.\n\nOptions: A: assimilation | B: extermination | C: continued subjugation | D: legal protection",
+    "tags": [
+      "slavery",
+      "subjugation",
+      "minority-groups"
+    ]
+  },
+  {
+    "id": "fc-soc-202-144",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is a minority response to minority status?",
+    "back": "Avoidance, acceptance, and assimilation (along with aggression) are all recognized minority responses to minority status.\n\nOptions: A: avoidance | B: acceptance | C: assimilation | D: all of these",
+    "tags": [
+      "minority-groups",
+      "minority-response"
+    ]
+  },
+  {
+    "id": "fc-soc-202-145",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Using data banks produced by other researchers is referred to as:",
+    "back": "Secondary analysis refers to the use of data banks and data sets originally produced/collected by other researchers, rather than collecting new (primary) data.\n\nOptions: A: secondary analysis | B: survey method | C: non-participant observation | D: None",
+    "tags": [
+      "secondary-analysis",
+      "data-sources",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-146",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "How is the 'second shift' one of the career costs of sexism?",
+    "back": "The 'second shift' concept refers to women bearing the dominant responsibility for housework and child care at home after completing a full day of paid employment, effectively working a second, unpaid 'shift'.\n\nOptions: A: It forces women to work the second shift, a schedule that prevents them from being home during the evening to care for their children. | B: It requires women to settle for working hours that men do not want. | C: It necessitates working twice as long as men to receive a salary equivalent to men in the same occupation. | D: It gives women the dominant responsibility for housework and child care after they have completed their paying jobs.",
+    "tags": [
+      "sexism",
+      "second-shift",
+      "gender"
+    ]
+  },
+  {
+    "id": "fc-soc-202-147",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "What is the intent of affirmative action on women?",
+    "back": "Affirmative action policies are intended to encourage organisations to actively hire and include women (and other underrepresented groups) of diverse backgrounds, correcting historical exclusion.\n\nOptions: A: to deny employment to women | B: to encourage organisations to hire women of diverse backgrounds | C: to provide members of the dominant group with alternative perspectives and divergent approaches to women | D: None of the above",
+    "tags": [
+      "affirmative-action",
+      "sexism",
+      "gender"
+    ]
+  },
+  {
+    "id": "fc-soc-202-148",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "………..……… and ……………. are peculiar crimes Ayodele (2010) linked to old people in Nigeria.",
+    "back": "According to Ayodele (2010), the peculiar crimes linked to old people in Nigeria combine elements described in options B and C — paedophilia, human trafficking, receiving stolen goods, and suicide.\n\nOptions: A: paedophilia, affray, human trafficking | B: paedophilia, human trafficking, receiving stolen goods | C: suicide, paedophilia, human trafficking | D: B & C",
+    "tags": [
+      "ageism",
+      "nigeria",
+      "crime"
+    ]
+  },
+  {
+    "id": "fc-soc-202-149",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "In structural-functionalism,",
+    "back": "Structural-functionalism holds that society's parts interrelate harmoniously for mutual benefit, that social interactions have identifiable component parts, and that groups adjust to one another in a stable, conflict-free pattern — all of these describe the perspective.\n\nOptions: A: parts/structures interrelate or work together in harmony and adjust for mutual benefits. | B: social interactions are composed of identifiable parts/segments. | C: groups in interactions tend to influence and adjust to one another in a fairly stable, conflict-free pattern. | D: all of the above",
+    "tags": [
+      "structural-functionalism",
+      "functionalism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-150",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "……………. is the number of births per 1000 persons in a society in a given year.",
+    "back": "The Crude Birth Rate is defined as the number of births per 1000 persons in a society in a given year, distinct from age-specific fertility rate (which is age-group specific) and fecundity (biological capacity to reproduce).\n\nOptions: A: Age-Specific Fertility Rate | B: Fecundity | C: Crude Birth Rate | D: A & B",
+    "tags": [
+      "demography",
+      "crude-birth-rate",
+      "population"
+    ]
+  },
+  {
+    "id": "fc-soc-202-151",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Why has it been necessary to establish affirmative action?",
+    "back": "Affirmative action was established because institutional and individual racism historically interfered with equal-employment opportunities for minorities and women, necessitating corrective policy.\n\nOptions: A: because institutional and individual racism have interfered with equal-employment opportunities | B: because there are too few qualified people to fill all of the available positions. | C: because the number of available jobs has declined. | D: None of the above",
+    "tags": [
+      "affirmative-action",
+      "racism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-152",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The following statements are true of discovery except:",
+    "back": "Discovery is not limited to material items — non-material aspects of culture (e.g. laws, principles, social patterns) can also be discovered. Claiming only material items can be discovered is therefore false.\n\nOptions: A: It is the perception of something that already exists but had not been previously recognized. | B: Only material items of a culture could be discovered. | C: It takes time for the potential contributions of discovery to be appreciated. | D: None of the above",
+    "tags": [
+      "discovery",
+      "cultural-innovation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-153",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "The costs of homophobia include:",
+    "back": "Denial of identity, isolation, and violence are all recognized costs/consequences of homophobia experienced by its targets.\n\nOptions: A: denial of one's identity | B: isolation | C: violence | D: All of these",
+    "tags": [
+      "homophobia",
+      "discrimination"
+    ]
+  },
+  {
+    "id": "fc-soc-202-154",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following are examples of the violent costs of sexism?",
+    "back": "Rape, sexual harassment, and battering are all examples of the violent costs of sexism.\n\nOptions: A: rape | B: sexual harassment | C: battering | D: all of these",
+    "tags": [
+      "sexism",
+      "violence",
+      "gender"
+    ]
+  },
+  {
+    "id": "fc-soc-202-155",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following is a cost of ageism?",
+    "back": "A recognized cost of ageism is 'group-involvement cost' — the reduced opportunity for older people to participate in social groups and organisations due to age-based exclusion.\n\nOptions: A: intelligence cost | B: interpretive cost | C: group-involvement cost | D: alternative relationship cost",
+    "tags": [
+      "ageism",
+      "costs"
+    ]
+  },
+  {
+    "id": "fc-soc-202-156",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "People with physical challenges can expect which of the following psychological cost or effect?",
+    "back": "People with physical challenges can experience a sense of powerlessness, income loss, and victimization by violence — all recognized psychological/social costs of their status.\n\nOptions: A: a sense of powerlessness | B: income loss | C: being the victims of violence | D: all of the above",
+    "tags": [
+      "physical-challenges",
+      "psychological-costs"
+    ]
+  },
+  {
+    "id": "fc-soc-202-157",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Which of the following statements is/are correct?",
+    "back": "Old people in Nigeria do suffer governmental and non-governmental neglect. The other statements are overgeneralizations (not all elderly have dementia or low locomotion, and the 'Analog vs Digital' claim is not a sociological classification).\n\nOptions: A: Old people constitute suffer governmental and non-governmental neglects in Nigeria | B: All old people suffer from dementia. | C: All elderly persons have extremely low locomotion. | D: Nigerians are Analog whereas younger Nigerians are Digital.",
+    "tags": [
+      "ageism",
+      "nigeria"
+    ]
+  },
+  {
+    "id": "fc-soc-202-158",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "One of these statements is incorrect.",
+    "back": "Language is in fact one of the most important symbol systems for interaction in Symbolic Interactionism, so claiming it is 'not an acceptable symbol' is incorrect.\n\nOptions: A: Symbols have meanings agreed upon by parties in interactions. | B: Symbols are interpreted and re-interpreted by actors in interaction settings. | C: Symbolic communications involve the use of gestures. | D: Language is not an acceptable symbol for interaction.",
+    "tags": [
+      "symbolic-interactionism",
+      "symbols",
+      "language"
+    ]
+  },
+  {
+    "id": "fc-soc-202-159",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The combination of existing knowledge to produce something new in a culture is known as ……………..",
+    "back": "Invention is the combination of existing knowledge or cultural elements to produce something new, distinct from discovery (recognizing something already existing) and diffusion (spread between cultures).\n\nOptions: A: Cultural Diffusion | B: Discovery | C: Cultural Innovation | D: Invention",
+    "tags": [
+      "invention",
+      "cultural-innovation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-160",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "In determining the population of a given country, which of the following is/are crucial?",
+    "back": "Birth rate, death rate, and migration rate are all crucial factors in determining a country's population.\n\nOptions: A: Birth Rate | B: Death Rate | C: Migration Rate | D: All of these",
+    "tags": [
+      "demography",
+      "population"
+    ]
+  },
+  {
+    "id": "fc-soc-202-161",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which of these statements is incorrect?",
+    "back": "While the physical environment influences occupations and beliefs, claiming it strictly 'determines' them reflects environmental determinism, which is largely rejected in modern sociology — environment influences but does not rigidly determine social outcomes.\n\nOptions: A: Physical environment has tremendous influence on a society. | B: Changes in the physical environment will instigate social change. | C: Physical environment determines variations in occupations and beliefs across societies. | D: All of the above",
+    "tags": [
+      "environmental-determinism",
+      "social-change"
+    ]
+  },
+  {
+    "id": "fc-soc-202-162",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Pro-natal population policy involves the following, except",
+    "back": "Pro-natal policies aim to increase population growth (through immigration, marriage encouragement, reduced child mortality, and parental leave). Regulating/limiting family size through family planning is an anti-natal, not pro-natal, measure.\n\nOptions: A: promoting influx of people through visa lottery. | B: encouraging marriages and reducing U-5 mortality | C: regulating family size through family planning facilities | D: promoting maternity and paternity leave",
+    "tags": [
+      "population-policy",
+      "pro-natal"
+    ]
+  },
+  {
+    "id": "fc-soc-202-163",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "………... is the process by which cultural traits move from one culture to another or within culture.",
+    "back": "Cultural diffusion is the process by which cultural traits spread from one culture to another, or within a culture, through contact and interaction.\n\nOptions: A: Cultural Diffusion | B: Discovery | C: Cultural Innovation | D: Invention",
+    "tags": [
+      "cultural-diffusion",
+      "social-change"
+    ]
+  },
+  {
+    "id": "fc-soc-202-164",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "……... is a systematic, direct, definite and deliberate examination of the spontaneous occurrences at the time of their occurrence.",
+    "back": "Observation is defined (Rao, 2006) as a systematic, direct, definite, and deliberate examination of spontaneous occurrences at the time they occur.\n\nOptions: A: Experimentation | B: Hypothesis | C: Deduction | D: Observation",
+    "tags": [
+      "observation",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-165",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Unlike in the physical sciences, conducting research in the field of Sociology is problematic.",
+    "back": "Conducting sociological research is problematic in ways physical science research is not, since human subjects are self-aware, reactive, and value-laden, unlike inert natural phenomena.\n\nOptions: A: Ambiguous | B: False | C: True | D: None of these",
+    "tags": [
+      "research-challenges",
+      "sociology-vs-science"
+    ]
+  },
+  {
+    "id": "fc-soc-202-166",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "None of the sociological perspectives is fully independent of the others",
+    "back": "Sociological perspectives overlap and inform one another; no single perspective operates in complete isolation from the others, so the statement is true.\n\nOptions: A: Ambiguous | B: False | C: True | D: None of these",
+    "tags": [
+      "sociological-theories",
+      "interdependence"
+    ]
+  },
+  {
+    "id": "fc-soc-202-167",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "A major flaw in the functionalist perspective is the fact that we have rarely seen anything approaching equilibrium in human societies.",
+    "back": "This is a well-known criticism of Functionalism: real human societies rarely display the stable equilibrium the theory assumes, making the statement true.\n\nOptions: A: Ambiguous | B: False | C: True | D: None of these",
+    "tags": [
+      "functionalism",
+      "criticisms"
+    ]
+  },
+  {
+    "id": "fc-soc-202-168",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "The study of the underlying rules of behaviour that guide group interaction is ……",
+    "back": "Ethnomethodology is defined as the study of the methods/underlying rules people use to make sense of and guide their everyday group interactions.\n\nOptions: A: Ethnomethodology | B: Phenomenology | C: Symbolic Interactionism | D: None of these",
+    "tags": [
+      "ethnomethodology",
+      "micro-sociology"
+    ]
+  },
+  {
+    "id": "fc-soc-202-169",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "A research design that takes as its subject a single case or a few selected examples of a social entity, studied using a variety of methods, is known as a:",
+    "back": "A case study is a research design focused on a single instance or a few selected examples of a social entity (e.g. a community, group, or individual), studied in depth using multiple methods.\n\nOptions: A: Survey | B: Case Study | C: Sample | D: Focus Group",
+    "tags": [
+      "case-study",
+      "research-design"
+    ]
+  },
+  {
+    "id": "fc-soc-202-170",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "In social research, a person who answers a questionnaire or provides requested information is called a:",
+    "back": "A respondent is a research subject from whom the researcher elicits information, typically by answering a questionnaire or interview.\n\nOptions: A: Sample | B: Respondent | C: Variable | D: Coder",
+    "tags": [
+      "respondent",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-171",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The association between two variables such that a change in one is accompanied by a change in the other is known as:",
+    "back": "Correlation refers to the association between two variables such that when one changes in magnitude, the other also changes (concomitant variation). It can be positive or negative.\n\nOptions: A: Validity | B: Reliability | C: Correlation | D: Triangulation",
+    "tags": [
+      "correlation",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-172",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "When one variable increases and the other variable also increases, this is described as:",
+    "back": "Positive correlation describes the situation in which an increase in one variable is accompanied by an increase in the other.\n\nOptions: A: Negative correlation | B: Positive correlation | C: Zero correlation | D: Inverse correlation",
+    "tags": [
+      "correlation",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-173",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "An orientation to research that emphasizes the collection of facts and observations at the expense of conceptual reflection and theoretical enquiry is known as:",
+    "back": "Empiricism, in the sociological sense used here, refers to an orientation that emphasizes fact and observation collection over theoretical reflection, and has been linked to methodological naturalism in Sociology.\n\nOptions: A: Empiricism | B: Positivism | C: Interpretivism | D: Rationalism",
+    "tags": [
+      "empiricism",
+      "research-orientation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-174",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The dependability of data collected, such that repeated measurement of the same individuals gives the same results, is known as:",
+    "back": "Reliability refers to the dependability of a measure — a reliable measure gives consistent results when applied to the same individuals on more than one occasion.\n\nOptions: A: Validity | B: Reliability | C: Objectivity | D: Replication",
+    "tags": [
+      "reliability",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-175",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Repetition of the same basic study or experiment to check its accuracy or estimate experimental error is known as:",
+    "back": "Replication is the repetition of a study or experiment in order to check the accuracy of its findings or estimate the margin of experimental error.\n\nOptions: A: Triangulation | B: Replication | C: Correlation | D: Sampling",
+    "tags": [
+      "replication",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-176",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The percentage of an eligible random sample that agrees to participate in an interview survey is called the:",
+    "back": "The response rate is the percentage of an eligible random sample who actually agree to participate in a survey or interview.\n\nOptions: A: Sample size | B: Response Rate | C: Correlation Rate | D: Reliability Rate",
+    "tags": [
+      "response-rate",
+      "sampling"
+    ]
+  },
+  {
+    "id": "fc-soc-202-177",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A research method in which selected groups participate in a focused discussion on a research issue is called:",
+    "back": "A focus group is a qualitative research method in which selected participants engage in a guided, focused discussion on a specific research issue.\n\nOptions: A: Case Study | B: Focus Group | C: Ethnography | D: Survey",
+    "tags": [
+      "focus-group",
+      "qualitative-research"
+    ]
+  },
+  {
+    "id": "fc-soc-202-178",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Research in which elements and conditions of a social setting are controlled by the researcher, but in a more natural setting than a laboratory, is called:",
+    "back": "A field experiment involves the researcher controlling elements and conditions of a social setting, but conducted in a more natural environment than the artificial confines of a laboratory.\n\nOptions: A: Laboratory Experiment | B: Field Experiment | C: Participant Observation | D: Survey Research",
+    "tags": [
+      "field-experiment",
+      "experimentation"
+    ]
+  },
+  {
+    "id": "fc-soc-202-179",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A way of gaining insight into human action by understanding the socio-cultural setting in which it occurs, focusing on how actors interpret their social setting, is called the:",
+    "back": "The Verstehen method, associated with Max Weber, is a way of gaining insight into human action by understanding how actors themselves interpret the socio-cultural setting in which their action occurs.\n\nOptions: A: Historical-Comparative Method | B: Verstehen Method | C: Field Experiment | D: Hypothetico-deductive Method",
+    "tags": [
+      "verstehen",
+      "weber",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-180",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A method of sociological research in which events of a particular time and place are studied and compared with similar events in another time and place is called the:",
+    "back": "The Historical-Comparative method studies and compares events of a particular time and place with similar events in another time and place, to reveal basic social features shared or contrasted across societies.\n\nOptions: A: Verstehen Method | B: Participant Observation | C: Historical-Comparative Method | D: Field Experiment",
+    "tags": [
+      "historical-comparative-method",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-181",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A method in which theories are taken from existing schools of thought (e.g. Marxism, Functionalism) and hypotheses derived from them are tested against evidence is known as the:",
+    "back": "The Hypothetico-deductive method derives testable hypotheses from existing theoretical schools (like Marxism or Functionalism) and tests them against evidence collected in the field or library, either verifying or refuting the hypothesis.\n\nOptions: A: Hypothetico-deductive Method | B: Ethnography | C: Verstehen Method | D: Historical-Comparative Method",
+    "tags": [
+      "hypothetico-deductive-method",
+      "theory-testing"
+    ]
+  },
+  {
+    "id": "fc-soc-202-182",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "A key disadvantage of the ethnographic method is that:",
+    "back": "A major disadvantage of ethnography is that the investigator, often being a member of the society studied, may idealize their own culture and suppress unflattering information, leading to a form of ethnocentrism.\n\nOptions: A: It requires complex interview schedules and computers. | B: The investigator may idealize their own culture, leading to ethnocentrism. | C: It cannot be used by a member of the society being studied. | D: It always produces quantitative data.",
+    "tags": [
+      "ethnography",
+      "limitations"
+    ]
+  },
+  {
+    "id": "fc-soc-202-183",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Data that are obtained through enumeration and measurement, and can be expressed in numerical form, are known as:",
+    "back": "Quantitative data are data in numerical form, obtained through enumeration and measurement, as opposed to qualitative data which are descriptive accounts of observations or interviews.\n\nOptions: A: Qualitative Data | B: Quantitative Data | C: Secondary Data | D: Historical Data",
+    "tags": [
+      "quantitative-data",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-184",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Firsthand information collected directly by an investigator from fieldwork, survey research, or observation is known as:",
+    "back": "Primary data refers to firsthand information collected directly by an investigator through fieldwork, survey research, observation, or opinion polls.\n\nOptions: A: Secondary Data | B: Primary Data | C: Historical Data | D: Content Data",
+    "tags": [
+      "primary-data",
+      "data-sources"
+    ]
+  },
+  {
+    "id": "fc-soc-202-185",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "The branch of sociology concerned with the analysis of elementary forms and processes of social behaviour at the interpersonal, face-to-face level is known as:",
+    "back": "Micro-sociology is concerned with the analysis of elementary forms and processes of social behaviour that occur relatively informally at the interpersonal level in face-to-face contexts and small groups.\n\nOptions: A: Macro-sociology | B: Micro-sociology | C: Systematic sociology | D: Historical sociology",
+    "tags": [
+      "micro-sociology",
+      "analytical-divisions"
+    ]
+  },
+  {
+    "id": "fc-soc-202-186",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Sociology as a whole, concerned with broad-scale or grand-scale analysis of complex organizations such as bureaucracies, institutions, and social movements, is also known as:",
+    "back": "Macro-sociology, also known as systematic sociology, studies society as a whole, concerned with broad-scale analysis of complex organizations, institutions, and social change.\n\nOptions: A: Micro-sociology | B: Systematic (Macro) Sociology | C: Ethnomethodology | D: Phenomenology",
+    "tags": [
+      "macro-sociology",
+      "analytical-divisions"
+    ]
+  },
+  {
+    "id": "fc-soc-202-187",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Which theories are most often associated with the microscopic level of sociological analysis?",
+    "back": "Exchange Theory, Symbolic Interaction theory, Phenomenology-Ethnomethodology, and Action Theory are the theories most commonly associated with the microscopic level of sociological analysis, focused on individual action and interaction.\n\nOptions: A: Functionalism and Conflict Theory | B: Exchange Theory, Symbolic Interaction, Phenomenology-Ethnomethodology, and Action Theory | C: Marxism and Modernization Theory | D: Structural-Functionalism and Marxism",
+    "tags": [
+      "micro-sociology",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "fc-soc-202-188",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "According to the course material, which two research methods are most often applied at the microscopic level of sociological analysis?",
+    "back": "The experiment and participant observation are the two methods most often applied at the microscopic level of sociological analysis, since both focus closely on individual behaviour and interaction.\n\nOptions: A: Historical-Comparative Method and the Questionnaire | B: Social Survey and Content Analysis | C: The Experiment and Participant Observation | D: Historical Research and Ethnography",
+    "tags": [
+      "micro-sociology",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "fc-soc-202-189",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The theoretical perspective that is diametrically opposed to Functionalism, stressing human freedom, intentionality, and individual existence over society and social forces, is:",
+    "back": "Phenomenology is diametrically opposed to Functionalism: it stresses human freedom, intentionality and choice, and concentrates on individual existence, in contrast to Functionalism's deterministic focus on society and social forces.\n\nOptions: A: Conflict Theory | B: Phenomenology | C: Structural-Functionalism | D: Modernization Theory",
+    "tags": [
+      "phenomenology",
+      "functionalism",
+      "theory-comparison"
+    ]
+  },
+  {
+    "id": "fc-soc-202-190",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Ethnomethodology seeks to understand the unspecified, implicit, and unconsciously used guidelines by which people:",
+    "back": "Ethnomethodology seeks to understand the implicit, unconsciously used guidelines or 'ethnomethods' by which people construct social reality and sustain an orderly social life through interaction.\n\nOptions: A: Vote in elections | B: Construct social reality and sustain orderly social life | C: Compete for scarce economic resources | D: Maintain equilibrium in social institutions",
+    "tags": [
+      "ethnomethodology",
+      "social-reality"
+    ]
+  },
+  {
+    "id": "fc-soc-202-191",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Action theory is primarily oriented toward understanding:",
+    "back": "Action theory is oriented not so much toward individuals themselves, but toward the effect of the 'meaning context' in which people's actions exist, seeking to understand how individuals experience and interpret that context.\n\nOptions: A: The structure and function of society as a whole | B: The effect of the 'meaning context' in which people's actions exist | C: The scarcity of economic resources | D: The biological analogy between society and an organism",
+    "tags": [
+      "action-theory",
+      "meaning-context"
+    ]
+  },
+  {
+    "id": "fc-soc-202-192",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Which sociologist wrote on the 'individualistic' tradition of Social Exchange theory in British and American Sociology?",
+    "back": "George Homans wrote on the 'individualistic' tradition of Social Exchange theory in British and American Sociology, while Levi-Strauss wrote on the 'collectivistic' tradition in French Sociology.\n\nOptions: A: Levi-Strauss | B: George Homans | C: Max Weber | D: Herbert Blumer",
+    "tags": [
+      "social-exchange-theory",
+      "homans"
+    ]
+  },
+  {
+    "id": "fc-soc-202-193",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "The evolutionary view that traditional societies change their basic structure through economic development and industrialization in order to survive is known as:",
+    "back": "Modernization theory is an evolutionary view holding that traditional societies change their basic structure through economic development and industrialization, moving toward a more complex, mobile, industrial-model society.\n\nOptions: A: Conflict Theory | B: Modernization Theory | C: Symbolic Interactionism | D: Ethnomethodology",
+    "tags": [
+      "modernization-theory",
+      "social-change"
+    ]
+  },
+  {
+    "id": "fc-soc-202-194",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "According to the course material, Marxism is best described as:",
+    "back": "Marxism is described as more or less the same thing as Conflict Theory — a form of conflict analysis closely based on Marx's critique of the capitalist system and his premise about the likelihood of class conflict.\n\nOptions: A: A completely independent theory unrelated to Conflict Theory | B: A form of Conflict Theory closely based on Marx's critique of capitalism and the likelihood of class conflict | C: A branch of Functionalism | D: A purely micro-sociological theory",
+    "tags": [
+      "marxism",
+      "conflict-theory"
+    ]
+  },
+  {
+    "id": "fc-soc-202-195",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "According to Chinoy (1967), the double value of Sociology as both tested theory and a body of reliable facts is that it can:",
+    "back": "According to Chinoy (1967), Sociology's double value is that it adds to our understanding of ourselves and society, and contributes to solving the problems we face in achieving and maintaining the kind of society we hope to live in.\n\nOptions: A: Only help solve government policy problems | B: Add to man's understanding of himself and society, and contribute to solving problems faced in achieving the kind of society he hopes to live in | C: Replace all other social sciences | D: Only be used for academic research, not practical application",
+    "tags": [
+      "uses-of-sociology",
+      "chinoy"
+    ]
+  },
+  {
+    "id": "fc-soc-202-196",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Which of the following is NOT typically listed as a career path for a graduate in Sociology, according to the course material?",
+    "back": "Probation/Parole Officer, Personnel Officer, and Marriage Counsellor are all listed as career paths for Sociology graduates. Nuclear Physicist is unrelated to the discipline of Sociology.\n\nOptions: A: Probation or Parole Officer | B: Personnel Officer | C: Marriage Counsellor | D: Nuclear Physicist",
+    "tags": [
+      "careers",
+      "sociology-graduates"
+    ]
+  },
+  {
+    "id": "fc-soc-202-197",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Sociology helps replace ethnocentrism and cultural relativism by teaching students that:",
+    "back": "Sociology's scientific attitude teaches that the customs, traditions, religions, and cultures of others are not inherently bad simply because they differ from one's own — an important lesson for multi-ethnic states like Nigeria.\n\nOptions: A: All cultures should adopt Western customs | B: The customs, traditions, religions and cultures of others are not bad simply because they are different | C: Only scientific cultures deserve study | D: Cultural diversity should be eliminated for national unity",
+    "tags": [
+      "pedagogical-advantages",
+      "ethnocentrism",
+      "cultural-relativism"
+    ]
+  },
+  {
+    "id": "fc-soc-202-198",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The application of moral rules and professional codes of conduct to the collection, analysis, and reporting of information about research subjects, including respect for privacy and informed consent, is known as:",
+    "back": "Research ethics refers to the application of moral rules and professional codes of conduct to research, particularly protecting subjects' rights to privacy, confidentiality, and informed consent.\n\nOptions: A: Research Ethics | B: Objectivity | C: Triangulation | D: Replication",
+    "tags": [
+      "research-ethics",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "fc-soc-202-199",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "According to Bogdan and Taylor (1975), methodology in the social sciences refers broadly to:",
+    "back": "Bogdan and Taylor (1975) define methodology, in the broad sense, as the process, principles, and procedures by which researchers approach problems and seek answers — closely tied to underlying assumptions, interests, and goals.\n\nOptions: A: Only the statistical formulas used in analysis | B: The process, principles, and procedures by which we approach problems and seek answers | C: The specific software used for data collection | D: The physical location where research is conducted",
+    "tags": [
+      "methodology",
+      "bogdan-taylor"
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rc-soc-202-165",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Unlike in the physical sciences, conducting research in the field of Sociology is problematic.",
+    "back": "Conducting sociological research is problematic in ways physical science research is not, since human subjects are self-aware, reactive, and value-laden, unlike inert natural phenomena.",
+    "tags": [
+      "research-challenges",
+      "sociology-vs-science"
+    ]
+  },
+  {
+    "id": "rc-soc-202-166",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "None of the sociological perspectives is fully independent of the others",
+    "back": "Sociological perspectives overlap and inform one another; no single perspective operates in complete isolation from the others, so the statement is true.",
+    "tags": [
+      "sociological-theories",
+      "interdependence"
+    ]
+  },
+  {
+    "id": "rc-soc-202-168",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "The study of the underlying rules of behaviour that guide group interaction is ……",
+    "back": "Ethnomethodology is defined as the study of the methods/underlying rules people use to make sense of and guide their everyday group interactions.",
+    "tags": [
+      "ethnomethodology",
+      "micro-sociology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-185",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "The branch of sociology concerned with the analysis of elementary forms and processes of social behaviour at the interpe...",
+    "back": "Micro-sociology is concerned with the analysis of elementary forms and processes of social behaviour that occur relatively informally at the interpersonal level in face-to-face contexts and small groups.",
+    "tags": [
+      "micro-sociology",
+      "analytical-divisions"
+    ]
+  },
+  {
+    "id": "rc-soc-202-186",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Sociology as a whole, concerned with broad-scale or grand-scale analysis of complex organizations such as bureaucracies...",
+    "back": "Macro-sociology, also known as systematic sociology, studies society as a whole, concerned with broad-scale analysis of complex organizations, institutions, and social change.",
+    "tags": [
+      "macro-sociology",
+      "analytical-divisions"
+    ]
+  },
+  {
+    "id": "rc-soc-202-187",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Which theories are most often associated with the microscopic level of sociological analysis?",
+    "back": "Exchange Theory, Symbolic Interaction theory, Phenomenology-Ethnomethodology, and Action Theory are the theories most commonly associated with the microscopic level of sociological analysis, focused on individual action and interaction.",
+    "tags": [
+      "micro-sociology",
+      "sociological-theories"
+    ]
+  },
+  {
+    "id": "rc-soc-202-188",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "According to the course material, which two research methods are most often applied at the microscopic level of sociolog...",
+    "back": "The experiment and participant observation are the two methods most often applied at the microscopic level of sociological analysis, since both focus closely on individual behaviour and interaction.",
+    "tags": [
+      "micro-sociology",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-199",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "According to Bogdan and Taylor (1975), methodology in the social sciences refers broadly to:",
+    "back": "Bogdan and Taylor (1975) define methodology, in the broad sense, as the process, principles, and procedures by which researchers approach problems and seek answers — closely tied to underlying assumptions, interests, and goals.",
+    "tags": [
+      "methodology",
+      "bogdan-taylor"
+    ]
+  }
+]

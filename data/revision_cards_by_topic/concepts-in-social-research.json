@@ -1,0 +1,322 @@
+[
+  {
+    "id": "rc-soc-202-004",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "One of these statements is true about a theory",
+    "back": "A theory is defined as a set of logically interrelated concepts with empirical reference that purports to explain phenomena.",
+    "tags": [
+      "theory",
+      "concepts",
+      "epistemology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-007",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Subjectivity is synonymous with the scientific cleavage of sociology",
+    "back": "Subjectivity refers to the perspective of the person (subject) and a lack of objectivity.",
+    "tags": [
+      "objectivity",
+      "subjectivity",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-008",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Social research is a technical subject and has a precise language",
+    "back": "Social research is indeed a technical subject requiring the use of precise terminology (such as 'variables', 'hypotheses', 'sampling', 'triangulation').",
+    "tags": [
+      "research-basics",
+      "technical-language"
+    ]
+  },
+  {
+    "id": "rc-soc-202-013",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a set of tools used by sociologists to explicate and predict social phenomena",
+    "back": "Social theory is defined as a set of logically interrelated ideas that enable one to explain and predict social phenomena.",
+    "tags": [
+      "social-theory",
+      "prediction",
+      "explanation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-035",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a characteristic which can be measured and which may vary along a continuum",
+    "back": "A variable is defined as a dimension along which an object, individual, or group may be categorized (such as income, height, or education).",
+    "tags": [
+      "variable",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-038",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Without systematic research there would have been very little progress.",
+    "back": "Systematic research provides objective, reliable, and replicable data that replaces common sense and speculation.",
+    "tags": [
+      "systematic-research",
+      "scientific-method",
+      "progress"
+    ]
+  },
+  {
+    "id": "rc-soc-202-039",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is the extent to which a measure, indicator or method of data collection possesses the quality of being sound or tr...",
+    "back": "Validity refers to the extent to which a measure or method accurately reflects what it is intended to measure.",
+    "tags": [
+      "validity",
+      "reliability",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-046",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Research methods are investigative techniques used within an academic discipline",
+    "back": "The course material explicitly defines research methods as the investigative techniques employed within an academic discipline.",
+    "tags": [
+      "research-methods",
+      "academic-discipline"
+    ]
+  },
+  {
+    "id": "rc-soc-202-051",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Data collection may take any form",
+    "back": "Data collection is a flexible process that adapts to the research design and objective.",
+    "tags": [
+      "data-collection",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-054",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "To understand what social research is about you must clearly understand the followings except",
+    "back": "To understand social research, one must have a clear grasp of the strategy, the design, and the specific methods.",
+    "tags": [
+      "research-basics",
+      "epistemology",
+      "methodology"
+    ]
+  },
+  {
+    "id": "rc-soc-202-063",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ determines the actual or potential number of units to be included in the research",
+    "back": "In research methodology, the 'Scale' or size of the study determines the actual or potential number of units (e.",
+    "tags": [
+      "scale",
+      "sampling",
+      "research-units"
+    ]
+  },
+  {
+    "id": "rc-soc-202-083",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a systematic effort to develop general principles about a particular subject matter based on actual observations...",
+    "back": "Science is defined as the application of systematic methods of research to the study of objects or events, developing general principles based on observations that are testable.",
+    "tags": [
+      "science",
+      "scientific-method",
+      "observation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-085",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "How do sociological theories differ from informal theories?",
+    "back": "Informal theories are often based on common sense, speculation, or uncritical personal observation.",
+    "tags": [
+      "theory",
+      "sociological-theory",
+      "empirical-testing"
+    ]
+  },
+  {
+    "id": "rc-soc-202-090",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The ability to evaluate reality without using personal opinions and biases refers to social research ____",
+    "back": "Objectivity is the goal of scientific investigation, requiring researchers to evaluate reality free from personal opinions, emotions, and biases.",
+    "tags": [
+      "objectivity",
+      "bias",
+      "scientific-method"
+    ]
+  },
+  {
+    "id": "rc-soc-202-094",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "____ is a system of social relationships",
+    "back": "Society is fundamentally defined as a system of social relationships that binds people together through shared institutions, norms, and interactions.",
+    "tags": [
+      "society",
+      "social-relationships",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-101",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "……………….. may be studied by the kind or mode of interaction they exhibit.",
+    "back": "Social relationships are studied and classified according to the kind or mode of interaction they exhibit (e.",
+    "tags": [
+      "social-relationship",
+      "interaction"
+    ]
+  },
+  {
+    "id": "rc-soc-202-122",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "A ……….. embraces a set of interrelated definitions and relationship that organise our concepts of, and understanding of...",
+    "back": "A theory is defined as a set of interrelated concepts, definitions, and relationships that organise our understanding of the empirical world in a systematic way.",
+    "tags": [
+      "theory",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-150",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "……………. is the number of births per 1000 persons in a society in a given year.",
+    "back": "The Crude Birth Rate is defined as the number of births per 1000 persons in a society in a given year, distinct from age-specific fertility rate (which is age-group specific) and fecundity (biological capacity to reproduce).",
+    "tags": [
+      "demography",
+      "crude-birth-rate",
+      "population"
+    ]
+  },
+  {
+    "id": "rc-soc-202-160",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "In determining the population of a given country, which of the following is/are crucial?",
+    "back": "Birth rate, death rate, and migration rate are all crucial factors in determining a country's population.",
+    "tags": [
+      "demography",
+      "population"
+    ]
+  },
+  {
+    "id": "rc-soc-202-169",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "A research design that takes as its subject a single case or a few selected examples of a social entity, studied using a...",
+    "back": "A case study is a research design focused on a single instance or a few selected examples of a social entity (e.",
+    "tags": [
+      "case-study",
+      "research-design"
+    ]
+  },
+  {
+    "id": "rc-soc-202-170",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "In social research, a person who answers a questionnaire or provides requested information is called a:",
+    "back": "A respondent is a research subject from whom the researcher elicits information, typically by answering a questionnaire or interview.",
+    "tags": [
+      "respondent",
+      "basic-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-171",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The association between two variables such that a change in one is accompanied by a change in the other is known as:",
+    "back": "Correlation refers to the association between two variables such that when one changes in magnitude, the other also changes (concomitant variation).",
+    "tags": [
+      "correlation",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-172",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "When one variable increases and the other variable also increases, this is described as:",
+    "back": "Positive correlation describes the situation in which an increase in one variable is accompanied by an increase in the other.",
+    "tags": [
+      "correlation",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-173",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "An orientation to research that emphasizes the collection of facts and observations at the expense of conceptual reflect...",
+    "back": "Empiricism, in the sociological sense used here, refers to an orientation that emphasizes fact and observation collection over theoretical reflection, and has been linked to methodological naturalism in Sociology.",
+    "tags": [
+      "empiricism",
+      "research-orientation"
+    ]
+  },
+  {
+    "id": "rc-soc-202-174",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The dependability of data collected, such that repeated measurement of the same individuals gives the same results, is k...",
+    "back": "Reliability refers to the dependability of a measure — a reliable measure gives consistent results when applied to the same individuals on more than one occasion.",
+    "tags": [
+      "reliability",
+      "research-concepts"
+    ]
+  },
+  {
+    "id": "rc-soc-202-175",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Repetition of the same basic study or experiment to check its accuracy or estimate experimental error is known as:",
+    "back": "Replication is the repetition of a study or experiment in order to check the accuracy of its findings or estimate the margin of experimental error.",
+    "tags": [
+      "replication",
+      "research-methods"
+    ]
+  },
+  {
+    "id": "rc-soc-202-176",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The percentage of an eligible random sample that agrees to participate in an interview survey is called the:",
+    "back": "The response rate is the percentage of an eligible random sample who actually agree to participate in a survey or interview.",
+    "tags": [
+      "response-rate",
+      "sampling"
+    ]
+  },
+  {
+    "id": "rc-soc-202-198",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "The application of moral rules and professional codes of conduct to the collection, analysis, and reporting of informati...",
+    "back": "Research ethics refers to the application of moral rules and professional codes of conduct to research, particularly protecting subjects' rights to privacy, confidentiality, and informed consent.",
+    "tags": [
+      "research-ethics",
+      "basic-concepts"
+    ]
+  }
+]
