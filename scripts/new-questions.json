@@ -1,0 +1,907 @@
+[
+  {
+    "id": "soc-202-200",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Variable (Independent, Dependent, Intervening)",
+    "question_text": "The variable that represents the causal factor in a cause-and-effect relationship is known as the ___",
+    "options": [
+      { "key": "A", "text": "Dependent variable" },
+      { "key": "B", "text": "Intervening variable" },
+      { "key": "C", "text": "Independent variable" },
+      { "key": "D", "text": "Extraneous variable" }
+    ],
+    "correct_option": "C",
+    "explanation": "The independent variable is the causal factor in a cause-and-effect relationship. The dependent variable is the effect; the intervening variable is a test factor introduced to see whether it produces the dependent variable.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["variables", "concepts"]
+  },
+  {
+    "id": "soc-202-201",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Variable (Independent, Dependent, Intervening)",
+    "question_text": "A variable which affects the relationship between an independent variable and a dependent variable, but which is not directly seen or controlled, is called a(n) ___",
+    "options": [
+      { "key": "A", "text": "Dependent variable" },
+      { "key": "B", "text": "Independent variable" },
+      { "key": "C", "text": "Moderator variable" },
+      { "key": "D", "text": "Intervening variable" }
+    ],
+    "correct_option": "D",
+    "explanation": "An intervening variable is a test factor introduced to determine its ability to produce the dependent variable through its interaction with the independent factor. It is not directly seen or controlled.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["variables", "concepts"]
+  },
+  {
+    "id": "soc-202-202",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Case Study",
+    "question_text": "A research design that takes as its subject a single case or a few selected examples of a social entity and employs a variety of methods to study them is known as a ___",
+    "options": [
+      { "key": "A", "text": "Survey" },
+      { "key": "B", "text": "Case study" },
+      { "key": "C", "text": "Experiment" },
+      { "key": "D", "text": "Ethnography" }
+    ],
+    "correct_option": "B",
+    "explanation": "A case study is the study of a single instance of a phenomenon either for its own sake (e.g. a particular person or strike) or as a research design that takes a single case or a few selected examples and uses a variety of methods to study them.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["case-study", "concepts"]
+  },
+  {
+    "id": "soc-202-203",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Respondent",
+    "question_text": "A person from whom a researcher wants to elicit information is called a ___",
+    "options": [
+      { "key": "A", "text": "Sample" },
+      { "key": "B", "text": "Respondent" },
+      { "key": "C", "text": "Hypothesizer" },
+      { "key": "D", "text": "Coder" }
+    ],
+    "correct_option": "B",
+    "explanation": "A respondent is a research subject — the person from whom the researcher wants to elicit information. A respondent answers a questionnaire or a request for information of some kind.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["respondent", "concepts"]
+  },
+  {
+    "id": "soc-202-204",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Questionnaire",
+    "question_text": "Which of the following is NOT one of the uses of a questionnaire identified in sociological research?",
+    "options": [
+      { "key": "A", "text": "Examining the general characteristics of a population" },
+      { "key": "B", "text": "Examining attitudes" },
+      { "key": "C", "text": "Establishing the relationship between two variables" },
+      { "key": "D", "text": "Performing controlled laboratory experiments" }
+    ],
+    "correct_option": "D",
+    "explanation": "Sociologists use questionnaires to (a) examine general population characteristics, (b) examine attitudes, (c) establish relationships between variables, and (d) test theories. Controlled laboratory experiments are not a use of questionnaires.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["questionnaire", "concepts"]
+  },
+  {
+    "id": "soc-202-205",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Interview",
+    "question_text": "Compared with postal questionnaires, the face-to-face interview generally ensures a ___",
+    "options": [
+      { "key": "A", "text": "Lower response rate" },
+      { "key": "B", "text": "Higher response rate" },
+      { "key": "C", "text": "Lower interviewer bias" },
+      { "key": "D", "text": "Smaller sample size" }
+    ],
+    "correct_option": "B",
+    "explanation": "An interview is a method of collecting social data at the individual level. This face-to-face method ensures a higher response rate than postal questionnaires, though it can introduce interviewer bias.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["interview", "concepts"]
+  },
+  {
+    "id": "soc-202-206",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Survey",
+    "question_text": "A method of sociological research involving the administration of questionnaires to a population being studied is called a ___",
+    "options": [
+      { "key": "A", "text": "Case study" },
+      { "key": "B", "text": "Survey" },
+      { "key": "C", "text": "Experiment" },
+      { "key": "D", "text": "Field study" }
+    ],
+    "correct_option": "B",
+    "explanation": "A survey is a method of sociological research involving the administration of questionnaires to a population being studied.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["survey", "concepts"]
+  },
+  {
+    "id": "soc-202-207",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Sampling",
+    "question_text": "Taking a proportion of individuals or cases from a larger population and studying them as representative of the whole is called ___",
+    "options": [
+      { "key": "A", "text": "Coding" },
+      { "key": "B", "text": "Sampling" },
+      { "key": "C", "text": "Tabulation" },
+      { "key": "D", "text": "Replication" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sampling is taking a proportion of individuals or cases from a larger population, studied as representative of that population as a whole. It is a method for collecting information and drawing inferences about a larger population from the analysis of only a part of it.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["sampling", "concepts"]
+  },
+  {
+    "id": "soc-202-208",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Hypothesis",
+    "question_text": "An idea or a guess about a given state of affairs, put forward as a basis of empirical testing, is called a ___",
+    "options": [
+      { "key": "A", "text": "Theory" },
+      { "key": "B", "text": "Hypothesis" },
+      { "key": "C", "text": "Proposition" },
+      { "key": "D", "text": "Variable" }
+    ],
+    "correct_option": "B",
+    "explanation": "A hypothesis is an idea, or a guess, about a given state of affairs, put forward as a basis of empirical testing.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["hypothesis", "concepts"]
+  },
+  {
+    "id": "soc-202-209",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Triangulation",
+    "question_text": "The use of multiple research methods in order to produce more reliable empirical data than is available from any single method used in isolation is known as ___",
+    "options": [
+      { "key": "A", "text": "Replication" },
+      { "key": "B", "text": "Tabulation" },
+      { "key": "C", "text": "Triangulation" },
+      { "key": "D", "text": "Standardization" }
+    ],
+    "correct_option": "C",
+    "explanation": "Triangulation is the use of multiple research methods as a way of producing more reliable empirical data than is available from any single method used in isolation.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["triangulation", "concepts"]
+  },
+  {
+    "id": "soc-202-210",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Research Design",
+    "question_text": "A strategic plan for a research project, setting out the broad outline, key features, methods of data collection and analysis, is called a ___",
+    "options": [
+      { "key": "A", "text": "Research hypothesis" },
+      { "key": "B", "text": "Research design" },
+      { "key": "C", "text": "Literature review" },
+      { "key": "D", "text": "Conceptual framework" }
+    ],
+    "correct_option": "B",
+    "explanation": "A research design is the explicit procedures used in collecting empirical data — a strategic plan setting out the broad outline and key features of the work, including methods of data collection and analysis, and showing how the strategy addresses the specific aims and objectives of the study.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["research-design", "concepts"]
+  },
+  {
+    "id": "soc-202-211",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Objectivity vs Subjectivity",
+    "question_text": "Within positivist sociology, 'subjectivity' is often used pejoratively to mean ___",
+    "options": [
+      { "key": "A", "text": "The application of scientific method" },
+      { "key": "B", "text": "The perspective of the person; lack of objectivity" },
+      { "key": "C", "text": "Reliability of measurement" },
+      { "key": "D", "text": "Validity of measurement" }
+    ],
+    "correct_option": "B",
+    "explanation": "Subjectivity is the perspective of the person (subject); lack of objectivity. It is often used pejoratively within positivist sociology to derogate biased observation or methodology.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["objectivity", "subjectivity", "concepts"]
+  },
+  {
+    "id": "soc-202-212",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Qualitative vs Quantitative data/techniques",
+    "question_text": "Data in the form of descriptive accounts of observations, interviews, or written material are classified as ___",
+    "options": [
+      { "key": "A", "text": "Quantitative data" },
+      { "key": "B", "text": "Qualitative data" },
+      { "key": "C", "text": "Secondary data" },
+      { "key": "D", "text": "Tabulated data" }
+    ],
+    "correct_option": "B",
+    "explanation": "Qualitative data are data that are not in numerical form — descriptive accounts of observations, interviews, or written material. Quantitative data are in numerical form, obtained through enumeration and measurement.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["qualitative", "quantitative", "concepts"]
+  },
+  {
+    "id": "soc-202-213",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Qualitative vs Quantitative data/techniques",
+    "question_text": "Quantitative data are obtained through ___",
+    "options": [
+      { "key": "A", "text": "Enumeration and measurement" },
+      { "key": "B", "text": "Open-ended interviewing" },
+      { "key": "C", "text": "Participant observation" },
+      { "key": "D", "text": "Historical analysis" }
+    ],
+    "correct_option": "A",
+    "explanation": "Quantitative data are obtained through enumeration and measurement. They may be collected directly in quantitative form, or data originally in qualitative form may be quantified.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["quantitative", "concepts"]
+  },
+  {
+    "id": "soc-202-214",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Reliability & Validity",
+    "question_text": "The dependability of data collected, or of the test or measurement used to collect it, refers to ___",
+    "options": [
+      { "key": "A", "text": "Validity" },
+      { "key": "B", "text": "Reliability" },
+      { "key": "C", "text": "Objectivity" },
+      { "key": "D", "text": "Replicability" }
+    ],
+    "correct_option": "B",
+    "explanation": "Reliability is the dependability of data collected, or of the test or measurement used to collect it. A reliable measure gives the same results if the same individuals are measured on more than one occasion.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["reliability", "concepts"]
+  },
+  {
+    "id": "soc-202-215",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Reliability & Validity",
+    "question_text": "The extent to which a measure, indicator, or method of data collection possesses the quality of being sound or true as far as can be judged is called ___",
+    "options": [
+      { "key": "A", "text": "Reliability" },
+      { "key": "B", "text": "Objectivity" },
+      { "key": "C", "text": "Validity" },
+      { "key": "D", "text": "Standardization" }
+    ],
+    "correct_option": "C",
+    "explanation": "Validity is the extent to which a measure, indicator, or method of data collection possesses the quality of being sound or true as far as can be judged.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["validity", "concepts"]
+  },
+  {
+    "id": "soc-202-216",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Other key concepts (Coding, Content Analysis, Response Rate, etc.)",
+    "question_text": "The research procedure in which data collected are prepared for counting and tabulation by classification and codification is called ___",
+    "options": [
+      { "key": "A", "text": "Sampling" },
+      { "key": "B", "text": "Coding" },
+      { "key": "C", "text": "Replication" },
+      { "key": "D", "text": "Standardization" }
+    ],
+    "correct_option": "B",
+    "explanation": "Coding is a research procedure in which the data collected are prepared for counting and tabulation by classification and codification.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["coding", "concepts"]
+  },
+  {
+    "id": "soc-202-217",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Other key concepts (Coding, Content Analysis, Response Rate, etc.)",
+    "question_text": "A research technique used to describe and analyze objectively, systematically and quantitatively the content of written, spoken or pictorial communications is called ___",
+    "options": [
+      { "key": "A", "text": "Content analysis" },
+      { "key": "B", "text": "Survey analysis" },
+      { "key": "C", "text": "Historical analysis" },
+      { "key": "D", "text": "Tabulation" }
+    ],
+    "correct_option": "A",
+    "explanation": "Content analysis is a research technique used to describe and analyze objectively, systematically and quantitatively the content of written, spoken or pictorial communications such as novels, editorials, movies, comic books and public speeches.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["content-analysis", "concepts"]
+  },
+  {
+    "id": "soc-202-218",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Other key concepts (Coding, Content Analysis, Response Rate, etc.)",
+    "question_text": "The percentage of an eligible random sample that agrees to participate in an interview survey is known as the ___",
+    "options": [
+      { "key": "A", "text": "Return rate" },
+      { "key": "B", "text": "Response rate" },
+      { "key": "C", "text": "Sample proportion" },
+      { "key": "D", "text": "Participation index" }
+    ],
+    "correct_option": "B",
+    "explanation": "The response rate is the percentage of an eligible random sample that agrees to participate in an interview survey.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["response-rate", "concepts"]
+  },
+  {
+    "id": "soc-202-219",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "sub_topic": "Other key concepts (Coding, Content Analysis, Response Rate, etc.)",
+    "question_text": "Repetition of the same basic study or experiment to check its accuracy or to estimate the experimental error is called ___",
+    "options": [
+      { "key": "A", "text": "Replication" },
+      { "key": "B", "text": "Replication" },
+      { "key": "C", "text": "Reformulation" },
+      { "key": "D", "text": "Redundancy" }
+    ],
+    "correct_option": "A",
+    "explanation": "Replication is repetition of the same basic study or experiment to check its accuracy or to estimate the experimental error.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["replication", "concepts"]
+  },
+
+  {
+    "id": "soc-202-220",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Positivism / Scientific Method",
+    "question_text": "The sociological approach that treats social phenomena as a reality existing independently of the observer is known as ___",
+    "options": [
+      { "key": "A", "text": "Interpretivism" },
+      { "key": "B", "text": "Positivism" },
+      { "key": "C", "text": "Phenomenology" },
+      { "key": "D", "text": "Ethnomethodology" }
+    ],
+    "correct_option": "B",
+    "explanation": "Positivism (the scientific method, associated with Auguste Comte) treats social phenomena as a reality existing independently of how the observer acquires information about them. Procedures of the natural sciences are used to collect and analyze data, phrased in terms of variables and statistics.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["positivism", "methods"]
+  },
+  {
+    "id": "soc-202-221",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Positivism / Scientific Method",
+    "question_text": "The three stages of the positivist methodology, in order, are ___",
+    "options": [
+      { "key": "A", "text": "Discovery, validation, explanation" },
+      { "key": "B", "text": "Hypothesis, observation, conclusion" },
+      { "key": "C", "text": "Coding, tabulation, analysis" },
+      { "key": "D", "text": "Survey, sampling, reporting" }
+    ],
+    "correct_option": "A",
+    "explanation": "The positivist methodology consists of three stages: (i) a stage at which discovery is made, (ii) a stage at which validation is made, (iii) a stage at which explanation is made.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["positivism", "methods"]
+  },
+  {
+    "id": "soc-202-222",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Interpretive / Humanistic Method (Verstehen)",
+    "question_text": "According to Max Weber, sociology should develop the method of 'interpretative understanding' for studying human behaviour. This method is called ___",
+    "options": [
+      { "key": "A", "text": "Positivism" },
+      { "key": "B", "text": "Verstehen" },
+      { "key": "C", "text": "Empiricism" },
+      { "key": "D", "text": "Functionalism" }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Max Weber, sociology should develop the method of 'interpretative understanding' (Verstehen) for studying human behaviour. The humanistic orientation chiefly describes, usually in highly subjective terms, behavioural phenomena.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["verstehen", "interpretive", "methods"]
+  },
+  {
+    "id": "soc-202-223",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Social Survey",
+    "question_text": "Survey research and opinion polling are concerned fundamentally with measuring the behaviour of people in terms of systematic analysis of attitudes, values, opinions, beliefs and ___",
+    "options": [
+      { "key": "A", "text": "Income brackets" },
+      { "key": "B", "text": "Customary practices" },
+      { "key": "C", "text": "Genetic markers" },
+      { "key": "D", "text": "Laboratory performance" }
+    ],
+    "correct_option": "B",
+    "explanation": "Survey research and opinion polling measure behaviour in terms of systematic analysis of attitudes, values, opinions, beliefs and customary practices. Survey research is either cross-sectional or longitudinal. Principal tools: interview and questionnaire.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["survey", "methods"]
+  },
+  {
+    "id": "soc-202-224",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation (Participant & Non-participant)",
+    "question_text": "In ___ observation, the observer plays an active role in the behaviour that one is attempting to study.",
+    "options": [
+      { "key": "A", "text": "Non-participant" },
+      { "key": "B", "text": "Systematic" },
+      { "key": "C", "text": "Participant" },
+      { "key": "D", "text": "Simple" }
+    ],
+    "correct_option": "C",
+    "explanation": "In participant observation, the observer plays an active role in the behaviour being studied; the expectation is greater depth from personal experience in the natural setting. Non-participant observation is the opposite — passive and uninvolved.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["observation", "methods"]
+  },
+  {
+    "id": "soc-202-225",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation (Participant & Non-participant)",
+    "question_text": "Which type of observation places controls on both the observer and the observed phenomenon, often using instruments and refined procedures?",
+    "options": [
+      { "key": "A", "text": "Simple observation" },
+      { "key": "B", "text": "Systematic observation" },
+      { "key": "C", "text": "Participant observation" },
+      { "key": "D", "text": "Non-participant observation" }
+    ],
+    "correct_option": "B",
+    "explanation": "Systematic observation is a formal and precise type of observation that places controls on both the observer and the observed phenomenon, often using instruments. Simple observation is informal, with no standardization or controls.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["observation", "methods"]
+  },
+  {
+    "id": "soc-202-226",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Experimentation",
+    "question_text": "An experiment conducted in the true context of the behaviour under study is called ___ research.",
+    "options": [
+      { "key": "A", "text": "Laboratory" },
+      { "key": "B", "text": "Field" },
+      { "key": "C", "text": "Survey" },
+      { "key": "D", "text": "Historical" }
+    ],
+    "correct_option": "B",
+    "explanation": "Field research is conducted in the true context of the behaviour under study. Laboratory research consists of observation and experimentation conducted in the somewhat artificial confines of a laboratory.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["experimentation", "methods"]
+  },
+  {
+    "id": "soc-202-227",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other methods (Content Analysis, Historical Research, Fieldwork, Focus Group, etc.)",
+    "question_text": "A research method in which selected groups participate in focused discussion on a research issue is called a ___",
+    "options": [
+      { "key": "A", "text": "Focus group" },
+      { "key": "B", "text": "Survey" },
+      { "key": "C", "text": "Case study" },
+      { "key": "D", "text": "Ethnography" }
+    ],
+    "correct_option": "A",
+    "explanation": "A focus group is a research method in which selected groups participate in focused discussion on a research issue.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["focus-group", "methods"]
+  },
+  {
+    "id": "soc-202-228",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other methods (Content Analysis, Historical Research, Fieldwork, Focus Group, etc.)",
+    "question_text": "Research that is carried out in the field, as opposed to the laboratory or library, and involves observation and informal or unstructured interviewing, is called ___",
+    "options": [
+      { "key": "A", "text": "Fieldwork" },
+      { "key": "B", "text": "Content analysis" },
+      { "key": "C", "text": "Experimentation" },
+      { "key": "D", "text": "Tabulation" }
+    ],
+    "correct_option": "A",
+    "explanation": "Fieldwork is research carried out in the field rather than the laboratory or library — investigation of real-life situations through observation and informal or unstructured interviewing.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["fieldwork", "methods"]
+  },
+  {
+    "id": "soc-202-229",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other methods (Content Analysis, Historical Research, Fieldwork, Focus Group, etc.)",
+    "question_text": "A research design in which information about the past is gathered systematically is called ___ research.",
+    "options": [
+      { "key": "A", "text": "Field" },
+      { "key": "B", "text": "Historical" },
+      { "key": "C", "text": "Experimental" },
+      { "key": "D", "text": "Survey" }
+    ],
+    "correct_option": "B",
+    "explanation": "Historical research is a type of research design in which information about the past is gathered systematically.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["historical-research", "methods"]
+  },
+
+  {
+    "id": "soc-202-230",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Relationship between method and theory",
+    "question_text": "According to Durkheim, the positivist sociologist should consider 'social facts' as ___",
+    "options": [
+      { "key": "A", "text": "Personal opinions to be debated" },
+      { "key": "B", "text": "'Things' that exercise an external coercive influence on human behaviour" },
+      { "key": "C", "text": "Constructions made by the researcher" },
+      { "key": "D", "text": "Mental states of individuals" }
+    ],
+    "correct_option": "B",
+    "explanation": "According to Durkheim, the positivist sociologist should consider 'social facts' as 'things' that exercise an external coercive influence on human behaviour. The positivist searches for facts and causes through methods such as experimentation, observation, social surveys, inventories and demographic analysis.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["positivism", "methodology"]
+  },
+  {
+    "id": "soc-202-231",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Relationship between method and theory",
+    "question_text": "Which methods are most appropriate for research in the interpretive (phenomenological) camp?",
+    "options": [
+      { "key": "A", "text": "Experimentation and demographic analysis" },
+      { "key": "B", "text": "Personal interviews, participant observation, and survey questionnaires" },
+      { "key": "C", "text": "Laboratory measurement only" },
+      { "key": "D", "text": "Content analysis and tabulation" }
+    ],
+    "correct_option": "B",
+    "explanation": "Personal interviews, participant observation, and survey questionnaires are the methods most appropriate for research in the interpretive camp. Observation or experimentation appear more appropriate for positivism.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["interpretive", "methodology"]
+  },
+  {
+    "id": "soc-202-232",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Major Analytical Divisions in Sociology",
+    "question_text": "The division of sociology concerned with the analysis of elementary forms and processes of social behaviour in face-to-face contexts and small groups is called ___",
+    "options": [
+      { "key": "A", "text": "Macro-sociology" },
+      { "key": "B", "text": "Micro-sociology" },
+      { "key": "C", "text": "Systematic sociology" },
+      { "key": "D", "text": "Applied sociology" }
+    ],
+    "correct_option": "B",
+    "explanation": "Micro-sociology is concerned with the analysis of elementary forms and processes of social behaviour — informal interpersonal behaviour in face-to-face contexts and small groups. Methods most applied: the experiment and participant observation.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["micro", "methodology"]
+  },
+  {
+    "id": "soc-202-233",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Major Analytical Divisions in Sociology",
+    "question_text": "Macro-sociology is also known as ___",
+    "options": [
+      { "key": "A", "text": "Systematic sociology" },
+      { "key": "B", "text": "Micro-sociology" },
+      { "key": "C", "text": "Applied sociology" },
+      { "key": "D", "text": "Clinical sociology" }
+    ],
+    "correct_option": "A",
+    "explanation": "Macro-sociology is also known as systematic sociology. It studies society as a whole and is concerned with broad-scale analysis of formal, structured processes typical of complex organizations.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["macro", "methodology"]
+  },
+
+  {
+    "id": "soc-202-234",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Conflict Theory",
+    "question_text": "Conflict theorists maintain that societies continuously experience inevitable competition for scarce resources, especially ___",
+    "options": [
+      { "key": "A", "text": "Friendship, leisure, and rest" },
+      { "key": "B", "text": "Power, wealth, and prestige" },
+      { "key": "C", "text": "Education, healthcare, and housing" },
+      { "key": "D", "text": "Culture, religion, and art" }
+    ],
+    "correct_option": "B",
+    "explanation": "Conflict theorists see continuous inevitable competition for scarce resources, especially power, wealth and prestige. Harmonious equilibrium is an illusion; social order is essentially a product of coercion and restraint, not consensus.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["conflict", "theory"]
+  },
+  {
+    "id": "soc-202-235",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Symbolic Interactionism",
+    "question_text": "Which statement by W.I. Thomas is closely associated with Symbolic Interactionism?",
+    "options": [
+      { "key": "A", "text": "Religion is the opium of the people" },
+      { "key": "B", "text": "If men define situations as real, they are real in their consequences" },
+      { "key": "C", "text": "The history of all hitherto existing society is the history of class struggles" },
+      { "key": "D", "text": "Science is measurement" }
+    ],
+    "correct_option": "B",
+    "explanation": "W.I. Thomas (1928): 'If men define situations as real, they are real in their consequences.' Symbolic interactionism focuses on individuals as social actors and emphasises the use of symbols and language.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["symbolic-interactionism", "theory"]
+  },
+  {
+    "id": "soc-202-236",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Social Exchange Theory",
+    "question_text": "A key concept of Social Exchange Theory that refers to the 'give-and-take' phenomenon alleged to be the basic dimension of social behaviour is ___",
+    "options": [
+      { "key": "A", "text": "Coercion" },
+      { "key": "B", "text": "Reciprocity" },
+      { "key": "C", "text": "Verstehen" },
+      { "key": "D", "text": "Solidarity" }
+    ],
+    "correct_option": "B",
+    "explanation": "Reciprocity refers to the 'give-and-take' phenomenon alleged to be the basic dimension of social behaviour. Chief protagonists: Lévi-Strauss (collectivistic tradition) and George Homans (individualistic tradition).",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["exchange", "reciprocity", "theory"]
+  },
+  {
+    "id": "soc-202-237",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Action Theory",
+    "question_text": "Action theorists urge sociologists to use the research method of 'verstehen' to uncover what they term the ___",
+    "options": [
+      { "key": "A", "text": "Class structure" },
+      { "key": "B", "text": "Meaning context" },
+      { "key": "C", "text": "Power elite" },
+      { "key": "D", "text": "Cultural hegemony" }
+    ],
+    "correct_option": "B",
+    "explanation": "Action theorists seek to determine how individuals experience, perceive, understand, and interpret the 'meaning context'. Weber urged sociologists to use Verstehen (understanding) to uncover this meaning context.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["action", "verstehen", "theory"]
+  },
+
+  {
+    "id": "soc-202-238",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Specific issues that appear in past questions (ageism, prejudice, discrimination, minority groups, racism, poverty, etc.)",
+    "question_text": "Discrimination or prejudice based on a person's age, especially against older adults, is known as ___",
+    "options": [
+      { "key": "A", "text": "Racism" },
+      { "key": "B", "text": "Ageism" },
+      { "key": "C", "text": "Sexism" },
+      { "key": "D", "text": "Classism" }
+    ],
+    "correct_option": "B",
+    "explanation": "Ageism is discrimination or prejudice based on a person's age, especially against older adults.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["ageism", "welfare"]
+  },
+  {
+    "id": "soc-202-239",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Specific issues that appear in past questions (ageism, prejudice, discrimination, minority groups, racism, poverty, etc.)",
+    "question_text": "Prejudice, discrimination or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group is known as ___",
+    "options": [
+      { "key": "A", "text": "Classism" },
+      { "key": "B", "text": "Tribalism" },
+      { "key": "C", "text": "Racism" },
+      { "key": "D", "text": "Ageism" }
+    ],
+    "correct_option": "C",
+    "explanation": "Racism is prejudice, discrimination, or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["racism", "welfare"]
+  },
+  {
+    "id": "soc-202-240",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Specific issues that appear in past questions (ageism, prejudice, discrimination, minority groups, racism, poverty, etc.)",
+    "question_text": "A pre-judgment or unsupported opinion usually involving negative stereotypes about a group is called ___",
+    "options": [
+      { "key": "A", "text": "Discrimination" },
+      { "key": "B", "text": "Prejudice" },
+      { "key": "C", "text": "Stereotype threat" },
+      { "key": "D", "text": "Segregation" }
+    ],
+    "correct_option": "B",
+    "explanation": "Prejudice is a pre-judgment or unsupported opinion usually involving negative stereotypes about a group.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["prejudice", "welfare"]
+  },
+  {
+    "id": "soc-202-241",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Nature of Social Problems",
+    "question_text": "A 'social problem' is best defined as ___",
+    "options": [
+      { "key": "A", "text": "Any pattern of relationships that calls for explanation" },
+      { "key": "B", "text": "Any piece of social behaviour that causes public friction or private misery and calls for collective action" },
+      { "key": "C", "text": "An individual personal problem" },
+      { "key": "D", "text": "A theoretical problem of sociology" }
+    ],
+    "correct_option": "B",
+    "explanation": "A social problem is some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it — a set of conditions that the majority or a substantial minority disapprove as morally wrong.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["social-problems", "welfare"]
+  },
+  {
+    "id": "soc-202-242",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Social Welfare",
+    "question_text": "In a pure sociological sense, welfare is best described as a ___ approach to solving social problems.",
+    "options": [
+      { "key": "A", "text": "Government-only" },
+      { "key": "B", "text": "Community-action" },
+      { "key": "C", "text": "Charity-only" },
+      { "key": "D", "text": "Family-only" }
+    ],
+    "correct_option": "B",
+    "explanation": "In a pure sociological sense, welfare is a 'community-action' approach to solving social problems.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["welfare"]
+  },
+
+  {
+    "id": "soc-202-243",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Uses/Value of Sociology",
+    "question_text": "The scientific value of sociology primarily replaces ___",
+    "options": [
+      { "key": "A", "text": "Empiricism with theory" },
+      { "key": "B", "text": "Ethnocentrism with cultural relativism" },
+      { "key": "C", "text": "Democracy with authority" },
+      { "key": "D", "text": "Law with morality" }
+    ],
+    "correct_option": "B",
+    "explanation": "The first value is scientific value: it replaces ethnocentrism with cultural relativism — the realization that customs, traditions, religions and cultures of others are not bad simply because they are different.",
+    "difficulty": "medium",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["uses", "value"]
+  },
+  {
+    "id": "soc-202-244",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Career paths for sociologists",
+    "question_text": "Which of the following is NOT typically listed as a career path for sociologists?",
+    "options": [
+      { "key": "A", "text": "Probation or parole officer" },
+      { "key": "B", "text": "Personnel work" },
+      { "key": "C", "text": "Public relations" },
+      { "key": "D", "text": "Aerospace engineering" }
+    ],
+    "correct_option": "D",
+    "explanation": "Career paths commonly listed include teachers, probation/parole officers, personnel work, public relations/advertising/journalism, law/politics, civil service/ministries, and consultants/researchers. Aerospace engineering is not in the list.",
+    "difficulty": "easy",
+    "source": "Generated from SOC202 outline",
+    "year": "2024",
+    "is_verified": true,
+    "tags": ["careers"]
+  }
+]

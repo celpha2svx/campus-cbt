@@ -1,44 +1,543 @@
 [
   {
-    "id": "fc-soc202-01",
+    "id": "fc-soc202-csr-01",
     "course": "SOC202",
-    "topic": "Introduction",
-    "front": "What is sociology?",
-    "back": "The systematic study of society, social relationships, and institutions.",
-    "tags": [
-      "definition"
-    ]
+    "topic": "Concepts in Social Research",
+    "front": "Variable",
+    "back": "A dimension along which an object, individual or group may be categorized (e.g. income, height, weight) — a characteristic that can be measured and may vary along a continuum.",
+    "tags": ["concepts"]
   },
   {
-    "id": "fc-soc202-02",
+    "id": "fc-soc202-csr-02",
     "course": "SOC202",
-    "topic": "Social Problems and Welfare",
-    "front": "What does 'welfare' refer to in sociology?",
-    "back": "The state of well-being, happiness and freedom from want in a population; often addressed via public policy and social programs.",
-    "tags": [
-      "social-welfare"
-    ]
+    "topic": "Concepts in Social Research",
+    "front": "Independent variable",
+    "back": "The causal factor in a cause-and-effect relationship. Sometimes treated as the constant for the problem at hand.",
+    "tags": ["concepts", "variables"]
   },
   {
-    "id": "fc-soc202-03",
+    "id": "fc-soc202-csr-03",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Dependent variable",
+    "back": "The effect in a cause-and-effect relationship; determined by other variables. In sociology, usually a form of human action (attitude or behaviour).",
+    "tags": ["concepts", "variables"]
+  },
+  {
+    "id": "fc-soc202-csr-04",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Intervening variable",
+    "back": "A test factor introduced to determine whether it produces the dependent variable through its interaction with the independent factor. Not directly seen or controlled.",
+    "tags": ["concepts", "variables"]
+  },
+  {
+    "id": "fc-soc202-csr-05",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Case study",
+    "back": "The study of a single instance of a phenomenon, either for its own sake (e.g. a particular person or strike) or as a research design that takes a single case and uses a variety of methods to study it.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-06",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Respondent",
+    "back": "A research subject — the person from whom the researcher wants to elicit information. A respondent answers a questionnaire or a request for information.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-07",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Questionnaire",
+    "back": "A form containing questions administered to a number of people mainly to obtain information and record opinions. Used to examine population characteristics, attitudes, relationships between variables, and to test theories.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-08",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Interview",
+    "back": "A face-to-face method of collecting social data at the individual level. Higher response rate than postal questionnaires but can introduce interviewer bias.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-09",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Survey",
+    "back": "A method of sociological research involving the administration of questionnaires to a population being studied.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-10",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Sampling",
+    "back": "Taking a proportion of individuals or cases from a larger population, studied as representative of the population as a whole.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-11",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Reliability",
+    "back": "The dependability of data collected, or of the test or measurement used to collect it. A reliable measure gives the same results if the same individuals are measured more than once.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-12",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Validity",
+    "back": "The extent to which a measure, indicator or method of data collection possesses the quality of being sound or true as far as can be judged.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-13",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Hypothesis",
+    "back": "An idea, or a guess, about a given state of affairs, put forward as a basis of empirical testing.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-14",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Triangulation",
+    "back": "The use of multiple research methods as a way of producing more reliable empirical data than is available from any single method used in isolation.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-15",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Research design",
+    "back": "The explicit procedures used in collecting empirical data — a strategic plan setting out the broad outline, methods of data collection and analysis, and how the strategy addresses the aims of the study.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-16",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Objectivity",
+    "back": "Accounts of the external world held to represent the world as it exists independently of our conceptions. Knowledge claimed to meet criteria of validity and reliability, and held to be free from bias.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-17",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Subjectivity",
+    "back": "The perspective of the person (subject); lack of objectivity. Often used pejoratively within positivist sociology to derogate biased observation or methodology.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-18",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Qualitative data",
+    "back": "Data that are not in numerical form — descriptive accounts of observations, interviews or written material.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-19",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Quantitative data",
+    "back": "Data in numerical form, obtained through enumeration and measurement.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-20",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Coding",
+    "back": "A research procedure in which the data collected are prepared for counting and tabulation by classification and codification.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-21",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Content analysis",
+    "back": "A research technique used to describe and analyze objectively, systematically and quantitatively the content of written, spoken or pictorial communications.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-22",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Response rate",
+    "back": "The percentage of an eligible random sample that agrees to participate in an interview survey.",
+    "tags": ["concepts"]
+  },
+  {
+    "id": "fc-soc202-csr-23",
+    "course": "SOC202",
+    "topic": "Concepts in Social Research",
+    "front": "Replication",
+    "back": "Repetition of the same basic study or experiment to check its accuracy or to estimate the experimental error.",
+    "tags": ["concepts"]
+  },
+
+  {
+    "id": "fc-soc202-mrt-01",
     "course": "SOC202",
     "topic": "Methods and Research Techniques",
-    "front": "Who coined the term 'Verstehen' associated with interpretive understanding?",
-    "back": "Max Weber.",
-    "tags": [
-      "research-methods",
-      "weber"
-    ]
+    "front": "Positivism",
+    "back": "The scientific method (associated with Auguste Comte). Treats social phenomena as a reality existing independently of the observer and uses procedures of the natural sciences to collect and analyze data, phrased in terms of variables and statistics.",
+    "tags": ["methods"]
   },
   {
-    "id": "fc-soc202-04",
+    "id": "fc-soc202-mrt-02",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Verstehen",
+    "back": "Max Weber's method of 'interpretative understanding' for studying human behaviour. The humanistic orientation chiefly describes, usually in highly subjective terms, behavioural phenomena.",
+    "tags": ["methods", "weber"]
+  },
+  {
+    "id": "fc-soc202-mrt-03",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Social survey",
+    "back": "A systematic collection of facts about people living in a specific geographic, cultural, or administrative area. Generalizations are drawn from a sample of social particulars about the entire universe.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-04",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Participant observation",
+    "back": "A type of observation in which the observer plays an active role in the behaviour being studied; expected to give greater depth from personal experience in the natural setting.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-05",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Non-participant observation",
+    "back": "A type of observation in which the observer takes a totally passive and non-involved part in the behaviour being observed.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-06",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Simple observation",
+    "back": "A casual and informal type of observation that involves no standardization of observational techniques and no control over pertinent variables.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-07",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Systematic observation",
+    "back": "A formal and precise type of observation that places controls on both the observer and the observed phenomenon, usually involving instruments and refined procedures.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-08",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Field research",
+    "back": "Experimentation conducted in the true context of the behaviour under study.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-09",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Laboratory research",
+    "back": "Observation and/or experimentation conducted in the somewhat artificial confines of a laboratory.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-10",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Focus group",
+    "back": "A research method in which selected groups participate in focused discussion on a research issue.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-11",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Fieldwork",
+    "back": "Research carried out in the field rather than the laboratory or library — investigation of real-life situations through observation and informal or unstructured interviewing.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-12",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Historical research",
+    "back": "A type of research design in which information about the past is gathered systematically.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-13",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Hypothetico-deductive method",
+    "back": "A method that takes theories from existing perspectives (Marxism, functionalism, conflict, consensus) and derives hypotheses that are tested against evidence collected in the field or from the library.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-14",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Ethnography",
+    "back": "A descriptive method involving observation and recording of history, geography, social organization, economy, political system, culture and religion of the people under study. Simple but can lead to ethnocentrism.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-15",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Primary data",
+    "back": "First-hand information collected by an investigator directly from fieldwork, survey research, observation or opinion polling.",
+    "tags": ["methods"]
+  },
+  {
+    "id": "fc-soc202-mrt-16",
+    "course": "SOC202",
+    "topic": "Methods and Research Techniques",
+    "front": "Secondary data",
+    "back": "Information gathered from secondary sources such as statistical records, documents or 'existing material'.",
+    "tags": ["methods"]
+  },
+
+  {
+    "id": "fc-soc202-mtp-01",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Positivism (perspective)",
+    "back": "Seeks the facts or causes of social phenomena with little regard for the subjective states of individuals. According to Durkheim, the sociologist should consider 'social facts' as 'things' that exercise external coercive influence on human behaviour.",
+    "tags": ["methodology"]
+  },
+  {
+    "id": "fc-soc202-mtp-02",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Phenomenology (Interpretive tradition)",
+    "back": "Concerned with understanding human behaviour from the actor's own frame of reference. Important reality is what people claim it to be. Methods: participant observation, open-ended interviewing, personal documents.",
+    "tags": ["methodology"]
+  },
+  {
+    "id": "fc-soc202-mtp-03",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Micro-sociology",
+    "back": "Concerned with elementary forms and processes of social behaviour — informal interpersonal behaviour in face-to-face contexts and small groups. Methods most applied: the experiment and participant observation.",
+    "tags": ["methodology"]
+  },
+  {
+    "id": "fc-soc202-mtp-04",
+    "course": "SOC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "front": "Macro-sociology",
+    "back": "Also called systematic sociology. Studies society as a whole, concerned with broad-scale analysis of formal, structured processes typical of complex organizations. Methods: historical-comparative method, interview and questionnaire.",
+    "tags": ["methodology"]
+  },
+
+  {
+    "id": "fc-soc202-st-01",
     "course": "SOC202",
     "topic": "Sociological Theories",
-    "front": "Name one major criticism of Functionalism.",
-    "back": "It overemphasizes social stability and consensus while downplaying conflict and processes of social change.",
-    "tags": [
-      "functionalism",
-      "critique"
-    ]
+    "front": "Functionalism",
+    "back": "The dominant theoretical orientation in sociology. Society is conceived as a system of inter-related parts working interdependently; stability, equilibrium and harmonious function are maintained by shared values and beliefs (consensus).",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-02",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Conflict Theory",
+    "back": "Antithetical to functionalism. Focuses on change and revolution. Assumes the fundamental dynamics of human life are dissensus and competition. Continuous inevitable competition for scarce resources — power, wealth, prestige.",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-03",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Marxism",
+    "back": "A form of conflict theory closely based on Marx's critique of the capitalist system and on his premise of class conflict.",
+    "tags": ["theory", "marx"]
+  },
+  {
+    "id": "fc-soc202-st-04",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Symbolic Interactionism",
+    "back": "A theory of human action and interaction that emphasizes the use of symbols and language. Focuses on individuals as social actors rather than the system. W.I. Thomas: 'If men define situations as real, they are real in their consequences.'",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-05",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Ethnomethodology",
+    "back": "The study of the methods people in society use to make sense of what is going on around them. A variety of symbolic interaction.",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-06",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Social Exchange Theory",
+    "back": "Focuses on elementary forms of social behaviour — the goals and motives of participants in social interaction. People are depicted as rational creatures in a give-and-take process of rewards and costs.",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-07",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Reciprocity",
+    "back": "The 'give-and-take' phenomenon alleged to be the basic dimension of social behaviour. A key concept of Social Exchange Theory (Lévi-Strauss, George Homans).",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-08",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Action Theory",
+    "back": "Oriented to the study of morally complex forms of social interaction. Uses Verstehen to uncover the 'meaning context' in which people and their actions exist (Weber).",
+    "tags": ["theory"]
+  },
+  {
+    "id": "fc-soc202-st-09",
+    "course": "SOC202",
+    "topic": "Sociological Theories",
+    "front": "Modernization theory",
+    "back": "An evolutionary view that traditional societies change their basic structure through economic development and industrialization in order to survive. Change occurs through structural differentiation.",
+    "tags": ["theory"]
+  },
+
+  {
+    "id": "fc-soc202-spw-01",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Social problem",
+    "back": "Some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it — a set of conditions that the majority or a substantial minority disapprove as morally wrong.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-02",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Sociological problem",
+    "back": "An issue concerned with the explanation of the nature and dynamics of social behaviour — not with the development of strategy and techniques for the control or change of social phenomena.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-03",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Welfare",
+    "back": "The state of happiness, comfort, and freedom from want. In a pure sociological sense, welfare is a 'community-action' approach to solving social problems.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-04",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Sociological imagination (C. Wright Mills)",
+    "back": "The ability to appreciate that the 'troubles' that affect the individual are the outcome of much wider arrangements within which their life is lived out — personal troubles are connected with public issues of social structure.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-05",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Ageism",
+    "back": "Discrimination or prejudice based on a person's age, especially against older adults.",
+    "tags": ["welfare", "ageism"]
+  },
+  {
+    "id": "fc-soc202-spw-06",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Prejudice",
+    "back": "A pre-judgment or unsupported opinion usually involving negative stereotypes about a group.",
+    "tags": ["welfare", "prejudice"]
+  },
+  {
+    "id": "fc-soc202-spw-07",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Discrimination",
+    "back": "Unjust or prejudicial treatment of people on the grounds of group membership.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-08",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Minority group",
+    "back": "A group of people who, because of their physical or cultural characteristics, are singled out from the others in the society in which they live for differential and unequal treatment, and who therefore regard themselves as objects of collective discrimination.",
+    "tags": ["welfare"]
+  },
+  {
+    "id": "fc-soc202-spw-09",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Racism",
+    "back": "Prejudice, discrimination or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.",
+    "tags": ["welfare", "racism"]
+  },
+  {
+    "id": "fc-soc202-spw-10",
+    "course": "SOC202",
+    "topic": "Social Problems and Welfare",
+    "front": "Poverty",
+    "back": "The state of not having enough material possessions or income for a person's basic needs.",
+    "tags": ["welfare"]
+  },
+
+  {
+    "id": "fc-soc202-usc-01",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Scientific value of sociology",
+    "back": "Replaces ethnocentrism with cultural relativism — the realization that customs, traditions, religions and cultures of others are not bad simply because they are different.",
+    "tags": ["uses"]
+  },
+  {
+    "id": "fc-soc202-usc-02",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Pedagogical advantages of sociology",
+    "back": "An educative discipline that satisfies the yearnings of curious people. Educates people about the societies they live in, beyond common sensual knowledge and speculation.",
+    "tags": ["uses"]
+  },
+  {
+    "id": "fc-soc202-usc-03",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Applied sociology",
+    "back": "The everyday involvement of sociologists in the affairs and activities of organizations, businesses and governments — specifying implications and consequences of alternative types of social policy.",
+    "tags": ["uses"]
+  },
+  {
+    "id": "fc-soc202-usc-04",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Probation/parole officer (sociology career)",
+    "back": "Young graduates in the discipline are particularly attracted to this field of youth probation, using sociological understanding and personal guidance to steer young offenders towards productive adulthood.",
+    "tags": ["careers"]
+  },
+  {
+    "id": "fc-soc202-usc-05",
+    "course": "SOC202",
+    "topic": "Uses of Sociology & Careers",
+    "front": "Personnel work (sociology career)",
+    "back": "Activities that involve screening of applicants for jobs in industry, helping prepare job descriptions, and coordinating or mediating inter-departmental matters.",
+    "tags": ["careers"]
   }
 ]
