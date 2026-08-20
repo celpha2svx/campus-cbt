@@ -97,7 +97,7 @@ function TopicDetail({
   onBack: () => void;
 }) {
   const notes = useMemo(() => getStudyNotesByTopic(course, topic), [course, topic]);
-  const subTopics = useMemo(() => getSubTopics(topic), [topic]);
+  const subTopics = useMemo(() => getSubTopics(topic, course), [topic, course]);
   const subTopicCounts = useMemo(() => {
     const counts = new Map<string, number>();
     for (const sub of subTopics) {

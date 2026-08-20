@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { ChevronRight, Home, ChevronLeft } from "lucide-react";
-import { getAllTopics } from "@/lib/questions";
+import { getAllTopics, getQuestions } from "@/lib/questions";
 import {
   getStudyNotesByTopic,
   getTopicsWithNotes,
@@ -119,11 +119,18 @@ function HubView({
           <>
             <SectionHeader
               title="Topics"
-              subtitle={`${allTopics.length} topic${allTopics.length === 1 ? "" : "s"} · pick one to read notes and drill questions`}
+              subtitle={`${allTopics.length} topic${allTopics.length === 1 ? "" : "s"} from the ${course} syllabus`}
             />
             <ul className="space-y-2">
               {allTopics.map((t) => {
                 const hasNotes = topicsWithNotes.includes(t);
+                const questionCount = getQuestions({
+                  course,
+                  topic: t,
+                  verifiedOnly: false,
+                  shuffle: false,
+                }).length;
+                const label = `${questionCount} question${questionCount === 1 ? "" : "s"}${hasNotes ? " · Notes" : ""}`;
                 return (
                   <li key={t}>
                     <button
@@ -135,7 +142,7 @@ function HubView({
                           {t}
                         </p>
                         <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft mt-1">
-                          {hasNotes ? "Notes available" : "No notes yet"}
+                          {label}
                         </p>
                       </div>
                       <ChevronRight size={15} className="text-ink-soft" />

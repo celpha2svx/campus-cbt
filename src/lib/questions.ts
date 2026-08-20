@@ -1,7 +1,32 @@
 import questionsData from "@/data/questions.json";
+import studyNotesSoc from "../../data/study-notes.json";
+import studyNotesSsc from "../../data/study-notes-ssc202.json";
 import { Question } from "./types";
 
 const allQuestions = questionsData as Question[];
+
+const noteTopicsByCourse: Record<string, string[]> = {
+  SOC202: Array.from(
+    new Set((studyNotesSoc as { topic: string }[]).map((n) => n.topic))
+  ),
+  SSC202: Array.from(
+    new Set((studyNotesSsc as { topic: string }[]).map((n) => n.topic))
+  ),
+};
+
+const noteSubTopicsByCourseAndTopic: Record<string, Record<string, string[]>> = {
+  SOC202: buildSubTopicMap(studyNotesSoc),
+  SSC202: buildSubTopicMap(studyNotesSsc),
+};
+
+function buildSubTopicMap(notes: unknown): Record<string, string[]> {
+  const map: Record<string, string[]> = {};
+  for (const n of notes as { topic: string; sub_topic: string }[]) {
+    if (!map[n.topic]) map[n.topic] = [];
+    if (!map[n.topic].includes(n.sub_topic)) map[n.topic].push(n.sub_topic);
+  }
+  return map;
+}
 
 type GetQuestionsOptions = {
   course?: string;
@@ -24,8 +49,6 @@ export function getQuestions(options?: GetQuestionsOptions): Question[] {
   if (options?.sub_topic) {
     result = result.filter((q) => q.sub_topic === options.sub_topic);
   }
-  // Default to verified-only unless explicitly told not to —
-  // unreviewed questions shouldn't reach students by accident.
   if (options?.verifiedOnly !== false) {
     result = result.filter((q) => q.is_verified);
   }
@@ -41,9 +64,6 @@ export function getQuestions(options?: GetQuestionsOptions): Question[] {
   return result;
 }
 
-// Fisher-Yates — the array.sort(() => Math.random() - 0.5) trick is
-// biased and gets worse the bigger the array gets, so worth doing right
-// now rather than fixing it later once 199 becomes 1000.
 function shuffle<T>(arr: T[]): T[] {
   const result = [...arr];
   for (let i = result.length - 1; i > 0; i--) {
@@ -53,15 +73,56 @@ function shuffle<T>(arr: T[]): T[] {
   return result;
 }
 
+// Topics come from notes (the syllabus outline) merged with question bank topics,
+// so empty banks still show the official outline.
 export function getAllTopics(course?: string): string[] {
-  const pool = course ? allQuestions.filter((q) => q.course === course) : allQuestions;
-  return Array.from(new Set(pool.map((q) => q.topic)));
+  const noteTopics = course ? noteTopicsByCourse[course] ?? [] : [];
+  const bankTopics = course
+    ? allQuestions.filter((q) => q.course === course)
+    : allQuestions;
+  const bankTopicNames = Array.from(new Set(bankTopics.map((q) => q.topic)));
+  const seen = new Set<string>();
+  const merged: string[] = [];
+  for (const t of noteTopics) {
+    if (!seen.has(t)) {
+      seen.add(t);
+      merged.push(t);
+    }
+  }
+  for (const t of bankTopicNames) {
+    if (!seen.has(t)) {
+      seen.add(t);
+      merged.push(t);
+    }
+  }
+  return merged;
 }
 
-export function getSubTopics(topic: string): string[] {
-  return Array.from(
-    new Set(allQuestions.filter((q) => q.topic === topic).map((q) => q.sub_topic))
-  );
+export function getSubTopics(topic: string, course?: string): string[] {
+  const noteSubs =
+    course && noteSubTopicsByCourseAndTopic[course]?.[topic]
+      ? noteSubTopicsByCourseAndTopic[course][topic]
+      : [];
+  const bankSubs = course
+    ? allQuestions
+        .filter((q) => q.course === course && q.topic === topic)
+        .map((q) => q.sub_topic)
+    : allQuestions.filter((q) => q.topic === topic).map((q) => q.sub_topic);
+  const seen = new Set<string>();
+  const merged: string[] = [];
+  for (const s of noteSubs) {
+    if (!seen.has(s)) {
+      seen.add(s);
+      merged.push(s);
+    }
+  }
+  for (const s of bankSubs) {
+    if (!seen.has(s)) {
+      seen.add(s);
+      merged.push(s);
+    }
+  }
+  return merged;
 }
 
 export function getQuestionById(id: string): Question | undefined {

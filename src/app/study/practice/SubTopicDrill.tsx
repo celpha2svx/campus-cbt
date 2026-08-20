@@ -34,22 +34,27 @@ export function SubTopicDrill() {
       <main className="min-h-screen pb-16">
         <Header course={course} label={subTopic || topic} />
         <section className="max-w-xl mx-auto px-5 pt-8">
-          <button
-            onClick={() => {
-              if (typeof window !== "undefined") window.history.back();
-            }}
+          <Link
+            href={`/study?course=${course}&topic=${encodeURIComponent(topic)}&sub_topic=${encodeURIComponent(subTopic)}`}
             className="inline-flex items-center gap-1 font-mono text-[11px] text-ink-soft hover:text-ink mb-4"
           >
             <ChevronLeft size={13} />
             Back to notes
-          </button>
+          </Link>
           <div className="bg-white border border-line rounded-sm px-5 py-8 text-center">
             <p className="font-serif text-lg font-medium mb-2">
-              No questions for this sub-topic yet.
+              No drill questions for this sub-topic yet.
             </p>
-            <p className="text-sm text-ink-soft leading-relaxed">
-              Come back after more past questions are added under this sub-topic.
+            <p className="text-sm text-ink-soft leading-relaxed mb-5">
+              You can still read the notes. Drill questions will appear here once
+              past questions are added under this sub-topic.
             </p>
+            <Link
+              href={`/admin/upload?course=${course}`}
+              className="inline-flex items-center justify-center gap-2 bg-ink text-paper px-4 py-2.5 rounded-sm font-mono text-xs font-semibold uppercase tracking-wide hover:bg-ink-soft transition-colors"
+            >
+              Add past questions
+            </Link>
           </div>
         </section>
       </main>
