@@ -5,7 +5,9 @@
     "topic": "Concepts in Social Research",
     "front": "Variable",
     "back": "A dimension along which an object, individual or group may be categorized (e.g. income, height, weight) — a characteristic that can be measured and may vary along a continuum.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-02",
@@ -13,7 +15,10 @@
     "topic": "Concepts in Social Research",
     "front": "Independent variable",
     "back": "The causal factor in a cause-and-effect relationship. Sometimes treated as the constant for the problem at hand.",
-    "tags": ["concepts", "variables"]
+    "tags": [
+      "concepts",
+      "variables"
+    ]
   },
   {
     "id": "fc-soc202-csr-03",
@@ -21,7 +26,10 @@
     "topic": "Concepts in Social Research",
     "front": "Dependent variable",
     "back": "The effect in a cause-and-effect relationship; determined by other variables. In sociology, usually a form of human action (attitude or behaviour).",
-    "tags": ["concepts", "variables"]
+    "tags": [
+      "concepts",
+      "variables"
+    ]
   },
   {
     "id": "fc-soc202-csr-04",
@@ -29,7 +37,10 @@
     "topic": "Concepts in Social Research",
     "front": "Intervening variable",
     "back": "A test factor introduced to determine whether it produces the dependent variable through its interaction with the independent factor. Not directly seen or controlled.",
-    "tags": ["concepts", "variables"]
+    "tags": [
+      "concepts",
+      "variables"
+    ]
   },
   {
     "id": "fc-soc202-csr-05",
@@ -37,7 +48,9 @@
     "topic": "Concepts in Social Research",
     "front": "Case study",
     "back": "The study of a single instance of a phenomenon, either for its own sake (e.g. a particular person or strike) or as a research design that takes a single case and uses a variety of methods to study it.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-06",
@@ -45,7 +58,9 @@
     "topic": "Concepts in Social Research",
     "front": "Respondent",
     "back": "A research subject — the person from whom the researcher wants to elicit information. A respondent answers a questionnaire or a request for information.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-07",
@@ -53,7 +68,9 @@
     "topic": "Concepts in Social Research",
     "front": "Questionnaire",
     "back": "A form containing questions administered to a number of people mainly to obtain information and record opinions. Used to examine population characteristics, attitudes, relationships between variables, and to test theories.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-08",
@@ -61,7 +78,9 @@
     "topic": "Concepts in Social Research",
     "front": "Interview",
     "back": "A face-to-face method of collecting social data at the individual level. Higher response rate than postal questionnaires but can introduce interviewer bias.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-09",
@@ -69,7 +88,9 @@
     "topic": "Concepts in Social Research",
     "front": "Survey",
     "back": "A method of sociological research involving the administration of questionnaires to a population being studied.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-10",
@@ -77,7 +98,9 @@
     "topic": "Concepts in Social Research",
     "front": "Sampling",
     "back": "Taking a proportion of individuals or cases from a larger population, studied as representative of the population as a whole.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-11",
@@ -85,7 +108,9 @@
     "topic": "Concepts in Social Research",
     "front": "Reliability",
     "back": "The dependability of data collected, or of the test or measurement used to collect it. A reliable measure gives the same results if the same individuals are measured more than once.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-12",
@@ -93,7 +118,9 @@
     "topic": "Concepts in Social Research",
     "front": "Validity",
     "back": "The extent to which a measure, indicator or method of data collection possesses the quality of being sound or true as far as can be judged.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-13",
@@ -101,7 +128,9 @@
     "topic": "Concepts in Social Research",
     "front": "Hypothesis",
     "back": "An idea, or a guess, about a given state of affairs, put forward as a basis of empirical testing.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-14",
@@ -109,7 +138,9 @@
     "topic": "Concepts in Social Research",
     "front": "Triangulation",
     "back": "The use of multiple research methods as a way of producing more reliable empirical data than is available from any single method used in isolation.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-15",
@@ -117,7 +148,9 @@
     "topic": "Concepts in Social Research",
     "front": "Research design",
     "back": "The explicit procedures used in collecting empirical data — a strategic plan setting out the broad outline, methods of data collection and analysis, and how the strategy addresses the aims of the study.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-16",
@@ -125,7 +158,9 @@
     "topic": "Concepts in Social Research",
     "front": "Objectivity",
     "back": "Accounts of the external world held to represent the world as it exists independently of our conceptions. Knowledge claimed to meet criteria of validity and reliability, and held to be free from bias.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-17",
@@ -133,7 +168,9 @@
     "topic": "Concepts in Social Research",
     "front": "Subjectivity",
     "back": "The perspective of the person (subject); lack of objectivity. Often used pejoratively within positivist sociology to derogate biased observation or methodology.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-18",
@@ -141,7 +178,9 @@
     "topic": "Concepts in Social Research",
     "front": "Qualitative data",
     "back": "Data that are not in numerical form — descriptive accounts of observations, interviews or written material.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-19",
@@ -149,7 +188,9 @@
     "topic": "Concepts in Social Research",
     "front": "Quantitative data",
     "back": "Data in numerical form, obtained through enumeration and measurement.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-20",
@@ -157,7 +198,9 @@
     "topic": "Concepts in Social Research",
     "front": "Coding",
     "back": "A research procedure in which the data collected are prepared for counting and tabulation by classification and codification.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-21",
@@ -165,7 +208,9 @@
     "topic": "Concepts in Social Research",
     "front": "Content analysis",
     "back": "A research technique used to describe and analyze objectively, systematically and quantitatively the content of written, spoken or pictorial communications.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-22",
@@ -173,7 +218,9 @@
     "topic": "Concepts in Social Research",
     "front": "Response rate",
     "back": "The percentage of an eligible random sample that agrees to participate in an interview survey.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
   {
     "id": "fc-soc202-csr-23",
@@ -181,16 +228,19 @@
     "topic": "Concepts in Social Research",
     "front": "Replication",
     "back": "Repetition of the same basic study or experiment to check its accuracy or to estimate the experimental error.",
-    "tags": ["concepts"]
+    "tags": [
+      "concepts"
+    ]
   },
-
   {
     "id": "fc-soc202-mrt-01",
     "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "front": "Positivism",
     "back": "The scientific method (associated with Auguste Comte). Treats social phenomena as a reality existing independently of the observer and uses procedures of the natural sciences to collect and analyze data, phrased in terms of variables and statistics.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-02",
@@ -198,7 +248,10 @@
     "topic": "Methods and Research Techniques",
     "front": "Verstehen",
     "back": "Max Weber's method of 'interpretative understanding' for studying human behaviour. The humanistic orientation chiefly describes, usually in highly subjective terms, behavioural phenomena.",
-    "tags": ["methods", "weber"]
+    "tags": [
+      "methods",
+      "weber"
+    ]
   },
   {
     "id": "fc-soc202-mrt-03",
@@ -206,7 +259,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Social survey",
     "back": "A systematic collection of facts about people living in a specific geographic, cultural, or administrative area. Generalizations are drawn from a sample of social particulars about the entire universe.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-04",
@@ -214,7 +269,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Participant observation",
     "back": "A type of observation in which the observer plays an active role in the behaviour being studied; expected to give greater depth from personal experience in the natural setting.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-05",
@@ -222,7 +279,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Non-participant observation",
     "back": "A type of observation in which the observer takes a totally passive and non-involved part in the behaviour being observed.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-06",
@@ -230,7 +289,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Simple observation",
     "back": "A casual and informal type of observation that involves no standardization of observational techniques and no control over pertinent variables.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-07",
@@ -238,7 +299,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Systematic observation",
     "back": "A formal and precise type of observation that places controls on both the observer and the observed phenomenon, usually involving instruments and refined procedures.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-08",
@@ -246,7 +309,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Field research",
     "back": "Experimentation conducted in the true context of the behaviour under study.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-09",
@@ -254,7 +319,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Laboratory research",
     "back": "Observation and/or experimentation conducted in the somewhat artificial confines of a laboratory.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-10",
@@ -262,7 +329,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Focus group",
     "back": "A research method in which selected groups participate in focused discussion on a research issue.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-11",
@@ -270,7 +339,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Fieldwork",
     "back": "Research carried out in the field rather than the laboratory or library — investigation of real-life situations through observation and informal or unstructured interviewing.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-12",
@@ -278,7 +349,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Historical research",
     "back": "A type of research design in which information about the past is gathered systematically.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-13",
@@ -286,7 +359,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Hypothetico-deductive method",
     "back": "A method that takes theories from existing perspectives (Marxism, functionalism, conflict, consensus) and derives hypotheses that are tested against evidence collected in the field or from the library.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-14",
@@ -294,7 +369,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Ethnography",
     "back": "A descriptive method involving observation and recording of history, geography, social organization, economy, political system, culture and religion of the people under study. Simple but can lead to ethnocentrism.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-15",
@@ -302,7 +379,9 @@
     "topic": "Methods and Research Techniques",
     "front": "Primary data",
     "back": "First-hand information collected by an investigator directly from fieldwork, survey research, observation or opinion polling.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
   {
     "id": "fc-soc202-mrt-16",
@@ -310,16 +389,19 @@
     "topic": "Methods and Research Techniques",
     "front": "Secondary data",
     "back": "Information gathered from secondary sources such as statistical records, documents or 'existing material'.",
-    "tags": ["methods"]
+    "tags": [
+      "methods"
+    ]
   },
-
   {
     "id": "fc-soc202-mtp-01",
     "course": "SOC202",
     "topic": "Methodological & Theoretical Perspectives",
     "front": "Positivism (perspective)",
     "back": "Seeks the facts or causes of social phenomena with little regard for the subjective states of individuals. According to Durkheim, the sociologist should consider 'social facts' as 'things' that exercise external coercive influence on human behaviour.",
-    "tags": ["methodology"]
+    "tags": [
+      "methodology"
+    ]
   },
   {
     "id": "fc-soc202-mtp-02",
@@ -327,7 +409,9 @@
     "topic": "Methodological & Theoretical Perspectives",
     "front": "Phenomenology (Interpretive tradition)",
     "back": "Concerned with understanding human behaviour from the actor's own frame of reference. Important reality is what people claim it to be. Methods: participant observation, open-ended interviewing, personal documents.",
-    "tags": ["methodology"]
+    "tags": [
+      "methodology"
+    ]
   },
   {
     "id": "fc-soc202-mtp-03",
@@ -335,7 +419,9 @@
     "topic": "Methodological & Theoretical Perspectives",
     "front": "Micro-sociology",
     "back": "Concerned with elementary forms and processes of social behaviour — informal interpersonal behaviour in face-to-face contexts and small groups. Methods most applied: the experiment and participant observation.",
-    "tags": ["methodology"]
+    "tags": [
+      "methodology"
+    ]
   },
   {
     "id": "fc-soc202-mtp-04",
@@ -343,16 +429,19 @@
     "topic": "Methodological & Theoretical Perspectives",
     "front": "Macro-sociology",
     "back": "Also called systematic sociology. Studies society as a whole, concerned with broad-scale analysis of formal, structured processes typical of complex organizations. Methods: historical-comparative method, interview and questionnaire.",
-    "tags": ["methodology"]
+    "tags": [
+      "methodology"
+    ]
   },
-
   {
     "id": "fc-soc202-st-01",
     "course": "SOC202",
     "topic": "Sociological Theories",
     "front": "Functionalism",
     "back": "The dominant theoretical orientation in sociology. Society is conceived as a system of inter-related parts working interdependently; stability, equilibrium and harmonious function are maintained by shared values and beliefs (consensus).",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-02",
@@ -360,7 +449,9 @@
     "topic": "Sociological Theories",
     "front": "Conflict Theory",
     "back": "Antithetical to functionalism. Focuses on change and revolution. Assumes the fundamental dynamics of human life are dissensus and competition. Continuous inevitable competition for scarce resources — power, wealth, prestige.",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-03",
@@ -368,7 +459,10 @@
     "topic": "Sociological Theories",
     "front": "Marxism",
     "back": "A form of conflict theory closely based on Marx's critique of the capitalist system and on his premise of class conflict.",
-    "tags": ["theory", "marx"]
+    "tags": [
+      "theory",
+      "marx"
+    ]
   },
   {
     "id": "fc-soc202-st-04",
@@ -376,7 +470,9 @@
     "topic": "Sociological Theories",
     "front": "Symbolic Interactionism",
     "back": "A theory of human action and interaction that emphasizes the use of symbols and language. Focuses on individuals as social actors rather than the system. W.I. Thomas: 'If men define situations as real, they are real in their consequences.'",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-05",
@@ -384,7 +480,9 @@
     "topic": "Sociological Theories",
     "front": "Ethnomethodology",
     "back": "The study of the methods people in society use to make sense of what is going on around them. A variety of symbolic interaction.",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-06",
@@ -392,7 +490,9 @@
     "topic": "Sociological Theories",
     "front": "Social Exchange Theory",
     "back": "Focuses on elementary forms of social behaviour — the goals and motives of participants in social interaction. People are depicted as rational creatures in a give-and-take process of rewards and costs.",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-07",
@@ -400,7 +500,9 @@
     "topic": "Sociological Theories",
     "front": "Reciprocity",
     "back": "The 'give-and-take' phenomenon alleged to be the basic dimension of social behaviour. A key concept of Social Exchange Theory (Lévi-Strauss, George Homans).",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-08",
@@ -408,7 +510,9 @@
     "topic": "Sociological Theories",
     "front": "Action Theory",
     "back": "Oriented to the study of morally complex forms of social interaction. Uses Verstehen to uncover the 'meaning context' in which people and their actions exist (Weber).",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
   {
     "id": "fc-soc202-st-09",
@@ -416,16 +520,19 @@
     "topic": "Sociological Theories",
     "front": "Modernization theory",
     "back": "An evolutionary view that traditional societies change their basic structure through economic development and industrialization in order to survive. Change occurs through structural differentiation.",
-    "tags": ["theory"]
+    "tags": [
+      "theory"
+    ]
   },
-
   {
     "id": "fc-soc202-spw-01",
     "course": "SOC202",
     "topic": "Social Problems and Welfare",
     "front": "Social problem",
     "back": "Some piece of social behaviour that causes public friction and/or private misery and calls for collective action to solve it — a set of conditions that the majority or a substantial minority disapprove as morally wrong.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-02",
@@ -433,7 +540,9 @@
     "topic": "Social Problems and Welfare",
     "front": "Sociological problem",
     "back": "An issue concerned with the explanation of the nature and dynamics of social behaviour — not with the development of strategy and techniques for the control or change of social phenomena.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-03",
@@ -441,7 +550,9 @@
     "topic": "Social Problems and Welfare",
     "front": "Welfare",
     "back": "The state of happiness, comfort, and freedom from want. In a pure sociological sense, welfare is a 'community-action' approach to solving social problems.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-04",
@@ -449,7 +560,9 @@
     "topic": "Social Problems and Welfare",
     "front": "Sociological imagination (C. Wright Mills)",
     "back": "The ability to appreciate that the 'troubles' that affect the individual are the outcome of much wider arrangements within which their life is lived out — personal troubles are connected with public issues of social structure.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-05",
@@ -457,7 +570,10 @@
     "topic": "Social Problems and Welfare",
     "front": "Ageism",
     "back": "Discrimination or prejudice based on a person's age, especially against older adults.",
-    "tags": ["welfare", "ageism"]
+    "tags": [
+      "welfare",
+      "ageism"
+    ]
   },
   {
     "id": "fc-soc202-spw-06",
@@ -465,7 +581,10 @@
     "topic": "Social Problems and Welfare",
     "front": "Prejudice",
     "back": "A pre-judgment or unsupported opinion usually involving negative stereotypes about a group.",
-    "tags": ["welfare", "prejudice"]
+    "tags": [
+      "welfare",
+      "prejudice"
+    ]
   },
   {
     "id": "fc-soc202-spw-07",
@@ -473,7 +592,9 @@
     "topic": "Social Problems and Welfare",
     "front": "Discrimination",
     "back": "Unjust or prejudicial treatment of people on the grounds of group membership.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-08",
@@ -481,7 +602,9 @@
     "topic": "Social Problems and Welfare",
     "front": "Minority group",
     "back": "A group of people who, because of their physical or cultural characteristics, are singled out from the others in the society in which they live for differential and unequal treatment, and who therefore regard themselves as objects of collective discrimination.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
   {
     "id": "fc-soc202-spw-09",
@@ -489,7 +612,10 @@
     "topic": "Social Problems and Welfare",
     "front": "Racism",
     "back": "Prejudice, discrimination or antagonism directed against a person or people on the basis of their membership in a particular racial or ethnic group, typically one that is a minority or marginalized.",
-    "tags": ["welfare", "racism"]
+    "tags": [
+      "welfare",
+      "racism"
+    ]
   },
   {
     "id": "fc-soc202-spw-10",
@@ -497,16 +623,19 @@
     "topic": "Social Problems and Welfare",
     "front": "Poverty",
     "back": "The state of not having enough material possessions or income for a person's basic needs.",
-    "tags": ["welfare"]
+    "tags": [
+      "welfare"
+    ]
   },
-
   {
     "id": "fc-soc202-usc-01",
     "course": "SOC202",
     "topic": "Uses of Sociology & Careers",
     "front": "Scientific value of sociology",
     "back": "Replaces ethnocentrism with cultural relativism — the realization that customs, traditions, religions and cultures of others are not bad simply because they are different.",
-    "tags": ["uses"]
+    "tags": [
+      "uses"
+    ]
   },
   {
     "id": "fc-soc202-usc-02",
@@ -514,7 +643,9 @@
     "topic": "Uses of Sociology & Careers",
     "front": "Pedagogical advantages of sociology",
     "back": "An educative discipline that satisfies the yearnings of curious people. Educates people about the societies they live in, beyond common sensual knowledge and speculation.",
-    "tags": ["uses"]
+    "tags": [
+      "uses"
+    ]
   },
   {
     "id": "fc-soc202-usc-03",
@@ -522,7 +653,9 @@
     "topic": "Uses of Sociology & Careers",
     "front": "Applied sociology",
     "back": "The everyday involvement of sociologists in the affairs and activities of organizations, businesses and governments — specifying implications and consequences of alternative types of social policy.",
-    "tags": ["uses"]
+    "tags": [
+      "uses"
+    ]
   },
   {
     "id": "fc-soc202-usc-04",
@@ -530,7 +663,9 @@
     "topic": "Uses of Sociology & Careers",
     "front": "Probation/parole officer (sociology career)",
     "back": "Young graduates in the discipline are particularly attracted to this field of youth probation, using sociological understanding and personal guidance to steer young offenders towards productive adulthood.",
-    "tags": ["careers"]
+    "tags": [
+      "careers"
+    ]
   },
   {
     "id": "fc-soc202-usc-05",
@@ -538,6 +673,379 @@
     "topic": "Uses of Sociology & Careers",
     "front": "Personnel work (sociology career)",
     "back": "Activities that involve screening of applicants for jobs in industry, helping prepare job descriptions, and coordinating or mediating inter-departmental matters.",
-    "tags": ["careers"]
+    "tags": [
+      "careers"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-01",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Statistics",
+    "back": "A scientific method that concerns data collection, presentation, analysis, interpretation or inference about data when issues of uncertainties are involved.",
+    "tags": [
+      "definition"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-02",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Descriptive statistics",
+    "back": "Statistics that deals with data collection, summarizing and comparing numerical data — concerned with summarizing a data set rather than using the data to learn about the population.",
+    "tags": [
+      "descriptive"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-03",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Inferential statistics",
+    "back": "Statistics that deals with techniques and tools for collecting data from a population by studying a sample, gaining knowledge of the population characteristics and making decisions about the sampled population.",
+    "tags": [
+      "inferential"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-04",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Population vs Sample",
+    "back": "Population: the entire group of individuals or items about which we want information.\nSample: a part of the population observed for the purpose of making scientific statements about the population.",
+    "tags": [
+      "population",
+      "sample"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-05",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Parameter vs Statistic",
+    "back": "Parameter: a numerical characteristic of a population (e.g. μ, σ).\nStatistic: a numerical characteristic computed from a sample (e.g. x̄, s).",
+    "tags": [
+      "parameter",
+      "statistic"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-06",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Primary data",
+    "back": "Information collected by a researcher specifically for the research at hand — original, current and directly related to the issue.",
+    "tags": [
+      "data-sources"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-07",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Secondary data",
+    "back": "Data obtained from already existing records or sources — published or unpublished records of government agencies, trade associations, research bureaus, magazines and individual research work.",
+    "tags": [
+      "data-sources"
+    ]
+  },
+  {
+    "id": "fc-ssc202-intro-08",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Quantitative vs Qualitative data",
+    "back": "Quantitative: numerical values (discrete or continuous).\nQualitative: non-numerical, categorised as ordinal or nominal.",
+    "tags": [
+      "data-types"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-01",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Hypothesis",
+    "back": "An assumption or guess about the population parameters involved — used to aid decision making.",
+    "tags": [
+      "hypothesis"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-02",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Null hypothesis (H₀)",
+    "back": "States that there is no difference between the procedures, samples and other phenomenon. The hypothesis being tested.",
+    "tags": [
+      "hypothesis"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-03",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Alternative hypothesis (H₁)",
+    "back": "Any hypothesis which differs from the null hypothesis. The hypothesis adopted if H₀ is rejected.",
+    "tags": [
+      "hypothesis"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-04",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Type I error",
+    "back": "Rejecting a hypothesis which is supposed to be accepted. Probability = α (level of significance).",
+    "tags": [
+      "errors"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-05",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Type II error",
+    "back": "Accepting a hypothesis which is supposed to be rejected. Probability = β.",
+    "tags": [
+      "errors"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-06",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "One-tailed test",
+    "back": "Test where the alternative hypothesis is one-directional (H₁: μ > x̄ or H₁: μ < x̄). Use critical value at α.",
+    "tags": [
+      "tails"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-07",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Two-tailed test",
+    "back": "Test where the alternative hypothesis is two-directional (H₁: μ ≠ x̄). Use critical value at α/2.",
+    "tags": [
+      "tails"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-08",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "T-test statistic (one sample)",
+    "back": "t = (x̄ − μ₀) / (s / √n)\nUsed for small samples (n < 30) when σ is unknown. Compare |t| with t-table at (n − 1) degrees of freedom.",
+    "tags": [
+      "t-test"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ht-09",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Chi-square statistic",
+    "back": "χ² = Σ (Oᵢ − Eᵢ)² / Eᵢ\nFor an r × c contingency table, df = (r − 1)(c − 1). Rule of five: expected frequencies should not be less than 5.",
+    "tags": [
+      "chi-square"
+    ]
+  },
+  {
+    "id": "fc-ssc202-reg-01",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Simple linear regression model",
+    "back": "y = a + bx\ny = dependent variable, x = independent variable, a = intercept, b = regression coefficient (slope).",
+    "tags": [
+      "regression"
+    ]
+  },
+  {
+    "id": "fc-ssc202-reg-02",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Regression slope (b) formula",
+    "back": "b = (nΣxy − ΣxΣy) / (nΣx² − (Σx)²)\n\nPositive b: y increases as x increases. Negative b: y decreases as x increases.",
+    "tags": [
+      "regression"
+    ]
+  },
+  {
+    "id": "fc-ssc202-reg-03",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Intercept (a) formula",
+    "back": "a = ȳ − bx̄\nThe predicted value of y when x = 0.",
+    "tags": [
+      "regression"
+    ]
+  },
+  {
+    "id": "fc-ssc202-reg-04",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Multiple regression (two predictors)",
+    "back": "Y = b₀ + b₁X₁ + b₂X₂\nSolve three normal equations using Cramer's rule or matrix inversion. Test utility with H₀: β₁ = β₂ = ... = βₖ = 0.",
+    "tags": [
+      "regression",
+      "multiple"
+    ]
+  },
+  {
+    "id": "fc-ssc202-cor-01",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Pearson product moment correlation (r)",
+    "back": "r = (nΣxy − ΣxΣy) / √[(nΣx² − (Σx)²)(nΣy² − (Σy)²)]\n\nr ∈ [−1, +1]. Closer to ±1: stronger linear relationship.",
+    "tags": [
+      "correlation",
+      "pearson"
+    ]
+  },
+  {
+    "id": "fc-ssc202-cor-02",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Spearman rank correlation (R)",
+    "back": "R = 1 − [6Σdᵢ² / (n(n² − 1))]\n\nUsed when data are in ranks. Easier than Pearson but generally less accurate.",
+    "tags": [
+      "correlation",
+      "spearman"
+    ]
+  },
+  {
+    "id": "fc-ssc202-cor-03",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Positive correlation",
+    "back": "As one variable increases, the other also increases. Example: income and expenditure.",
+    "tags": [
+      "correlation"
+    ]
+  },
+  {
+    "id": "fc-ssc202-cor-04",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Negative correlation",
+    "back": "As one variable increases, the other decreases. Example: number of labourers and time required to complete work.",
+    "tags": [
+      "correlation"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-01",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Price Relative Index",
+    "back": "PRI = (Pₙ / P₀) × 100\n\nPₙ = current year price, P₀ = base year price.",
+    "tags": [
+      "index-numbers"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-02",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Laspeyre's price index",
+    "back": "LAPI = (Σpₙq₀ / Σp₀q₀) × 100\n\nUses base year quantities as weights.",
+    "tags": [
+      "index-numbers",
+      "laspeyres"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-03",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Paasche's price index",
+    "back": "PAPI = (Σpₙqₙ / Σp₀qₙ) × 100\n\nUses current year quantities as weights.",
+    "tags": [
+      "index-numbers",
+      "paasche"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-04",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Fisher's Ideal price index",
+    "back": "FIPI = √[(Σpₙq₀ / Σp₀q₀) × (Σpₙqₙ / Σp₀qₙ)] × 100\n\nGeometric mean of Laspeyre's and Paasche's indices.",
+    "tags": [
+      "index-numbers",
+      "fisher"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-05",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Marshall-Edgeworth price index",
+    "back": "MEI = [(Σpₙq₀ + Σpₙq�) / (Σp₀q₀ + Σp₀qₙ)] × 100\n\nUses average of base and current year quantities as weights.",
+    "tags": [
+      "index-numbers",
+      "marshall-edgeworth"
+    ]
+  },
+  {
+    "id": "fc-ssc202-idx-06",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Value Index",
+    "back": "VRI = (pₙqₙ / p₀q₀) × 100 = (Vₙ / V₀) × 100\n\nCombines price and quantity changes.",
+    "tags": [
+      "index-numbers"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ts-01",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Time series components",
+    "back": "Four components:\n1. Trend (T)\n2. Seasonal variation (S)\n3. Cyclical variation (C)\n4. Irregular variation (I)",
+    "tags": [
+      "time-series"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ts-02",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Additive model",
+    "back": "Xₜ = T� + Sₜ + Cₜ + Iₜ\n\nComponents assumed independent and of similar magnitude.",
+    "tags": [
+      "time-series"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ts-03",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Multiplicative model",
+    "back": "Xₜ = Tₜ × Sₜ × Cₜ × Iₜ\n\nComponents interact; seasonal variation proportional to trend. Most common in practice.",
+    "tags": [
+      "time-series"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ts-04",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "k-yearly moving average",
+    "back": "Mean of k consecutive values centred at time t. Eliminates periodic/seasonal movements. Loses k−1 values at each end.",
+    "tags": [
+      "time-series",
+      "moving-average"
+    ]
+  },
+  {
+    "id": "fc-ssc202-ts-05",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Method of least squares (trend)",
+    "back": "Fit ŷ = a + bt. Normal equations:\nΣy = na + bΣt\nΣty = aΣt + bΣt²\n\nSolve for a and b.",
+    "tags": [
+      "time-series",
+      "least-squares"
+    ]
   }
 ]

@@ -88,6 +88,15 @@ export default function HomePage() {
                     >
                       Practice Mode
                     </Link>
+                    {course.id === "SSC202" && (
+                      <Link
+                        href={`/tables?course=${course.id}`}
+                        className="col-span-2 inline-flex items-center justify-center gap-1.5 font-mono text-xs font-semibold uppercase tracking-wide border border-line text-ink py-2.5 rounded-sm hover:border-ink-soft transition-colors"
+                      >
+                        Statistical tables
+                        <ArrowRight size={12} />
+                      </Link>
+                    )}
                     <Link
                       href={`/review?course=${course.id}`}
                       className="col-span-2 inline-flex items-center justify-center gap-1.5 font-mono text-xs font-semibold uppercase tracking-wide border border-line text-ink-soft py-2.5 rounded-sm hover:border-ink-soft hover:text-ink transition-colors"

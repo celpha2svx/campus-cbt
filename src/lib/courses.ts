@@ -12,9 +12,9 @@ const COURSE_CATALOG: Array<Omit<Course, "questionCount">> = [
   {
     id: "SSC202",
     code: "SSC 202",
-    fullName: "Coming soon",
-    description: "This course will be available soon.",
-    available: false,
+    fullName: "Statistical Methods and Sources II",
+    description: "Data interpretation, hypothesis testing, regression, correlation, index numbers, and time series.",
+    available: true,
   },
 ];
 

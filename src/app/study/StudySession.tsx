@@ -71,6 +71,7 @@ export function StudyHub() {
   );
 }
 
+
 function HubView({
   course,
   tab,
@@ -176,6 +177,24 @@ function HubView({
               <p className="mt-4 font-mono text-[10px] uppercase tracking-wide text-ink-soft">
                 Available in: {flashcardTopics.join(" · ")}
               </p>
+            )}
+            {course === "SSC202" && (
+              <Link
+                href={`/tables?course=${course}`}
+                className="mt-3 block bg-white border border-line rounded-sm px-4 py-3 hover:border-ink-soft transition-colors"
+              >
+                <div className="flex items-center justify-between gap-3">
+                  <div>
+                    <p className="font-serif text-sm font-medium leading-tight">
+                      Statistical tables
+                    </p>
+                    <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft mt-1">
+                      z, t, χ², F reference tables
+                    </p>
+                  </div>
+                  <ChevronRight size={16} className="text-ink-soft" />
+                </div>
+              </Link>
             )}
           </>
         )}

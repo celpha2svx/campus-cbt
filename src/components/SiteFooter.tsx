@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Mail, MessageCircle } from "lucide-react";
 
 const WHATSAPP_NUMBER = "2348072517875";
@@ -44,10 +45,16 @@ export function SiteFooter() {
           </div>
         </div>
 
-        <div className="border-t border-line mt-6 pt-4">
-          <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft text-center">
+        <div className="border-t border-line mt-6 pt-4 flex items-center justify-between">
+          <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft">
             Made by Luminaries
           </p>
+          <Link
+            href="/admin/upload"
+            className="font-mono text-[10px] uppercase tracking-wide text-ink-soft hover:text-ink"
+          >
+            Upload PQ
+          </Link>
         </div>
       </div>
     </footer>

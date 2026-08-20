@@ -1,0 +1,295 @@
+[
+  {
+    "id": "fc-ssc202-intro-01",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Statistics",
+    "back": "A scientific method that concerns data collection, presentation, analysis, interpretation or inference about data when issues of uncertainties are involved.",
+    "tags": ["definition"]
+  },
+  {
+    "id": "fc-ssc202-intro-02",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Descriptive statistics",
+    "back": "Statistics that deals with data collection, summarizing and comparing numerical data — concerned with summarizing a data set rather than using the data to learn about the population.",
+    "tags": ["descriptive"]
+  },
+  {
+    "id": "fc-ssc202-intro-03",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Inferential statistics",
+    "back": "Statistics that deals with techniques and tools for collecting data from a population by studying a sample, gaining knowledge of the population characteristics and making decisions about the sampled population.",
+    "tags": ["inferential"]
+  },
+  {
+    "id": "fc-ssc202-intro-04",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Population vs Sample",
+    "back": "Population: the entire group of individuals or items about which we want information.\nSample: a part of the population observed for the purpose of making scientific statements about the population.",
+    "tags": ["population", "sample"]
+  },
+  {
+    "id": "fc-ssc202-intro-05",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Parameter vs Statistic",
+    "back": "Parameter: a numerical characteristic of a population (e.g. μ, σ).\nStatistic: a numerical characteristic computed from a sample (e.g. x̄, s).",
+    "tags": ["parameter", "statistic"]
+  },
+  {
+    "id": "fc-ssc202-intro-06",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Primary data",
+    "back": "Information collected by a researcher specifically for the research at hand — original, current and directly related to the issue.",
+    "tags": ["data-sources"]
+  },
+  {
+    "id": "fc-ssc202-intro-07",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Secondary data",
+    "back": "Data obtained from already existing records or sources — published or unpublished records of government agencies, trade associations, research bureaus, magazines and individual research work.",
+    "tags": ["data-sources"]
+  },
+  {
+    "id": "fc-ssc202-intro-08",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "front": "Quantitative vs Qualitative data",
+    "back": "Quantitative: numerical values (discrete or continuous).\nQualitative: non-numerical, categorised as ordinal or nominal.",
+    "tags": ["data-types"]
+  },
+
+  {
+    "id": "fc-ssc202-ht-01",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Hypothesis",
+    "back": "An assumption or guess about the population parameters involved — used to aid decision making.",
+    "tags": ["hypothesis"]
+  },
+  {
+    "id": "fc-ssc202-ht-02",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Null hypothesis (H₀)",
+    "back": "States that there is no difference between the procedures, samples and other phenomenon. The hypothesis being tested.",
+    "tags": ["hypothesis"]
+  },
+  {
+    "id": "fc-ssc202-ht-03",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Alternative hypothesis (H₁)",
+    "back": "Any hypothesis which differs from the null hypothesis. The hypothesis adopted if H₀ is rejected.",
+    "tags": ["hypothesis"]
+  },
+  {
+    "id": "fc-ssc202-ht-04",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Type I error",
+    "back": "Rejecting a hypothesis which is supposed to be accepted. Probability = α (level of significance).",
+    "tags": ["errors"]
+  },
+  {
+    "id": "fc-ssc202-ht-05",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Type II error",
+    "back": "Accepting a hypothesis which is supposed to be rejected. Probability = β.",
+    "tags": ["errors"]
+  },
+  {
+    "id": "fc-ssc202-ht-06",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "One-tailed test",
+    "back": "Test where the alternative hypothesis is one-directional (H₁: μ > x̄ or H₁: μ < x̄). Use critical value at α.",
+    "tags": ["tails"]
+  },
+  {
+    "id": "fc-ssc202-ht-07",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Two-tailed test",
+    "back": "Test where the alternative hypothesis is two-directional (H₁: μ ≠ x̄). Use critical value at α/2.",
+    "tags": ["tails"]
+  },
+  {
+    "id": "fc-ssc202-ht-08",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "T-test statistic (one sample)",
+    "back": "t = (x̄ − μ₀) / (s / √n)\nUsed for small samples (n < 30) when σ is unknown. Compare |t| with t-table at (n − 1) degrees of freedom.",
+    "tags": ["t-test"]
+  },
+  {
+    "id": "fc-ssc202-ht-09",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "front": "Chi-square statistic",
+    "back": "χ² = Σ (Oᵢ − Eᵢ)² / Eᵢ\nFor an r × c contingency table, df = (r − 1)(c − 1). Rule of five: expected frequencies should not be less than 5.",
+    "tags": ["chi-square"]
+  },
+
+  {
+    "id": "fc-ssc202-reg-01",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Simple linear regression model",
+    "back": "y = a + bx\ny = dependent variable, x = independent variable, a = intercept, b = regression coefficient (slope).",
+    "tags": ["regression"]
+  },
+  {
+    "id": "fc-ssc202-reg-02",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Regression slope (b) formula",
+    "back": "b = (nΣxy − ΣxΣy) / (nΣx² − (Σx)²)\n\nPositive b: y increases as x increases. Negative b: y decreases as x increases.",
+    "tags": ["regression"]
+  },
+  {
+    "id": "fc-ssc202-reg-03",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Intercept (a) formula",
+    "back": "a = ȳ − bx̄\nThe predicted value of y when x = 0.",
+    "tags": ["regression"]
+  },
+  {
+    "id": "fc-ssc202-reg-04",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "front": "Multiple regression (two predictors)",
+    "back": "Y = b₀ + b₁X₁ + b₂X₂\nSolve three normal equations using Cramer's rule or matrix inversion. Test utility with H₀: β₁ = β₂ = ... = βₖ = 0.",
+    "tags": ["regression", "multiple"]
+  },
+
+  {
+    "id": "fc-ssc202-cor-01",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Pearson product moment correlation (r)",
+    "back": "r = (nΣxy − ΣxΣy) / √[(nΣx² − (Σx)²)(nΣy² − (Σy)²)]\n\nr ∈ [−1, +1]. Closer to ±1: stronger linear relationship.",
+    "tags": ["correlation", "pearson"]
+  },
+  {
+    "id": "fc-ssc202-cor-02",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Spearman rank correlation (R)",
+    "back": "R = 1 − [6Σdᵢ² / (n(n² − 1))]\n\nUsed when data are in ranks. Easier than Pearson but generally less accurate.",
+    "tags": ["correlation", "spearman"]
+  },
+  {
+    "id": "fc-ssc202-cor-03",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Positive correlation",
+    "back": "As one variable increases, the other also increases. Example: income and expenditure.",
+    "tags": ["correlation"]
+  },
+  {
+    "id": "fc-ssc202-cor-04",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "front": "Negative correlation",
+    "back": "As one variable increases, the other decreases. Example: number of labourers and time required to complete work.",
+    "tags": ["correlation"]
+  },
+
+  {
+    "id": "fc-ssc202-idx-01",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Price Relative Index",
+    "back": "PRI = (Pₙ / P₀) × 100\n\nPₙ = current year price, P₀ = base year price.",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "fc-ssc202-idx-02",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Laspeyre's price index",
+    "back": "LAPI = (Σpₙq₀ / Σp₀q₀) × 100\n\nUses base year quantities as weights.",
+    "tags": ["index-numbers", "laspeyres"]
+  },
+  {
+    "id": "fc-ssc202-idx-03",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Paasche's price index",
+    "back": "PAPI = (Σpₙqₙ / Σp₀qₙ) × 100\n\nUses current year quantities as weights.",
+    "tags": ["index-numbers", "paasche"]
+  },
+  {
+    "id": "fc-ssc202-idx-04",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Fisher's Ideal price index",
+    "back": "FIPI = √[(Σpₙq₀ / Σp₀q₀) × (Σpₙqₙ / Σp₀qₙ)] × 100\n\nGeometric mean of Laspeyre's and Paasche's indices.",
+    "tags": ["index-numbers", "fisher"]
+  },
+  {
+    "id": "fc-ssc202-idx-05",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Marshall-Edgeworth price index",
+    "back": "MEI = [(Σpₙq₀ + Σpₙq�) / (Σp₀q₀ + Σp₀qₙ)] × 100\n\nUses average of base and current year quantities as weights.",
+    "tags": ["index-numbers", "marshall-edgeworth"]
+  },
+  {
+    "id": "fc-ssc202-idx-06",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "front": "Value Index",
+    "back": "VRI = (pₙqₙ / p₀q₀) × 100 = (Vₙ / V₀) × 100\n\nCombines price and quantity changes.",
+    "tags": ["index-numbers"]
+  },
+
+  {
+    "id": "fc-ssc202-ts-01",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Time series components",
+    "back": "Four components:\n1. Trend (T)\n2. Seasonal variation (S)\n3. Cyclical variation (C)\n4. Irregular variation (I)",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "fc-ssc202-ts-02",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Additive model",
+    "back": "Xₜ = T� + Sₜ + Cₜ + Iₜ\n\nComponents assumed independent and of similar magnitude.",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "fc-ssc202-ts-03",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Multiplicative model",
+    "back": "Xₜ = Tₜ × Sₜ × Cₜ × Iₜ\n\nComponents interact; seasonal variation proportional to trend. Most common in practice.",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "fc-ssc202-ts-04",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "k-yearly moving average",
+    "back": "Mean of k consecutive values centred at time t. Eliminates periodic/seasonal movements. Loses k−1 values at each end.",
+    "tags": ["time-series", "moving-average"]
+  },
+  {
+    "id": "fc-ssc202-ts-05",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "front": "Method of least squares (trend)",
+    "back": "Fit ŷ = a + bt. Normal equations:\nΣy = na + bΣt\nΣty = aΣt + bΣt²\n\nSolve for a and b.",
+    "tags": ["time-series", "least-squares"]
+  }
+]

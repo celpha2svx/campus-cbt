@@ -1,0 +1,349 @@
+[
+  {
+    "id": "sn-ssc202-intro-stats",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "title": "What is Statistics",
+    "content": "Statistics is a scientific method that concerns data collection, presentation, analysis, interpretation or inference about data when issues of uncertainties are involved.\n\nStatistics is broadly classified into:\n(i) Descriptive statistics — data collection, summarizing and comparing numerical data. Concerned with summarizing a data set rather than using the data to learn about the population.\n(ii) Inferential statistics — techniques and tools for collecting data from a population by studying a sample, gaining knowledge of the population characteristics and making vital decisions about the sampled population.\n\nStatistics is useful in Accountancy, Engineering, Education, Business, Social Sciences, Law, Agriculture and any human area of endeavour where decision making is of vital importance.",
+    "tags": ["definition", "overview"]
+  },
+  {
+    "id": "sn-ssc202-intro-sources",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "title": "Sources of Data",
+    "content": "Primary data are information collected by a researcher specifically for the research at hand — original, current and directly related to the issue. Collected by the researcher himself through methods like interviews, surveys, questionnaires.\n\nSecondary data are obtained from already existing records or sources — derived from published or unpublished records of government agencies, trade associations, research bureaus, magazines and individual research work.\n\nScrutiny of secondary data checks Reliability, Suitability and Adequacy.\n\nInternal source: data collected within the organization (sales receipts, invoice, work schedule).\nExternal source: data collected outside the organization.",
+    "tags": ["data-sources"]
+  },
+  {
+    "id": "sn-ssc202-intro-desc-inf",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Descriptive and Inferential statistics",
+    "title": "Descriptive vs Inferential Statistics",
+    "content": "Descriptive statistics deals with data collection, summarizing and comparing numerical data. Concerned with summarizing a data set rather than using the data to learn about the population.\n\nInferential statistics deals with techniques and tools for collecting data from a population by taking a sample. Knowledge of population characteristics is gained and decisions are made about the sampled population.",
+    "tags": ["descriptive", "inferential"]
+  },
+  {
+    "id": "sn-ssc202-intro-pop-sample",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "title": "Population, Sample, Statistics and Parameter",
+    "content": "Population: the entire group of individuals or items about which we want information or draw conclusions.\n\nSample: a part of the population observed for the purpose of making scientific statements about the population.\n\nParameter: a numerical characteristic of a population (e.g. population mean μ, population standard deviation σ).\n\nStatistic: a numerical characteristic computed from a sample (e.g. sample mean x̄, sample standard deviation s).",
+    "tags": ["population", "sample", "parameter", "statistic"]
+  },
+  {
+    "id": "sn-ssc202-intro-quant-qual",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "title": "Quantitative and Qualitative Data",
+    "content": "Quantitative data: numerical values.\n- Discrete: integer values (e.g. number of books sold, number of registered students).\n- Continuous: real numbers — integer, fraction or decimal (e.g. heights, weights, prices).\n\nQualitative data: no numerical values; cannot be represented by numbers.\n- Ordinal Non-numeric: ranking is allowed (e.g. beauty contest judgement).\n- Nominal Non-numeric: classification by group or category (e.g. level of education, sex, occupation).",
+    "tags": ["data-types"]
+  },
+  {
+    "id": "sn-ssc202-intro-variable",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Variable",
+    "title": "Variable",
+    "content": "A variable is a characteristic that can take on different values. Variables can be classified as:\n\n- Quantitative variable: numerical values (discrete or continuous).\n- Qualitative variable: categories or attributes (nominal or ordinal).\n\nVariables can also be classified by role:\n- Independent variable (X): the explanatory or predictor variable.\n- Dependent variable (Y): the response or outcome variable.",
+    "tags": ["variable"]
+  },
+
+  {
+    "id": "sn-ssc202-ht-definition",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Definition of Hypothesis",
+    "title": "Hypothesis",
+    "content": "A hypothesis is an assumption or guess about the population parameters involved. Used to aid decision making.\n\nThere are two types:\n- Null hypothesis (H₀): states that there is no difference between the procedures, samples and other phenomenon.\n- Alternative hypothesis (H₁): any hypothesis which differs from the null hypothesis.\n\nExample: if population mean μ = 5.0 and sample mean x̄ = 6.0:\nH₀: μ = x̄  (i.e. 5.0 = 6.0)\nH₁: μ ≠ x̄  or  μ < x̄  or  μ > x̄",
+    "tags": ["hypothesis"]
+  },
+  {
+    "id": "sn-ssc202-ht-steps",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "title": "Steps in Hypothesis Testing",
+    "content": "The procedure for carrying out a significance test about a population parameter:\n\n(a) Set up the hypothesis about the parameter of interest and state its significance level.\n(b) Set the hypothesis by using the appropriate test statistic.\n(c) Draw conclusion by making decision on the result of your computed value in step (b). The table value at the given significance level is compared with the computed value.",
+    "tags": ["hypothesis-testing"]
+  },
+  {
+    "id": "sn-ssc202-ht-tails",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "title": "One-tailed and Two-tailed Tests",
+    "content": "The type of test depends on the stated alternative hypothesis (H₁).\n\nOne-tailed (one-sided) test: alternative hypothesis is one directional.\nExamples: H₁: μ > x̄ or H₁: μ < x̄\n\nTwo-tailed (two-sided) test: hypothesis is of two directions.\nExample: H₁: μ ≠ x̄\n\nThe significance level used depends on the test:\n- For one-tailed at significance level α, check critical value at α.\n- For two-tailed at significance level α, check critical value at α/2.",
+    "tags": ["hypothesis-testing"]
+  },
+  {
+    "id": "sn-ssc202-ht-errors",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Type I and Type II Errors",
+    "title": "Type I and Type II Errors",
+    "content": "Type I error: rejecting a hypothesis which is supposed to be accepted.\nType II error: accepting a hypothesis which is supposed to be rejected.\n\nDecision table:\n\n| Decision | H₀ true | H₀ false |\n| --- | --- | --- |\n| Accept H₀ | Correct decision | Type I error |\n| Reject H₀ | Type II error | Correct decision |\n\nThe level of significance (α) is the maximum probability of being willing to risk a Type I error. Common values: 1% (0.01) and 5% (0.05). The investigator has (1 − α) confidence of making a right decision.",
+    "tags": ["errors"]
+  },
+  {
+    "id": "sn-ssc202-ht-ttest",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "title": "T-test (Small Sample)",
+    "content": "For small samples (n < 30), the test statistic is the t-test, assuming the sampling distribution is approximately normal.\n\nTest statistic for population mean:\nt = (x̄ − μ₀) / (s / √n)\n\nwhere s² = Σ(x − x̄)² / (n − 1)\n\nFor difference between two population means (independent samples):\nt = (x̄₁ − x̄₂) / √[s²(1/n₁ + 1/n₂)]    (with pooled variance s²)\n\nDecision: compare t-calculated with t-table at (n − 1) degrees of freedom at the given significance level. If |t-cal| > t-table, reject H₀; otherwise accept H₀.\n\nThe t-distribution table is at /tables/t.",
+    "tags": ["t-test", "small-sample"]
+  },
+  {
+    "id": "sn-ssc202-ht-chisq",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "title": "Chi-square Test of Independence",
+    "content": "A statistic used to test the hypothesis that the row and column variables are independent.\n\nH₀: The two variables are independent.\nH₁: The two variables are dependent.\n\nTest statistic:\nχ² = Σ (Oᵢ − Eᵢ)² / Eᵢ\n\nwhere Oᵢ is the observed frequency and Eᵢ is the expected frequency in cell i.\n\nDegrees of freedom: (r − 1)(c − 1), where r is the number of rows and c is the number of columns in the contingency table.\n\nDecision: reject H₀ if χ²-calculated > χ²-table at the given significance level.\n\nRequirements:\n1. Sample must be randomly drawn.\n2. Data must be raw frequencies (not percentages).\n3. Variables are assumed independent.\n4. Categories must be mutually exclusive and exhaustive.\n5. Expected values should not be less than 5 (rule of five); collapse categories otherwise.\n\nThe chi-square table is at /tables/chisquare.",
+    "tags": ["chi-square"]
+  },
+
+  {
+    "id": "sn-ssc202-reg-bivariate",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "title": "Bivariate Regression Analysis",
+    "content": "Bivariate data involve two variables. Regression analysis examines the relationship between them.\n\nThe simple linear regression model of y on x:\ny = a + bx\n\nwhere:\n- y = dependent (response) variable\n- x = independent (explanatory) variable\n- a = intercept on the y-axis (the point where the line cuts the y-axis)\n- b = regression coefficient — the slope or gradient of the line\n\nMethods of fitting:\n(i) Graphical method: draw a scatter diagram, fit a straight line by inspection.\n(ii) Algebraic method: use the least squares normal equations.\n\nNote: It is important to distinguish the independent and dependent variables, which is not necessary for correlation.",
+    "tags": ["regression", "bivariate"]
+  },
+  {
+    "id": "sn-ssc202-reg-least-squares",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Multiple Regression Analysis",
+    "title": "Multiple Regression Analysis",
+    "content": "When Y depends on more than one X (say X₁, X₂), the multiple regression model is:\n\nY = b₀ + b₁X₁ + b₂X₂ + ε\n\nThe normal equations (from least squares, summing the residual to zero) are:\nΣY = nb₀ + b₁ΣX₁ + b₂ΣX₂\nΣX₁Y = b₀ΣX₁ + b₁ΣX₁² + b₂ΣX₁X₂\nΣX₂Y = b₀ΣX₂ + b₁ΣX₁X₂ + b₂ΣX₂²\n\nSolve the three simultaneous equations for b₀, b₁, b₂ using Cramer's rule (determinant method) or matrix inversion.\n\nTesting utility of the model:\nH₀: β₁ = β₂ = ... = βₖ = 0\nH₁: at least one βᵢ ≠ 0",
+    "tags": ["regression", "multiple"]
+  },
+  {
+    "id": "sn-ssc202-reg-formula",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Inferences Concerning Regression Slope",
+    "title": "Inferences Concerning the Regression Slope",
+    "content": "Estimates of the regression coefficients a and b (least squares):\n\nb = (nΣxy − ΣxΣy) / (nΣx² − (Σx)²)\n\na = ȳ − bx̄\n\nApplication and interpretation of b:\n1. b is the slope of the regression line.\n   - If b > 0: upward sloping — y increases as x increases.\n   - If b < 0: downward sloping — y decreases as x increases.\n2. The regression line can be used for prediction: given x, compute ŷ = a + bx.\n\nTest for significance of b uses the t-test with (n − 2) degrees of freedom.",
+    "tags": ["regression"]
+  },
+  {
+    "id": "sn-ssc202-reg-interpret",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Interpretation of Regression Coefficients",
+    "title": "Interpretation of Regression Coefficients",
+    "content": "In y = a + bx:\n- a (intercept): the predicted value of y when x = 0. May have no practical meaning if x = 0 is outside the data range.\n- b (regression coefficient): the amount by which y changes for a one-unit change in x. Holds other variables constant in multiple regression.\n\nFor multiple regression Y = b₀ + b₁X₁ + b₂X₂, each bᵢ is interpreted holding the other independent variables constant.\n\nGoodness of fit:\n- Coefficient of determination r²: proportion of variation in y explained by x. r² closer to 1 means better fit.",
+    "tags": ["regression", "interpretation"]
+  },
+
+  {
+    "id": "sn-ssc202-cor-pmcc",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Product Moment Correlation Coefficient",
+    "title": "Product Moment Correlation Coefficient (Pearson)",
+    "content": "Karl Pearson's product moment correlation coefficient measures the degree of linear relationship between two variables x and y. The value of r lies between −1 and +1 (−1 < r < 1).\n\nr = (nΣxy − ΣxΣy) / √[(nΣx² − (Σx)²)(nΣy² − (Σy)²)]\n\nAlternative forms:\nr = covariance(x, y) / √[var(x) · var(y)]\n\nInterpretation:\n- r close to +1: perfect positive linear relationship.\n- r close to −1: perfect negative linear relationship.\n- r close to 0: no linear relationship.\n\nExample: r = +0.92 → good correlation; r = −0.12 → poor correlation.",
+    "tags": ["correlation", "pearson"]
+  },
+  {
+    "id": "sn-ssc202-cor-spearman",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "title": "Spearman Rank Correlation",
+    "content": "Used when values are in ranks (ordinal scale) rather than actual measurements — e.g. beauty contest ranking.\n\nR = 1 − [6Σdᵢ² / (n(n² − 1))]\n\nwhere dᵢ is the difference in each pair of ranks and n is the number of objects ranked.\n\nR = +1 when ranks are in perfect agreement; R = −1 in perfect disagreement; otherwise −1 < R < 1.\n\nTie handling: when ties occur, each tied value is given the mean of those ranks (e.g. if two places are tied for second, each takes (2+3)/2 = 2.5).\n\nSpearman is easier to compute than Pearson but is generally less accurate.",
+    "tags": ["correlation", "spearman"]
+  },
+  {
+    "id": "sn-ssc202-cor-infer",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "title": "Inferences Concerning Correlation Coefficient",
+    "content": "To test the significance of a correlation coefficient r:\n\nH₀: ρ = 0  (population correlation is zero)\nH₁: ρ ≠ 0\n\nTest statistic (for n > 30):\nt = r√(n − 2) / √(1 − r²)\n\nCompare |t| with t-table at (n − 2) degrees of freedom.\n\nFor small n, use a table of critical r values directly.\n\nA significant r means the observed correlation is unlikely to be due to chance alone.",
+    "tags": ["correlation", "inference"]
+  },
+  {
+    "id": "sn-ssc202-cor-interpret",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Interpretation of Correlation Coefficient",
+    "title": "Interpretation of Correlation Coefficient",
+    "content": "Three types of simple correlation by value:\n\n1. Positive correlation: as one variable increases, the other also increases. Example: income and expenditure.\n\n2. Negative correlation: as one variable increases, the other decreases. Example: number of labourers and time required to complete work.\n\n3. Zero correlation: no relationship between the variables.\n\nStrength:\n- |r| close to 1: strong linear relationship.\n- |r| close to 0: weak or no linear relationship.\n\nNote: correlation does not imply causation — a strong r does not prove that x causes y.",
+    "tags": ["correlation", "interpretation"]
+  },
+  {
+    "id": "sn-ssc202-cor-linearity",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Test of Linearity",
+    "title": "Test of Linearity",
+    "content": "The product moment correlation coefficient r measures the strength of a linear relationship only. A scatter diagram is the first check for linearity.\n\nIf the scatter diagram suggests a non-linear (curvilinear) relationship, Pearson's r may underestimate the true association. In such cases, consider:\n- Transforming variables (e.g. log x, √x) and recomputing r.\n- Using a non-linear correlation measure.\n\nEmpirical rule: if |r| > 0.7 and the scatter is roughly linear, the linear model is a reasonable description.",
+    "tags": ["correlation"]
+  },
+
+  {
+    "id": "sn-ssc202-idx-definition",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Definition",
+    "title": "Index Number",
+    "content": "An index number is a statistical measure designed to show changes in a variable (or group of variables) over time or across geographical locations.\n\nSpiegel: 'A statistical measure designed to show changes in a variable or group of variables over time or for geographical locations.'\n\nUses of index numbers:\n- Measure changes in prices, quantities or values over time.\n- Compare activity across regions.\n- Track inflation and cost of living.\n- Forecast future economic activity.",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "sn-ssc202-idx-price-quantity",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "title": "Price and Quantity Relative Indices",
+    "content": "Price Relative Index (PRI):\nPRI = (Pₙ / P₀) × 100\n\nwhere Pₙ is the price in the current year and P₀ is the price in the base year.\n\nQuantity Relative Index (QRI):\nQRI = (qₙ / q₀) × 100\n\nwhere q� is the quantity in the current year and q₀ in the base year.",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "sn-ssc202-idx-value",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "title": "Value Index",
+    "content": "The value index (or value relative index) measures changes in total monetary worth. It combines price and quantity changes.\n\nVRI = (pₙqₙ / p₀q₀) × 100 = (Vₙ / V₀) × 100\n\nwhere Vₙ = p� × qₙ and V₀ = p₀ × q₀.",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "sn-ssc202-idx-simple-weighted",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "title": "Simple and Weighted Aggregate Indices",
+    "content": "Simple Aggregate Price Index (SAPI):\nSAPI = (Σpₙ / Σp₀) × 100\n\nSimple Aggregate Quantity Index (SAQI):\nSAQI = (Σqₙ / Σq₀) × 100\n\nSimple Average of Price Relatives:\nSAPRI = (Σ(pₙ/p₀ × 100)) / N\n\nWeighted indices (below) give different commodities appropriate weights rather than treating them equally.",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "sn-ssc202-idx-laspeyres",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "title": "Laspeyre's Index",
+    "content": "Laspeyre's price index uses base year quantities as weights.\n\nLAPI = (Σpₙq₀ / Σp₀q₀) × 100\n\nLaspeyre's quantity index uses base year prices as weights.\n\nLAQI = (Σqₙp₀ / Σq₀p₀) × 100",
+    "tags": ["index-numbers", "laspeyres"]
+  },
+  {
+    "id": "sn-ssc202-idx-paasche",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Paasche Index",
+    "title": "Paasche's Index",
+    "content": "Paasche's price index uses current year quantities as weights.\n\nPAPI = (Σpₙqₙ / Σp₀qₙ) × 100\n\nPaasche's quantity index uses current year prices as weights.\n\nPAQI = (Σqₙpₙ / Σq₀pₙ) × 100",
+    "tags": ["index-numbers", "paasche"]
+  },
+  {
+    "id": "sn-ssc202-idx-fisher",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "title": "Fisher's Ideal Index",
+    "content": "Fisher's Ideal Index combines base year and current year quantities/prices as weights. It is the geometric mean of Laspeyre's and Paasche's indices.\n\nFIPI = √[(Σpₙq₀ / Σp₀q₀) × (Σpₙqₙ / Σp₀qₙ)] × 100",
+    "tags": ["index-numbers", "fisher"]
+  },
+  {
+    "id": "sn-ssc202-idx-marshall",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall-Edgeworth Index",
+    "title": "Marshall-Edgeworth Index",
+    "content": "Marshall-Edgeworth's index uses an average of the base-year and current-year quantities as weights.\n\nMEI = [(Σpₙq₀ + Σpₙq�) / (Σp₀q₀ + Σp₀qₙ)] × 100\n\nA related form is the Dorbish-Booley index, which takes the simple arithmetic mean of Laspeyre's and Paasche's price indices:\n\nDBI = [(Σpₙq₀ / Σp₀q₀ + Σpₙqₙ / Σp₀qₙ) / 2] × 100",
+    "tags": ["index-numbers", "marshall-edgeworth"]
+  },
+  {
+    "id": "sn-ssc202-idx-problems",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "title": "Problems in Construction of Index Numbers",
+    "content": "Likely problems:\n- Selection of base year — sometimes arbitrary or biased.\n- Selection of items to be compared.\n- The choice of an appropriate average.\n- The choice of an appropriate weight.\n- What is the appropriate formula to use?",
+    "tags": ["index-numbers"]
+  },
+  {
+    "id": "sn-ssc202-idx-uses",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Uses of Index Numbers",
+    "title": "Uses of Index Numbers",
+    "content": "Index numbers are used to:\n- Measure changes in the general price level over time.\n- Measure changes in quantity (volume) traded.\n- Compare economic activity across regions.\n- Track inflation and the cost of living.\n- Inform policy decisions (wages, pensions, taxes).\n- Forecast future trends in prices and quantities.",
+    "tags": ["index-numbers"]
+  },
+
+  {
+    "id": "sn-ssc202-ts-definition",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Definition of Time Series Analysis",
+    "title": "Time Series",
+    "content": "A time series is a sequence of data points measured at successive points in time. Time series analysis is used for forecasting future values — e.g. given 25 years of price data, predict the price for year 26.\n\nTwo model forms:\n\nAdditive model:\nXₜ = Tₜ + Sₜ + Cₜ + I�\n\nMultiplicative model:\nXₜ = Tₜ × Sₜ × C� × Iₜ",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "sn-ssc202-ts-components",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Components of Time Series Analysis",
+    "title": "Components of a Time Series",
+    "content": "Four components:\n\n1. Trend or Secular Trend (Tₜ): the long-term movement of the series — continuous growth, stagnation or decline.\n\n2. Seasonal Variation (Sₜ): the identical or almost identical patterns a time series appears to follow during corresponding periods of successive years (e.g. cloth prices during festive periods, umbrella/woollen prices in winter vs summer).\n\n3. Cyclical Variation (C�): long-term oscillations or swings about a trend line — wave-like movement, may or may not be periodic. Example: movement of sales and income in prosperity and depression.\n\n4. Irregular Variation (Iₜ): the random, sporadic component due to chance or unpredictable events (fire, flood, strike, earthquake).",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "sn-ssc202-ts-models",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Models of Time Series Analysis",
+    "title": "Models of Time Series",
+    "content": "Two classical models:\n\nAdditive model:\nXₜ = Tₜ + Sₜ + Cₜ + Iₜ\n\nThe components are assumed independent and of similar magnitude. Useful when seasonal variation is roughly constant over time.\n\nMultiplicative model:\nXₜ = Tₜ × S� × Cₜ × Iₜ\n\nComponents interact. The seasonal variation is proportional to the trend. Most common in practice.",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "sn-ssc202-ts-moving-avg",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Moving Average Method",
+    "title": "Moving Average Method",
+    "content": "A k-yearly moving average at time t is the arithmetic mean of k consecutive values centred at t.\n\nExample: for Y values 20, 35, 43, 49, 52, 57 (years 2006–2011):\n3-yearly moving averages:\n(20+35+43)/3 = 32.67 (at 2007)\n(35+43+49)/3 = 42.33 (at 2008)\n(43+49+52)/3 = 48.00 (at 2009)\n(49+52+57)/3 = 52.67 (at 2010)\n\nAdvantages:\n1. Easy to compute.\n2. Eliminates periodic/seasonal movements.\n\nLimitations:\n1. Loss of information at extreme ends.\n2. Not a good means of comparing trends.",
+    "tags": ["time-series", "moving-average"]
+  },
+  {
+    "id": "sn-ssc202-ts-least-sq",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Method of Least Squares",
+    "title": "Method of Least Squares for Trend",
+    "content": "Fit a straight line trend ŷ = a + bt where t is the time index (years).\n\nNormal equations (same as regression):\nΣy = na + bΣt\nΣty = aΣt + bΣt²\n\nSolving:\nb = (nΣty − ΣtΣy) / (nΣt² − (Σt)²)\na = ȳ − bx̄ₜ\n\nTo reduce arithmetic, shift the origin so Σt = 0 (e.g. for odd n, centre t at 0; for even n, centre between two middle periods).",
+    "tags": ["time-series", "least-squares"]
+  },
+  {
+    "id": "sn-ssc202-ts-deviation",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Deviation Method of Trend Estimation",
+    "title": "Deviation Method",
+    "content": "An alternative to least squares using deviations from a chosen origin.\n\nIf A is the assumed mean and dᵢ = yᵢ − A, then:\n\ntrend values = A + (Σdᵢ / n)\n\nFor trend lines, you can also fit:\nŷ = A + b · t\nwhere t is the deviation of the time variable from the chosen origin.",
+    "tags": ["time-series"]
+  },
+  {
+    "id": "sn-ssc202-ts-seasonal",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "title": "Seasonal Variation (Simple Methods)",
+    "content": "Simple methods to estimate seasonal variation:\n\n1. Simple average method: for each season, compute the average of its values over all years. Express each seasonal average as a percentage of the overall (grand) average — this gives the seasonal index.\n\n2. Ratio-to-trend method: divide each actual value by the corresponding trend value (from the fitted line) to get a percentage. Average the percentages for the same season across years.\n\n3. Ratio-to-moving-average method: divide each actual value by the centred moving average. The averages of these ratios for each season give the seasonal index.\n\nThe seasonal indices for a complete cycle should sum to 400 (quarterly), 1200 (monthly) or 100 × k for k periods.",
+    "tags": ["time-series", "seasonal"]
+  }
+]
