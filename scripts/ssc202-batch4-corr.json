@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-202-044",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 29,15,21,22,20,25,27,19,24,21; Production(x): 15,23,22,19,19,18,21,24,17,16. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "options": [
+      { "key": "A", "text": "-0.69" },
+      { "key": "B", "text": "0.64" },
+      { "key": "C", "text": "0.69" },
+      { "key": "D", "text": "-0.64" }
+    ],
+    "correct_option": "D",
+    "explanation": "Ranking both variables and computing sum(d^2) = 270, rho = 1 - 6*sum(d^2)/(n*(n^2-1)) = 1 - 1620/990 = -0.636, which rounds to -0.64.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-045",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "Using the same test fault (y) / production (x) data for 10 men, what is the value of the summation of the square of the differences (d^2)?",
+    "options": [
+      { "key": "A", "text": "275" },
+      { "key": "B", "text": "270" },
+      { "key": "C", "text": "370" },
+      { "key": "D", "text": "375" }
+    ],
+    "correct_option": "B",
+    "explanation": "Ranking y and x (with ties averaged) and summing squared rank differences gives sum(d^2) = 270.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-046",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "Comment on the relationship between the test fault and the time taken by the 10 men above (rho = -0.64).",
+    "options": [
+      { "key": "A", "text": "Negative but weak association" },
+      { "key": "B", "text": "Positively strong association" },
+      { "key": "C", "text": "No association" },
+      { "key": "D", "text": "Inversely strong association" }
+    ],
+    "correct_option": "D",
+    "explanation": "Spearman rho of -0.64 indicates a fairly strong negative (inverse) association.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-047",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "In the ranking order (largest = rank 1), what is the value of the 5th position among the fault values (y): 29,15,21,22,20,25,27,19,24,21?",
+    "options": [
+      { "key": "A", "text": "22" },
+      { "key": "B", "text": "15" },
+      { "key": "C", "text": "19" },
+      { "key": "D", "text": "24" }
+    ],
+    "correct_option": "A",
+    "explanation": "Sorted descending: 29,27,25,24,22,21,21,20,19,15. The 5th value is 22.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-048",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "What are the values of the 6th and 7th positions in the ranking order among the fault values (y): 29,15,21,22,20,25,27,19,24,21?",
+    "options": [
+      { "key": "A", "text": "20" },
+      { "key": "B", "text": "17" },
+      { "key": "C", "text": "19" },
+      { "key": "D", "text": "21" }
+    ],
+    "correct_option": "D",
+    "explanation": "Sorted descending: 29,27,25,24,22,21,21,20,19,15. Both the 6th and 7th values are 21 (a tie).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-049",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 10,9,8,7,6,5,4,3,2,1; Production(x): 10,8,7,9,6,5,3,4,2,1. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "options": [
+      { "key": "A", "text": "-0.69" },
+      { "key": "B", "text": "0.95" },
+      { "key": "C", "text": "0.64" },
+      { "key": "D", "text": "0.69" }
+    ],
+    "correct_option": "B",
+    "explanation": "sum(d^2) = 8, rho = 1 - 6(8)/(10*99) = 1 - 48/990 = 0.9515 ~ 0.95.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-050",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "Using the near-perfectly-ranked test fault/production data (y: 10,9,8,7,6,5,4,3,2,1; x: 10,8,7,9,6,5,3,4,2,1), what is the value of the summation of the square of the difference (d^2)?",
+    "options": [
+      { "key": "A", "text": "8" },
+      { "key": "B", "text": "7" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "4" }
+    ],
+    "correct_option": "A",
+    "explanation": "sum(d^2) = 8 across the 10 pairs.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-051",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "In the ranking order, what is the value of the 3rd position among the fault values (x): 10,8,7,9,6,5,3,4,2,1?",
+    "options": [
+      { "key": "A", "text": "10" },
+      { "key": "B", "text": "5" },
+      { "key": "C", "text": "8" },
+      { "key": "D", "text": "9" }
+    ],
+    "correct_option": "C",
+    "explanation": "Sorted descending: 10,9,8,7,6,5,4,3,2,1. The 3rd value is 8.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-052",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "What is the summation of the values of the 6th and 7th positions in the ranking order among the fault values (y): 10,9,8,7,6,5,4,3,2,1?",
+    "options": [
+      { "key": "A", "text": "9" },
+      { "key": "B", "text": "7" },
+      { "key": "C", "text": "10" },
+      { "key": "D", "text": "12" }
+    ],
+    "correct_option": "A",
+    "explanation": "Sorted descending: 10,9,8,7,6,5,4,3,2,1. 6th value = 5, 7th = 4; 5 + 4 = 9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-053",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The yield (per hectare) of a crop (x) is believed to depend on the May rainfall (y). For five regions, records are kept of the average values of x and y: X: 18.7, 15.8, 13.9, 12.1, 17.2; Y: 4.3, 2.6, 5.3, 3.5, 3.8. Use Spearman's correlation coefficient to determine the relationship between the yield and the rainfall for the five regions.",
+    "options": [
+      { "key": "A", "text": "-0.4" },
+      { "key": "B", "text": "0.4" },
+      { "key": "C", "text": "0.3" },
+      { "key": "D", "text": "0.2" }
+    ],
+    "correct_option": "D",
+    "explanation": "Ranking X and Y and computing sum(d^2) = 16: rho = 1 - 6(16)/(5*24) = 1 - 0.8 = 0.2.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-054",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "Comment on the relationship between the regions' yield and the rainfall (rho = 0.2).",
+    "options": [
+      { "key": "A", "text": "Positive but weak association" },
+      { "key": "B", "text": "Positively strong association" },
+      { "key": "C", "text": "Inversely weak association" },
+      { "key": "D", "text": "No association" }
+    ],
+    "correct_option": "A",
+    "explanation": "Spearman rho of 0.2 is close to zero, indicating a weak positive association.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-055",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Product Moment Correlation Coefficient",
+    "question_text": "Listed below are the sample of respective prices and number of a particular item sold in the last five-year period. Price: 21, 22, 23, 24, 25; Item sold: 65, 65, 60, 60, 50. What is the mean of item sold?",
+    "options": [
+      { "key": "A", "text": "50" },
+      { "key": "B", "text": "60" },
+      { "key": "C", "text": "66" },
+      { "key": "D", "text": "56" }
+    ],
+    "correct_option": "B",
+    "explanation": "Mean = (65+65+60+60+50)/5 = 300/5 = 60.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-056",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Product Moment Correlation Coefficient",
+    "question_text": "Using the same price/item sold data (Price: 21,22,23,24,25; Item sold: 65,65,60,60,50), calculate the coefficient of correlation between the sampled sold items and the various prices.",
+    "options": [
+      { "key": "A", "text": "0.25" },
+      { "key": "B", "text": "-0.90" },
+      { "key": "C", "text": "0.7" },
+      { "key": "D", "text": "-0.20" }
+    ],
+    "correct_option": "B",
+    "explanation": "Using deviations from the means (price mean=23, item mean=60): sum(dx*dy) = -35, sum(dx^2) = 10, sum(dy^2) = 150. r = -35/sqrt(10*150) = -35/38.73 ~ -0.90.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-057",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "How can you interpret the relationship between price and item sold in the above table (r = -0.90)?",
+    "options": [
+      { "key": "A", "text": "A negative correlation" },
+      { "key": "B", "text": "A strong positive correlation" },
+      { "key": "C", "text": "A weak positive correlation" },
+      { "key": "D", "text": "None of the above" }
+    ],
+    "correct_option": "A",
+    "explanation": "r = -0.90 indicates a strong negative correlation: as price rises, item sold falls.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-058",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "The lower and upper boundaries of a correlation coefficient (r) are",
+    "options": [
+      { "key": "A", "text": "1 <= r >= -1" },
+      { "key": "B", "text": "-1 >= r >= 1" },
+      { "key": "C", "text": "1 >= r >= -1" },
+      { "key": "D", "text": "-1 <= r <= 1" }
+    ],
+    "correct_option": "D",
+    "explanation": "A correlation coefficient always lies between -1 and +1 inclusive.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-059",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "If a variable X in a relationship decreases as variable Y increases, the variables are",
+    "options": [
+      { "key": "A", "text": "a scatter relationship" },
+      { "key": "B", "text": "Positively correlated" },
+      { "key": "C", "text": "Negatively correlated" },
+      { "key": "D", "text": "a non-relationship" }
+    ],
+    "correct_option": "C",
+    "explanation": "When one variable increases as the other decreases, this is a negative (inverse) correlation.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-060",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "A scatter diagram that does not have a possible fitted line is an indication of a ------ relationship",
+    "options": [
+      { "key": "A", "text": "Perfectly positive relationship" },
+      { "key": "B", "text": "Perfectly negative relationship" },
+      { "key": "C", "text": "Partial relationship" },
+      { "key": "D", "text": "No correlation" }
+    ],
+    "correct_option": "D",
+    "explanation": "If no line can reasonably be fitted, this indicates absence of a linear relationship (no correlation).",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-061",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "A perfect correlation is measured as unity for perfect positive correlation and is represented by a linear graph which moves from",
+    "options": [
+      { "key": "A", "text": "Bottom right corner to top right" },
+      { "key": "B", "text": "Bottom right corner to top left" },
+      { "key": "C", "text": "Bottom left corner to top right" },
+      { "key": "D", "text": "Top left corner to bottom right" }
+    ],
+    "correct_option": "C",
+    "explanation": "A perfect positive correlation appears as a straight line rising from the bottom-left to the top-right.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

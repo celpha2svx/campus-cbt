@@ -8663,5 +8663,4327 @@
     "tags": [
       "careers"
     ]
+  },
+  {
+    "id": "ssc-202-001",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Definition",
+    "question_text": "An index number is defined as",
+    "options": [
+      {
+        "key": "A",
+        "text": "A statistical change in alpha-numeric variables over time, geographic location or other characteristic"
+      },
+      {
+        "key": "B",
+        "text": "A statistical variable designed to show measures in related functions or group of related functions with respect to time, geographic location or other characteristic"
+      },
+      {
+        "key": "C",
+        "text": "A statistical measure to show changes in consumables or a group of related consumables with respect to time, geographic location or other characteristic"
+      },
+      {
+        "key": "D",
+        "text": "A statistical measure designed to show changes in variable or a group of related variables with respect to time, geographic location or other characteristic"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Standard textbook definition of an index number as a statistical measure of change in a variable or group of related variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-002",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Definition",
+    "question_text": "Which of the following is not a characteristic of index numbers?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Index numbers are always geometric means"
+      },
+      {
+        "key": "B",
+        "text": "Index numbers are for comparison"
+      },
+      {
+        "key": "C",
+        "text": "Index numbers are expressed in percentage"
+      },
+      {
+        "key": "D",
+        "text": "Index numbers measure changes not capable of direct measurement"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Index numbers can be simple aggregates, arithmetic means, or geometric means (e.g. Fisher's); they are not always geometric means.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-003",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "In the estimation of value index, total value is",
+    "options": [
+      {
+        "key": "A",
+        "text": "The quantity of the commodities consumed in the base year multiplied by the prices in the current year"
+      },
+      {
+        "key": "B",
+        "text": "The price of the commodity multiplied by the quantity consumed"
+      },
+      {
+        "key": "C",
+        "text": "The price in the base year multiplied by the quantities in the current year"
+      },
+      {
+        "key": "D",
+        "text": "Changes in the volume or quantity produced in all years"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Value = Price x Quantity (V = PQ), the standard definition of total value.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-004",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Use the table below to answer questions 4-13, USE 1995 AS THE BASE YEAR UNLESS OTHERWISE STATED. Commodities A,B,C,D with 1995 (Price,Qty): A(40,60) B(56,60) C(40,60) D(37,60); 1996 (Price,Qty): A(59,90) B(53,90) C(42,90) D(45,90). The Marshall-Edgeworth Price index is",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since quantities are uniform (60 in 1995, 90 in 1996) across all commodities, Laspeyres price = Paasche price = 115.03, so Marshall-Edgeworth (their arithmetic-style average) is also 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-005",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The Bowley's price index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Bowley's index is the arithmetic mean of Laspeyres and Paasche price indices; since both equal 115.03 here (uniform quantities), Bowley's is also 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-006",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The simple aggregate quantity index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Simple aggregate quantity index = sum(Q1)/sum(Q0) x 100 = 360/240 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-007",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Using 1996 as the reference year, the simple aggregate price index is (same commodities table)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Simple aggregate price index = sum(P_reference)/sum(P_other) x 100 = 199/173 x 100 = 115.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-008",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "The Laspeyre's price index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyres price index = sum(P1*Q0)/sum(P0*Q0) x 100 = 11940/10380 x 100 = 115.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-009",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Paasche Index",
+    "question_text": "The Paasche's quantity index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paasche quantity index = sum(Q1*P1)/sum(Q0*P1) x 100 = 17910/11940 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-010",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "The Laspeyre's quantity index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Laspeyres quantity index = sum(Q1*P0)/sum(Q0*P0) x 100 = 15570/10380 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-011",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "The Fisher's ideal price index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Fisher's ideal index = sqrt(Laspeyres price x Paasche price) = sqrt(115.03 x 115.03) = 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-012",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Marshall-Edgeworth Price index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Repeat of Q4; Marshall-Edgeworth price index = 115.03 given uniform quantity weights.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-013",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Bowley's price index is (same commodities table, 1995 as base year)",
+    "options": [
+      {
+        "key": "A",
+        "text": "115.03"
+      },
+      {
+        "key": "B",
+        "text": "66.67"
+      },
+      {
+        "key": "C",
+        "text": "150.00"
+      },
+      {
+        "key": "D",
+        "text": "159.60"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Repeat of Q5; Bowley's price index (mean of Laspeyres and Paasche) = 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-014",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Uses of Index Numbers",
+    "question_text": "Index numbers cannot be used for one of the following",
+    "options": [
+      {
+        "key": "A",
+        "text": "to measure the cost of living"
+      },
+      {
+        "key": "B",
+        "text": "to measure economic progress in various sectors of the economy"
+      },
+      {
+        "key": "C",
+        "text": "to select a base period"
+      },
+      {
+        "key": "D",
+        "text": "to indicate the level of poverty"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Selecting a base period is a step in constructing an index number, not a use/output of one.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-015",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "Fisher's quantity index is given as:",
+    "options": [
+      {
+        "key": "A",
+        "text": "sqrt[ (sum(q1*p0)/sum(q0*p0)) x (sum(q1*p1)/sum(q0*p1)) ] x 100"
+      },
+      {
+        "key": "B",
+        "text": "sqrt[(L+P)/2]"
+      },
+      {
+        "key": "C",
+        "text": "(L+P)/2"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Fisher's index (price or quantity) is defined as the geometric mean of the corresponding Laspeyres and Paasche indices.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-016",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Bowley's price index is given as",
+    "options": [
+      {
+        "key": "A",
+        "text": "sqrt[ (sum(q1*p0)/sum(q0*p0)) x (sum(q1*p1)/sum(q0*p1)) ] x 100"
+      },
+      {
+        "key": "B",
+        "text": "sqrt[(L+P)/2]"
+      },
+      {
+        "key": "C",
+        "text": "(L+P)/2"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Bowley's index is the simple arithmetic mean of the Laspeyres (L) and Paasche (P) indices: (L+P)/2.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-017",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "Which of the following is not a problem in the construction of an index number?",
+    "options": [
+      {
+        "key": "A",
+        "text": "selection of price quotations"
+      },
+      {
+        "key": "B",
+        "text": "choice of average"
+      },
+      {
+        "key": "C",
+        "text": "choice of weights"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Selection of price quotations, choice of average, and choice of weights are all genuine, well-documented problems in index number construction; only 'none of the above' correctly names something that is not itself a problem.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-018",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The arithmetic and the geometric means of Laspeyre's and Paasche's indices are",
+    "options": [
+      {
+        "key": "A",
+        "text": "Fisher's Ideal index and Bowley's index respectively"
+      },
+      {
+        "key": "B",
+        "text": "Bowley's index and Fisher's Ideal index respectively"
+      },
+      {
+        "key": "C",
+        "text": "Bowley and Marshal-Edgeworth index respectively"
+      },
+      {
+        "key": "D",
+        "text": "Fisher's ideal index and Marshall-Edgeworth index respectively"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Bowley's index is the arithmetic mean of Laspeyres and Paasche; Fisher's Ideal index is their geometric mean.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-019",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "A manufacturer of pet foods was wondering whether cat owners and dog owners reacted differently to premium pet foods. A consumer survey found: Cat owners surveyed = 280, using premium food = 152; Dog owners surveyed = 190, using premium food = 81. Is it reasonable to conclude, at alpha = 0.02, that cat owners are more likely than dog owners to feed their pets premium food? What proportion of cat owners used premium food for their cats?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.54"
+      },
+      {
+        "key": "B",
+        "text": "0.543"
+      },
+      {
+        "key": "C",
+        "text": "0.5428"
+      },
+      {
+        "key": "D",
+        "text": "0.5429"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "152/280 = 0.542857..., which rounds to 0.5429.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-020",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same pet food survey data (280 cat owners, 152 using premium; 190 dog owners, 81 using premium), what proportion of dog owners fed their dog with premium food?",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.4263"
+      },
+      {
+        "key": "B",
+        "text": "0.42"
+      },
+      {
+        "key": "C",
+        "text": "0.426"
+      },
+      {
+        "key": "D",
+        "text": "0.43"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "81/190 = 0.426315..., which rounds to 0.4263.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-021",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same pet food survey data, the standard error of difference between the two proportions is",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.0471"
+      },
+      {
+        "key": "B",
+        "text": "0.05"
+      },
+      {
+        "key": "C",
+        "text": "0.0466"
+      },
+      {
+        "key": "D",
+        "text": "0.0462"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Pooled proportion p-bar = (152+81)/(280+190) = 233/470 = 0.49574. SE = sqrt[p-bar(1-p-bar)(1/280 + 1/190)] = sqrt(0.24998 x 0.008835) = sqrt(0.0022085) ~ 0.0470, closest to 0.0471.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-022",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "For the pet food survey test (cat owners vs dog owners, testing whether cat owners are more likely to use premium food, one-tailed test), what is Z-tabulated at alpha = 0.02?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.02"
+      },
+      {
+        "key": "B",
+        "text": "2.03"
+      },
+      {
+        "key": "C",
+        "text": "2.04"
+      },
+      {
+        "key": "D",
+        "text": "2.05"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For a one-tailed test at alpha = 0.02, the critical Z value is 2.05 (2.054 rounded).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-023",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the pet food survey data, what is Z-calculated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.50"
+      },
+      {
+        "key": "B",
+        "text": "2.502"
+      },
+      {
+        "key": "C",
+        "text": "2.5021"
+      },
+      {
+        "key": "D",
+        "text": "2.48"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Z = (p1 - p2)/SE = (0.542857 - 0.426316)/0.0470 = 0.116541/0.0470 ~ 2.48.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-024",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the pet food survey data, what is your conclusion at alpha = 0.02?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Reject H0, and conclude that cat owners are more likely to feed their pets with premium food"
+      },
+      {
+        "key": "B",
+        "text": "Accept H0, and conclude that cat owners are not more likely to feed their pets with premium food"
+      },
+      {
+        "key": "C",
+        "text": "Reject H0, and conclude that cat owners are not more likely to feed their pets with premium food"
+      },
+      {
+        "key": "D",
+        "text": "Accept H0, and conclude that cat owners are more likely to feed their pets with premium food"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Z-calculated (2.48) exceeds Z-tabulated (2.05), so we reject H0 and conclude cat owners are more likely to use premium food.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-025",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "It is desired to test the effectiveness of an advertising campaign on the sale of a community's product. Daily sales before and after the campaign (in N'000) were recorded for 8 days. The average sales before and after are respectively equal to",
+    "options": [
+      {
+        "key": "A",
+        "text": "52.2, 55.0"
+      },
+      {
+        "key": "B",
+        "text": "52, 54.9"
+      },
+      {
+        "key": "C",
+        "text": "52.19, 54.95"
+      },
+      {
+        "key": "D",
+        "text": "52.188, 54.950"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Full-precision means of the before/after sample columns.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-026",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, the standard error of difference between the two means is",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.3767"
+      },
+      {
+        "key": "B",
+        "text": "2.377"
+      },
+      {
+        "key": "C",
+        "text": "2.3768"
+      },
+      {
+        "key": "D",
+        "text": "3.3612"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Standard error of the paired-difference mean.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-027",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, the mean difference is",
+    "options": [
+      {
+        "key": "A",
+        "text": "-2.763"
+      },
+      {
+        "key": "B",
+        "text": "2.763"
+      },
+      {
+        "key": "C",
+        "text": "2.7625"
+      },
+      {
+        "key": "D",
+        "text": "-2.7625"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Mean difference (before - after) = 52.188 - 54.950 = -2.762, matching -2.7625 at full precision. The negative sign shows sales after the campaign were higher on average.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-028",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "For the advertising campaign before/after sales data, what is the t-value from the table?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.761"
+      },
+      {
+        "key": "B",
+        "text": "2.15"
+      },
+      {
+        "key": "C",
+        "text": "2.145"
+      },
+      {
+        "key": "D",
+        "text": "1.76"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Critical t from the standard t-table for the corresponding df.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-029",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, what is the t-calculated?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.16"
+      },
+      {
+        "key": "B",
+        "text": "-1.162"
+      },
+      {
+        "key": "C",
+        "text": "-1.16"
+      },
+      {
+        "key": "D",
+        "text": "1.162"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "t = mean difference / SE = -2.7625 / 2.3767 ~ -1.162.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-030",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "For the advertising campaign before/after sales data, what is your conclusion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Reject H0, and conclude that the advertising campaign has been effective"
+      },
+      {
+        "key": "B",
+        "text": "Accept H0, and conclude that the advertising campaign has not been effective"
+      },
+      {
+        "key": "C",
+        "text": "Reject H0, and conclude that the advertising campaign has not been effective"
+      },
+      {
+        "key": "D",
+        "text": "Accept H0, and conclude that the advertising campaign has been effective"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The magnitude of t-calculated (1.162) is less than t-tabulated (1.761), so we fail to reject H0: there is no significant evidence the campaign changed sales.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-031",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "In a laboratory-based investigation of the photosynthesis rate (y) of the plant Larrea tridenta and its relation to the level of radiance (x), 11 paired observations were taken. The data were summarized by: sum(X) = 56.2, sum(X^2) = 335.18, sum(Y^2) = 41244, sum(XY) = 3688.3. Calculate the equation of the estimated regression line of y on x.",
+    "options": [
+      {
+        "key": "A",
+        "text": "y = 3.72 + 0.58x"
+      },
+      {
+        "key": "B",
+        "text": "y = -2.78 + 11.47x"
+      },
+      {
+        "key": "C",
+        "text": "y = -3.21 + 0.76x"
+      },
+      {
+        "key": "D",
+        "text": "y = 4.1 - 0.98x"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "b = (n*sum(XY) - sum(X)*sum(Y)) / (n*sum(X^2) - (sum(X))^2). With the implied sum(Y), b ~ 11.47 and a ~ -2.78.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-032",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "Using the photosynthesis rate regression equation, estimate the photosynthesis rate when the level of irradiance is 5.2.",
+    "options": [
+      {
+        "key": "A",
+        "text": "50.2"
+      },
+      {
+        "key": "B",
+        "text": "69.3"
+      },
+      {
+        "key": "C",
+        "text": "56.9"
+      },
+      {
+        "key": "D",
+        "text": "70.1"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "y = -2.78 + 11.47(5.2) = -2.78 + 59.64 = 56.9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-033",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Inferences Concerning Regression Slope",
+    "question_text": "In a test of linear relationship between 2 variables x and y, if the sum of squares due to regression is 20, the total sum of squares is 25, and n = 10, what is the F-Ratio?",
+    "options": [
+      {
+        "key": "A",
+        "text": "26"
+      },
+      {
+        "key": "B",
+        "text": "32"
+      },
+      {
+        "key": "C",
+        "text": "64"
+      },
+      {
+        "key": "D",
+        "text": "56"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "SSE = SST - SSR = 25 - 20 = 5. Residual df = n - 2 = 8. F = (SSR/1)/(SSE/8) = 20/(5/8) = 32.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-034",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The Federal Office of Statistics data on number of Doctors (Y) and Nurses (X) available for Health Services in Nigeria, to the nearest thousand, between 1978 and 1983: Year 1978-1983, Doctors: 8,7,8,10,10,11; Nurses: 23,25,28,30,34,35. Use the least squares method to calculate the regression equation of Doctors on Nurses.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Y-hat = 0.29x + 0.63"
+      },
+      {
+        "key": "B",
+        "text": "Y-hat = 0.63x + 0.29"
+      },
+      {
+        "key": "C",
+        "text": "= 0.29Y + 0.63"
+      },
+      {
+        "key": "D",
+        "text": "Y-hat = 0.29x + 0.80"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "n=6, sum(X)=175, sum(Y)=54, sum(XY)=1608, sum(X^2)=5219. b ~ 0.29, a ~ 0.63.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-035",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The table shows the amount of water applied (inches) and the yield of soya beans (tons/acre) on an experimental farm: Water Applied: 12,18,24,30,36,42,48; Yield: 5.27,5.68,6.25,7.21,8.03,8.71,8.42. Estimate the linear regression equation.",
+    "options": [
+      {
+        "key": "A",
+        "text": "y = 2.8614 - 0.1346x"
+      },
+      {
+        "key": "B",
+        "text": "y = 3.8684 + 0.1071x"
+      },
+      {
+        "key": "C",
+        "text": "y = 6.7123 + 0.9054x"
+      },
+      {
+        "key": "D",
+        "text": "y = 5.6190 + 0.2015x"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Confirmed by the paper's marked answer and the next question (yield at x=60 = 10.2944).",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-036",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "Given that the yield is a function of water applied (soya bean data), what will be the yield if the amount of water applied is 60?",
+    "options": [
+      {
+        "key": "A",
+        "text": "11.2931"
+      },
+      {
+        "key": "B",
+        "text": "10.2944"
+      },
+      {
+        "key": "C",
+        "text": "7.8123"
+      },
+      {
+        "key": "D",
+        "text": "6.4131"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using y = 3.8684 + 0.1071x: y = 3.8684 + 0.1071(60) = 10.2944.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-037",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "One of the assumptions of regression analysis is",
+    "options": [
+      {
+        "key": "A",
+        "text": "The independent variable is correlated with the error term"
+      },
+      {
+        "key": "B",
+        "text": "No relevant independent variable is excluded"
+      },
+      {
+        "key": "C",
+        "text": "The relationship between X and Y is non-linear"
+      },
+      {
+        "key": "D",
+        "text": "No irrelevant independent variable is included"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Standard OLS regression assumptions include that no irrelevant independent variable is included.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-038",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Interpretation of Regression Coefficients",
+    "question_text": "Y = a + bX is called the regression equation of",
+    "options": [
+      {
+        "key": "A",
+        "text": "X on Y"
+      },
+      {
+        "key": "B",
+        "text": "Y on Y"
+      },
+      {
+        "key": "C",
+        "text": "X on X"
+      },
+      {
+        "key": "D",
+        "text": "Y on X"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "When Y is expressed as a function of X, it is the regression equation of Y on X.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-039",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Multiple Regression Analysis",
+    "question_text": "In the equation Y = a + b1*X1 + b2*X2 + e, the regression equation has ____ predictor variables.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "X1 and X2 are the two predictor (independent) variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-040",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The process of explaining an outcome variable on a predictor variable is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "correlation"
+      },
+      {
+        "key": "B",
+        "text": "coefficient"
+      },
+      {
+        "key": "C",
+        "text": "regression"
+      },
+      {
+        "key": "D",
+        "text": "normal equation"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Regression models/explains an outcome (dependent) variable using one or more predictor (independent) variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-041",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Multiple Regression Analysis",
+    "question_text": "____________ involves three or more variables.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Linear regression"
+      },
+      {
+        "key": "B",
+        "text": "Slope"
+      },
+      {
+        "key": "C",
+        "text": "Intercept"
+      },
+      {
+        "key": "D",
+        "text": "Multiple linear regression"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Multiple linear regression involves three or more variables total (one outcome + two or more predictors).",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-042",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Interpretation of Regression Coefficients",
+    "question_text": "Given that Y = a + bX; Y is called",
+    "options": [
+      {
+        "key": "A",
+        "text": "Predictor variable"
+      },
+      {
+        "key": "B",
+        "text": "Independent variable"
+      },
+      {
+        "key": "C",
+        "text": "Outcome variable"
+      },
+      {
+        "key": "D",
+        "text": "Regression equation"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "In Y = a + bX, Y is the dependent/outcome variable.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-043",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "A linear regression equation predicting relationship between two variables is ____ one.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Complex"
+      },
+      {
+        "key": "B",
+        "text": "Regressive"
+      },
+      {
+        "key": "C",
+        "text": "Multivariate"
+      },
+      {
+        "key": "D",
+        "text": "Simple"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A regression equation with exactly two variables is simple/bivariate regression.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-044",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 29,15,21,22,20,25,27,19,24,21; Production(x): 15,23,22,19,19,18,21,24,17,16. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-0.69"
+      },
+      {
+        "key": "B",
+        "text": "0.64"
+      },
+      {
+        "key": "C",
+        "text": "0.69"
+      },
+      {
+        "key": "D",
+        "text": "-0.64"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ranking both variables and computing sum(d^2) = 270, rho = 1 - 6*sum(d^2)/(n*(n^2-1)) = 1 - 1620/990 = -0.636, which rounds to -0.64.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-045",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "Using the same test fault (y) / production (x) data for 10 men, what is the value of the summation of the square of the differences (d^2)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "275"
+      },
+      {
+        "key": "B",
+        "text": "270"
+      },
+      {
+        "key": "C",
+        "text": "370"
+      },
+      {
+        "key": "D",
+        "text": "375"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ranking y and x (with ties averaged) and summing squared rank differences gives sum(d^2) = 270.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-046",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "Comment on the relationship between the test fault and the time taken by the 10 men above (rho = -0.64).",
+    "options": [
+      {
+        "key": "A",
+        "text": "Negative but weak association"
+      },
+      {
+        "key": "B",
+        "text": "Positively strong association"
+      },
+      {
+        "key": "C",
+        "text": "No association"
+      },
+      {
+        "key": "D",
+        "text": "Inversely strong association"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Spearman rho of -0.64 indicates a fairly strong negative (inverse) association.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-047",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "In the ranking order (largest = rank 1), what is the value of the 5th position among the fault values (y): 29,15,21,22,20,25,27,19,24,21?",
+    "options": [
+      {
+        "key": "A",
+        "text": "22"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "19"
+      },
+      {
+        "key": "D",
+        "text": "24"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sorted descending: 29,27,25,24,22,21,21,20,19,15. The 5th value is 22.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-048",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "What are the values of the 6th and 7th positions in the ranking order among the fault values (y): 29,15,21,22,20,25,27,19,24,21?",
+    "options": [
+      {
+        "key": "A",
+        "text": "20"
+      },
+      {
+        "key": "B",
+        "text": "17"
+      },
+      {
+        "key": "C",
+        "text": "19"
+      },
+      {
+        "key": "D",
+        "text": "21"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Sorted descending: 29,27,25,24,22,21,21,20,19,15. Both the 6th and 7th values are 21 (a tie).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-049",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 10,9,8,7,6,5,4,3,2,1; Production(x): 10,8,7,9,6,5,3,4,2,1. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-0.69"
+      },
+      {
+        "key": "B",
+        "text": "0.95"
+      },
+      {
+        "key": "C",
+        "text": "0.64"
+      },
+      {
+        "key": "D",
+        "text": "0.69"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "sum(d^2) = 8, rho = 1 - 6(8)/(10*99) = 1 - 48/990 = 0.9515 ~ 0.95.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-050",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "Using the near-perfectly-ranked test fault/production data (y: 10,9,8,7,6,5,4,3,2,1; x: 10,8,7,9,6,5,3,4,2,1), what is the value of the summation of the square of the difference (d^2)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "sum(d^2) = 8 across the 10 pairs.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-051",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "In the ranking order, what is the value of the 3rd position among the fault values (x): 10,8,7,9,6,5,3,4,2,1?",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "8"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sorted descending: 10,9,8,7,6,5,4,3,2,1. The 3rd value is 8.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-052",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "What is the summation of the values of the 6th and 7th positions in the ranking order among the fault values (y): 10,9,8,7,6,5,4,3,2,1?",
+    "options": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "10"
+      },
+      {
+        "key": "D",
+        "text": "12"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sorted descending: 10,9,8,7,6,5,4,3,2,1. 6th value = 5, 7th = 4; 5 + 4 = 9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-053",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Spearman Rank Correlation Coefficient",
+    "question_text": "The yield (per hectare) of a crop (x) is believed to depend on the May rainfall (y). For five regions, records are kept of the average values of x and y: X: 18.7, 15.8, 13.9, 12.1, 17.2; Y: 4.3, 2.6, 5.3, 3.5, 3.8. Use Spearman's correlation coefficient to determine the relationship between the yield and the rainfall for the five regions.",
+    "options": [
+      {
+        "key": "A",
+        "text": "-0.4"
+      },
+      {
+        "key": "B",
+        "text": "0.4"
+      },
+      {
+        "key": "C",
+        "text": "0.3"
+      },
+      {
+        "key": "D",
+        "text": "0.2"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Ranking X and Y and computing sum(d^2) = 16: rho = 1 - 6(16)/(5*24) = 1 - 0.8 = 0.2.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-054",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "Comment on the relationship between the regions' yield and the rainfall (rho = 0.2).",
+    "options": [
+      {
+        "key": "A",
+        "text": "Positive but weak association"
+      },
+      {
+        "key": "B",
+        "text": "Positively strong association"
+      },
+      {
+        "key": "C",
+        "text": "Inversely weak association"
+      },
+      {
+        "key": "D",
+        "text": "No association"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Spearman rho of 0.2 is close to zero, indicating a weak positive association.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-055",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Product Moment Correlation Coefficient",
+    "question_text": "Listed below are the sample of respective prices and number of a particular item sold in the last five-year period. Price: 21, 22, 23, 24, 25; Item sold: 65, 65, 60, 60, 50. What is the mean of item sold?",
+    "options": [
+      {
+        "key": "A",
+        "text": "50"
+      },
+      {
+        "key": "B",
+        "text": "60"
+      },
+      {
+        "key": "C",
+        "text": "66"
+      },
+      {
+        "key": "D",
+        "text": "56"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Mean = (65+65+60+60+50)/5 = 300/5 = 60.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-056",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Product Moment Correlation Coefficient",
+    "question_text": "Using the same price/item sold data (Price: 21,22,23,24,25; Item sold: 65,65,60,60,50), calculate the coefficient of correlation between the sampled sold items and the various prices.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.25"
+      },
+      {
+        "key": "B",
+        "text": "-0.90"
+      },
+      {
+        "key": "C",
+        "text": "0.7"
+      },
+      {
+        "key": "D",
+        "text": "-0.20"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Using deviations from the means (price mean=23, item mean=60): sum(dx*dy) = -35, sum(dx^2) = 10, sum(dy^2) = 150. r = -35/sqrt(10*150) = -35/38.73 ~ -0.90.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-057",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "How can you interpret the relationship between price and item sold in the above table (r = -0.90)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A negative correlation"
+      },
+      {
+        "key": "B",
+        "text": "A strong positive correlation"
+      },
+      {
+        "key": "C",
+        "text": "A weak positive correlation"
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "r = -0.90 indicates a strong negative correlation: as price rises, item sold falls.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-058",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "The lower and upper boundaries of a correlation coefficient (r) are",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 <= r >= -1"
+      },
+      {
+        "key": "B",
+        "text": "-1 >= r >= 1"
+      },
+      {
+        "key": "C",
+        "text": "1 >= r >= -1"
+      },
+      {
+        "key": "D",
+        "text": "-1 <= r <= 1"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A correlation coefficient always lies between -1 and +1 inclusive.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-059",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "If a variable X in a relationship decreases as variable Y increases, the variables are",
+    "options": [
+      {
+        "key": "A",
+        "text": "a scatter relationship"
+      },
+      {
+        "key": "B",
+        "text": "Positively correlated"
+      },
+      {
+        "key": "C",
+        "text": "Negatively correlated"
+      },
+      {
+        "key": "D",
+        "text": "a non-relationship"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "When one variable increases as the other decreases, this is a negative (inverse) correlation.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-060",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "A scatter diagram that does not have a possible fitted line is an indication of a ------ relationship",
+    "options": [
+      {
+        "key": "A",
+        "text": "Perfectly positive relationship"
+      },
+      {
+        "key": "B",
+        "text": "Perfectly negative relationship"
+      },
+      {
+        "key": "C",
+        "text": "Partial relationship"
+      },
+      {
+        "key": "D",
+        "text": "No correlation"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "If no line can reasonably be fitted, this indicates absence of a linear relationship (no correlation).",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-061",
+    "course": "SSC202",
+    "topic": "Correlation Analysis",
+    "sub_topic": "Inferences Concerning Correlation Coefficient",
+    "question_text": "A perfect correlation is measured as unity for perfect positive correlation and is represented by a linear graph which moves from",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bottom right corner to top right"
+      },
+      {
+        "key": "B",
+        "text": "Bottom right corner to top left"
+      },
+      {
+        "key": "C",
+        "text": "Bottom left corner to top right"
+      },
+      {
+        "key": "D",
+        "text": "Top left corner to bottom right"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A perfect positive correlation appears as a straight line rising from the bottom-left to the top-right.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-062",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Moving Average Method",
+    "question_text": "R.B. Gbemisola Builders has completed these numbers of homes in the 8 years they have been in business: Year 1999-2006, Completions: 12,11,19,17,19,18,20,23. Compute the 3-year moving average for year 2005.",
+    "options": [
+      {
+        "key": "A",
+        "text": "14.00"
+      },
+      {
+        "key": "B",
+        "text": "19.65"
+      },
+      {
+        "key": "C",
+        "text": "20.33"
+      },
+      {
+        "key": "D",
+        "text": "20.34"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "3-year moving average centred on 2005 = average of 2004, 2005, 2006 = (18+20+23)/3 = 61/3 = 20.33.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-063",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Moving Average Method",
+    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), compute the 5-year moving average for year 2003.",
+    "options": [
+      {
+        "key": "A",
+        "text": "16.6"
+      },
+      {
+        "key": "B",
+        "text": "16.8"
+      },
+      {
+        "key": "C",
+        "text": "18.67"
+      },
+      {
+        "key": "D",
+        "text": "18.6"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "5-year moving average centred on 2003 = average of 2001-2005 = (19+17+19+18+20)/5 = 93/5 = 18.6.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-064",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Method of Least Squares",
+    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), estimate the trend equation for the data.",
+    "options": [
+      {
+        "key": "A",
+        "text": "y-hat = 17.4 + 0.72x"
+      },
+      {
+        "key": "B",
+        "text": "y-hat = 17.375 + 0.7202x"
+      },
+      {
+        "key": "C",
+        "text": "y-hat = 17.38 + 0.72x"
+      },
+      {
+        "key": "D",
+        "text": "y-hat = 17.3750 + 0.7202x"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "With coded x = -7,-5,-3,-1,1,3,5,7 (n=8, even), a = sum(Y)/n = 139/8 = 17.375, b = sum(XY)/sum(X^2) = 121/168 = 0.7202.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-065",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "A seasonal index is being computed using the ratio-to-moving-average method for quarterly data from 1999-2003. The percentages of actual to moving average for the third quarter of each year are: 1999: 109.0, 2000: 112.8, 2001: 110.0, 2002: 108.0, 2003: 104.6. What is the unadjusted index for the third quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "108.88"
+      },
+      {
+        "key": "B",
+        "text": "109.0"
+      },
+      {
+        "key": "C",
+        "text": "110.23"
+      },
+      {
+        "key": "D",
+        "text": "110.96"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Unadjusted index = mean of the ratios = (109.0+112.8+110.0+108.0+104.6)/5 = 544.4/5 = 108.88.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-066",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "Assume the total of the unadjusted indices for the four quarters is 404.04. If the unadjusted index for the first quarter is 97.0, what is the adjusted seasonal index for the first quarter?",
+    "options": [
+      {
+        "key": "A",
+        "text": "96.03"
+      },
+      {
+        "key": "B",
+        "text": "97.98"
+      },
+      {
+        "key": "C",
+        "text": "24.01"
+      },
+      {
+        "key": "D",
+        "text": "99.00"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Adjusting factor = 400/404.04. Adjusted index = 97.0 x (400/404.04) = 38800/404.04 ~ 96.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-067",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Deviation Method of Trend Estimation",
+    "question_text": "If a time series has an even number of years, and we use coding, then each coded interval is equal to",
+    "options": [
+      {
+        "key": "A",
+        "text": "1 year"
+      },
+      {
+        "key": "B",
+        "text": "2 years"
+      },
+      {
+        "key": "C",
+        "text": "1 month"
+      },
+      {
+        "key": "D",
+        "text": "6 months"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For an even number of periods, coding assigns consecutive odd integers so a one-unit change represents half a year (6 months).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-068",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Deviation Method of Trend Estimation",
+    "question_text": "Suppose you were considering a time series of data for the quarters of 1991 and 1992. The third quarter of 1992 would be coded as",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "With 8 quarters coded -7,-5,-3,-1,1,3,5,7, Q3 of 1992 is coded 5.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-069",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Method of Least Squares",
+    "question_text": "Suppose that the linear equation y-hat = 10 + 3x describes well an annual time series for 1988-1994. If the actual value of Y for 1991 is 8, what is the percent of trend for 1991?",
+    "options": [
+      {
+        "key": "A",
+        "text": "125%"
+      },
+      {
+        "key": "B",
+        "text": "112.5%"
+      },
+      {
+        "key": "C",
+        "text": "90%"
+      },
+      {
+        "key": "D",
+        "text": "80%"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For 1988-1994 (7 years), 1991 is the middle year coded x=0. Trend = 10 + 3(0) = 10. Percent of trend = 8/10 x 100 = 80%.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-070",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Components of Time Series Analysis",
+    "question_text": "A time series of annual data can contain which of the following components?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Secular trend"
+      },
+      {
+        "key": "B",
+        "text": "Cyclical fluctuation"
+      },
+      {
+        "key": "C",
+        "text": "Seasonal variation"
+      },
+      {
+        "key": "D",
+        "text": "All of these"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Annual data (one observation per year) cannot show within-year seasonal variation, only secular trend and cyclical fluctuation. The paper's expected answer is the secular-trend-only option; this item is flagged for review.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": [
+      "review"
+    ]
+  },
+  {
+    "id": "ssc-202-071",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Components of Time Series Analysis",
+    "question_text": "A method used to deal with cyclical variation when the cyclical component does not explain most of the variation left unexplained by the trend component is:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Spearman analysis"
+      },
+      {
+        "key": "B",
+        "text": "Second-degree analysis"
+      },
+      {
+        "key": "C",
+        "text": "Relative cyclical residual"
+      },
+      {
+        "key": "D",
+        "text": "All of these"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "The relative cyclical residual method is used to examine cyclical variation left over after removing the trend.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-072",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "Assume that you have been given quarterly sales data for a 5-year period. To use the ratio-to-moving-average method of computing a seasonal index, your first step would be:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Compute the 4-quarter moving average"
+      },
+      {
+        "key": "B",
+        "text": "Discard highest and lowest values of each quarter"
+      },
+      {
+        "key": "C",
+        "text": "Calculate the 4-quarter moving total"
+      },
+      {
+        "key": "D",
+        "text": "None of these"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The ratio-to-moving-average method begins by computing a 4-quarter (centred) moving average.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-073",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "The quality of a research findings to a large extent depends on the ___",
+    "options": [
+      {
+        "key": "A",
+        "text": "sources of data"
+      },
+      {
+        "key": "B",
+        "text": "quality of data"
+      },
+      {
+        "key": "C",
+        "text": "measurement of the data"
+      },
+      {
+        "key": "D",
+        "text": "samples"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "The reliability of any research finding is fundamentally tied to the quality of the underlying data used.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-074",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Assuming you collected data to investigate the determinants of reproductive health outcome of sexually active women in Osun State, what kind of data will this be to you if you want to conduct a similar study in Kaduna?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Primary data"
+      },
+      {
+        "key": "B",
+        "text": "secondary data"
+      },
+      {
+        "key": "C",
+        "text": "tertiary data"
+      },
+      {
+        "key": "D",
+        "text": "useless data"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Data originally collected for the Osun State study becomes secondary data when reused for a Kaduna study.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-075",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Which of these is not a secondary source of data?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Demographic and Health Survey"
+      },
+      {
+        "key": "B",
+        "text": "Annual abstracts"
+      },
+      {
+        "key": "C",
+        "text": "all of the above"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Published Demographic and Health Survey reports and annual abstracts are both commonly-used secondary data sources.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-076",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Given that the marital status of five respondents is measured on a nominal scale as follows: single = 1, married = 2, separated = 3, divorced = 4 and widow = 5; what is the average marital status of the five respondents?",
+    "options": [
+      {
+        "key": "A",
+        "text": "3"
+      },
+      {
+        "key": "B",
+        "text": "15"
+      },
+      {
+        "key": "C",
+        "text": "average not included"
+      },
+      {
+        "key": "D",
+        "text": "average not meaningful"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Nominal scale codes are labels, not quantities, so arithmetic operations like averaging are not meaningful.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-077",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "A ratio scale is weak in the sense that it ___",
+    "options": [
+      {
+        "key": "A",
+        "text": "cannot determine difference"
+      },
+      {
+        "key": "B",
+        "text": "has no true zero"
+      },
+      {
+        "key": "C",
+        "text": "cannot be multiplied"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A ratio scale has a true zero, can determine differences, and supports multiplication; none of the listed weaknesses apply.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-078",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which of the following cannot give order of values?",
+    "options": [
+      {
+        "key": "A",
+        "text": "nominal scale"
+      },
+      {
+        "key": "B",
+        "text": "ordinal scale"
+      },
+      {
+        "key": "C",
+        "text": "interval scale"
+      },
+      {
+        "key": "D",
+        "text": "ratio scale"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Nominal scale data are pure category labels with no inherent order.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-079",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Imagine you were to take a random sample of 1000 from a small village with a population of 10,637 using simple random sampling. What is the first stage in selecting your sample?",
+    "options": [
+      {
+        "key": "A",
+        "text": "use random number table"
+      },
+      {
+        "key": "B",
+        "text": "identify sampling frame"
+      },
+      {
+        "key": "C",
+        "text": "calculate k"
+      },
+      {
+        "key": "D",
+        "text": "stratify"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Before random numbers or a sampling interval can be used, a complete sampling frame listing all population elements must first be identified.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-080",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A population is divided into two strata: Rural (population 400,000) and Urban (population 1,200,000). If you were to select a sample of 960 respondents from the population using proportional stratified sampling, determine the value of 'A' (the Rural sample size).",
+    "options": [
+      {
+        "key": "A",
+        "text": "240"
+      },
+      {
+        "key": "B",
+        "text": "34"
+      },
+      {
+        "key": "C",
+        "text": "320"
+      },
+      {
+        "key": "D",
+        "text": "720"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Total population = 1,600,000. Rural proportion = 400,000/1,600,000 = 0.25. Rural sample = 960 x 0.25 = 240.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-081",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Rural (population 400,000)/Urban (population 1,200,000) strata and a total sample of 960, determine the value of sample proportion 'D' (the sampling fraction).",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.06"
+      },
+      {
+        "key": "B",
+        "text": "0.0006"
+      },
+      {
+        "key": "C",
+        "text": "60"
+      },
+      {
+        "key": "D",
+        "text": "0.006"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sampling fraction = 960/1,600,000 = 0.0006.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-082",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A sampling technique in which initial respondents are selected by probability samples while additional respondents are obtained by referral from initial respondents is",
+    "options": [
+      {
+        "key": "A",
+        "text": "haphazard sampling"
+      },
+      {
+        "key": "B",
+        "text": "snowball sampling"
+      },
+      {
+        "key": "C",
+        "text": "Convenient sampling"
+      },
+      {
+        "key": "D",
+        "text": "Purposive sampling"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Snowball sampling relies on initial respondents referring additional respondents.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-083",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "How will you select a sample from a target population that is difficult to identify? By using",
+    "options": [
+      {
+        "key": "A",
+        "text": "Purposive sampling"
+      },
+      {
+        "key": "B",
+        "text": "quota sampling"
+      },
+      {
+        "key": "C",
+        "text": "simple random sampling"
+      },
+      {
+        "key": "D",
+        "text": "cluster sampling"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Purposive sampling relies on the researcher's judgement, useful when the target population is hard to identify via a complete frame.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-084",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Primary data is collected by",
+    "options": [
+      {
+        "key": "A",
+        "text": "you for current study"
+      },
+      {
+        "key": "B",
+        "text": "a third party for a current research"
+      },
+      {
+        "key": "C",
+        "text": "all of the above"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Primary data is first-hand data collected specifically for the current study, whether by the researcher or a third party commissioned for that study.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-085",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "When it is difficult and/or costly to develop a complete sampling frame, you make use of ___ to give every element an equal chance of selection.",
+    "options": [
+      {
+        "key": "A",
+        "text": "stratified sampling"
+      },
+      {
+        "key": "B",
+        "text": "probability sampling"
+      },
+      {
+        "key": "C",
+        "text": "cluster sampling"
+      },
+      {
+        "key": "D",
+        "text": "convenient sampling"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Cluster sampling is used when a complete list of individual population elements is unavailable or too costly to build.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-086",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "One of the key weaknesses of interval scale is ___",
+    "options": [
+      {
+        "key": "A",
+        "text": "cannot determine difference"
+      },
+      {
+        "key": "B",
+        "text": "cannot be multiplied"
+      },
+      {
+        "key": "C",
+        "text": "cannot be added"
+      },
+      {
+        "key": "D",
+        "text": "none of the above"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Because interval scales lack a true zero, ratios/multiplication are not meaningful.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-087",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which of the following is not related to ordinal scale?",
+    "options": [
+      {
+        "key": "A",
+        "text": "temperature"
+      },
+      {
+        "key": "B",
+        "text": "age"
+      },
+      {
+        "key": "C",
+        "text": "length in centimeter"
+      },
+      {
+        "key": "D",
+        "text": "all of the above"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Temperature, age, and length in cm are not ordinal-scale examples.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-088",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Imagine you were to take a random sample of 350 from a small village with a population of 5,000 using systematic sampling. Determine the value of 'K'.",
+    "options": [
+      {
+        "key": "A",
+        "text": "142"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "15"
+      },
+      {
+        "key": "D",
+        "text": "14.3"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Sampling interval K = N/n = 5000/350 = 14.2857, which rounds to 14.3.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-089",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "The table shows Strata, Populations and proportion: Igbo (250,000, proportion 0.0012), Hausa (1,200,000, proportion 0.0012), Yoruba (900,000, proportion D). As a researcher, you are asked to conduct a survey on a sample of 2,820 respondents. What will be your sample size from the Hausa population?",
+    "options": [
+      {
+        "key": "A",
+        "text": "240"
+      },
+      {
+        "key": "B",
+        "text": "3440"
+      },
+      {
+        "key": "C",
+        "text": "1440"
+      },
+      {
+        "key": "D",
+        "text": "1200"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Hausa sample size = 1,200,000 x 0.0012 = 1,440.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-090",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table, what is the total population from which a sample of 2,820 was drawn?",
+    "options": [
+      {
+        "key": "A",
+        "text": "250,000"
+      },
+      {
+        "key": "B",
+        "text": "2,100,000"
+      },
+      {
+        "key": "C",
+        "text": "2,350,000"
+      },
+      {
+        "key": "D",
+        "text": "2,352,820"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Total population = 250,000 + 1,200,000 + 900,000 = 2,350,000.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-091",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table (sampling fraction 0.0012), determine the sample size 'C' for the Yoruba population.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1080"
+      },
+      {
+        "key": "B",
+        "text": "1440"
+      },
+      {
+        "key": "C",
+        "text": "2500"
+      },
+      {
+        "key": "D",
+        "text": "1740"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Yoruba sample size = 900,000 x 0.0012 = 1,080.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-092",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A sampling technique in which pre-determined samples are selected from a sub-group to ensure representativeness is",
+    "options": [
+      {
+        "key": "A",
+        "text": "quota sampling"
+      },
+      {
+        "key": "B",
+        "text": "snowball sampling"
+      },
+      {
+        "key": "C",
+        "text": "Convenient sampling"
+      },
+      {
+        "key": "D",
+        "text": "Purposive sampling"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Quota sampling sets fixed quotas for sub-groups to ensure the sample reflects known population proportions.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-093",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Out of 1,859 males examined to diagnose diseases of the heart in Los Angeles city civil service in 1949, 147 were found to have heart diseases, classified by age and type. Compute the chi-square calculated value.",
+    "options": [
+      {
+        "key": "A",
+        "text": "41.96"
+      },
+      {
+        "key": "B",
+        "text": "40.16"
+      },
+      {
+        "key": "C",
+        "text": "10.94"
+      },
+      {
+        "key": "D",
+        "text": "18.96"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Computing expected frequencies (row total x column total / grand total) and summing (O-E)^2/E gives approximately 19.1, closest to 18.96.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-094",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table (2 rows, 4 columns), estimate the degree of freedom.",
+    "options": [
+      {
+        "key": "A",
+        "text": "8"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "2"
+      },
+      {
+        "key": "D",
+        "text": "4"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "df = (rows - 1)(columns - 1) = (2-1)(4-1) = 3.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-095",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table, what is the expected frequency of the observed frequency 20 (Age 55-70, Coronary)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.15"
+      },
+      {
+        "key": "B",
+        "text": "5.56"
+      },
+      {
+        "key": "C",
+        "text": "18.0"
+      },
+      {
+        "key": "D",
+        "text": "14.9"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Expected = (row total x column total)/grand total = (81 x 27)/147 = 14.878 ~ 14.9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-096",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table, estimate the coefficient of contingency.",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.346"
+      },
+      {
+        "key": "B",
+        "text": "0.675"
+      },
+      {
+        "key": "C",
+        "text": "0.338"
+      },
+      {
+        "key": "D",
+        "text": "0.652"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C = sqrt(chi-square / (chi-square + N)) = sqrt(19.1/(19.1+147)) = sqrt(0.115) ~ 0.338.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-097",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A drug trial contingency table compares Drug A and Drug B patients across outcomes. Calculate e11, e12 and e13 respectively.",
+    "options": [
+      {
+        "key": "A",
+        "text": "28, 350, 70"
+      },
+      {
+        "key": "B",
+        "text": "70, 280, 350"
+      },
+      {
+        "key": "C",
+        "text": "70, 78, 750"
+      },
+      {
+        "key": "D",
+        "text": "750, 70, 78"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Expected values are e11=70, e12=280, e13=350 (row total 700 x column proportion). Option B is the closest match; the scan appears to have dropped a digit in one of the printed numbers.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-098",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, calculate e21, e22 and e23 respectively.",
+    "options": [
+      {
+        "key": "A",
+        "text": "30, 120, 150"
+      },
+      {
+        "key": "B",
+        "text": "40, 110, 320"
+      },
+      {
+        "key": "C",
+        "text": "70, 130, 350"
+      },
+      {
+        "key": "D",
+        "text": "50, 250, 350"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Expected values are e21=30, e22=120, e23=150 (row total 300 x column proportion).",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-099",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, obtain the chi-square tabulated value at the 5% level.",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.99"
+      },
+      {
+        "key": "B",
+        "text": "2.99"
+      },
+      {
+        "key": "C",
+        "text": "4.99"
+      },
+      {
+        "key": "D",
+        "text": "5.99"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "df = (2-1)(3-1) = 2. Chi-square critical value at 5% with df=2 is 5.99.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-100",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, obtain the chi-square calculated value.",
+    "options": [
+      {
+        "key": "A",
+        "text": "18.3071"
+      },
+      {
+        "key": "B",
+        "text": "19.3071"
+      },
+      {
+        "key": "C",
+        "text": "16.3071"
+      },
+      {
+        "key": "D",
+        "text": "15.3071"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Using expected values 70,280,350,30,120,150: sum((O-E)^2/E) ~ 18.31, matching option A.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-101",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A table compares Nissan and Toyota car sales across regions A, B, C. Calculate the expected value for the second row and second column (Toyota, B).",
+    "options": [
+      {
+        "key": "A",
+        "text": "54.4"
+      },
+      {
+        "key": "B",
+        "text": "32.73"
+      },
+      {
+        "key": "C",
+        "text": "44.27"
+      },
+      {
+        "key": "D",
+        "text": "25.76"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Column B total = 60+68 = 128, grand total = 400. E(Toyota, B) = (170 x 128)/400 = 54.4.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-102",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same Nissan/Toyota sales table, the chi-square calculated is",
+    "options": [
+      {
+        "key": "A",
+        "text": "5.99"
+      },
+      {
+        "key": "B",
+        "text": "17.40"
+      },
+      {
+        "key": "C",
+        "text": "67.11"
+      },
+      {
+        "key": "D",
+        "text": "2.65"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Computing expected values for all 6 cells and summing (O-E)^2/E gives approximately 67.3, closest to 67.11.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-103",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same Nissan/Toyota sales table, what is the degree of freedom and table value at 5% level of significance?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2 and 9.55"
+      },
+      {
+        "key": "B",
+        "text": "2 and 5.99"
+      },
+      {
+        "key": "C",
+        "text": "6 and 5.99"
+      },
+      {
+        "key": "D",
+        "text": "6 and 9.55"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "df = (2-1)(3-1) = 2. Chi-square critical value at 5% with df=2 is 5.99.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-104",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A chi-square value can never be negative because:",
+    "options": [
+      {
+        "key": "A",
+        "text": "Differences between expected and observed frequencies are squared"
+      },
+      {
+        "key": "B",
+        "text": "A negative value would mean that the observed frequencies were negative"
+      },
+      {
+        "key": "C",
+        "text": "The absolute value of the differences is computed"
+      },
+      {
+        "key": "D",
+        "text": "None of these"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The chi-square statistic sums (O-E)^2/E, and squaring guarantees every term is non-negative.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-105",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Assume that a chi-square test is to be performed on a contingency table with 4 rows and 4 columns. How many degrees of freedom should be used?",
+    "options": [
+      {
+        "key": "A",
+        "text": "16"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "6"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "df = (rows-1)(columns-1) = (4-1)(4-1) = 9.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-106",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Assume that a chi-square test is to be performed on a contingency table with 5 rows and 6 columns. How many degrees of freedom should be used?",
+    "options": [
+      {
+        "key": "A",
+        "text": "11"
+      },
+      {
+        "key": "B",
+        "text": "30"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "df = (rows-1)(columns-1) = (5-1)(6-1) = 20.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-107",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "A university librarian suspects that the average number of books checked out to each student per visit has changed recently. In the past, an average of 3.4 books was checked out. A recent sample of 23 students averaged 4.3 books per visit, with a standard deviation of 1.5 books. Which distribution is appropriate for this test?",
+    "options": [
+      {
+        "key": "A",
+        "text": "z value"
+      },
+      {
+        "key": "B",
+        "text": "t value"
+      },
+      {
+        "key": "C",
+        "text": "chi-square value"
+      },
+      {
+        "key": "D",
+        "text": "F value"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Population standard deviation is unknown (only sample SD given) and the sample size is small (n=23), so the t-distribution is appropriate.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-108",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same librarian checkout data, calculate the t-calculated value.",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.90"
+      },
+      {
+        "key": "B",
+        "text": "2.9878"
+      },
+      {
+        "key": "C",
+        "text": "2.8775"
+      },
+      {
+        "key": "D",
+        "text": "2.88"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "t = (4.3-3.4)/(1.5/sqrt(23)) = 0.9/0.3128 ~ 2.877, which rounds to 2.88.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-109",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same librarian checkout data, at the 0.01 level of significance (two-tailed, df=22), what is the tabulated value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.58"
+      },
+      {
+        "key": "B",
+        "text": "2.85"
+      },
+      {
+        "key": "C",
+        "text": "2.819"
+      },
+      {
+        "key": "D",
+        "text": "2.80"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Standard t-table critical value for a two-tailed test at alpha=0.01 with df=22 is 2.819.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-110",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same librarian checkout data, at the .01 level of significance, has the average checkout changed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The average has not changed at 0.01 level of significance"
+      },
+      {
+        "key": "B",
+        "text": "The average has changed by chance"
+      },
+      {
+        "key": "C",
+        "text": "The average has changed at 0.01 level of significance"
+      },
+      {
+        "key": "D",
+        "text": "The calculated value is above tabulated value"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "t-calculated (2.88) exceeds t-tabulated (2.819), so we reject H0: the average has changed at 0.01.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-111",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "State inspectors sampled 200 bottles of a soft drink advertised to contain 32 fluid ounces and found an average of 31.7 fluid ounces. The population standard deviation is known to be 1.5 fluid ounces. Should the inspectors conclude, at the 3 percent significance level, that the bottles are being underfilled (one-tailed test)? What is the tabulated value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "-2.17"
+      },
+      {
+        "key": "B",
+        "text": "-2.33"
+      },
+      {
+        "key": "C",
+        "text": "-1.96"
+      },
+      {
+        "key": "D",
+        "text": "-1.88"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "For a one-tailed test at alpha=0.03, the critical z value is approximately 1.88 (negative since testing for underfilling).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-112",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same soft drink bottle-filling data, what is the calculated value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.8"
+      },
+      {
+        "key": "B",
+        "text": "2.83"
+      },
+      {
+        "key": "C",
+        "text": "2.8284"
+      },
+      {
+        "key": "D",
+        "text": "2.828"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Z = (31.7-32)/(1.5/sqrt(200)) = -0.3/0.10607 ~ -2.8284.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-113",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same soft drink bottle-filling data, at the 3 percent significance level, what can the inspectors conclude?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The calculated value is greater than the tabulated value"
+      },
+      {
+        "key": "B",
+        "text": "The calculated value is less than the tabulated value"
+      },
+      {
+        "key": "C",
+        "text": "The bottles are not underfilled"
+      },
+      {
+        "key": "D",
+        "text": "The bottles are underfilled"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Since |Z-calculated| (2.83) exceeds |Z-tabulated| (1.88), H0 is rejected: the bottles are underfilled.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-114",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Allen Distributing Company hypothesizes that a phone call is more effective than a letter in speeding up collection of bank accounts. Two groups of accounts were contacted, one by each method. At alpha=0.025, what is the tabulated value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "2.58"
+      },
+      {
+        "key": "B",
+        "text": "2.33"
+      },
+      {
+        "key": "C",
+        "text": "2.68"
+      },
+      {
+        "key": "D",
+        "text": "2.18"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "With df = n1+n2-2 = 12 and a one-tailed test at alpha=0.025, the critical t value is approximately 2.18.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-115",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same letter/phone call collection-time data, what is the calculated value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "4.1738"
+      },
+      {
+        "key": "B",
+        "text": "4.5084"
+      },
+      {
+        "key": "C",
+        "text": "4.17"
+      },
+      {
+        "key": "D",
+        "text": "4.51"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Mean(letter)=10.4286, Mean(phone)=6.1429, pooled variance ~ 3.71, pooled SE ~ 1.03. t = (10.4286-6.1429)/1.03 ~ 4.17, matching 4.1738.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-116",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same letter/phone call collection-time data, at alpha = 0.025, what can Allen conclude?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Calculated value is greater than tabulated value"
+      },
+      {
+        "key": "B",
+        "text": "Calls more quicker than letters"
+      },
+      {
+        "key": "C",
+        "text": "Letters more quickly than calls"
+      },
+      {
+        "key": "D",
+        "text": "Reject the null hypothesis"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "t-calculated (4.17) exceeds t-tabulated (2.18); the calculated value is greater than the tabulated value (and calls are quicker than letters).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-117",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "Jeffrey, an eight-year-old, established an average time of 16.43 seconds for swimming the 25-yard freestyle. His dad Frank thought new goggles could help Jeffrey swim faster. Frank timed Jeffrey for 15 swims and got an average time of 16 seconds. Determine the type of test to be conducted.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Left-tailed"
+      },
+      {
+        "key": "B",
+        "text": "Right-tailed"
+      },
+      {
+        "key": "C",
+        "text": "two-tailed"
+      },
+      {
+        "key": "D",
+        "text": "three-tailed"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Since the goggles are hypothesized to make Jeffrey faster (a decrease in time), this is a left-tailed test.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-118",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same swim time data, compute the test statistic.",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.01"
+      },
+      {
+        "key": "B",
+        "text": "3.08"
+      },
+      {
+        "key": "C",
+        "text": "2.08"
+      },
+      {
+        "key": "D",
+        "text": "1.08"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Z = (16 - 16.43)/(0.8/sqrt(15)) = -0.43/0.2066 ~ -2.08.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-119",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "The price relative index of a single commodity is given by the formula",
+    "options": [
+      {
+        "key": "A",
+        "text": "(P1/P0) x 100"
+      },
+      {
+        "key": "B",
+        "text": "(Q1/Q0) x 100"
+      },
+      {
+        "key": "C",
+        "text": "(V1/V0) x 100"
+      },
+      {
+        "key": "D",
+        "text": "(P0/P1) x 100"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Price relative index = price in the given period / price in the base period x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-120",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "The quantity relative index of a single commodity is given by the formula",
+    "options": [
+      {
+        "key": "A",
+        "text": "(Q1/Q0) x 100"
+      },
+      {
+        "key": "B",
+        "text": "(P1/P0) x 100"
+      },
+      {
+        "key": "C",
+        "text": "(P1Q1)/(P0Q0) x 100"
+      },
+      {
+        "key": "D",
+        "text": "(Q0/Q1) x 100"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Quantity relative index = quantity in the given period / quantity in the base period x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-121",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "The value relative index of a single commodity is given by the formula",
+    "options": [
+      {
+        "key": "A",
+        "text": "(P1Q1)/(P0Q0) x 100"
+      },
+      {
+        "key": "B",
+        "text": "(P1/P0) x 100"
+      },
+      {
+        "key": "C",
+        "text": "(Q1/Q0) x 100"
+      },
+      {
+        "key": "D",
+        "text": "(P0Q0)/(P1Q1) x 100"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Value relative index = value in the given period (P1Q1) / value in the base period (P0Q0) x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-122",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "Using 1995 as the base year for turkey meat (1995 Price=1,000 Qty=10; 2000 Price=1,440 Qty=12), compute the price relative index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "144%"
+      },
+      {
+        "key": "B",
+        "text": "120%"
+      },
+      {
+        "key": "C",
+        "text": "172.8%"
+      },
+      {
+        "key": "D",
+        "text": "100%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Price relative = P2000/P1995 x 100 = 1440/1000 x 100 = 144%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-123",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "Using the same turkey meat data, compute the quantity relative index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "144%"
+      },
+      {
+        "key": "B",
+        "text": "120%"
+      },
+      {
+        "key": "C",
+        "text": "172.8%"
+      },
+      {
+        "key": "D",
+        "text": "83.3%"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Quantity relative = Q2000/Q1995 x 100 = 12/10 x 100 = 120%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-124",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "Using the same turkey meat data, compute the value relative index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "144%"
+      },
+      {
+        "key": "B",
+        "text": "120%"
+      },
+      {
+        "key": "C",
+        "text": "172.8%"
+      },
+      {
+        "key": "D",
+        "text": "264%"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Value relative = (P2000 x Q2000)/(P1995 x Q1995) x 100 = 17280/10000 x 100 = 172.8%.",
+    "difficulty": "medium",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-125",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "Using a 5-component product data set (2009 base year), calculate the Laspeyre's price index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "159.35"
+      },
+      {
+        "key": "B",
+        "text": "161.83"
+      },
+      {
+        "key": "C",
+        "text": "160.59"
+      },
+      {
+        "key": "D",
+        "text": "160.55"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyre's price index = sum(P1*Q0)/sum(P0*Q0) x 100 = 192,400/120,755 x 100 ~ 159.35.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-126",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Paasche Index",
+    "question_text": "Using the same 5-component product data, calculate the Paasche's price index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "159.35"
+      },
+      {
+        "key": "B",
+        "text": "161.83"
+      },
+      {
+        "key": "C",
+        "text": "160.59"
+      },
+      {
+        "key": "D",
+        "text": "160.55"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paasche's price index = sum(P1*Q1)/sum(P0*Q1) x 100 = 190,000/117,415 x 100 ~ 161.83.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-127",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "Using the same data, calculate the Fisher's Ideal price index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "159.35"
+      },
+      {
+        "key": "B",
+        "text": "161.83"
+      },
+      {
+        "key": "C",
+        "text": "160.59"
+      },
+      {
+        "key": "D",
+        "text": "160.55"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Fisher's Ideal index = sqrt(Laspeyres price x Paasche price) = sqrt(159.35 x 161.83) ~ 160.59.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-128",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Using the same data, calculate the Edgeworth-Marshall price index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "159.35"
+      },
+      {
+        "key": "B",
+        "text": "161.83"
+      },
+      {
+        "key": "C",
+        "text": "160.59"
+      },
+      {
+        "key": "D",
+        "text": "160.55"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Edgeworth-Marshall index = sum(P1*(Q0+Q1))/sum(P0*(Q0+Q1)) x 100 ~ 160.55.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-129",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "Using the same data, calculate the Laspeyre's quantity index.",
+    "options": [
+      {
+        "key": "A",
+        "text": "97.23"
+      },
+      {
+        "key": "B",
+        "text": "99.29"
+      },
+      {
+        "key": "C",
+        "text": "102.84"
+      },
+      {
+        "key": "D",
+        "text": "100.71"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyre's quantity index = sum(Q1*P0)/sum(Q0*P0) x 100 ~ 97.23.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-130",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "When choosing a base year for an index number, the period selected should be",
+    "options": [
+      {
+        "key": "A",
+        "text": "free from abnormalities like wars, earthquakes, famines, booms and depressions"
+      },
+      {
+        "key": "B",
+        "text": "always the most recent year"
+      },
+      {
+        "key": "C",
+        "text": "a year with the highest recorded prices"
+      },
+      {
+        "key": "D",
+        "text": "any randomly chosen year"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A good base period should be a 'normal' period, free from abnormal events.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-131",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "According to the principles guiding index number construction, an index number is",
+    "options": [
+      {
+        "key": "A",
+        "text": "of limited and particular use; there is no all-purpose index"
+      },
+      {
+        "key": "B",
+        "text": "useful for every possible comparison regardless of purpose"
+      },
+      {
+        "key": "C",
+        "text": "only useful for measuring wholesale prices"
+      },
+      {
+        "key": "D",
+        "text": "constructed without regard to its intended purpose"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "The purpose must be clearly decided at the outset since every index is of limited and particular use.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-132",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "Ratio compares",
+    "options": [
+      {
+        "key": "A",
+        "text": "quantities of the same kind, expressed as a quotient of two numbers"
+      },
+      {
+        "key": "B",
+        "text": "only percentages"
+      },
+      {
+        "key": "C",
+        "text": "quantities of different kinds only"
+      },
+      {
+        "key": "D",
+        "text": "unrelated variables"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A ratio compares quantities of the same kind and is expressed as a quotient of two numbers.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-133",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "Proportion is the ratio of two numbers in which",
+    "options": [
+      {
+        "key": "A",
+        "text": "the numerator is part of the denominator"
+      },
+      {
+        "key": "B",
+        "text": "the numerator always exceeds the denominator"
+      },
+      {
+        "key": "C",
+        "text": "both numbers are unrelated"
+      },
+      {
+        "key": "D",
+        "text": "the denominator is always 100"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A proportion is the ratio of two numbers in which the numerator is part of the denominator.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
+  },
+  {
+    "id": "ssc-202-134",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "A class has 18 girls and 22 boys, making a total of 40 students. What percentage of the class is girls?",
+    "options": [
+      {
+        "key": "A",
+        "text": "45%"
+      },
+      {
+        "key": "B",
+        "text": "55%"
+      },
+      {
+        "key": "C",
+        "text": "18%"
+      },
+      {
+        "key": "D",
+        "text": "22%"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Percentage of girls = 18/40 x 100 = 45%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": [
+      "generated"
+    ]
   }
 ]

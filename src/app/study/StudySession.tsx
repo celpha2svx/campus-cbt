@@ -9,10 +9,7 @@ import {
   getStudyNotesByTopic,
   getTopicsWithNotes,
 } from "@/lib/study-notes";
-import {
-  getFlashcardTopics,
-  getFlashcardsForCourse,
-} from "@/lib/flashcards";
+import { getFlashcardsForCourse } from "@/lib/flashcards";
 import { cn } from "@/lib/utils";
 
 type View =
@@ -85,7 +82,6 @@ function HubView({
 }) {
   const allTopics = useMemo(() => getAllTopics(course), [course]);
   const topicsWithNotes = useMemo(() => getTopicsWithNotes(course), [course]);
-  const flashcardTopics = useMemo(() => getFlashcardTopics(course), [course]);
   const flashcardCount = useMemo(
     () => getFlashcardsForCourse(course).length,
     [course]
@@ -179,11 +175,6 @@ function HubView({
                   <ChevronRight size={16} className="text-ink-soft" />
                 </div>
               </Link>
-            )}
-            {flashcardTopics.length > 0 && (
-              <p className="mt-4 font-mono text-[10px] uppercase tracking-wide text-ink-soft">
-                Available in: {flashcardTopics.join(" · ")}
-              </p>
             )}
             {course === "SSC202" && (
               <Link

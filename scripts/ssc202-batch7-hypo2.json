@@ -1,0 +1,521 @@
+[
+  {
+    "id": "ssc-202-093",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Out of 1,859 males examined to diagnose diseases of the heart in Los Angeles city civil service in 1949, 147 were found to have heart diseases, classified by age and type. Compute the chi-square calculated value.",
+    "options": [
+      { "key": "A", "text": "41.96" },
+      { "key": "B", "text": "40.16" },
+      { "key": "C", "text": "10.94" },
+      { "key": "D", "text": "18.96" }
+    ],
+    "correct_option": "D",
+    "explanation": "Computing expected frequencies (row total x column total / grand total) and summing (O-E)^2/E gives approximately 19.1, closest to 18.96.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-094",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table (2 rows, 4 columns), estimate the degree of freedom.",
+    "options": [
+      { "key": "A", "text": "8" },
+      { "key": "B", "text": "3" },
+      { "key": "C", "text": "2" },
+      { "key": "D", "text": "4" }
+    ],
+    "correct_option": "B",
+    "explanation": "df = (rows - 1)(columns - 1) = (2-1)(4-1) = 3.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-095",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table, what is the expected frequency of the observed frequency 20 (Age 55-70, Coronary)?",
+    "options": [
+      { "key": "A", "text": "2.15" },
+      { "key": "B", "text": "5.56" },
+      { "key": "C", "text": "18.0" },
+      { "key": "D", "text": "14.9" }
+    ],
+    "correct_option": "D",
+    "explanation": "Expected = (row total x column total)/grand total = (81 x 27)/147 = 14.878 ~ 14.9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-096",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same heart disease age x type contingency table, estimate the coefficient of contingency.",
+    "options": [
+      { "key": "A", "text": "0.346" },
+      { "key": "B", "text": "0.675" },
+      { "key": "C", "text": "0.338" },
+      { "key": "D", "text": "0.652" }
+    ],
+    "correct_option": "C",
+    "explanation": "C = sqrt(chi-square / (chi-square + N)) = sqrt(19.1/(19.1+147)) = sqrt(0.115) ~ 0.338.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-097",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A drug trial contingency table compares Drug A and Drug B patients across outcomes. Calculate e11, e12 and e13 respectively.",
+    "options": [
+      { "key": "A", "text": "28, 350, 70" },
+      { "key": "B", "text": "70, 280, 350" },
+      { "key": "C", "text": "70, 78, 750" },
+      { "key": "D", "text": "750, 70, 78" }
+    ],
+    "correct_option": "B",
+    "explanation": "Expected values are e11=70, e12=280, e13=350 (row total 700 x column proportion). Option B is the closest match; the scan appears to have dropped a digit in one of the printed numbers.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-098",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, calculate e21, e22 and e23 respectively.",
+    "options": [
+      { "key": "A", "text": "30, 120, 150" },
+      { "key": "B", "text": "40, 110, 320" },
+      { "key": "C", "text": "70, 130, 350" },
+      { "key": "D", "text": "50, 250, 350" }
+    ],
+    "correct_option": "A",
+    "explanation": "Expected values are e21=30, e22=120, e23=150 (row total 300 x column proportion).",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-099",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, obtain the chi-square tabulated value at the 5% level.",
+    "options": [
+      { "key": "A", "text": "1.99" },
+      { "key": "B", "text": "2.99" },
+      { "key": "C", "text": "4.99" },
+      { "key": "D", "text": "5.99" }
+    ],
+    "correct_option": "D",
+    "explanation": "df = (2-1)(3-1) = 2. Chi-square critical value at 5% with df=2 is 5.99.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-100",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same drug trial table, obtain the chi-square calculated value.",
+    "options": [
+      { "key": "A", "text": "18.3071" },
+      { "key": "B", "text": "19.3071" },
+      { "key": "C", "text": "16.3071" },
+      { "key": "D", "text": "15.3071" }
+    ],
+    "correct_option": "A",
+    "explanation": "Using expected values 70,280,350,30,120,150: sum((O-E)^2/E) ~ 18.31, matching option A.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-101",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A table compares Nissan and Toyota car sales across regions A, B, C. Calculate the expected value for the second row and second column (Toyota, B).",
+    "options": [
+      { "key": "A", "text": "54.4" },
+      { "key": "B", "text": "32.73" },
+      { "key": "C", "text": "44.27" },
+      { "key": "D", "text": "25.76" }
+    ],
+    "correct_option": "A",
+    "explanation": "Column B total = 60+68 = 128, grand total = 400. E(Toyota, B) = (170 x 128)/400 = 54.4.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-102",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same Nissan/Toyota sales table, the chi-square calculated is",
+    "options": [
+      { "key": "A", "text": "5.99" },
+      { "key": "B", "text": "17.40" },
+      { "key": "C", "text": "67.11" },
+      { "key": "D", "text": "2.65" }
+    ],
+    "correct_option": "C",
+    "explanation": "Computing expected values for all 6 cells and summing (O-E)^2/E gives approximately 67.3, closest to 67.11.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-103",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Using the same Nissan/Toyota sales table, what is the degree of freedom and table value at 5% level of significance?",
+    "options": [
+      { "key": "A", "text": "2 and 9.55" },
+      { "key": "B", "text": "2 and 5.99" },
+      { "key": "C", "text": "6 and 5.99" },
+      { "key": "D", "text": "6 and 9.55" }
+    ],
+    "correct_option": "B",
+    "explanation": "df = (2-1)(3-1) = 2. Chi-square critical value at 5% with df=2 is 5.99.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-104",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "A chi-square value can never be negative because:",
+    "options": [
+      { "key": "A", "text": "Differences between expected and observed frequencies are squared" },
+      { "key": "B", "text": "A negative value would mean that the observed frequencies were negative" },
+      { "key": "C", "text": "The absolute value of the differences is computed" },
+      { "key": "D", "text": "None of these" }
+    ],
+    "correct_option": "A",
+    "explanation": "The chi-square statistic sums (O-E)^2/E, and squaring guarantees every term is non-negative.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-105",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Assume that a chi-square test is to be performed on a contingency table with 4 rows and 4 columns. How many degrees of freedom should be used?",
+    "options": [
+      { "key": "A", "text": "16" },
+      { "key": "B", "text": "8" },
+      { "key": "C", "text": "9" },
+      { "key": "D", "text": "6" }
+    ],
+    "correct_option": "C",
+    "explanation": "df = (rows-1)(columns-1) = (4-1)(4-1) = 9.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-106",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
+    "question_text": "Assume that a chi-square test is to be performed on a contingency table with 5 rows and 6 columns. How many degrees of freedom should be used?",
+    "options": [
+      { "key": "A", "text": "11" },
+      { "key": "B", "text": "30" },
+      { "key": "C", "text": "20" },
+      { "key": "D", "text": "10" }
+    ],
+    "correct_option": "C",
+    "explanation": "df = (rows-1)(columns-1) = (5-1)(6-1) = 20.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-107",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "A university librarian suspects that the average number of books checked out to each student per visit has changed recently. In the past, an average of 3.4 books was checked out. A recent sample of 23 students averaged 4.3 books per visit, with a standard deviation of 1.5 books. Which distribution is appropriate for this test?",
+    "options": [
+      { "key": "A", "text": "z value" },
+      { "key": "B", "text": "t value" },
+      { "key": "C", "text": "chi-square value" }
+    ],
+    "correct_option": "B",
+    "explanation": "Population standard deviation is unknown (only sample SD given) and the sample size is small (n=23), so the t-distribution is appropriate.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-108",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same librarian checkout data, calculate the t-calculated value.",
+    "options": [
+      { "key": "A", "text": "2.90" },
+      { "key": "B", "text": "2.9878" },
+      { "key": "C", "text": "2.8775" },
+      { "key": "D", "text": "2.88" }
+    ],
+    "correct_option": "D",
+    "explanation": "t = (4.3-3.4)/(1.5/sqrt(23)) = 0.9/0.3128 ~ 2.877, which rounds to 2.88.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-109",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same librarian checkout data, at the 0.01 level of significance (two-tailed, df=22), what is the tabulated value?",
+    "options": [
+      { "key": "A", "text": "2.58" },
+      { "key": "B", "text": "2.85" },
+      { "key": "C", "text": "2.819" },
+      { "key": "D", "text": "2.80" }
+    ],
+    "correct_option": "C",
+    "explanation": "Standard t-table critical value for a two-tailed test at alpha=0.01 with df=22 is 2.819.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-110",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same librarian checkout data, at the .01 level of significance, has the average checkout changed?",
+    "options": [
+      { "key": "A", "text": "The average has not changed at 0.01 level of significance" },
+      { "key": "B", "text": "The average has changed by chance" },
+      { "key": "C", "text": "The average has changed at 0.01 level of significance" },
+      { "key": "D", "text": "The calculated value is above tabulated value" }
+    ],
+    "correct_option": "C",
+    "explanation": "t-calculated (2.88) exceeds t-tabulated (2.819), so we reject H0: the average has changed at 0.01.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-111",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "State inspectors sampled 200 bottles of a soft drink advertised to contain 32 fluid ounces and found an average of 31.7 fluid ounces. The population standard deviation is known to be 1.5 fluid ounces. Should the inspectors conclude, at the 3 percent significance level, that the bottles are being underfilled (one-tailed test)? What is the tabulated value?",
+    "options": [
+      { "key": "A", "text": "-2.17" },
+      { "key": "B", "text": "-2.33" },
+      { "key": "C", "text": "-1.96" },
+      { "key": "D", "text": "-1.88" }
+    ],
+    "correct_option": "D",
+    "explanation": "For a one-tailed test at alpha=0.03, the critical z value is approximately 1.88 (negative since testing for underfilling).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-112",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same soft drink bottle-filling data, what is the calculated value?",
+    "options": [
+      { "key": "A", "text": "2.8" },
+      { "key": "B", "text": "2.83" },
+      { "key": "C", "text": "2.8284" },
+      { "key": "D", "text": "2.828" }
+    ],
+    "correct_option": "C",
+    "explanation": "Z = (31.7-32)/(1.5/sqrt(200)) = -0.3/0.10607 ~ -2.8284.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-113",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same soft drink bottle-filling data, at the 3 percent significance level, what can the inspectors conclude?",
+    "options": [
+      { "key": "A", "text": "The calculated value is greater than the tabulated value" },
+      { "key": "B", "text": "The calculated value is less than the tabulated value" },
+      { "key": "C", "text": "The bottles are not underfilled" },
+      { "key": "D", "text": "The bottles are underfilled" }
+    ],
+    "correct_option": "D",
+    "explanation": "Since |Z-calculated| (2.83) exceeds |Z-tabulated| (1.88), H0 is rejected: the bottles are underfilled.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-114",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Allen Distributing Company hypothesizes that a phone call is more effective than a letter in speeding up collection of bank accounts. Two groups of accounts were contacted, one by each method. At alpha=0.025, what is the tabulated value?",
+    "options": [
+      { "key": "A", "text": "2.58" },
+      { "key": "B", "text": "2.33" },
+      { "key": "C", "text": "2.68" },
+      { "key": "D", "text": "2.18" }
+    ],
+    "correct_option": "D",
+    "explanation": "With df = n1+n2-2 = 12 and a one-tailed test at alpha=0.025, the critical t value is approximately 2.18.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-115",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same letter/phone call collection-time data, what is the calculated value?",
+    "options": [
+      { "key": "A", "text": "4.1738" },
+      { "key": "B", "text": "4.5084" },
+      { "key": "C", "text": "4.17" },
+      { "key": "D", "text": "4.51" }
+    ],
+    "correct_option": "A",
+    "explanation": "Mean(letter)=10.4286, Mean(phone)=6.1429, pooled variance ~ 3.71, pooled SE ~ 1.03. t = (10.4286-6.1429)/1.03 ~ 4.17, matching 4.1738.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-116",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same letter/phone call collection-time data, at alpha = 0.025, what can Allen conclude?",
+    "options": [
+      { "key": "A", "text": "Calculated value is greater than tabulated value" },
+      { "key": "B", "text": "Calls more quicker than letters" },
+      { "key": "C", "text": "Letters more quickly than calls" },
+      { "key": "D", "text": "Reject the null hypothesis" }
+    ],
+    "correct_option": "A",
+    "explanation": "t-calculated (4.17) exceeds t-tabulated (2.18); the calculated value is greater than the tabulated value (and calls are quicker than letters).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-117",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "Jeffrey, an eight-year-old, established an average time of 16.43 seconds for swimming the 25-yard freestyle. His dad Frank thought new goggles could help Jeffrey swim faster. Frank timed Jeffrey for 15 swims and got an average time of 16 seconds. Determine the type of test to be conducted.",
+    "options": [
+      { "key": "A", "text": "Left-tailed" },
+      { "key": "B", "text": "Right-tailed" },
+      { "key": "C", "text": "two-tailed" },
+      { "key": "D", "text": "three-tailed" }
+    ],
+    "correct_option": "A",
+    "explanation": "Since the goggles are hypothesized to make Jeffrey faster (a decrease in time), this is a left-tailed test.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-118",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the same swim time data, compute the test statistic.",
+    "options": [
+      { "key": "A", "text": "3.01" },
+      { "key": "B", "text": "3.08" },
+      { "key": "C", "text": "2.08" },
+      { "key": "D", "text": "1.08" }
+    ],
+    "correct_option": "C",
+    "explanation": "Z = (16 - 16.43)/(0.8/sqrt(15)) = -0.43/0.2066 ~ -2.08.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

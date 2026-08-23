@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ssc-202-062",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Moving Average Method",
+    "question_text": "R.B. Gbemisola Builders has completed these numbers of homes in the 8 years they have been in business: Year 1999-2006, Completions: 12,11,19,17,19,18,20,23. Compute the 3-year moving average for year 2005.",
+    "options": [
+      { "key": "A", "text": "14.00" },
+      { "key": "B", "text": "19.65" },
+      { "key": "C", "text": "20.33" },
+      { "key": "D", "text": "20.34" }
+    ],
+    "correct_option": "C",
+    "explanation": "3-year moving average centred on 2005 = average of 2004, 2005, 2006 = (18+20+23)/3 = 61/3 = 20.33.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-063",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Moving Average Method",
+    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), compute the 5-year moving average for year 2003.",
+    "options": [
+      { "key": "A", "text": "16.6" },
+      { "key": "B", "text": "16.8" },
+      { "key": "C", "text": "18.67" },
+      { "key": "D", "text": "18.6" }
+    ],
+    "correct_option": "D",
+    "explanation": "5-year moving average centred on 2003 = average of 2001-2005 = (19+17+19+18+20)/5 = 93/5 = 18.6.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-064",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Method of Least Squares",
+    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), estimate the trend equation for the data.",
+    "options": [
+      { "key": "A", "text": "y-hat = 17.4 + 0.72x" },
+      { "key": "B", "text": "y-hat = 17.375 + 0.7202x" },
+      { "key": "C", "text": "y-hat = 17.38 + 0.72x" },
+      { "key": "D", "text": "y-hat = 17.3750 + 0.7202x" }
+    ],
+    "correct_option": "D",
+    "explanation": "With coded x = -7,-5,-3,-1,1,3,5,7 (n=8, even), a = sum(Y)/n = 139/8 = 17.375, b = sum(XY)/sum(X^2) = 121/168 = 0.7202.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-065",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "A seasonal index is being computed using the ratio-to-moving-average method for quarterly data from 1999-2003. The percentages of actual to moving average for the third quarter of each year are: 1999: 109.0, 2000: 112.8, 2001: 110.0, 2002: 108.0, 2003: 104.6. What is the unadjusted index for the third quarter?",
+    "options": [
+      { "key": "A", "text": "108.88" },
+      { "key": "B", "text": "109.0" },
+      { "key": "C", "text": "110.23" },
+      { "key": "D", "text": "110.96" }
+    ],
+    "correct_option": "A",
+    "explanation": "Unadjusted index = mean of the ratios = (109.0+112.8+110.0+108.0+104.6)/5 = 544.4/5 = 108.88.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-066",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "Assume the total of the unadjusted indices for the four quarters is 404.04. If the unadjusted index for the first quarter is 97.0, what is the adjusted seasonal index for the first quarter?",
+    "options": [
+      { "key": "A", "text": "96.03" },
+      { "key": "B", "text": "97.98" },
+      { "key": "C", "text": "24.01" },
+      { "key": "D", "text": "99.00" }
+    ],
+    "correct_option": "A",
+    "explanation": "Adjusting factor = 400/404.04. Adjusted index = 97.0 x (400/404.04) = 38800/404.04 ~ 96.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-067",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Deviation Method of Trend Estimation",
+    "question_text": "If a time series has an even number of years, and we use coding, then each coded interval is equal to",
+    "options": [
+      { "key": "A", "text": "1 year" },
+      { "key": "B", "text": "2 years" },
+      { "key": "C", "text": "1 month" },
+      { "key": "D", "text": "6 months" }
+    ],
+    "correct_option": "D",
+    "explanation": "For an even number of periods, coding assigns consecutive odd integers so a one-unit change represents half a year (6 months).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-068",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Deviation Method of Trend Estimation",
+    "question_text": "Suppose you were considering a time series of data for the quarters of 1991 and 1992. The third quarter of 1992 would be coded as",
+    "options": [
+      { "key": "A", "text": "2" },
+      { "key": "B", "text": "3" },
+      { "key": "C", "text": "5" },
+      { "key": "D", "text": "6" }
+    ],
+    "correct_option": "C",
+    "explanation": "With 8 quarters coded -7,-5,-3,-1,1,3,5,7, Q3 of 1992 is coded 5.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-069",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Estimation of Trends: Method of Least Squares",
+    "question_text": "Suppose that the linear equation y-hat = 10 + 3x describes well an annual time series for 1988-1994. If the actual value of Y for 1991 is 8, what is the percent of trend for 1991?",
+    "options": [
+      { "key": "A", "text": "125%" },
+      { "key": "B", "text": "112.5%" },
+      { "key": "C", "text": "90%" },
+      { "key": "D", "text": "80%" }
+    ],
+    "correct_option": "D",
+    "explanation": "For 1988-1994 (7 years), 1991 is the middle year coded x=0. Trend = 10 + 3(0) = 10. Percent of trend = 8/10 x 100 = 80%.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-070",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Components of Time Series Analysis",
+    "question_text": "A time series of annual data can contain which of the following components?",
+    "options": [
+      { "key": "A", "text": "Secular trend" },
+      { "key": "B", "text": "Cyclical fluctuation" },
+      { "key": "C", "text": "Seasonal variation" },
+      { "key": "D", "text": "All of these" }
+    ],
+    "correct_option": "A",
+    "explanation": "Annual data (one observation per year) cannot show within-year seasonal variation, only secular trend and cyclical fluctuation. The paper's expected answer is the secular-trend-only option; this item is flagged for review.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": ["review"]
+  },
+  {
+    "id": "ssc-202-071",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Components of Time Series Analysis",
+    "question_text": "A method used to deal with cyclical variation when the cyclical component does not explain most of the variation left unexplained by the trend component is:",
+    "options": [
+      { "key": "A", "text": "Spearman analysis" },
+      { "key": "B", "text": "Second-degree analysis" },
+      { "key": "C", "text": "Relative cyclical residual" },
+      { "key": "D", "text": "All of these" }
+    ],
+    "correct_option": "C",
+    "explanation": "The relative cyclical residual method is used to examine cyclical variation left over after removing the trend.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-072",
+    "course": "SSC202",
+    "topic": "Time Series Analysis",
+    "sub_topic": "Seasonal Variation (Simple Methods)",
+    "question_text": "Assume that you have been given quarterly sales data for a 5-year period. To use the ratio-to-moving-average method of computing a seasonal index, your first step would be:",
+    "options": [
+      { "key": "A", "text": "Compute the 4-quarter moving average" },
+      { "key": "B", "text": "Discard highest and lowest values of each quarter" },
+      { "key": "C", "text": "Calculate the 4-quarter moving total" },
+      { "key": "D", "text": "None of these" }
+    ],
+    "correct_option": "A",
+    "explanation": "The ratio-to-moving-average method begins by computing a 4-quarter (centred) moving average.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

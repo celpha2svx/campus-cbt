@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ssc-202-073",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "The quality of a research findings to a large extent depends on the ___",
+    "options": [
+      { "key": "A", "text": "sources of data" },
+      { "key": "B", "text": "quality of data" },
+      { "key": "C", "text": "measurement of the data" },
+      { "key": "D", "text": "samples" }
+    ],
+    "correct_option": "B",
+    "explanation": "The reliability of any research finding is fundamentally tied to the quality of the underlying data used.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-074",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Assuming you collected data to investigate the determinants of reproductive health outcome of sexually active women in Osun State, what kind of data will this be to you if you want to conduct a similar study in Kaduna?",
+    "options": [
+      { "key": "A", "text": "Primary data" },
+      { "key": "B", "text": "secondary data" },
+      { "key": "C", "text": "tertiary data" },
+      { "key": "D", "text": "useless data" }
+    ],
+    "correct_option": "B",
+    "explanation": "Data originally collected for the Osun State study becomes secondary data when reused for a Kaduna study.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-075",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Which of these is not a secondary source of data?",
+    "options": [
+      { "key": "A", "text": "Demographic and Health Survey" },
+      { "key": "B", "text": "Annual abstracts" },
+      { "key": "C", "text": "all of the above" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "D",
+    "explanation": "Published Demographic and Health Survey reports and annual abstracts are both commonly-used secondary data sources.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-076",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Given that the marital status of five respondents is measured on a nominal scale as follows: single = 1, married = 2, separated = 3, divorced = 4 and widow = 5; what is the average marital status of the five respondents?",
+    "options": [
+      { "key": "A", "text": "3" },
+      { "key": "B", "text": "15" },
+      { "key": "C", "text": "average not included" },
+      { "key": "D", "text": "average not meaningful" }
+    ],
+    "correct_option": "D",
+    "explanation": "Nominal scale codes are labels, not quantities, so arithmetic operations like averaging are not meaningful.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-077",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "A ratio scale is weak in the sense that it ___",
+    "options": [
+      { "key": "A", "text": "cannot determine difference" },
+      { "key": "B", "text": "has no true zero" },
+      { "key": "C", "text": "cannot be multiplied" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "D",
+    "explanation": "A ratio scale has a true zero, can determine differences, and supports multiplication; none of the listed weaknesses apply.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-078",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which of the following cannot give order of values?",
+    "options": [
+      { "key": "A", "text": "nominal scale" },
+      { "key": "B", "text": "ordinal scale" },
+      { "key": "C", "text": "interval scale" },
+      { "key": "D", "text": "ratio scale" }
+    ],
+    "correct_option": "A",
+    "explanation": "Nominal scale data are pure category labels with no inherent order.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-079",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Imagine you were to take a random sample of 1000 from a small village with a population of 10,637 using simple random sampling. What is the first stage in selecting your sample?",
+    "options": [
+      { "key": "A", "text": "use random number table" },
+      { "key": "B", "text": "identify sampling frame" },
+      { "key": "C", "text": "calculate k" },
+      { "key": "D", "text": "stratify" }
+    ],
+    "correct_option": "B",
+    "explanation": "Before random numbers or a sampling interval can be used, a complete sampling frame listing all population elements must first be identified.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-080",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A population is divided into two strata: Rural (population 400,000) and Urban (population 1,200,000). If you were to select a sample of 960 respondents from the population using proportional stratified sampling, determine the value of 'A' (the Rural sample size).",
+    "options": [
+      { "key": "A", "text": "240" },
+      { "key": "B", "text": "34" },
+      { "key": "C", "text": "320" },
+      { "key": "D", "text": "720" }
+    ],
+    "correct_option": "A",
+    "explanation": "Total population = 1,600,000. Rural proportion = 400,000/1,600,000 = 0.25. Rural sample = 960 x 0.25 = 240.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-081",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Rural (population 400,000)/Urban (population 1,200,000) strata and a total sample of 960, determine the value of sample proportion 'D' (the sampling fraction).",
+    "options": [
+      { "key": "A", "text": "0.06" },
+      { "key": "B", "text": "0.0006" },
+      { "key": "C", "text": "60" },
+      { "key": "D", "text": "0.006" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sampling fraction = 960/1,600,000 = 0.0006.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-082",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A sampling technique in which initial respondents are selected by probability samples while additional respondents are obtained by referral from initial respondents is",
+    "options": [
+      { "key": "A", "text": "haphazard sampling" },
+      { "key": "B", "text": "snowball sampling" },
+      { "key": "C", "text": "Convenient sampling" },
+      { "key": "D", "text": "Purposive sampling" }
+    ],
+    "correct_option": "B",
+    "explanation": "Snowball sampling relies on initial respondents referring additional respondents.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "2015/2016",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-083",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "How will you select a sample from a target population that is difficult to identify? By using",
+    "options": [
+      { "key": "A", "text": "Purposive sampling" },
+      { "key": "B", "text": "quota sampling" },
+      { "key": "C", "text": "simple random sampling" },
+      { "key": "D", "text": "cluster sampling" }
+    ],
+    "correct_option": "A",
+    "explanation": "Purposive sampling relies on the researcher's judgement, useful when the target population is hard to identify via a complete frame.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-084",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Primary data is collected by",
+    "options": [
+      { "key": "A", "text": "you for current study" },
+      { "key": "B", "text": "a third party for a current research" },
+      { "key": "C", "text": "all of the above" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "C",
+    "explanation": "Primary data is first-hand data collected specifically for the current study, whether by the researcher or a third party commissioned for that study.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-085",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "When it is difficult and/or costly to develop a complete sampling frame, you make use of ___ to give every element an equal chance of selection.",
+    "options": [
+      { "key": "A", "text": "stratified sampling" },
+      { "key": "B", "text": "probability sampling" },
+      { "key": "C", "text": "cluster sampling" },
+      { "key": "D", "text": "convenient sampling" }
+    ],
+    "correct_option": "C",
+    "explanation": "Cluster sampling is used when a complete list of individual population elements is unavailable or too costly to build.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-086",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "One of the key weaknesses of interval scale is ___",
+    "options": [
+      { "key": "A", "text": "cannot determine difference" },
+      { "key": "B", "text": "cannot be multiplied" },
+      { "key": "C", "text": "cannot be added" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "B",
+    "explanation": "Because interval scales lack a true zero, ratios/multiplication are not meaningful.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-087",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which of the following is not related to ordinal scale?",
+    "options": [
+      { "key": "A", "text": "temperature" },
+      { "key": "B", "text": "age" },
+      { "key": "C", "text": "length in centimeter" },
+      { "key": "D", "text": "all of the above" }
+    ],
+    "correct_option": "D",
+    "explanation": "Temperature, age, and length in cm are not ordinal-scale examples.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-088",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Imagine you were to take a random sample of 350 from a small village with a population of 5,000 using systematic sampling. Determine the value of 'K'.",
+    "options": [
+      { "key": "A", "text": "142" },
+      { "key": "B", "text": "14" },
+      { "key": "C", "text": "15" },
+      { "key": "D", "text": "14.3" }
+    ],
+    "correct_option": "D",
+    "explanation": "Sampling interval K = N/n = 5000/350 = 14.2857, which rounds to 14.3.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-089",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "The table shows Strata, Populations and proportion: Igbo (250,000, proportion 0.0012), Hausa (1,200,000, proportion 0.0012), Yoruba (900,000, proportion D). As a researcher, you are asked to conduct a survey on a sample of 2,820 respondents. What will be your sample size from the Hausa population?",
+    "options": [
+      { "key": "A", "text": "240" },
+      { "key": "B", "text": "3440" },
+      { "key": "C", "text": "1440" },
+      { "key": "D", "text": "1200" }
+    ],
+    "correct_option": "C",
+    "explanation": "Hausa sample size = 1,200,000 x 0.0012 = 1,440.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-090",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table, what is the total population from which a sample of 2,820 was drawn?",
+    "options": [
+      { "key": "A", "text": "250,000" },
+      { "key": "B", "text": "2,100,000" },
+      { "key": "C", "text": "2,350,000" },
+      { "key": "D", "text": "2,352,820" }
+    ],
+    "correct_option": "C",
+    "explanation": "Total population = 250,000 + 1,200,000 + 900,000 = 2,350,000.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-091",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table (sampling fraction 0.0012), determine the sample size 'C' for the Yoruba population.",
+    "options": [
+      { "key": "A", "text": "1080" },
+      { "key": "B", "text": "1440" },
+      { "key": "C", "text": "2500" },
+      { "key": "D", "text": "1740" }
+    ],
+    "correct_option": "A",
+    "explanation": "Yoruba sample size = 900,000 x 0.0012 = 1,080.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-092",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Population, Sample, Statistics and Parameter",
+    "question_text": "A sampling technique in which pre-determined samples are selected from a sub-group to ensure representativeness is",
+    "options": [
+      { "key": "A", "text": "quota sampling" },
+      { "key": "B", "text": "snowball sampling" },
+      { "key": "C", "text": "Convenient sampling" },
+      { "key": "D", "text": "Purposive sampling" }
+    ],
+    "correct_option": "A",
+    "explanation": "Quota sampling sets fixed quotas for sub-groups to ensure the sample reflects known population proportions.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

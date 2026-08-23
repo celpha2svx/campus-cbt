@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useRef, useState } from "react";
 import Link from "next/link";
 import { AlertTriangle, CheckCircle2, Home, Upload } from "lucide-react";
 
@@ -66,6 +66,7 @@ function validate(raw: RawQuestion): string[] {
 }
 
 export function UploadPage() {
+  const fileInputRef = useRef<HTMLInputElement | null>(null);
   const [rawJson, setRawJson] = useState("");
   const [merged, setMerged] = useState<ValidQuestion[] | null>(null);
   const [report, setReport] = useState<{
@@ -75,19 +76,30 @@ export function UploadPage() {
     errors: { id: string; errs: string[] }[];
   } | null>(null);
   const [copied, setCopied] = useState(false);
+  const [fileName, setFileName] = useState<string | null>(null);
 
   async function handleSubmit() {
     let parsed: unknown;
     try {
       parsed = JSON.parse(rawJson);
     } catch (e) {
-      setReport({ valid: 0, invalid: 0, duplicates: 0, errors: [{ id: "(parse)", errs: [(e as Error).message] }] });
+      setReport({
+        valid: 0,
+        invalid: 0,
+        duplicates: 0,
+        errors: [{ id: "(parse)", errs: [(e as Error).message] }],
+      });
       setMerged(null);
       return;
     }
 
     if (!Array.isArray(parsed)) {
-      setReport({ valid: 0, invalid: 0, duplicates: 0, errors: [{ id: "(root)", errs: ["JSON must be an array"] }] });
+      setReport({
+        valid: 0,
+        invalid: 0,
+        duplicates: 0,
+        errors: [{ id: "(root)", errs: ["JSON must be an array"] }],
+      });
       setMerged(null);
       return;
     }
@@ -139,6 +151,16 @@ export function UploadPage() {
     setMerged(valid);
   }
 
+  async function handleFile(file: File) {
+    setFileName(file.name);
+    const text = await file.text();
+    setRawJson(text);
+    // wait one tick so the textarea state update lands
+    setTimeout(() => {
+      void handleSubmit();
+    }, 0);
+  }
+
   function downloadMerged() {
     if (!merged) return;
     const blob = new Blob([JSON.stringify(merged, null, 2) + "\n"], {
@@ -186,29 +208,58 @@ export function UploadPage() {
           Add past questions to the bank
         </h1>
         <p className="text-sm text-ink-soft leading-relaxed mb-6">
-          Paste JSON in the same shape as <code className="font-mono text-[12px] bg-paper-alt px-1 py-0.5 rounded-sm">src/data/questions.json</code>. The tool validates each item, dedupes against the live bank, and lets you download the merged set. Drop the file into the repo and commit.
+          Upload a JSON file or paste it. The tool validates each item, dedupes
+          against the live bank, and lets you download the merged set. Drop the
+          file into the repo at <code className="font-mono text-[12px] bg-paper-alt px-1 py-0.5 rounded-sm">src/data/questions.json</code> and commit.
         </p>
 
         <div className="bg-white border border-line rounded-sm overflow-hidden mb-4">
-          <div className="bg-paper-alt px-4 py-2.5 border-b border-dashed border-line">
+          <div className="bg-paper-alt px-4 py-2.5 border-b border-dashed border-line flex items-center justify-between">
             <p className="font-mono text-[10.5px] font-bold uppercase tracking-wide text-ink-soft">
-              Paste JSON array of questions
+              Source
             </p>
+            {fileName && (
+              <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft truncate ml-3">
+                {fileName}
+              </p>
+            )}
           </div>
-          <textarea
-            value={rawJson}
-            onChange={(e) => setRawJson(e.target.value)}
-            placeholder='[{"id":"ssc-202-001","course":"SSC202","topic":"...","sub_topic":"...","question_text":"...","options":[{"key":"A","text":"..."},...],"correct_option":"A","explanation":"...","difficulty":"medium","source":"SSC202 PQ","year":"2024","is_verified":false,"tags":[]}]'
-            className="w-full font-mono text-[12px] p-4 outline-none min-h-[260px] resize-y"
-            spellCheck={false}
-          />
+          <div className="px-5 py-5">
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept="application/json,.json"
+              onChange={(e) => {
+                const f = e.target.files?.[0];
+                if (f) void handleFile(f);
+              }}
+              className="hidden"
+              id="json-file-input"
+            />
+            <label
+              htmlFor="json-file-input"
+              className="inline-flex items-center justify-center gap-2 border border-ink text-ink px-4 py-2.5 rounded-sm font-mono text-[11px] font-semibold uppercase tracking-wide cursor-pointer hover:bg-paper-alt transition-colors"
+            >
+              <Upload size={14} />
+              Choose JSON file
+            </label>
+            <p className="font-mono text-[10px] uppercase tracking-wide text-ink-soft mt-3">
+              or paste JSON below
+            </p>
+            <textarea
+              value={rawJson}
+              onChange={(e) => setRawJson(e.target.value)}
+              className="w-full font-mono text-[12px] p-4 mt-2 outline-none border border-line bg-paper min-h-[180px] resize-y rounded-sm"
+              spellCheck={false}
+            />
+          </div>
         </div>
 
         <button
           onClick={handleSubmit}
-          className="w-full inline-flex items-center justify-center gap-2 bg-ink text-paper py-3 rounded-sm font-mono text-xs font-semibold uppercase tracking-wide hover:bg-ink-soft transition-colors"
+          disabled={!rawJson.trim()}
+          className="w-full inline-flex items-center justify-center gap-2 bg-ink text-paper py-3 rounded-sm font-mono text-xs font-semibold uppercase tracking-wide hover:bg-ink-soft transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
         >
-          <Upload size={15} />
           Validate and merge
         </button>
 

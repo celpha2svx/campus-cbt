@@ -1,0 +1,362 @@
+[
+  {
+    "id": "ssc-202-001",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Definition",
+    "question_text": "An index number is defined as",
+    "options": [
+      { "key": "A", "text": "A statistical change in alpha-numeric variables over time, geographic location or other characteristic" },
+      { "key": "B", "text": "A statistical variable designed to show measures in related functions or group of related functions with respect to time, geographic location or other characteristic" },
+      { "key": "C", "text": "A statistical measure to show changes in consumables or a group of related consumables with respect to time, geographic location or other characteristic" },
+      { "key": "D", "text": "A statistical measure designed to show changes in variable or a group of related variables with respect to time, geographic location or other characteristic" }
+    ],
+    "correct_option": "D",
+    "explanation": "Standard textbook definition of an index number as a statistical measure of change in a variable or group of related variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-002",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Definition",
+    "question_text": "Which of the following is not a characteristic of index numbers?",
+    "options": [
+      { "key": "A", "text": "Index numbers are always geometric means" },
+      { "key": "B", "text": "Index numbers are for comparison" },
+      { "key": "C", "text": "Index numbers are expressed in percentage" },
+      { "key": "D", "text": "Index numbers measure changes not capable of direct measurement" }
+    ],
+    "correct_option": "A",
+    "explanation": "Index numbers can be simple aggregates, arithmetic means, or geometric means (e.g. Fisher's); they are not always geometric means.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-003",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "In the estimation of value index, total value is",
+    "options": [
+      { "key": "A", "text": "The quantity of the commodities consumed in the base year multiplied by the prices in the current year" },
+      { "key": "B", "text": "The price of the commodity multiplied by the quantity consumed" },
+      { "key": "C", "text": "The price in the base year multiplied by the quantities in the current year" },
+      { "key": "D", "text": "Changes in the volume or quantity produced in all years" }
+    ],
+    "correct_option": "B",
+    "explanation": "Value = Price x Quantity (V = PQ), the standard definition of total value.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-004",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Use the table below to answer questions 4-13, USE 1995 AS THE BASE YEAR UNLESS OTHERWISE STATED. Commodities A,B,C,D with 1995 (Price,Qty): A(40,60) B(56,60) C(40,60) D(37,60); 1996 (Price,Qty): A(59,90) B(53,90) C(42,90) D(45,90). The Marshall-Edgeworth Price index is",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Since quantities are uniform (60 in 1995, 90 in 1996) across all commodities, Laspeyres price = Paasche price = 115.03, so Marshall-Edgeworth (their arithmetic-style average) is also 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-005",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The Bowley's price index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Bowley's index is the arithmetic mean of Laspeyres and Paasche price indices; since both equal 115.03 here (uniform quantities), Bowley's is also 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-006",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The simple aggregate quantity index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "C",
+    "explanation": "Simple aggregate quantity index = sum(Q1)/sum(Q0) x 100 = 360/240 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-007",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Using 1996 as the reference year, the simple aggregate price index is (same commodities table)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Simple aggregate price index = sum(P_reference)/sum(P_other) x 100 = 199/173 x 100 = 115.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-008",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "The Laspeyre's price index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyres price index = sum(P1*Q0)/sum(P0*Q0) x 100 = 11940/10380 x 100 = 115.03.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-009",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Paasche Index",
+    "question_text": "The Paasche's quantity index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "C",
+    "explanation": "Paasche quantity index = sum(Q1*P1)/sum(Q0*P1) x 100 = 17910/11940 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-010",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "The Laspeyre's quantity index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "C",
+    "explanation": "Laspeyres quantity index = sum(Q1*P0)/sum(Q0*P0) x 100 = 15570/10380 x 100 = 150.00.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-011",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "The Fisher's ideal price index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Fisher's ideal index = sqrt(Laspeyres price x Paasche price) = sqrt(115.03 x 115.03) = 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-012",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Marshall-Edgeworth Price index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Repeat of Q4; Marshall-Edgeworth price index = 115.03 given uniform quantity weights.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-013",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Bowley's price index is (same commodities table, 1995 as base year)",
+    "options": [
+      { "key": "A", "text": "115.03" },
+      { "key": "B", "text": "66.67" },
+      { "key": "C", "text": "150.00" },
+      { "key": "D", "text": "159.60" }
+    ],
+    "correct_option": "A",
+    "explanation": "Repeat of Q5; Bowley's price index (mean of Laspeyres and Paasche) = 115.03.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-014",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Uses of Index Numbers",
+    "question_text": "Index numbers cannot be used for one of the following",
+    "options": [
+      { "key": "A", "text": "to measure the cost of living" },
+      { "key": "B", "text": "to measure economic progress in various sectors of the economy" },
+      { "key": "C", "text": "to select a base period" },
+      { "key": "D", "text": "to indicate the level of poverty" }
+    ],
+    "correct_option": "C",
+    "explanation": "Selecting a base period is a step in constructing an index number, not a use/output of one.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-015",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "Fisher's quantity index is given as:",
+    "options": [
+      { "key": "A", "text": "sqrt[ (sum(q1*p0)/sum(q0*p0)) x (sum(q1*p1)/sum(q0*p1)) ] x 100" },
+      { "key": "B", "text": "sqrt[(L+P)/2]" },
+      { "key": "C", "text": "(L+P)/2" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "A",
+    "explanation": "Fisher's index (price or quantity) is defined as the geometric mean of the corresponding Laspeyres and Paasche indices.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-016",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "Bowley's price index is given as",
+    "options": [
+      { "key": "A", "text": "sqrt[ (sum(q1*p0)/sum(q0*p0)) x (sum(q1*p1)/sum(q0*p1)) ] x 100" },
+      { "key": "B", "text": "sqrt[(L+P)/2]" },
+      { "key": "C", "text": "(L+P)/2" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "C",
+    "explanation": "Bowley's index is the simple arithmetic mean of the Laspeyres (L) and Paasche (P) indices: (L+P)/2.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-017",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "Which of the following is not a problem in the construction of an index number?",
+    "options": [
+      { "key": "A", "text": "selection of price quotations" },
+      { "key": "B", "text": "choice of average" },
+      { "key": "C", "text": "choice of weights" },
+      { "key": "D", "text": "none of the above" }
+    ],
+    "correct_option": "D",
+    "explanation": "Selection of price quotations, choice of average, and choice of weights are all genuine, well-documented problems in index number construction; only 'none of the above' correctly names something that is not itself a problem.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-018",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Simple and Weighted Aggregate Indices",
+    "question_text": "The arithmetic and the geometric means of Laspeyre's and Paasche's indices are",
+    "options": [
+      { "key": "A", "text": "Fisher's Ideal index and Bowley's index respectively" },
+      { "key": "B", "text": "Bowley's index and Fisher's Ideal index respectively" },
+      { "key": "C", "text": "Bowley and Marshal-Edgeworth index respectively" },
+      { "key": "D", "text": "Fisher's ideal index and Marshall-Edgeworth index respectively" }
+    ],
+    "correct_option": "B",
+    "explanation": "Bowley's index is the arithmetic mean of Laspeyres and Paasche; Fisher's Ideal index is their geometric mean.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

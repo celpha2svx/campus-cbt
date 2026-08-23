@@ -1,0 +1,322 @@
+[
+  {
+    "id": "ssc-202-119",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "The price relative index of a single commodity is given by the formula",
+    "options": [
+      { "key": "A", "text": "(P1/P0) x 100" },
+      { "key": "B", "text": "(Q1/Q0) x 100" },
+      { "key": "C", "text": "(V1/V0) x 100" },
+      { "key": "D", "text": "(P0/P1) x 100" }
+    ],
+    "correct_option": "A",
+    "explanation": "Price relative index = price in the given period / price in the base period x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-120",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "The quantity relative index of a single commodity is given by the formula",
+    "options": [
+      { "key": "A", "text": "(Q1/Q0) x 100" },
+      { "key": "B", "text": "(P1/P0) x 100" },
+      { "key": "C", "text": "(P1Q1)/(P0Q0) x 100" },
+      { "key": "D", "text": "(Q0/Q1) x 100" }
+    ],
+    "correct_option": "A",
+    "explanation": "Quantity relative index = quantity in the given period / quantity in the base period x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-121",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "The value relative index of a single commodity is given by the formula",
+    "options": [
+      { "key": "A", "text": "(P1Q1)/(P0Q0) x 100" },
+      { "key": "B", "text": "(P1/P0) x 100" },
+      { "key": "C", "text": "(Q1/Q0) x 100" },
+      { "key": "D", "text": "(P0Q0)/(P1Q1) x 100" }
+    ],
+    "correct_option": "A",
+    "explanation": "Value relative index = value in the given period (P1Q1) / value in the base period (P0Q0) x 100.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-122",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "Using 1995 as the base year for turkey meat (1995 Price=1,000 Qty=10; 2000 Price=1,440 Qty=12), compute the price relative index.",
+    "options": [
+      { "key": "A", "text": "144%" },
+      { "key": "B", "text": "120%" },
+      { "key": "C", "text": "172.8%" },
+      { "key": "D", "text": "100%" }
+    ],
+    "correct_option": "A",
+    "explanation": "Price relative = P2000/P1995 x 100 = 1440/1000 x 100 = 144%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-123",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Price and Quantity Indices",
+    "question_text": "Using the same turkey meat data, compute the quantity relative index.",
+    "options": [
+      { "key": "A", "text": "144%" },
+      { "key": "B", "text": "120%" },
+      { "key": "C", "text": "172.8%" },
+      { "key": "D", "text": "83.3%" }
+    ],
+    "correct_option": "B",
+    "explanation": "Quantity relative = Q2000/Q1995 x 100 = 12/10 x 100 = 120%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-124",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Value Index",
+    "question_text": "Using the same turkey meat data, compute the value relative index.",
+    "options": [
+      { "key": "A", "text": "144%" },
+      { "key": "B", "text": "120%" },
+      { "key": "C", "text": "172.8%" },
+      { "key": "D", "text": "264%" }
+    ],
+    "correct_option": "C",
+    "explanation": "Value relative = (P2000 x Q2000)/(P1995 x Q1995) x 100 = 17280/10000 x 100 = 172.8%.",
+    "difficulty": "medium",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-125",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "Using a 5-component product data set (2009 base year), calculate the Laspeyre's price index.",
+    "options": [
+      { "key": "A", "text": "159.35" },
+      { "key": "B", "text": "161.83" },
+      { "key": "C", "text": "160.59" },
+      { "key": "D", "text": "160.55" }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyre's price index = sum(P1*Q0)/sum(P0*Q0) x 100 = 192,400/120,755 x 100 ~ 159.35.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-126",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Paasche Index",
+    "question_text": "Using the same 5-component product data, calculate the Paasche's price index.",
+    "options": [
+      { "key": "A", "text": "159.35" },
+      { "key": "B", "text": "161.83" },
+      { "key": "C", "text": "160.59" },
+      { "key": "D", "text": "160.55" }
+    ],
+    "correct_option": "B",
+    "explanation": "Paasche's price index = sum(P1*Q1)/sum(P0*Q1) x 100 = 190,000/117,415 x 100 ~ 161.83.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-127",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Fisher's Ideal Index",
+    "question_text": "Using the same data, calculate the Fisher's Ideal price index.",
+    "options": [
+      { "key": "A", "text": "159.35" },
+      { "key": "B", "text": "161.83" },
+      { "key": "C", "text": "160.59" },
+      { "key": "D", "text": "160.55" }
+    ],
+    "correct_option": "C",
+    "explanation": "Fisher's Ideal index = sqrt(Laspeyres price x Paasche price) = sqrt(159.35 x 161.83) ~ 160.59.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-128",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Marshall Edgeworth Index",
+    "question_text": "Using the same data, calculate the Edgeworth-Marshall price index.",
+    "options": [
+      { "key": "A", "text": "159.35" },
+      { "key": "B", "text": "161.83" },
+      { "key": "C", "text": "160.59" },
+      { "key": "D", "text": "160.55" }
+    ],
+    "correct_option": "D",
+    "explanation": "Edgeworth-Marshall index = sum(P1*(Q0+Q1))/sum(P0*(Q0+Q1)) x 100 ~ 160.55.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-129",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Laspeyre's Index",
+    "question_text": "Using the same data, calculate the Laspeyre's quantity index.",
+    "options": [
+      { "key": "A", "text": "97.23" },
+      { "key": "B", "text": "99.29" },
+      { "key": "C", "text": "102.84" },
+      { "key": "D", "text": "100.71" }
+    ],
+    "correct_option": "A",
+    "explanation": "Laspeyre's quantity index = sum(Q1*P0)/sum(Q0*P0) x 100 ~ 97.23.",
+    "difficulty": "hard",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-130",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "When choosing a base year for an index number, the period selected should be",
+    "options": [
+      { "key": "A", "text": "free from abnormalities like wars, earthquakes, famines, booms and depressions" },
+      { "key": "B", "text": "always the most recent year" },
+      { "key": "C", "text": "a year with the highest recorded prices" },
+      { "key": "D", "text": "any randomly chosen year" }
+    ],
+    "correct_option": "A",
+    "explanation": "A good base period should be a 'normal' period, free from abnormal events.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-131",
+    "course": "SSC202",
+    "topic": "Index Numbers",
+    "sub_topic": "Problems of Index Numbers",
+    "question_text": "According to the principles guiding index number construction, an index number is",
+    "options": [
+      { "key": "A", "text": "of limited and particular use; there is no all-purpose index" },
+      { "key": "B", "text": "useful for every possible comparison regardless of purpose" },
+      { "key": "C", "text": "only useful for measuring wholesale prices" },
+      { "key": "D", "text": "constructed without regard to its intended purpose" }
+    ],
+    "correct_option": "A",
+    "explanation": "The purpose must be clearly decided at the outset since every index is of limited and particular use.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-132",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "Ratio compares",
+    "options": [
+      { "key": "A", "text": "quantities of the same kind, expressed as a quotient of two numbers" },
+      { "key": "B", "text": "only percentages" },
+      { "key": "C", "text": "quantities of different kinds only" },
+      { "key": "D", "text": "unrelated variables" }
+    ],
+    "correct_option": "A",
+    "explanation": "A ratio compares quantities of the same kind and is expressed as a quotient of two numbers.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-133",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "Proportion is the ratio of two numbers in which",
+    "options": [
+      { "key": "A", "text": "the numerator is part of the denominator" },
+      { "key": "B", "text": "the numerator always exceeds the denominator" },
+      { "key": "C", "text": "both numbers are unrelated" },
+      { "key": "D", "text": "the denominator is always 100" }
+    ],
+    "correct_option": "A",
+    "explanation": "A proportion is the ratio of two numbers in which the numerator is part of the denominator.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  },
+  {
+    "id": "ssc-202-134",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "A class has 18 girls and 22 boys, making a total of 40 students. What percentage of the class is girls?",
+    "options": [
+      { "key": "A", "text": "45%" },
+      { "key": "B", "text": "55%" },
+      { "key": "C", "text": "18%" },
+      { "key": "D", "text": "22%" }
+    ],
+    "correct_option": "A",
+    "explanation": "Percentage of girls = 18/40 x 100 = 45%.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 study notes",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated"]
+  }
+]

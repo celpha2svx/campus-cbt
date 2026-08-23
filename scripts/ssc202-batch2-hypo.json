@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ssc-202-019",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "A manufacturer of pet foods was wondering whether cat owners and dog owners reacted differently to premium pet foods. A consumer survey found: Cat owners surveyed = 280, using premium food = 152; Dog owners surveyed = 190, using premium food = 81. Is it reasonable to conclude, at alpha = 0.02, that cat owners are more likely than dog owners to feed their pets premium food? What proportion of cat owners used premium food for their cats?",
+    "options": [
+      { "key": "A", "text": "0.54" },
+      { "key": "B", "text": "0.543" },
+      { "key": "C", "text": "0.5428" },
+      { "key": "D", "text": "0.5429" }
+    ],
+    "correct_option": "D",
+    "explanation": "152/280 = 0.542857..., which rounds to 0.5429.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-020",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same pet food survey data (280 cat owners, 152 using premium; 190 dog owners, 81 using premium), what proportion of dog owners fed their dog with premium food?",
+    "options": [
+      { "key": "A", "text": "0.4263" },
+      { "key": "B", "text": "0.42" },
+      { "key": "C", "text": "0.426" },
+      { "key": "D", "text": "0.43" }
+    ],
+    "correct_option": "A",
+    "explanation": "81/190 = 0.426315..., which rounds to 0.4263.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-021",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the same pet food survey data, the standard error of difference between the two proportions is",
+    "options": [
+      { "key": "A", "text": "0.0471" },
+      { "key": "B", "text": "0.05" },
+      { "key": "C", "text": "0.0466" },
+      { "key": "D", "text": "0.0462" }
+    ],
+    "correct_option": "A",
+    "explanation": "Pooled proportion p-bar = (152+81)/(280+190) = 233/470 = 0.49574. SE = sqrt[p-bar(1-p-bar)(1/280 + 1/190)] = sqrt(0.24998 x 0.008835) = sqrt(0.0022085) ~ 0.0470, closest to 0.0471.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-022",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "One-tail and two-tail procedures",
+    "question_text": "For the pet food survey test (cat owners vs dog owners, testing whether cat owners are more likely to use premium food, one-tailed test), what is Z-tabulated at alpha = 0.02?",
+    "options": [
+      { "key": "A", "text": "2.02" },
+      { "key": "B", "text": "2.03" },
+      { "key": "C", "text": "2.04" },
+      { "key": "D", "text": "2.05" }
+    ],
+    "correct_option": "D",
+    "explanation": "For a one-tailed test at alpha = 0.02, the critical Z value is 2.05 (2.054 rounded).",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-023",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "Using the pet food survey data, what is Z-calculated?",
+    "options": [
+      { "key": "A", "text": "2.50" },
+      { "key": "B", "text": "2.502" },
+      { "key": "C", "text": "2.5021" },
+      { "key": "D", "text": "2.48" }
+    ],
+    "correct_option": "D",
+    "explanation": "Z = (p1 - p2)/SE = (0.542857 - 0.426316)/0.0470 = 0.116541/0.0470 ~ 2.48.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-024",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "Using the pet food survey data, what is your conclusion at alpha = 0.02?",
+    "options": [
+      { "key": "A", "text": "Reject H0, and conclude that cat owners are more likely to feed their pets with premium food" },
+      { "key": "B", "text": "Accept H0, and conclude that cat owners are not more likely to feed their pets with premium food" },
+      { "key": "C", "text": "Reject H0, and conclude that cat owners are not more likely to feed their pets with premium food" },
+      { "key": "D", "text": "Accept H0, and conclude that cat owners are more likely to feed their pets with premium food" }
+    ],
+    "correct_option": "A",
+    "explanation": "Z-calculated (2.48) exceeds Z-tabulated (2.05), so we reject H0 and conclude cat owners are more likely to use premium food.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-025",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "It is desired to test the effectiveness of an advertising campaign on the sale of a community's product. Daily sales before and after the campaign (in N'000) were recorded for 8 days. The average sales before and after are respectively equal to",
+    "options": [
+      { "key": "A", "text": "52.2, 55.0" },
+      { "key": "B", "text": "52, 54.9" },
+      { "key": "C", "text": "52.19, 54.95" },
+      { "key": "D", "text": "52.188, 54.950" }
+    ],
+    "correct_option": "D",
+    "explanation": "Full-precision means of the before/after sample columns.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-026",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, the standard error of difference between the two means is",
+    "options": [
+      { "key": "A", "text": "2.3767" },
+      { "key": "B", "text": "2.377" },
+      { "key": "C", "text": "2.3768" },
+      { "key": "D", "text": "3.3612" }
+    ],
+    "correct_option": "A",
+    "explanation": "Standard error of the paired-difference mean.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-027",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, the mean difference is",
+    "options": [
+      { "key": "A", "text": "-2.763" },
+      { "key": "B", "text": "2.763" },
+      { "key": "C", "text": "2.7625" },
+      { "key": "D", "text": "-2.7625" }
+    ],
+    "correct_option": "D",
+    "explanation": "Mean difference (before - after) = 52.188 - 54.950 = -2.762, matching -2.7625 at full precision. The negative sign shows sales after the campaign were higher on average.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-028",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "For the advertising campaign before/after sales data, what is the t-value from the table?",
+    "options": [
+      { "key": "A", "text": "1.761" },
+      { "key": "B", "text": "2.15" },
+      { "key": "C", "text": "2.145" },
+      { "key": "D", "text": "1.76" }
+    ],
+    "correct_option": "A",
+    "explanation": "Critical t from the standard t-table for the corresponding df.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-029",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
+    "question_text": "For the advertising campaign before/after sales data, what is the t-calculated?",
+    "options": [
+      { "key": "A", "text": "1.16" },
+      { "key": "B", "text": "-1.162" },
+      { "key": "C", "text": "-1.16" },
+      { "key": "D", "text": "1.162" }
+    ],
+    "correct_option": "B",
+    "explanation": "t = mean difference / SE = -2.7625 / 2.3767 ~ -1.162.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-030",
+    "course": "SSC202",
+    "topic": "Hypotheses Testing",
+    "sub_topic": "Steps in Testing Statistical Hypothesis",
+    "question_text": "For the advertising campaign before/after sales data, what is your conclusion?",
+    "options": [
+      { "key": "A", "text": "Reject H0, and conclude that the advertising campaign has been effective" },
+      { "key": "B", "text": "Accept H0, and conclude that the advertising campaign has not been effective" },
+      { "key": "C", "text": "Reject H0, and conclude that the advertising campaign has not been effective" },
+      { "key": "D", "text": "Accept H0, and conclude that the advertising campaign has been effective" }
+    ],
+    "correct_option": "B",
+    "explanation": "The magnitude of t-calculated (1.162) is less than t-tabulated (1.761), so we fail to reject H0: there is no significant evidence the campaign changed sales.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]

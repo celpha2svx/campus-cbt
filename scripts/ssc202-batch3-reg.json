@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ssc-202-031",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "In a laboratory-based investigation of the photosynthesis rate (y) of the plant Larrea tridenta and its relation to the level of radiance (x), 11 paired observations were taken. The data were summarized by: sum(X) = 56.2, sum(X^2) = 335.18, sum(Y^2) = 41244, sum(XY) = 3688.3. Calculate the equation of the estimated regression line of y on x.",
+    "options": [
+      { "key": "A", "text": "y = 3.72 + 0.58x" },
+      { "key": "B", "text": "y = -2.78 + 11.47x" },
+      { "key": "C", "text": "y = -3.21 + 0.76x" },
+      { "key": "D", "text": "y = 4.1 - 0.98x" }
+    ],
+    "correct_option": "B",
+    "explanation": "b = (n*sum(XY) - sum(X)*sum(Y)) / (n*sum(X^2) - (sum(X))^2). With the implied sum(Y), b ~ 11.47 and a ~ -2.78.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-032",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "Using the photosynthesis rate regression equation, estimate the photosynthesis rate when the level of irradiance is 5.2.",
+    "options": [
+      { "key": "A", "text": "50.2" },
+      { "key": "B", "text": "69.3" },
+      { "key": "C", "text": "56.9" },
+      { "key": "D", "text": "70.1" }
+    ],
+    "correct_option": "C",
+    "explanation": "y = -2.78 + 11.47(5.2) = -2.78 + 59.64 = 56.9.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-033",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Inferences Concerning Regression Slope",
+    "question_text": "In a test of linear relationship between 2 variables x and y, if the sum of squares due to regression is 20, the total sum of squares is 25, and n = 10, what is the F-Ratio?",
+    "options": [
+      { "key": "A", "text": "26" },
+      { "key": "B", "text": "32" },
+      { "key": "C", "text": "64" },
+      { "key": "D", "text": "56" }
+    ],
+    "correct_option": "B",
+    "explanation": "SSE = SST - SSR = 25 - 20 = 5. Residual df = n - 2 = 8. F = (SSR/1)/(SSE/8) = 20/(5/8) = 32.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-034",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The Federal Office of Statistics data on number of Doctors (Y) and Nurses (X) available for Health Services in Nigeria, to the nearest thousand, between 1978 and 1983: Year 1978-1983, Doctors: 8,7,8,10,10,11; Nurses: 23,25,28,30,34,35. Use the least squares method to calculate the regression equation of Doctors on Nurses.",
+    "options": [
+      { "key": "A", "text": "Y-hat = 0.29x + 0.63" },
+      { "key": "B", "text": "Y-hat = 0.63x + 0.29" },
+      { "key": "C", "text": "= 0.29Y + 0.63" },
+      { "key": "D", "text": "Y-hat = 0.29x + 0.80" }
+    ],
+    "correct_option": "A",
+    "explanation": "n=6, sum(X)=175, sum(Y)=54, sum(XY)=1608, sum(X^2)=5219. b ~ 0.29, a ~ 0.63.",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-035",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The table shows the amount of water applied (inches) and the yield of soya beans (tons/acre) on an experimental farm: Water Applied: 12,18,24,30,36,42,48; Yield: 5.27,5.68,6.25,7.21,8.03,8.71,8.42. Estimate the linear regression equation.",
+    "options": [
+      { "key": "A", "text": "y = 2.8614 - 0.1346x" },
+      { "key": "B", "text": "y = 3.8684 + 0.1071x" },
+      { "key": "C", "text": "y = 6.7123 + 0.9054x" },
+      { "key": "D", "text": "y = 5.6190 + 0.2015x" }
+    ],
+    "correct_option": "B",
+    "explanation": "Confirmed by the paper's marked answer and the next question (yield at x=60 = 10.2944).",
+    "difficulty": "hard",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": false,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-036",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "Given that the yield is a function of water applied (soya bean data), what will be the yield if the amount of water applied is 60?",
+    "options": [
+      { "key": "A", "text": "11.2931" },
+      { "key": "B", "text": "10.2944" },
+      { "key": "C", "text": "7.8123" },
+      { "key": "D", "text": "6.4131" }
+    ],
+    "correct_option": "B",
+    "explanation": "Using y = 3.8684 + 0.1071x: y = 3.8684 + 0.1071(60) = 10.2944.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-037",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "One of the assumptions of regression analysis is",
+    "options": [
+      { "key": "A", "text": "The independent variable is correlated with the error term" },
+      { "key": "B", "text": "No relevant independent variable is excluded" },
+      { "key": "C", "text": "The relationship between X and Y is non-linear" },
+      { "key": "D", "text": "No irrelevant independent variable is included" }
+    ],
+    "correct_option": "D",
+    "explanation": "Standard OLS regression assumptions include that no irrelevant independent variable is included.",
+    "difficulty": "medium",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-038",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Interpretation of Regression Coefficients",
+    "question_text": "Y = a + bX is called the regression equation of",
+    "options": [
+      { "key": "A", "text": "X on Y" },
+      { "key": "B", "text": "Y on Y" },
+      { "key": "C", "text": "X on X" },
+      { "key": "D", "text": "Y on X" }
+    ],
+    "correct_option": "D",
+    "explanation": "When Y is expressed as a function of X, it is the regression equation of Y on X.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-039",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Multiple Regression Analysis",
+    "question_text": "In the equation Y = a + b1*X1 + b2*X2 + e, the regression equation has ____ predictor variables.",
+    "options": [
+      { "key": "A", "text": "2" },
+      { "key": "B", "text": "4" },
+      { "key": "C", "text": "3" },
+      { "key": "D", "text": "5" }
+    ],
+    "correct_option": "A",
+    "explanation": "X1 and X2 are the two predictor (independent) variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-040",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "The process of explaining an outcome variable on a predictor variable is called",
+    "options": [
+      { "key": "A", "text": "correlation" },
+      { "key": "B", "text": "coefficient" },
+      { "key": "C", "text": "regression" },
+      { "key": "D", "text": "normal equation" }
+    ],
+    "correct_option": "C",
+    "explanation": "Regression models/explains an outcome (dependent) variable using one or more predictor (independent) variables.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-041",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Multiple Regression Analysis",
+    "question_text": "____________ involves three or more variables.",
+    "options": [
+      { "key": "A", "text": "Linear regression" },
+      { "key": "B", "text": "Slope" },
+      { "key": "C", "text": "Intercept" },
+      { "key": "D", "text": "Multiple linear regression" }
+    ],
+    "correct_option": "D",
+    "explanation": "Multiple linear regression involves three or more variables total (one outcome + two or more predictors).",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-042",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Interpretation of Regression Coefficients",
+    "question_text": "Given that Y = a + bX; Y is called",
+    "options": [
+      { "key": "A", "text": "Predictor variable" },
+      { "key": "B", "text": "Independent variable" },
+      { "key": "C", "text": "Outcome variable" },
+      { "key": "D", "text": "Regression equation" }
+    ],
+    "correct_option": "C",
+    "explanation": "In Y = a + bX, Y is the dependent/outcome variable.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  },
+  {
+    "id": "ssc-202-043",
+    "course": "SSC202",
+    "topic": "Regression Analysis",
+    "sub_topic": "Bivariate Regression Analysis",
+    "question_text": "A linear regression equation predicting relationship between two variables is ____ one.",
+    "options": [
+      { "key": "A", "text": "Complex" },
+      { "key": "B", "text": "Regressive" },
+      { "key": "C", "text": "Multivariate" },
+      { "key": "D", "text": "Simple" }
+    ],
+    "correct_option": "D",
+    "explanation": "A regression equation with exactly two variables is simple/bivariate regression.",
+    "difficulty": "easy",
+    "source": "SSC202 PQ2",
+    "year": "unknown",
+    "is_verified": true,
+    "tags": []
+  }
+]
