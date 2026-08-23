@@ -8765,7 +8765,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Use the table below to answer questions 4-13, USE 1995 AS THE BASE YEAR UNLESS OTHERWISE STATED. Commodities A,B,C,D with 1995 (Price,Qty): A(40,60) B(56,60) C(40,60) D(37,60); 1996 (Price,Qty): A(59,90) B(53,90) C(42,90) D(45,90). The Marshall-Edgeworth Price index is",
+    "question_text": "For commodities A, B, C and D, the 1995 base-year price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Marshall-Edgeworth price index is",
     "options": [
       {
         "key": "A",
@@ -8797,7 +8797,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "The Bowley's price index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Bowley's price index is",
     "options": [
       {
         "key": "A",
@@ -8829,7 +8829,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "The simple aggregate quantity index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The simple aggregate quantity index is",
     "options": [
       {
         "key": "A",
@@ -8861,7 +8861,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "Using 1996 as the reference year, the simple aggregate price index is (same commodities table)",
+    "question_text": "For commodities A, B, C and D, the 1995 price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). Using 1996 as the reference year, the simple aggregate price index is",
     "options": [
       {
         "key": "A",
@@ -8893,7 +8893,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "The Laspeyre's price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Laspeyre's price index is",
     "options": [
       {
         "key": "A",
@@ -8925,7 +8925,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Paasche Index",
-    "question_text": "The Paasche's quantity index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Paasche's quantity index is",
     "options": [
       {
         "key": "A",
@@ -8957,7 +8957,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "The Laspeyre's quantity index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Laspeyre's quantity index is",
     "options": [
       {
         "key": "A",
@@ -8989,7 +8989,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Fisher's Ideal Index",
-    "question_text": "The Fisher's ideal price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Fisher's ideal price index is",
     "options": [
       {
         "key": "A",
@@ -9021,7 +9021,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Marshall-Edgeworth Price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Marshall-Edgeworth price index is",
     "options": [
       {
         "key": "A",
@@ -9053,7 +9053,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "Bowley's price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). Bowley's price index is",
     "options": [
       {
         "key": "A",
@@ -9277,7 +9277,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same pet food survey data (280 cat owners, 152 using premium; 190 dog owners, 81 using premium), what proportion of dog owners fed their dog with premium food?",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. What proportion of dog owners fed their dog with premium food?",
     "options": [
       {
         "key": "A",
@@ -9309,7 +9309,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same pet food survey data, the standard error of difference between the two proportions is",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. The standard error of difference between the two proportions is",
     "options": [
       {
         "key": "A",
@@ -9341,7 +9341,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "One-tail and two-tail procedures",
-    "question_text": "For the pet food survey test (cat owners vs dog owners, testing whether cat owners are more likely to use premium food, one-tailed test), what is Z-tabulated at alpha = 0.02?",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. For the one-tailed test of whether cat owners are more likely to use premium food, what is Z-tabulated at alpha = 0.02?",
     "options": [
       {
         "key": "A",
@@ -9373,7 +9373,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the pet food survey data, what is Z-calculated?",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. What is Z-calculated for the difference between the two proportions?",
     "options": [
       {
         "key": "A",
@@ -9405,7 +9405,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the pet food survey data, what is your conclusion at alpha = 0.02?",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. What is the conclusion of the one-tailed test at alpha = 0.02?",
     "options": [
       {
         "key": "A",
@@ -10045,7 +10045,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 29,15,21,22,20,25,27,19,24,21; Production(x): 15,23,22,19,19,18,21,24,17,16. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. Use Spearman's rank to correlate test fault and production time.",
     "options": [
       {
         "key": "A",
@@ -10077,7 +10077,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "Using the same test fault (y) / production (x) data for 10 men, what is the value of the summation of the square of the differences (d^2)?",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. What is the value of the summation of the square of the differences (d^2)?",
     "options": [
       {
         "key": "A",
@@ -10109,7 +10109,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Inferences Concerning Correlation Coefficient",
-    "question_text": "Comment on the relationship between the test fault and the time taken by the 10 men above (rho = -0.64).",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. Spearman's rho is -0.64. Comment on the relationship between test fault and time taken.",
     "options": [
       {
         "key": "A",
@@ -10205,7 +10205,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 10,9,8,7,6,5,4,3,2,1; Production(x): 10,8,7,9,6,5,3,4,2,1. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "question_text": "For 10 men, test fault (y) values are 10,9,8,7,6,5,4,3,2,1 and production time (x) values are 10,8,7,9,6,5,3,4,2,1 minutes. Use Spearman's rank to correlate test fault and production time.",
     "options": [
       {
         "key": "A",
@@ -10301,7 +10301,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "What is the summation of the values of the 6th and 7th positions in the ranking order among the fault values (y): 10,9,8,7,6,5,4,3,2,1?",
+    "question_text": "For fault values (y) 10,9,8,7,6,5,4,3,2,1, what is the summation of the values of the 6th and 7th positions in the ranking order?",
     "options": [
       {
         "key": "A",
@@ -10429,7 +10429,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Product Moment Correlation Coefficient",
-    "question_text": "Using the same price/item sold data (Price: 21,22,23,24,25; Item sold: 65,65,60,60,50), calculate the coefficient of correlation between the sampled sold items and the various prices.",
+    "question_text": "For prices 21,22,23,24,25 and corresponding items sold 65,65,60,60,50, calculate the coefficient of correlation between items sold and price.",
     "options": [
       {
         "key": "A",
@@ -10461,7 +10461,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Inferences Concerning Correlation Coefficient",
-    "question_text": "How can you interpret the relationship between price and item sold in the above table (r = -0.90)?",
+    "question_text": "For prices 21,22,23,24,25 and corresponding items sold 65,65,60,60,50, the correlation is r = -0.90. How should this relationship be interpreted?",
     "options": [
       {
         "key": "A",
@@ -10653,7 +10653,7 @@
     "course": "SSC202",
     "topic": "Time Series Analysis",
     "sub_topic": "Estimation of Trends: Moving Average Method",
-    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), compute the 5-year moving average for year 2003.",
+    "question_text": "For R.B. Gbemisola Builders, yearly completions for 1999-2006 were 12,11,19,17,19,18,20,23. Compute the 5-year moving average for 2003.",
     "options": [
       {
         "key": "A",
@@ -10685,7 +10685,7 @@
     "course": "SSC202",
     "topic": "Time Series Analysis",
     "sub_topic": "Estimation of Trends: Method of Least Squares",
-    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), estimate the trend equation for the data.",
+    "question_text": "For R.B. Gbemisola Builders, yearly completions for 1999-2006 were 12,11,19,17,19,18,20,23. Estimate the trend equation for the data.",
     "options": [
       {
         "key": "A",
@@ -11231,7 +11231,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Rural (population 400,000)/Urban (population 1,200,000) strata and a total sample of 960, determine the value of sample proportion 'D' (the sampling fraction).",
+    "question_text": "A population has Rural and Urban strata of 400,000 and 1,200,000 people respectively. From a total sample of 960, determine the sample proportion 'D' (the sampling fraction).",
     "options": [
       {
         "key": "A",
@@ -11519,7 +11519,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table, what is the total population from which a sample of 2,820 was drawn?",
+    "question_text": "A stratified population has Igbo 250,000, Hausa 1,200,000 and Yoruba 900,000 people; a sample of 2,820 was drawn. What is the total population?",
     "options": [
       {
         "key": "A",
@@ -11551,7 +11551,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table (sampling fraction 0.0012), determine the sample size 'C' for the Yoruba population.",
+    "question_text": "A stratified population has Igbo 250,000, Hausa 1,200,000 and Yoruba 900,000 people. Using a sampling fraction of 0.0012, determine the sample size 'C' for the Yoruba population.",
     "options": [
       {
         "key": "A",
@@ -11647,7 +11647,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table (2 rows, 4 columns), estimate the degree of freedom.",
+    "question_text": "A heart-disease age-by-type contingency table has 2 rows and 4 columns, total N = 147. Estimate the degree of freedom.",
     "options": [
       {
         "key": "A",
@@ -11679,7 +11679,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table, what is the expected frequency of the observed frequency 20 (Age 55-70, Coronary)?",
+    "question_text": "In a heart-disease age-by-type contingency table with N = 147, the Age 55-70 row total is 81, the Coronary column total is 27, and the observed Age 55-70/Coronary frequency is 20. What is its expected frequency?",
     "options": [
       {
         "key": "A",
@@ -11711,7 +11711,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table, estimate the coefficient of contingency.",
+    "question_text": "A heart-disease age-by-type contingency table has N = 147 and chi-square = 19.1. Estimate the coefficient of contingency.",
     "options": [
       {
         "key": "A",
@@ -11775,7 +11775,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, calculate e21, e22 and e23 respectively.",
+    "question_text": "In a 2-by-3 drug-trial contingency table, the expected frequencies for Drug A are e11=70, e12=280 and e13=350, while the Drug B row total is 300 and the corresponding expected frequencies are calculated from the same column proportions. Calculate e21, e22 and e23 respectively.",
     "options": [
       {
         "key": "A",
@@ -11807,7 +11807,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, obtain the chi-square tabulated value at the 5% level.",
+    "question_text": "A drug-trial contingency table has 2 treatment rows and 3 outcome columns. Obtain the chi-square tabulated value at the 5% level.",
     "options": [
       {
         "key": "A",
@@ -11839,7 +11839,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, obtain the chi-square calculated value.",
+    "question_text": "For a drug-trial contingency table whose expected frequencies are 70,280,350 in the Drug A row and 30,120,150 in the Drug B row, the observed-frequency calculation gives chi-square = 18.3071. Select the corresponding chi-square calculated value.",
     "options": [
       {
         "key": "A",
@@ -11903,7 +11903,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same Nissan/Toyota sales table, the chi-square calculated is",
+    "question_text": "In a Nissan/Toyota sales contingency table for regions A, B and C, the row totals are Nissan 230 and Toyota 170, the column B total is 128, and the grand total is 400. The chi-square calculation gives approximately 67.11. The chi-square calculated is",
     "options": [
       {
         "key": "A",
@@ -11935,7 +11935,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same Nissan/Toyota sales table, what is the degree of freedom and table value at 5% level of significance?",
+    "question_text": "A Nissan/Toyota sales contingency table has 2 vehicle rows and 3 region columns. What are the degree of freedom and chi-square table value at the 5% level of significance?",
     "options": [
       {
         "key": "A",
@@ -12095,7 +12095,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same librarian checkout data, calculate the t-calculated value.",
+    "question_text": "A librarian tests whether the mean checkout differs from 3.4 books. A sample of 23 students has mean 4.3 books and sample standard deviation 1.5 books. Calculate the t-calculated value.",
     "options": [
       {
         "key": "A",
@@ -12127,7 +12127,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same librarian checkout data, at the 0.01 level of significance (two-tailed, df=22), what is the tabulated value?",
+    "question_text": "A two-tailed t-test has significance level 0.01 and df = 22 for a librarian's checkout sample. What is the tabulated value?",
     "options": [
       {
         "key": "A",
@@ -12159,7 +12159,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same librarian checkout data, at the .01 level of significance, has the average checkout changed?",
+    "question_text": "A librarian tests whether a mean checkout of 4.3 books from 23 students (sample standard deviation 1.5) differs from the historical mean of 3.4 books at the 0.01 two-tailed significance level. Has the average checkout changed?",
     "options": [
       {
         "key": "A",
@@ -12223,7 +12223,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same soft drink bottle-filling data, what is the calculated value?",
+    "question_text": "Inspectors sampled 200 bottles advertised at 32 fluid ounces and found a mean of 31.7 ounces; the known population standard deviation is 1.5 ounces. What is the calculated z value for underfilling?",
     "options": [
       {
         "key": "A",
@@ -12255,7 +12255,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same soft drink bottle-filling data, at the 3 percent significance level, what can the inspectors conclude?",
+    "question_text": "Inspectors sampled 200 bottles advertised at 32 fluid ounces and found a mean of 31.7 ounces; the known population standard deviation is 1.5 ounces. At the 3 percent significance level, what can the inspectors conclude in a one-tailed underfilling test?",
     "options": [
       {
         "key": "A",
@@ -12319,7 +12319,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same letter/phone call collection-time data, what is the calculated value?",
+    "question_text": "For collection times, the letter group has mean 10.4286 days and the phone-call group has mean 6.1429 days; the pooled standard error is approximately 1.03 days and df = 12. What is the calculated t value?",
     "options": [
       {
         "key": "A",
@@ -12351,7 +12351,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same letter/phone call collection-time data, at alpha = 0.025, what can Allen conclude?",
+    "question_text": "For collection times, the letter group mean is 10.4286 days, the phone-call group mean is 6.1429 days, the calculated t value is 4.17, and the one-tailed critical value at alpha = 0.025 with df = 12 is 2.18. What can Allen conclude?",
     "options": [
       {
         "key": "A",
@@ -12415,7 +12415,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same swim time data, compute the test statistic.",
+    "question_text": "Jeffrey's historical mean swimming time is 16.43 seconds. A sample of 15 swims with new goggles has mean 16.00 seconds and standard deviation 0.8 seconds. Compute the test statistic for whether the goggles make him faster.",
     "options": [
       {
         "key": "A",
@@ -12583,7 +12583,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Price and Quantity Indices",
-    "question_text": "Using the same turkey meat data, compute the quantity relative index.",
+    "question_text": "For turkey meat, the 1995 base-year price and quantity are 1,000 and 10, while the 2000 price and quantity are 1,440 and 12. Compute the quantity relative index.",
     "options": [
       {
         "key": "A",
@@ -12617,7 +12617,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Value Index",
-    "question_text": "Using the same turkey meat data, compute the value relative index.",
+    "question_text": "For turkey meat, the 1995 base-year price and quantity are 1,000 and 10, while the 2000 price and quantity are 1,440 and 12. Compute the value relative index.",
     "options": [
       {
         "key": "A",
@@ -12651,7 +12651,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "Using a 5-component product data set (2009 base year), calculate the Laspeyre's price index.",
+    "question_text": "For a 5-component product dataset with 2009 as base year, the available aggregate products are sum(P1Q0)=192,400, sum(P0Q0)=120,755, sum(P1Q1)=190,000, and sum(P0Q1)=117,415. Calculate the Laspeyre's price index.",
     "options": [
       {
         "key": "A",
@@ -12685,7 +12685,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Paasche Index",
-    "question_text": "Using the same 5-component product data, calculate the Paasche's price index.",
+    "question_text": "For a 5-component product dataset with 2009 as base year, sum(P1Q0)=192,400, sum(P0Q0)=120,755, sum(P1Q1)=190,000, and sum(P0Q1)=117,415. Calculate the Paasche's price index.",
     "options": [
       {
         "key": "A",
@@ -12719,7 +12719,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Fisher's Ideal Index",
-    "question_text": "Using the same data, calculate the Fisher's Ideal price index.",
+    "question_text": "For a 5-component product dataset, the Laspeyres price index is 159.35 and the Paasche price index is 161.83. Calculate the Fisher's Ideal price index.",
     "options": [
       {
         "key": "A",
@@ -12753,7 +12753,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Using the same data, calculate the Edgeworth-Marshall price index.",
+    "question_text": "For a 5-component product dataset, the Edgeworth-Marshall calculation is sum(P1(Q0+Q1)) / sum(P0(Q0+Q1)) x 100 = 160.55. Select the Edgeworth-Marshall price index.",
     "options": [
       {
         "key": "A",
@@ -12787,7 +12787,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "Using the same data, calculate the Laspeyre's quantity index.",
+    "question_text": "For a 5-component product dataset, sum(Q1P0)=117,415 and sum(Q0P0)=120,755. Calculate the Laspeyre's quantity index as sum(Q1P0)/sum(Q0P0) x 100.",
     "options": [
       {
         "key": "A",

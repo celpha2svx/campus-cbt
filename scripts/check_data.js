@@ -11,6 +11,7 @@ function main() {
   const questions = loadJson(QUESTIONS_PATH);
   const errors = [];
   const seenIds = new Set();
+  const sharedContextPattern = /\b(?:using the same|same (?:table|data|commodities?|survey|heart disease|drug trial|turkey)|table (?:above|below)|above table|same R\.B\.|same price|same test fault|same rural|same igbo|same librarian|same soft drink|same letter|same swim)\b/i;
 
   if (!Array.isArray(questions)) {
     errors.push('questions.json is not an array');
@@ -27,6 +28,11 @@ function main() {
     if (!q.course) errors.push(`${q.id}: missing course`);
     if (!q.topic) errors.push(`${q.id}: missing topic`);
     if (!q.sub_topic) errors.push(`${q.id}: missing sub_topic`);
+    if (typeof q.question_text !== 'string' || q.question_text.length === 0) {
+      errors.push(`${q.id}: question_text missing or empty`);
+    } else if (sharedContextPattern.test(q.question_text)) {
+      errors.push(`${q.id}: question_text depends on shared or positional context`);
+    }
 
     if (!Array.isArray(q.options) || q.options.length !== 4) {
       errors.push(`${q.id}: expected exactly 4 options`);
