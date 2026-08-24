@@ -2,9 +2,22 @@ const fs = require('fs');
 const path = require('path');
 
 const QUESTIONS_PATH = path.join(__dirname, '..', 'src', 'data', 'questions.json');
+const QUESTION_JSON_DIRS = [
+  path.join(__dirname, '..', 'src', 'data'),
+  path.join(__dirname, '..', 'scripts'),
+  path.join(__dirname, '..', 'data'),
+];
 
 function loadJson(p) {
   return JSON.parse(fs.readFileSync(p, 'utf8'));
+}
+
+function findQuestionJsonFiles() {
+  return QUESTION_JSON_DIRS.flatMap((dir) =>
+    fs.readdirSync(dir)
+      .filter((name) => name.endsWith('.json'))
+      .map((name) => path.join(dir, name))
+  );
 }
 
 function main() {
@@ -80,6 +93,23 @@ function main() {
   if (errors.length > 0) {
     console.error('\nData errors:');
     for (const e of errors) console.error('  - ' + e);
+    process.exit(1);
+  }
+
+  const orphanedReferences = [];
+  for (const filePath of findQuestionJsonFiles()) {
+    const records = loadJson(filePath);
+    if (!Array.isArray(records)) continue;
+    for (const record of records) {
+      if (record && typeof record.question_text === 'string' && sharedContextPattern.test(record.question_text)) {
+        orphanedReferences.push(`${path.relative(path.join(__dirname, '..'), filePath)}: ${record.id}`);
+      }
+    }
+  }
+
+  if (orphanedReferences.length > 0) {
+    console.error('\nOrphaned question references:');
+    for (const reference of orphanedReferences) console.error(`  - ${reference}`);
     process.exit(1);
   }
 

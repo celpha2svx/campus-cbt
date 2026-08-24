@@ -9437,7 +9437,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "It is desired to test the effectiveness of an advertising campaign on the sale of a community's product. Daily sales before and after the campaign (in N'000) were recorded for 8 days. The average sales before and after are respectively equal to",
+    "question_text": "An advertising campaign's 8 paired daily sales observations have mean sales before and after the campaign of 52.188 and 54.950 thousand Naira respectively. The average sales before and after are respectively equal to",
     "options": [
       {
         "key": "A",
@@ -9469,7 +9469,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, the standard error of difference between the two means is",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, the mean paired difference (before - after) is -2.7625 thousand Naira, and the standard error of that mean difference is 2.3767. The standard error of difference between the two means is",
     "options": [
       {
         "key": "A",
@@ -9501,7 +9501,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, the mean difference is",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, and the standard error of the paired mean difference is 2.3767. The mean difference (before - after) is",
     "options": [
       {
         "key": "A",
@@ -9533,7 +9533,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "For the advertising campaign before/after sales data, what is the t-value from the table?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, the mean paired difference is -2.7625 thousand Naira, and the degrees of freedom are 7. What is the t-value from the table?",
     "options": [
       {
         "key": "A",
@@ -9565,7 +9565,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, what is the t-calculated?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the mean paired difference (before - after) is -2.7625 thousand Naira and its standard error is 2.3767. What is the t-calculated?",
     "options": [
       {
         "key": "A",
@@ -9597,7 +9597,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "For the advertising campaign before/after sales data, what is your conclusion?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the calculated t-value has magnitude 1.162 and the tabulated t-value has magnitude 1.761. What is your conclusion?",
     "options": [
       {
         "key": "A",
@@ -11615,7 +11615,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Out of 1,859 males examined to diagnose diseases of the heart in Los Angeles city civil service in 1949, 147 were found to have heart diseases, classified by age and type. Compute the chi-square calculated value.",
+    "question_text": "A heart-disease age-by-type table for 147 affected men has observed frequencies: Age group 1 = [7, 1, 5, 53] and Age 55-70 = [20, 12, 11, 38], with four disease-type columns. Compute the chi-square calculated value.",
     "options": [
       {
         "key": "A",
@@ -11743,7 +11743,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "A drug trial contingency table compares Drug A and Drug B patients across outcomes. Calculate e11, e12 and e13 respectively.",
+    "question_text": "In a drug-trial contingency table, Drug A has row total 700 and the three outcome-column totals are 100, 400 and 500, for grand total 1,000. Calculate the expected frequencies e11, e12 and e13 for Drug A respectively.",
     "options": [
       {
         "key": "A",
@@ -11871,7 +11871,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "A table compares Nissan and Toyota car sales across regions A, B, C. Calculate the expected value for the second row and second column (Toyota, B).",
+    "question_text": "In a Nissan/Toyota sales table for regions A, B and C, the Toyota row total is 170, the region-B column total is 128, and the grand total is 400. Calculate the expected value for the second row and second column (Toyota, B).",
     "options": [
       {
         "key": "A",
@@ -12287,7 +12287,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Allen Distributing Company hypothesizes that a phone call is more effective than a letter in speeding up collection of bank accounts. Two groups of accounts were contacted, one by each method. At alpha=0.025, what is the tabulated value?",
+    "question_text": "Allen Distributing Company compares two independent groups of accounts contacted by letter and phone call. With n1+n2-2 = 12 degrees of freedom, the one-tailed significance level is alpha=0.025. What is the tabulated t value?",
     "options": [
       {
         "key": "A",

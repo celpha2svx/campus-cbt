@@ -24,7 +24,7 @@
     "course": "SSC202",
     "topic": "Time Series Analysis",
     "sub_topic": "Estimation of Trends: Moving Average Method",
-    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), compute the 5-year moving average for year 2003.",
+    "question_text": "For R.B. Gbemisola Builders, yearly completions for 1999-2006 were 12,11,19,17,19,18,20,23. Compute the 5-year moving average for 2003.",
     "options": [
       { "key": "A", "text": "16.6" },
       { "key": "B", "text": "16.8" },
@@ -44,7 +44,7 @@
     "course": "SSC202",
     "topic": "Time Series Analysis",
     "sub_topic": "Estimation of Trends: Method of Least Squares",
-    "question_text": "Using the same R.B. Gbemisola Builders data (Year 1999-2006, Completions: 12,11,19,17,19,18,20,23), estimate the trend equation for the data.",
+    "question_text": "For R.B. Gbemisola Builders, yearly completions for 1999-2006 were 12,11,19,17,19,18,20,23. Estimate the trend equation for the data.",
     "options": [
       { "key": "A", "text": "y-hat = 17.4 + 0.72x" },
       { "key": "B", "text": "y-hat = 17.375 + 0.7202x" },

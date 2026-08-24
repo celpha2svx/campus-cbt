@@ -164,7 +164,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Rural (population 400,000)/Urban (population 1,200,000) strata and a total sample of 960, determine the value of sample proportion 'D' (the sampling fraction).",
+    "question_text": "A population has Rural and Urban strata of 400,000 and 1,200,000 people respectively. From a total sample of 960, determine the sample proportion 'D' (the sampling fraction).",
     "options": [
       { "key": "A", "text": "0.06" },
       { "key": "B", "text": "0.0006" },
@@ -344,7 +344,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table, what is the total population from which a sample of 2,820 was drawn?",
+    "question_text": "A stratified population has Igbo 250,000, Hausa 1,200,000 and Yoruba 900,000 people; a sample of 2,820 was drawn. What is the total population?",
     "options": [
       { "key": "A", "text": "250,000" },
       { "key": "B", "text": "2,100,000" },
@@ -364,7 +364,7 @@
     "course": "SSC202",
     "topic": "Introduction to Statistical Data Interpretation",
     "sub_topic": "Population, Sample, Statistics and Parameter",
-    "question_text": "Using the same Igbo (250,000)/Hausa (1,200,000)/Yoruba (900,000) strata table (sampling fraction 0.0012), determine the sample size 'C' for the Yoruba population.",
+    "question_text": "A stratified population has Igbo 250,000, Hausa 1,200,000 and Yoruba 900,000 people. Using a sampling fraction of 0.0012, determine the sample size 'C' for the Yoruba population.",
     "options": [
       { "key": "A", "text": "1080" },
       { "key": "B", "text": "1440" },

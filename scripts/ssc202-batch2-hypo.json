@@ -24,7 +24,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same pet food survey data (280 cat owners, 152 using premium; 190 dog owners, 81 using premium), what proportion of dog owners fed their dog with premium food?",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. What proportion of dog owners fed their dog with premium food?",
     "options": [
       { "key": "A", "text": "0.4263" },
       { "key": "B", "text": "0.42" },
@@ -44,7 +44,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same pet food survey data, the standard error of difference between the two proportions is",
+    "question_text": "A pet-food survey found 280 cat owners, of whom 152 used premium food, and 190 dog owners, of whom 81 used premium food. The standard error of difference between the two proportions is",
     "options": [
       { "key": "A", "text": "0.0471" },
       { "key": "B", "text": "0.05" },
@@ -124,7 +124,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "It is desired to test the effectiveness of an advertising campaign on the sale of a community's product. Daily sales before and after the campaign (in N'000) were recorded for 8 days. The average sales before and after are respectively equal to",
+    "question_text": "An advertising campaign's 8 paired daily sales observations have mean sales before and after the campaign of 52.188 and 54.950 thousand Naira respectively. The average sales before and after are respectively equal to",
     "options": [
       { "key": "A", "text": "52.2, 55.0" },
       { "key": "B", "text": "52, 54.9" },
@@ -144,7 +144,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, the standard error of difference between the two means is",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, the mean paired difference (before - after) is -2.7625 thousand Naira, and the standard error of that mean difference is 2.3767. The standard error of difference between the two means is",
     "options": [
       { "key": "A", "text": "2.3767" },
       { "key": "B", "text": "2.377" },
@@ -164,7 +164,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, the mean difference is",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, and the standard error of the paired mean difference is 2.3767. The mean difference (before - after) is",
     "options": [
       { "key": "A", "text": "-2.763" },
       { "key": "B", "text": "2.763" },
@@ -184,7 +184,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "For the advertising campaign before/after sales data, what is the t-value from the table?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the sample means are 52.188 and 54.950 thousand Naira, the mean paired difference is -2.7625 thousand Naira, and the degrees of freedom are 7. What is the t-value from the table?",
     "options": [
       { "key": "A", "text": "1.761" },
       { "key": "B", "text": "2.15" },
@@ -204,7 +204,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "For the advertising campaign before/after sales data, what is the t-calculated?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the mean paired difference (before - after) is -2.7625 thousand Naira and its standard error is 2.3767. What is the t-calculated?",
     "options": [
       { "key": "A", "text": "1.16" },
       { "key": "B", "text": "-1.162" },
@@ -224,7 +224,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "For the advertising campaign before/after sales data, what is your conclusion?",
+    "question_text": "For 8 paired daily sales observations before and after an advertising campaign, the calculated t-value has magnitude 1.162 and the tabulated t-value has magnitude 1.761. What is your conclusion?",
     "options": [
       { "key": "A", "text": "Reject H0, and conclude that the advertising campaign has been effective" },
       { "key": "B", "text": "Accept H0, and conclude that the advertising campaign has not been effective" },

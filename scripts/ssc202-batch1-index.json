@@ -64,7 +64,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Use the table below to answer questions 4-13, USE 1995 AS THE BASE YEAR UNLESS OTHERWISE STATED. Commodities A,B,C,D with 1995 (Price,Qty): A(40,60) B(56,60) C(40,60) D(37,60); 1996 (Price,Qty): A(59,90) B(53,90) C(42,90) D(45,90). The Marshall-Edgeworth Price index is",
+    "question_text": "For commodities A, B, C and D, the 1995 base-year price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Marshall-Edgeworth price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -84,7 +84,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "The Bowley's price index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Bowley's price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "The simple aggregate quantity index is (using the same 1995/1996 commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The simple aggregate quantity index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -124,7 +124,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "Using 1996 as the reference year, the simple aggregate price index is (same commodities table)",
+    "question_text": "For commodities A, B, C and D, the 1995 price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). Using 1996 as the reference year, the simple aggregate price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -144,7 +144,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "The Laspeyre's price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Laspeyre's price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -164,7 +164,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Paasche Index",
-    "question_text": "The Paasche's quantity index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Paasche's quantity index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -184,7 +184,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "The Laspeyre's quantity index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Laspeyre's quantity index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -204,7 +204,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Fisher's Ideal Index",
-    "question_text": "The Fisher's ideal price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Fisher's ideal price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -224,7 +224,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Marshall-Edgeworth Price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). The Marshall-Edgeworth price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },
@@ -244,7 +244,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Simple and Weighted Aggregate Indices",
-    "question_text": "Bowley's price index is (same commodities table, 1995 as base year)",
+    "question_text": "For commodities A, B, C and D, the 1995 (base-year) price and quantity pairs are A(40,60), B(56,60), C(40,60), D(37,60), and the 1996 price and quantity pairs are A(59,90), B(53,90), C(42,90), D(45,90). Bowley's price index is",
     "options": [
       { "key": "A", "text": "115.03" },
       { "key": "B", "text": "66.67" },

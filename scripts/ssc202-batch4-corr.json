@@ -4,7 +4,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 29,15,21,22,20,25,27,19,24,21; Production(x): 15,23,22,19,19,18,21,24,17,16. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. Use Spearman's rank to correlate test fault and production time.",
     "options": [
       { "key": "A", "text": "-0.69" },
       { "key": "B", "text": "0.64" },
@@ -24,7 +24,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "Using the same test fault (y) / production (x) data for 10 men, what is the value of the summation of the square of the differences (d^2)?",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. What is the value of the summation of the square of the differences (d^2)?",
     "options": [
       { "key": "A", "text": "275" },
       { "key": "B", "text": "270" },
@@ -44,7 +44,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Inferences Concerning Correlation Coefficient",
-    "question_text": "Comment on the relationship between the test fault and the time taken by the 10 men above (rho = -0.64).",
+    "question_text": "For 10 men, test fault (y) values are 29,15,21,22,20,25,27,19,24,21 and production time (x) values are 15,23,22,19,19,18,21,24,17,16 minutes. Spearman's rho is -0.64. Comment on the relationship between test fault and time taken.",
     "options": [
       { "key": "A", "text": "Negative but weak association" },
       { "key": "B", "text": "Positively strong association" },
@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Spearman Rank Correlation Coefficient",
-    "question_text": "The table below shows data for test fault (y) and the time taken (x) in minutes to produce each component in batches of 200 made by 10 men: Test fault(y): 10,9,8,7,6,5,4,3,2,1; Production(x): 10,8,7,9,6,5,3,4,2,1. Use Spearman's rank to correlate between the test fault and the time taken by the 10 men.",
+    "question_text": "For 10 men, test fault (y) values are 10,9,8,7,6,5,4,3,2,1 and production time (x) values are 10,8,7,9,6,5,3,4,2,1 minutes. Use Spearman's rank to correlate test fault and production time.",
     "options": [
       { "key": "A", "text": "-0.69" },
       { "key": "B", "text": "0.95" },
@@ -244,7 +244,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Product Moment Correlation Coefficient",
-    "question_text": "Using the same price/item sold data (Price: 21,22,23,24,25; Item sold: 65,65,60,60,50), calculate the coefficient of correlation between the sampled sold items and the various prices.",
+    "question_text": "For prices 21,22,23,24,25 and corresponding items sold 65,65,60,60,50, calculate the coefficient of correlation between items sold and price.",
     "options": [
       { "key": "A", "text": "0.25" },
       { "key": "B", "text": "-0.90" },
@@ -264,7 +264,7 @@
     "course": "SSC202",
     "topic": "Correlation Analysis",
     "sub_topic": "Inferences Concerning Correlation Coefficient",
-    "question_text": "How can you interpret the relationship between price and item sold in the above table (r = -0.90)?",
+    "question_text": "For prices 21,22,23,24,25 and corresponding items sold 65,65,60,60,50, the correlation is r = -0.90. How should this relationship be interpreted?",
     "options": [
       { "key": "A", "text": "A negative correlation" },
       { "key": "B", "text": "A strong positive correlation" },

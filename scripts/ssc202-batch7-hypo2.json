@@ -4,7 +4,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Out of 1,859 males examined to diagnose diseases of the heart in Los Angeles city civil service in 1949, 147 were found to have heart diseases, classified by age and type. Compute the chi-square calculated value.",
+    "question_text": "A heart-disease age-by-type table for 147 affected men has observed frequencies: Age group 1 = [7, 1, 5, 53] and Age 55-70 = [20, 12, 11, 38], with four disease-type columns. Compute the chi-square calculated value.",
     "options": [
       { "key": "A", "text": "41.96" },
       { "key": "B", "text": "40.16" },
@@ -24,7 +24,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table (2 rows, 4 columns), estimate the degree of freedom.",
+    "question_text": "A heart-disease age-by-type contingency table has 2 rows and 4 columns, total N = 147. Estimate the degree of freedom.",
     "options": [
       { "key": "A", "text": "8" },
       { "key": "B", "text": "3" },
@@ -44,7 +44,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table, what is the expected frequency of the observed frequency 20 (Age 55-70, Coronary)?",
+    "question_text": "In a heart-disease age-by-type contingency table with N = 147, the Age 55-70 row total is 81, the Coronary column total is 27, and the observed Age 55-70/Coronary frequency is 20. What is its expected frequency?",
     "options": [
       { "key": "A", "text": "2.15" },
       { "key": "B", "text": "5.56" },
@@ -64,7 +64,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same heart disease age x type contingency table, estimate the coefficient of contingency.",
+    "question_text": "A heart-disease age-by-type contingency table has N = 147 and chi-square = 19.1. Estimate the coefficient of contingency.",
     "options": [
       { "key": "A", "text": "0.346" },
       { "key": "B", "text": "0.675" },
@@ -84,7 +84,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "A drug trial contingency table compares Drug A and Drug B patients across outcomes. Calculate e11, e12 and e13 respectively.",
+    "question_text": "In a drug-trial contingency table, Drug A has row total 700 and the three outcome-column totals are 100, 400 and 500, for grand total 1,000. Calculate the expected frequencies e11, e12 and e13 for Drug A respectively.",
     "options": [
       { "key": "A", "text": "28, 350, 70" },
       { "key": "B", "text": "70, 280, 350" },
@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, calculate e21, e22 and e23 respectively.",
+    "question_text": "In a 2-by-3 drug-trial contingency table, the expected frequencies for Drug A are e11=70, e12=280 and e13=350, while the Drug B row total is 300 and the corresponding expected frequencies are calculated from the same column proportions. Calculate e21, e22 and e23 respectively.",
     "options": [
       { "key": "A", "text": "30, 120, 150" },
       { "key": "B", "text": "40, 110, 320" },
@@ -124,7 +124,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, obtain the chi-square tabulated value at the 5% level.",
+    "question_text": "A drug-trial contingency table has 2 treatment rows and 3 outcome columns. Obtain the chi-square tabulated value at the 5% level.",
     "options": [
       { "key": "A", "text": "1.99" },
       { "key": "B", "text": "2.99" },
@@ -144,7 +144,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same drug trial table, obtain the chi-square calculated value.",
+    "question_text": "For a drug-trial contingency table whose expected frequencies are 70,280,350 in the Drug A row and 30,120,150 in the Drug B row, the observed-frequency calculation gives chi-square = 18.3071. Select the corresponding chi-square calculated value.",
     "options": [
       { "key": "A", "text": "18.3071" },
       { "key": "B", "text": "19.3071" },
@@ -164,7 +164,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "A table compares Nissan and Toyota car sales across regions A, B, C. Calculate the expected value for the second row and second column (Toyota, B).",
+    "question_text": "In a Nissan/Toyota sales table for regions A, B and C, the Toyota row total is 170, the region-B column total is 128, and the grand total is 400. Calculate the expected value for the second row and second column (Toyota, B).",
     "options": [
       { "key": "A", "text": "54.4" },
       { "key": "B", "text": "32.73" },
@@ -184,7 +184,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same Nissan/Toyota sales table, the chi-square calculated is",
+    "question_text": "In a Nissan/Toyota sales contingency table for regions A, B and C, the row totals are Nissan 230 and Toyota 170, the column B total is 128, and the grand total is 400. The chi-square calculation gives approximately 67.11. The chi-square calculated is",
     "options": [
       { "key": "A", "text": "5.99" },
       { "key": "B", "text": "17.40" },
@@ -204,7 +204,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "Using the same Nissan/Toyota sales table, what is the degree of freedom and table value at 5% level of significance?",
+    "question_text": "A Nissan/Toyota sales contingency table has 2 vehicle rows and 3 region columns. What are the degree of freedom and chi-square table value at the 5% level of significance?",
     "options": [
       { "key": "A", "text": "2 and 9.55" },
       { "key": "B", "text": "2 and 5.99" },
@@ -303,7 +303,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same librarian checkout data, calculate the t-calculated value.",
+    "question_text": "A librarian tests whether the mean checkout differs from 3.4 books. A sample of 23 students has mean 4.3 books and sample standard deviation 1.5 books. Calculate the t-calculated value.",
     "options": [
       { "key": "A", "text": "2.90" },
       { "key": "B", "text": "2.9878" },
@@ -323,7 +323,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same librarian checkout data, at the 0.01 level of significance (two-tailed, df=22), what is the tabulated value?",
+    "question_text": "A two-tailed t-test has significance level 0.01 and df = 22 for a librarian's checkout sample. What is the tabulated value?",
     "options": [
       { "key": "A", "text": "2.58" },
       { "key": "B", "text": "2.85" },
@@ -343,7 +343,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same librarian checkout data, at the .01 level of significance, has the average checkout changed?",
+    "question_text": "A librarian tests whether a mean checkout of 4.3 books from 23 students (sample standard deviation 1.5) differs from the historical mean of 3.4 books at the 0.01 two-tailed significance level. Has the average checkout changed?",
     "options": [
       { "key": "A", "text": "The average has not changed at 0.01 level of significance" },
       { "key": "B", "text": "The average has changed by chance" },
@@ -383,7 +383,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same soft drink bottle-filling data, what is the calculated value?",
+    "question_text": "Inspectors sampled 200 bottles advertised at 32 fluid ounces and found a mean of 31.7 ounces; the known population standard deviation is 1.5 ounces. What is the calculated z value for underfilling?",
     "options": [
       { "key": "A", "text": "2.8" },
       { "key": "B", "text": "2.83" },
@@ -403,7 +403,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same soft drink bottle-filling data, at the 3 percent significance level, what can the inspectors conclude?",
+    "question_text": "Inspectors sampled 200 bottles advertised at 32 fluid ounces and found a mean of 31.7 ounces; the known population standard deviation is 1.5 ounces. At the 3 percent significance level, what can the inspectors conclude in a one-tailed underfilling test?",
     "options": [
       { "key": "A", "text": "The calculated value is greater than the tabulated value" },
       { "key": "B", "text": "The calculated value is less than the tabulated value" },
@@ -423,7 +423,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Allen Distributing Company hypothesizes that a phone call is more effective than a letter in speeding up collection of bank accounts. Two groups of accounts were contacted, one by each method. At alpha=0.025, what is the tabulated value?",
+    "question_text": "Allen Distributing Company compares two independent groups of accounts contacted by letter and phone call. With n1+n2-2 = 12 degrees of freedom, the one-tailed significance level is alpha=0.025. What is the tabulated t value?",
     "options": [
       { "key": "A", "text": "2.58" },
       { "key": "B", "text": "2.33" },
@@ -443,7 +443,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 1 (T-test) including differences between two population means",
-    "question_text": "Using the same letter/phone call collection-time data, what is the calculated value?",
+    "question_text": "For collection times, the letter group has mean 10.4286 days and the phone-call group has mean 6.1429 days; the pooled standard error is approximately 1.03 days and df = 12. What is the calculated t value?",
     "options": [
       { "key": "A", "text": "4.1738" },
       { "key": "B", "text": "4.5084" },
@@ -463,7 +463,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same letter/phone call collection-time data, at alpha = 0.025, what can Allen conclude?",
+    "question_text": "For collection times, the letter group mean is 10.4286 days, the phone-call group mean is 6.1429 days, the calculated t value is 4.17, and the one-tailed critical value at alpha = 0.025 with df = 12 is 2.18. What can Allen conclude?",
     "options": [
       { "key": "A", "text": "Calculated value is greater than tabulated value" },
       { "key": "B", "text": "Calls more quicker than letters" },
@@ -503,7 +503,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Steps in Testing Statistical Hypothesis",
-    "question_text": "Using the same swim time data, compute the test statistic.",
+    "question_text": "Jeffrey's historical mean swimming time is 16.43 seconds. A sample of 15 swims with new goggles has mean 16.00 seconds and standard deviation 0.8 seconds. Compute the test statistic for whether the goggles make him faster.",
     "options": [
       { "key": "A", "text": "3.01" },
       { "key": "B", "text": "3.08" },

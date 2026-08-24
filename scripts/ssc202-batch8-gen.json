@@ -84,7 +84,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Price and Quantity Indices",
-    "question_text": "Using the same turkey meat data, compute the quantity relative index.",
+    "question_text": "For turkey meat, the 1995 base-year price and quantity are 1,000 and 10, while the 2000 price and quantity are 1,440 and 12. Compute the quantity relative index.",
     "options": [
       { "key": "A", "text": "144%" },
       { "key": "B", "text": "120%" },
@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Value Index",
-    "question_text": "Using the same turkey meat data, compute the value relative index.",
+    "question_text": "For turkey meat, the 1995 base-year price and quantity are 1,000 and 10, while the 2000 price and quantity are 1,440 and 12. Compute the value relative index.",
     "options": [
       { "key": "A", "text": "144%" },
       { "key": "B", "text": "120%" },
@@ -144,7 +144,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Paasche Index",
-    "question_text": "Using the same 5-component product data, calculate the Paasche's price index.",
+    "question_text": "For a 5-component product dataset with 2009 as base year, sum(P1Q0)=192,400, sum(P0Q0)=120,755, sum(P1Q1)=190,000, and sum(P0Q1)=117,415. Calculate the Paasche's price index.",
     "options": [
       { "key": "A", "text": "159.35" },
       { "key": "B", "text": "161.83" },
@@ -164,7 +164,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Fisher's Ideal Index",
-    "question_text": "Using the same data, calculate the Fisher's Ideal price index.",
+    "question_text": "For a 5-component product dataset, the Laspeyres price index is 159.35 and the Paasche price index is 161.83. Calculate the Fisher's Ideal price index.",
     "options": [
       { "key": "A", "text": "159.35" },
       { "key": "B", "text": "161.83" },
@@ -184,7 +184,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Marshall Edgeworth Index",
-    "question_text": "Using the same data, calculate the Edgeworth-Marshall price index.",
+    "question_text": "For a 5-component product dataset, the Edgeworth-Marshall calculation is sum(P1(Q0+Q1)) / sum(P0(Q0+Q1)) x 100 = 160.55. Select the Edgeworth-Marshall price index.",
     "options": [
       { "key": "A", "text": "159.35" },
       { "key": "B", "text": "161.83" },
@@ -204,7 +204,7 @@
     "course": "SSC202",
     "topic": "Index Numbers",
     "sub_topic": "Laspeyre's Index",
-    "question_text": "Using the same data, calculate the Laspeyre's quantity index.",
+    "question_text": "For a 5-component product dataset, sum(Q1P0)=117,415 and sum(Q0P0)=120,755. Calculate the Laspeyre's quantity index as sum(Q1P0)/sum(Q0P0) x 100.",
     "options": [
       { "key": "A", "text": "97.23" },
       { "key": "B", "text": "99.29" },
