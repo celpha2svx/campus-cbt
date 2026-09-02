@@ -1,6 +1,7 @@
 [
   {
     "id": "soc-202-001",
+    "topic": "Social Problems and Welfare",
     "course": "SOC202",
     "topic": "Social Problems and Welfare",
     "sub_topic": "Social Welfare",
@@ -24,6 +25,7 @@
       }
     ],
     "correct_option": "A",
+        "topic": "Uses of Sociology & Careers",
     "explanation": "Welfare is defined as the state of happiness, comfort, and freedom from want. In a pure sociological sense, welfare is a 'community-action' approach to solving social problems, but fundamentally it refers to the general state of well-being and happiness.",
     "difficulty": "easy",
     "source": "2015/2016 Past Question",
@@ -9661,7 +9663,7 @@
     "course": "SSC202",
     "topic": "Regression Analysis",
     "sub_topic": "Bivariate Regression Analysis",
-    "question_text": "Using the photosynthesis rate regression equation, estimate the photosynthesis rate when the level of irradiance is 5.2.",
+    "question_text": "In a laboratory-based investigation of the photosynthesis rate (y) of the plant Larrea tridenta, the estimated regression equation of photosynthesis rate on irradiance is y = -2.78 + 11.47x. Estimate the photosynthesis rate when the level of irradiance is 5.2.",
     "options": [
       {
         "key": "A",
@@ -9789,7 +9791,7 @@
     "course": "SSC202",
     "topic": "Regression Analysis",
     "sub_topic": "Bivariate Regression Analysis",
-    "question_text": "Given that the yield is a function of water applied (soya bean data), what will be the yield if the amount of water applied is 60?",
+    "question_text": "On an experimental farm, the amount of water applied (inches) and the yield of soya beans (tons/acre) were: Water Applied: 12, 18, 24, 30, 36, 42, 48; Yield: 5.27, 5.68, 6.25, 7.21, 8.03, 8.71, 8.42. The estimated linear regression equation of yield on water applied is y = 3.8684 + 0.1071x. What will be the yield if the amount of water applied is 60?",
     "options": [
       {
         "key": "A",
@@ -11775,7 +11777,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "In a 2-by-3 drug-trial contingency table, the expected frequencies for Drug A are e11=70, e12=280 and e13=350, while the Drug B row total is 300 and the corresponding expected frequencies are calculated from the same column proportions. Calculate e21, e22 and e23 respectively.",
+    "question_text": "In a 2-by-3 drug-trial contingency table, Drug A has row total 700, Drug B has row total 300, the three outcome-column totals are 100, 400 and 500, and the grand total is 1,000. Calculate the expected frequencies e21, e22 and e23 for Drug B respectively.",
     "options": [
       {
         "key": "A",
@@ -12985,5 +12987,485 @@
     "tags": [
       "generated"
     ]
+  },
+  {
+    "id": "ssc-202-135",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Descriptive and Inferential statistics",
+    "question_text": "Statistics that summarizes a data set without using it to learn about a wider population is called",
+    "options": [
+      { "key": "A", "text": "inferential statistics" },
+      { "key": "B", "text": "descriptive statistics" },
+      { "key": "C", "text": "qualitative analysis" },
+      { "key": "D", "text": "experimental statistics" }
+    ],
+    "correct_option": "B",
+    "explanation": "Descriptive statistics summarizes, compares, and presents the characteristics of the data collected.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "descriptive-statistics"]
+  },
+  {
+    "id": "ssc-202-136",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which of the following is a discrete quantitative variable?",
+    "options": [
+      { "key": "A", "text": "height of a student" },
+      { "key": "B", "text": "weight of a student" },
+      { "key": "C", "text": "number of books sold" },
+      { "key": "D", "text": "price of a book" }
+    ],
+    "correct_option": "C",
+    "explanation": "The number of books sold is counted in whole numbers, making it a discrete quantitative variable.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "data-types"]
+  },
+  {
+    "id": "ssc-202-137",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Data collected directly from respondents by an investigator for an initial investigation are called",
+    "options": [
+      { "key": "A", "text": "secondary data" },
+      { "key": "B", "text": "primary data" },
+      { "key": "C", "text": "internal data" },
+      { "key": "D", "text": "archived data" }
+    ],
+    "correct_option": "B",
+    "explanation": "Primary data originate directly from respondents or the field for the investigation at hand.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "data-sources"]
+  },
+  {
+    "id": "ssc-202-138",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "Which of the following is an example of an internal source of data?",
+    "options": [
+      { "key": "A", "text": "a government census report" },
+      { "key": "B", "text": "a published magazine" },
+      { "key": "C", "text": "an organization's sales receipt" },
+      { "key": "D", "text": "a research bureau publication" }
+    ],
+    "correct_option": "C",
+    "explanation": "Internal data are collected within an organization; sales receipts are an example.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "data-sources"]
+  },
+  {
+    "id": "ssc-202-139",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Sources of Data: Primary and Secondary Sources",
+    "question_text": "A complete list of all members of a population from which a sample is selected is called the",
+    "options": [
+      { "key": "A", "text": "sampling frame" },
+      { "key": "B", "text": "sample statistic" },
+      { "key": "C", "text": "questionnaire" },
+      { "key": "D", "text": "population parameter" }
+    ],
+    "correct_option": "A",
+    "explanation": "A sampling frame identifies and lists the population elements available for selection.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "sampling"]
+  },
+  {
+    "id": "ssc-202-140",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "Quantitative and Qualitative Data",
+    "question_text": "Which scale classifies observations into categories without permitting ranking?",
+    "options": [
+      { "key": "A", "text": "ratio scale" },
+      { "key": "B", "text": "interval scale" },
+      { "key": "C", "text": "ordinal scale" },
+      { "key": "D", "text": "nominal scale" }
+    ],
+    "correct_option": "D",
+    "explanation": "Nominal data are classified by category and have no inherent order.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "measurement-scales"]
+  },
+  {
+    "id": "ssc-202-141",
+    "course": "SSC202",
+    "topic": "Introduction to Statistical Data Interpretation",
+    "sub_topic": "What is Statistics, Data and Data types",
+    "question_text": "A percentage is best described as a fraction expressed in",
+    "options": [
+      { "key": "A", "text": "tenths" },
+      { "key": "B", "text": "hundredths" },
+      { "key": "C", "text": "thousandths" },
+      { "key": "D", "text": "whole numbers only" }
+    ],
+    "correct_option": "B",
+    "explanation": "A percentage expresses a fraction as a particular number of hundredths.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "percentages"]
+  },
+  {
+    "id": "ssc-202-142",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Research Methods",
+    "question_text": "According to the supplied course material, methodology is primarily concerned with the",
+    "options": [
+      { "key": "A", "text": "philosophical evaluation of investigative techniques" },
+      { "key": "B", "text": "calculation of population totals" },
+      { "key": "C", "text": "arrangement of data in alphabetical order" },
+      { "key": "D", "text": "replacement of theory with opinion" }
+    ],
+    "correct_option": "A",
+    "explanation": "Methodology evaluates investigative techniques philosophically and conceptually within a discipline.",
+    "difficulty": "medium",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "methodology"]
+  },
+  {
+    "id": "ssc-202-143",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Questionnaire Method",
+    "question_text": "A questionnaire in which respondents choose from supplied alternative answers contains mainly",
+    "options": [
+      { "key": "A", "text": "open-ended questions" },
+      { "key": "B", "text": "uncoded questions" },
+      { "key": "C", "text": "close-ended questions" },
+      { "key": "D", "text": "leading observations" }
+    ],
+    "correct_option": "C",
+    "explanation": "Close-ended or coded questions provide alternative answers from which respondents select.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "questionnaire"]
+  },
+  {
+    "id": "ssc-202-144",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Questionnaire Method",
+    "question_text": "Which quality is essential when drafting a questionnaire?",
+    "options": [
+      { "key": "A", "text": "It should be ambiguous" },
+      { "key": "B", "text": "It should be unnecessarily lengthy" },
+      { "key": "C", "text": "It should use unclear language" },
+      { "key": "D", "text": "It should avoid leading questions" }
+    ],
+    "correct_option": "D",
+    "explanation": "A good questionnaire should be clear, reasonably concise, well structured, and free from leading questions.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "questionnaire"]
+  },
+  {
+    "id": "ssc-202-145",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation Method",
+    "question_text": "Observation is controlled when the issues to be observed are",
+    "options": [
+      { "key": "A", "text": "predetermined by rules and procedures" },
+      { "key": "B", "text": "left entirely to chance" },
+      { "key": "C", "text": "recorded only after the study" },
+      { "key": "D", "text": "determined by the respondents" }
+    ],
+    "correct_option": "A",
+    "explanation": "Controlled observation uses predetermined rules and procedures to guide what is observed.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "observation"]
+  },
+  {
+    "id": "ssc-202-146",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation Method",
+    "question_text": "An observer who takes an active role in the behaviour being studied is using",
+    "options": [
+      { "key": "A", "text": "non-participant observation" },
+      { "key": "B", "text": "participant observation" },
+      { "key": "C", "text": "uncontrolled measurement" },
+      { "key": "D", "text": "documentary analysis" }
+    ],
+    "correct_option": "B",
+    "explanation": "Participant observation involves the observer taking an active role in the behaviour under study.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "observation"]
+  },
+  {
+    "id": "ssc-202-147",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Types of Research",
+    "question_text": "Research conducted in the true context of the behaviour under study is called",
+    "options": [
+      { "key": "A", "text": "laboratory research" },
+      { "key": "B", "text": "field research" },
+      { "key": "C", "text": "historical research" },
+      { "key": "D", "text": "archival coding" }
+    ],
+    "correct_option": "B",
+    "explanation": "Field research takes place in the real-life context where the behaviour occurs.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "fieldwork"]
+  },
+  {
+    "id": "ssc-202-148",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other Research Methods",
+    "question_text": "A research method involving focused discussion among selected participants is called",
+    "options": [
+      { "key": "A", "text": "focus group" },
+      { "key": "B", "text": "census survey" },
+      { "key": "C", "text": "content coding" },
+      { "key": "D", "text": "simple observation" }
+    ],
+    "correct_option": "A",
+    "explanation": "A focus group uses a selected group to discuss a specific research issue.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "focus-group"]
+  },
+  {
+    "id": "ssc-202-149",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Research Concepts",
+    "question_text": "The repetition of a study or experiment to check its accuracy is known as",
+    "options": [
+      { "key": "A", "text": "quantification" },
+      { "key": "B", "text": "replication" },
+      { "key": "C", "text": "tabulation" },
+      { "key": "D", "text": "operationalization" }
+    ],
+    "correct_option": "B",
+    "explanation": "Replication is the repetition of a basic study or experiment to check accuracy or estimate experimental error.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "replication"]
+  },
+  {
+    "id": "ssc-202-150",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Research Concepts",
+    "question_text": "The use of multiple research methods to produce more reliable empirical data is called",
+    "options": [
+      { "key": "A", "text": "triangulation" },
+      { "key": "B", "text": "ethnocentrism" },
+      { "key": "C", "text": "deduction" },
+      { "key": "D", "text": "classification" }
+    ],
+    "correct_option": "A",
+    "explanation": "Triangulation combines multiple research methods rather than relying on one method in isolation.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "triangulation"]
+  },
+  {
+    "id": "ssc-202-151",
+    "course": "SSC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Positivism and Interpretive Method",
+    "question_text": "The sociological approach associated with Auguste Comte and the scientific method is",
+    "options": [
+      { "key": "A", "text": "phenomenology" },
+      { "key": "B", "text": "positivism" },
+      { "key": "C", "text": "ethnomethodology" },
+      { "key": "D", "text": "social exchange theory" }
+    ],
+    "correct_option": "B",
+    "explanation": "The supplied material associates positivism or the scientific method with Auguste Comte.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "positivism"]
+  },
+  {
+    "id": "ssc-202-152",
+    "course": "SSC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Positivism and Interpretive Method",
+    "question_text": "Max Weber used the term verstehen to refer to",
+    "options": [
+      { "key": "A", "text": "statistical generalization" },
+      { "key": "B", "text": "interpretative understanding" },
+      { "key": "C", "text": "experimental control" },
+      { "key": "D", "text": "population enumeration" }
+    ],
+    "correct_option": "B",
+    "explanation": "Verstehen means interpretative understanding of human behaviour from the actor's perspective.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "verstehen"]
+  },
+  {
+    "id": "ssc-202-153",
+    "course": "SSC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Micro and Macro Sociology",
+    "question_text": "The study of society as a whole and broad-scale social processes is called",
+    "options": [
+      { "key": "A", "text": "micro-sociology" },
+      { "key": "B", "text": "macro-sociology" },
+      { "key": "C", "text": "participant sociology" },
+      { "key": "D", "text": "case sociology" }
+    ],
+    "correct_option": "B",
+    "explanation": "Macro-sociology studies society as a whole and examines broad-scale structures and processes.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "macro-sociology"]
+  },
+  {
+    "id": "ssc-202-154",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Functionalism and Structural Functionalism",
+    "question_text": "Structural functionalism views society primarily as",
+    "options": [
+      { "key": "A", "text": "a system of interrelated parts" },
+      { "key": "B", "text": "a collection of unrelated individuals" },
+      { "key": "C", "text": "a permanent state of revolution" },
+      { "key": "D", "text": "a product of individual intuition only" }
+    ],
+    "correct_option": "A",
+    "explanation": "Structural functionalism conceives society as a system whose interdependent parts contribute to its overall functioning.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "functionalism"]
+  },
+  {
+    "id": "ssc-202-155",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Conflict Theory",
+    "question_text": "Conflict theorists emphasize competition for scarce resources such as",
+    "options": [
+      { "key": "A", "text": "power, wealth and prestige" },
+      { "key": "B", "text": "weather, seasons and rainfall" },
+      { "key": "C", "text": "symbols, language and grammar only" },
+      { "key": "D", "text": "age, height and weight only" }
+    ],
+    "correct_option": "A",
+    "explanation": "The conflict perspective identifies power, wealth, and prestige as important scarce resources over which groups compete.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "conflict-theory"]
+  },
+  {
+    "id": "ssc-202-156",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Symbolic Interactionism",
+    "question_text": "Symbolic interactionism gives particular emphasis to",
+    "options": [
+      { "key": "A", "text": "symbols and language in human interaction" },
+      { "key": "B", "text": "biological evolution only" },
+      { "key": "C", "text": "national income accounting" },
+      { "key": "D", "text": "the calculation of sampling error" }
+    ],
+    "correct_option": "A",
+    "explanation": "Symbolic interactionism examines how people use symbols and language to define themselves, others, and social situations.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "symbolic-interactionism"]
+  },
+  {
+    "id": "ssc-202-157",
+    "course": "SSC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Nature of Social Problems",
+    "question_text": "A social problem is a condition that causes public friction or private misery and calls for",
+    "options": [
+      { "key": "A", "text": "collective action to solve it" },
+      { "key": "B", "text": "private silence" },
+      { "key": "C", "text": "the rejection of research" },
+      { "key": "D", "text": "mathematical proof only" }
+    ],
+    "correct_option": "A",
+    "explanation": "The material defines a social problem as undesirable social behaviour or conditions requiring collective action.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "social-problems"]
+  },
+  {
+    "id": "ssc-202-158",
+    "course": "SSC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Uses and Value of Sociology",
+    "question_text": "One scientific value of studying Sociology is that it helps replace ethnocentrism with an appreciation of",
+    "options": [
+      { "key": "A", "text": "cultural diversity" },
+      { "key": "B", "text": "social isolation" },
+      { "key": "C", "text": "uncritical speculation" },
+      { "key": "D", "text": "political uniformity" }
+    ],
+    "correct_option": "A",
+    "explanation": "The material states that Sociology encourages appreciation of cultural diversity and heterogeneity rather than ethnocentrism.",
+    "difficulty": "easy",
+    "source": "Generated from SSC202 supplied material",
+    "year": "N/A",
+    "is_verified": true,
+    "tags": ["generated", "uses-of-sociology"]
   }
 ]

@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Hypotheses Testing",
     "sub_topic": "Small Sample Test 2 (Chi-square Test) including contingency coefficient",
-    "question_text": "In a 2-by-3 drug-trial contingency table, the expected frequencies for Drug A are e11=70, e12=280 and e13=350, while the Drug B row total is 300 and the corresponding expected frequencies are calculated from the same column proportions. Calculate e21, e22 and e23 respectively.",
+    "question_text": "In a 2-by-3 drug-trial contingency table, Drug A has row total 700, Drug B has row total 300, the three outcome-column totals are 100, 400 and 500, and the grand total is 1,000. Calculate the expected frequencies e21, e22 and e23 for Drug B respectively.",
     "options": [
       { "key": "A", "text": "30, 120, 150" },
       { "key": "B", "text": "40, 110, 320" },

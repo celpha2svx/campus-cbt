@@ -24,7 +24,7 @@
     "course": "SSC202",
     "topic": "Regression Analysis",
     "sub_topic": "Bivariate Regression Analysis",
-    "question_text": "Using the photosynthesis rate regression equation, estimate the photosynthesis rate when the level of irradiance is 5.2.",
+    "question_text": "In a laboratory-based investigation of the photosynthesis rate (y) of the plant Larrea tridenta, the estimated regression equation of photosynthesis rate on irradiance is y = -2.78 + 11.47x. Estimate the photosynthesis rate when the level of irradiance is 5.2.",
     "options": [
       { "key": "A", "text": "50.2" },
       { "key": "B", "text": "69.3" },
@@ -104,7 +104,7 @@
     "course": "SSC202",
     "topic": "Regression Analysis",
     "sub_topic": "Bivariate Regression Analysis",
-    "question_text": "Given that the yield is a function of water applied (soya bean data), what will be the yield if the amount of water applied is 60?",
+    "question_text": "On an experimental farm, the amount of water applied (inches) and the yield of soya beans (tons/acre) were: Water Applied: 12, 18, 24, 30, 36, 42, 48; Yield: 5.27, 5.68, 6.25, 7.21, 8.03, 8.71, 8.42. The estimated linear regression equation of yield on water applied is y = 3.8684 + 0.1071x. What will be the yield if the amount of water applied is 60?",
     "options": [
       { "key": "A", "text": "11.2931" },
       { "key": "B", "text": "10.2944" },

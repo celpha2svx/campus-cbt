@@ -24,7 +24,7 @@ function main() {
   const questions = loadJson(QUESTIONS_PATH);
   const errors = [];
   const seenIds = new Set();
-  const sharedContextPattern = /\b(?:using the same|same (?:table|data|commodities?|survey|heart disease|drug trial|turkey)|table (?:above|below)|above table|same R\.B\.|same price|same test fault|same rural|same igbo|same librarian|same soft drink|same letter|same swim)\b/i;
+  const sharedContextPattern = /\b(?:same as (?:above|before|previous)|using the same|same (?:table|data|commodities?|survey|heart disease|drug trial|turkey|column proportions)|(?:from|as in|see) the (?:previous|preceding|above) (?:question|table|data)|table (?:above|below)|above table|same R\.B\.|same price|same test fault|same rural|same igbo|same librarian|same soft drink|same letter|same swim)\b/i;
 
   if (!Array.isArray(questions)) {
     errors.push('questions.json is not an array');
