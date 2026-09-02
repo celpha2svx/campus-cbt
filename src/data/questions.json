@@ -9459,12 +9459,12 @@
       }
     ],
     "correct_option": "D",
-    "explanation": "Full-precision means of the before/after sample columns.",
+    "explanation": "The question directly gives the sample means: 52.188 thousand Naira before the campaign and 54.950 thousand Naira after it.",
     "difficulty": "medium",
     "source": "SSC202 PQ2",
     "year": "unknown",
-    "is_verified": false,
-    "tags": []
+    "is_verified": true,
+    "tags": ["verified"]
   },
   {
     "id": "ssc-202-026",
@@ -9491,12 +9491,12 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "Standard error of the paired-difference mean.",
+    "explanation": "For a paired-sample test, the standard error of the difference between the two means is the standard error of the paired mean difference, given here as 2.3767.",
     "difficulty": "hard",
     "source": "SSC202 PQ2",
     "year": "unknown",
-    "is_verified": false,
-    "tags": []
+    "is_verified": true,
+    "tags": ["verified", "paired-sample"]
   },
   {
     "id": "ssc-202-027",
@@ -9555,12 +9555,12 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "Critical t from the standard t-table for the corresponding df.",
+    "explanation": "This item does not state the significance level or whether the test is one- or two-tailed. A t-table value cannot be selected uniquely from df = 7 alone, so the item remains under review.",
     "difficulty": "medium",
     "source": "SSC202 PQ2",
     "year": "unknown",
     "is_verified": false,
-    "tags": []
+    "tags": ["review"]
   },
   {
     "id": "ssc-202-029",
@@ -9779,12 +9779,12 @@
       }
     ],
     "correct_option": "B",
-    "explanation": "Confirmed by the paper's marked answer and the next question (yield at x=60 = 10.2944).",
+    "explanation": "The listed observations produce the least-squares line y = 3.9939 + 0.1029x, which does not match any option. The listed answer y = 3.8684 + 0.1071x appears to come from inconsistent source data, so this item remains under review.",
     "difficulty": "hard",
     "source": "SSC202 PQ2",
     "year": "unknown",
     "is_verified": false,
-    "tags": []
+    "tags": ["review", "source-data-mismatch"]
   },
   {
     "id": "ssc-202-036",
@@ -10899,7 +10899,7 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "Annual data (one observation per year) cannot show within-year seasonal variation, only secular trend and cyclical fluctuation. The paper's expected answer is the secular-trend-only option; this item is flagged for review.",
+    "explanation": "Annual observations cannot show within-year seasonal variation, but they can contain secular trend and cyclical fluctuation. Because the options omit a combined trend-and-cycle choice, the paper's expected answer A is ambiguous and this item remains under review.",
     "difficulty": "medium",
     "source": "SSC202 PQ2",
     "year": "unknown",
@@ -11765,12 +11765,12 @@
       }
     ],
     "correct_option": "B",
-    "explanation": "Expected values are e11=70, e12=280, e13=350 (row total 700 x column proportion). Option B is the closest match; the scan appears to have dropped a digit in one of the printed numbers.",
+    "explanation": "Expected frequency = row total x column total / grand total. For Drug A: 700x100/1000 = 70, 700x400/1000 = 280, and 700x500/1000 = 350, giving option B.",
     "difficulty": "hard",
     "source": "SSC202 PQ2",
     "year": "unknown",
-    "is_verified": false,
-    "tags": []
+    "is_verified": true,
+    "tags": ["verified", "chi-square"]
   },
   {
     "id": "ssc-202-098",
@@ -11797,12 +11797,12 @@
       }
     ],
     "correct_option": "A",
-    "explanation": "Expected values are e21=30, e22=120, e23=150 (row total 300 x column proportion).",
+    "explanation": "Expected frequency = row total x column total / grand total. For Drug B: 300x100/1000 = 30, 300x400/1000 = 120, and 300x500/1000 = 150, giving option A.",
     "difficulty": "hard",
     "source": "SSC202 PQ2",
     "year": "unknown",
-    "is_verified": false,
-    "tags": []
+    "is_verified": true,
+    "tags": ["verified", "chi-square"]
   },
   {
     "id": "ssc-202-099",
