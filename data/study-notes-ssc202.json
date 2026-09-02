@@ -345,5 +345,122 @@
     "title": "Seasonal Variation (Simple Methods)",
     "content": "Simple methods to estimate seasonal variation:\n\n1. Simple average method: for each season, compute the average of its values over all years. Express each seasonal average as a percentage of the overall (grand) average — this gives the seasonal index.\n\n2. Ratio-to-trend method: divide each actual value by the corresponding trend value (from the fitted line) to get a percentage. Average the percentages for the same season across years.\n\n3. Ratio-to-moving-average method: divide each actual value by the centred moving average. The averages of these ratios for each season give the seasonal index.\n\nThe seasonal indices for a complete cycle should sum to 400 (quarterly), 1200 (monthly) or 100 × k for k periods.",
     "tags": ["time-series", "seasonal"]
+  },
+  {
+    "id": "sn-ssc202-methods-research",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Research Methods",
+    "title": "Research Methods and Methodology",
+    "content": "Research methods are techniques used to study questions of interest, including experiments, surveys, observation, and analysis of documents or historical data. Methodology is the philosophical evaluation of investigative techniques within a discipline.",
+    "tags": ["research-methods", "methodology"]
+  },
+  {
+    "id": "sn-ssc202-methods-questionnaire",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Questionnaire Method",
+    "title": "Questionnaire Method",
+    "content": "A questionnaire is a set of logically arranged questions completed by respondents. Close-ended questions provide alternative answers, while open-ended questions allow respondents to give their own answers. A good questionnaire is clear, well structured, concise, and free from leading questions.",
+    "tags": ["questionnaire", "data-collection"]
+  },
+  {
+    "id": "sn-ssc202-methods-observation",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Observation Method",
+    "title": "Observation Method",
+    "content": "Observation uses the senses to record behaviour or events. Controlled observation uses predetermined rules and procedures. Participant observation involves an active role by the observer, while non-participant observation keeps the observer passive and uninvolved.",
+    "tags": ["observation", "data-collection"]
+  },
+  {
+    "id": "sn-ssc202-methods-types",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Types of Research",
+    "title": "Field and Laboratory Research",
+    "content": "Field research is conducted in the true context of the behaviour under study. Laboratory research takes place in the more artificial and controlled setting of a laboratory.",
+    "tags": ["fieldwork", "laboratory"]
+  },
+  {
+    "id": "sn-ssc202-methods-other",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Other Research Methods",
+    "title": "Focus Groups and Other Methods",
+    "content": "A focus group is a research method in which selected participants take part in a focused discussion about a research issue. Other methods include ethnography, fieldwork, historical research, and secondary analysis.",
+    "tags": ["focus-group", "research-methods"]
+  },
+  {
+    "id": "sn-ssc202-methods-concepts",
+    "course": "SSC202",
+    "topic": "Methods and Research Techniques",
+    "sub_topic": "Research Concepts",
+    "title": "Replication and Triangulation",
+    "content": "Replication is the repetition of a study or experiment to check its accuracy or estimate experimental error. Triangulation uses multiple research methods to produce more reliable empirical data than one method used alone.",
+    "tags": ["replication", "triangulation"]
+  },
+  {
+    "id": "sn-ssc202-perspectives-positivism",
+    "course": "SSC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Positivism and Interpretive Method",
+    "title": "Positivism and Verstehen",
+    "content": "Positivism, associated with Auguste Comte, seeks objective facts and causes using procedures similar to the natural sciences. The interpretive method emphasizes subjective understanding; Max Weber called this interpretative understanding verstehen.",
+    "tags": ["positivism", "verstehen"]
+  },
+  {
+    "id": "sn-ssc202-perspectives-micro-macro",
+    "course": "SSC202",
+    "topic": "Methodological & Theoretical Perspectives",
+    "sub_topic": "Micro and Macro Sociology",
+    "title": "Micro and Macro Sociology",
+    "content": "Micro-sociology studies elementary social behaviour, interpersonal interaction, and small groups. Macro-sociology studies society as a whole and examines broad-scale structures and processes such as institutions, communities, and social change.",
+    "tags": ["micro-sociology", "macro-sociology"]
+  },
+  {
+    "id": "sn-ssc202-theories-functionalism",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Functionalism and Structural Functionalism",
+    "title": "Structural Functionalism",
+    "content": "Structural functionalism views society as a system made up of interrelated and interdependent parts. Stability, equilibrium, harmonious functioning, and shared values are central ideas in this perspective.",
+    "tags": ["functionalism", "social-theory"]
+  },
+  {
+    "id": "sn-ssc202-theories-conflict",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Conflict Theory",
+    "title": "Conflict Theory",
+    "content": "Conflict theory emphasizes change, dissensus, competition, and the unequal distribution of scarce resources. Power, wealth, and prestige are important resources over which groups compete.",
+    "tags": ["conflict-theory", "social-theory"]
+  },
+  {
+    "id": "sn-ssc202-theories-symbolic",
+    "course": "SSC202",
+    "topic": "Sociological Theories",
+    "sub_topic": "Symbolic Interactionism",
+    "title": "Symbolic Interactionism",
+    "content": "Symbolic interactionism focuses on individuals as social actors and gives importance to symbols and language. It examines how people define themselves, others, and their social situations through interaction.",
+    "tags": ["symbolic-interactionism", "social-theory"]
+  },
+  {
+    "id": "sn-ssc202-welfare-nature",
+    "course": "SSC202",
+    "topic": "Social Problems and Welfare",
+    "sub_topic": "Nature of Social Problems",
+    "title": "Nature of Social Problems",
+    "content": "A social problem is a condition that causes public friction or private misery and is regarded as undesirable by a substantial part of society. Social problems call for collective action, while sociological problems seek explanations of social phenomena.",
+    "tags": ["social-problems", "welfare"]
+  },
+  {
+    "id": "sn-ssc202-uses-value",
+    "course": "SSC202",
+    "topic": "Uses of Sociology & Careers",
+    "sub_topic": "Uses and Value of Sociology",
+    "title": "Scientific Value of Sociology",
+    "content": "The scientific study of Sociology helps replace ethnocentrism with appreciation of cultural diversity and heterogeneity. It also provides reliable facts and tested theory that can improve understanding and contribute to solving social problems.",
+    "tags": ["uses-of-sociology", "cultural-diversity"]
   }
 ]
