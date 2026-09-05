@@ -13129,8 +13129,8 @@
     "tags": ["generated", "percentages"]
   },
   {
-    "id": "ssc-202-142",
-    "course": "SSC202",
+    "id": "soc-202-245",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Research Methods",
     "question_text": "According to the supplied course material, methodology is primarily concerned with the",
@@ -13149,8 +13149,8 @@
     "tags": ["generated", "methodology"]
   },
   {
-    "id": "ssc-202-143",
-    "course": "SSC202",
+    "id": "soc-202-246",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Questionnaire Method",
     "question_text": "A questionnaire in which respondents choose from supplied alternative answers contains mainly",
@@ -13169,8 +13169,8 @@
     "tags": ["generated", "questionnaire"]
   },
   {
-    "id": "ssc-202-144",
-    "course": "SSC202",
+    "id": "soc-202-247",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Questionnaire Method",
     "question_text": "Which quality is essential when drafting a questionnaire?",
@@ -13189,8 +13189,8 @@
     "tags": ["generated", "questionnaire"]
   },
   {
-    "id": "ssc-202-145",
-    "course": "SSC202",
+    "id": "soc-202-248",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Observation Method",
     "question_text": "Observation is controlled when the issues to be observed are",
@@ -13209,8 +13209,8 @@
     "tags": ["generated", "observation"]
   },
   {
-    "id": "ssc-202-146",
-    "course": "SSC202",
+    "id": "soc-202-249",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Observation Method",
     "question_text": "An observer who takes an active role in the behaviour being studied is using",
@@ -13229,8 +13229,8 @@
     "tags": ["generated", "observation"]
   },
   {
-    "id": "ssc-202-147",
-    "course": "SSC202",
+    "id": "soc-202-250",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Types of Research",
     "question_text": "Research conducted in the true context of the behaviour under study is called",
@@ -13249,8 +13249,8 @@
     "tags": ["generated", "fieldwork"]
   },
   {
-    "id": "ssc-202-148",
-    "course": "SSC202",
+    "id": "soc-202-251",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Other Research Methods",
     "question_text": "A research method involving focused discussion among selected participants is called",
@@ -13269,8 +13269,8 @@
     "tags": ["generated", "focus-group"]
   },
   {
-    "id": "ssc-202-149",
-    "course": "SSC202",
+    "id": "soc-202-252",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Research Concepts",
     "question_text": "The repetition of a study or experiment to check its accuracy is known as",
@@ -13289,8 +13289,8 @@
     "tags": ["generated", "replication"]
   },
   {
-    "id": "ssc-202-150",
-    "course": "SSC202",
+    "id": "soc-202-253",
+    "course": "SOC202",
     "topic": "Methods and Research Techniques",
     "sub_topic": "Research Concepts",
     "question_text": "The use of multiple research methods to produce more reliable empirical data is called",
@@ -13309,8 +13309,8 @@
     "tags": ["generated", "triangulation"]
   },
   {
-    "id": "ssc-202-151",
-    "course": "SSC202",
+    "id": "soc-202-254",
+    "course": "SOC202",
     "topic": "Methodological & Theoretical Perspectives",
     "sub_topic": "Positivism and Interpretive Method",
     "question_text": "The sociological approach associated with Auguste Comte and the scientific method is",
@@ -13329,8 +13329,8 @@
     "tags": ["generated", "positivism"]
   },
   {
-    "id": "ssc-202-152",
-    "course": "SSC202",
+    "id": "soc-202-255",
+    "course": "SOC202",
     "topic": "Methodological & Theoretical Perspectives",
     "sub_topic": "Positivism and Interpretive Method",
     "question_text": "Max Weber used the term verstehen to refer to",
@@ -13349,8 +13349,8 @@
     "tags": ["generated", "verstehen"]
   },
   {
-    "id": "ssc-202-153",
-    "course": "SSC202",
+    "id": "soc-202-256",
+    "course": "SOC202",
     "topic": "Methodological & Theoretical Perspectives",
     "sub_topic": "Micro and Macro Sociology",
     "question_text": "The study of society as a whole and broad-scale social processes is called",
@@ -13369,8 +13369,8 @@
     "tags": ["generated", "macro-sociology"]
   },
   {
-    "id": "ssc-202-154",
-    "course": "SSC202",
+    "id": "soc-202-257",
+    "course": "SOC202",
     "topic": "Sociological Theories",
     "sub_topic": "Functionalism and Structural Functionalism",
     "question_text": "Structural functionalism views society primarily as",
@@ -13389,8 +13389,8 @@
     "tags": ["generated", "functionalism"]
   },
   {
-    "id": "ssc-202-155",
-    "course": "SSC202",
+    "id": "soc-202-258",
+    "course": "SOC202",
     "topic": "Sociological Theories",
     "sub_topic": "Conflict Theory",
     "question_text": "Conflict theorists emphasize competition for scarce resources such as",
@@ -13409,8 +13409,8 @@
     "tags": ["generated", "conflict-theory"]
   },
   {
-    "id": "ssc-202-156",
-    "course": "SSC202",
+    "id": "soc-202-259",
+    "course": "SOC202",
     "topic": "Sociological Theories",
     "sub_topic": "Symbolic Interactionism",
     "question_text": "Symbolic interactionism gives particular emphasis to",
@@ -13429,8 +13429,8 @@
     "tags": ["generated", "symbolic-interactionism"]
   },
   {
-    "id": "ssc-202-157",
-    "course": "SSC202",
+    "id": "soc-202-260",
+    "course": "SOC202",
     "topic": "Social Problems and Welfare",
     "sub_topic": "Nature of Social Problems",
     "question_text": "A social problem is a condition that causes public friction or private misery and calls for",
@@ -13449,8 +13449,8 @@
     "tags": ["generated", "social-problems"]
   },
   {
-    "id": "ssc-202-158",
-    "course": "SSC202",
+    "id": "soc-202-261",
+    "course": "SOC202",
     "topic": "Uses of Sociology & Careers",
     "sub_topic": "Uses and Value of Sociology",
     "question_text": "One scientific value of studying Sociology is that it helps replace ethnocentrism with an appreciation of",
